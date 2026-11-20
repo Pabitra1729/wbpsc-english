@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mock Tests · WBPSC Clerkship English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/components.css">
+  <script>
+    try {
+      document.documentElement.dataset.theme = JSON.parse(localStorage.getItem("wbpsc-theme") || '"light"');
+    } catch(e) {
+      document.documentElement.dataset.theme = "light";
+    }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+  <main id="main" class="page">
+    <header class="page-header">
+      <p class="eyebrow">Exam Simulation</p>
+      <h1>Mock Tests & Timed Practice</h1>
+      <p id="config-note">Timed mock tests with question palette, negative marking, and automated performance diagnosis.</p>
+    </header>
+    <section id="test-categories" class="chapter-list"></section>
+  </main>
+  <script src="js/storage.js"></script>
+  <script src="js/bookmarks.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    fetch("data/test-config.json").then(r => r.json()).then(config => {
+      if (config.negativeMarkingNote) {
+        document.querySelector("#config-note").textContent = `${config.negativeMarkingNote} Negative marking: ${config.negativeMarking} per wrong answer.`;
+      }
+      const tests = [
+        ["pyq-2023-s1", "2023 Official Exam Paper (Shift 1)", "Authentic 30 English questions from WBPSC Clerkship 2023 Session-I with official marking (+1, -0.25)", "test.html?type=pyq-2023-s1&count=30"],
+        ["pyq-2019-s1", "2019 Official Exam Paper (Shift 1)", "Authentic 30 English questions from WBPSC Clerkship 2019 Shift 1 with official marking (+1, -0.25)", "test.html?type=pyq-2019-s1&count=30"],
+        ["pyq-2019-s2", "2019 Official Exam Paper (Shift 2)", "Authentic 30 English questions from WBPSC Clerkship 2019 Shift 2 with official marking (+1, -0.25)", "test.html?type=pyq-2019-s2&count=30"],
+        ["full-mock", "Full English Mock Test (Part-I)", `30 questions, 30 minutes, official WBPSC marking scheme`, `test.html?type=mixed&count=${config.defaultQuestionCount}`],
+        ["grammar-mock", "Grammar Special Mock", "Curated test across all 23 grammar topics", "test.html?type=grammar&count=25"],
+        ["vocab-mock", "Vocabulary Special Mock", "Synonyms, antonyms, idioms, phrasal verbs, and OWS", "test.html?type=vocabulary&count=20"],
+        ["daily-challenge", "Daily 10-Question Challenge", `${config.dailyQuestionCount} quick questions to maintain your study streak`, "test.html?type=daily"],
+        ["weekly-mock", "Weekly Full Review Test", `${config.weeklyQuestionCount} comprehensive questions`, "test.html?type=weekly"],
+        ["weak-topic", "Weak-Topic Diagnostic Test", "Personalized test dynamically targeting questions you struggled with", "test.html?type=weak-topic"],
+        ["chapter-test", "Chapter-Wise Tests", "Test your mastery of any specific grammar or vocabulary topic", "grammar.html"],
+        ["previous-year", "Previous Year Papers Archive", "Verified official past papers repository with full 100-question paper view", "pyq.html"]
+      ];
+      document.querySelector("#test-categories").innerHTML = tests.map(([key, title, description, href]) => `
+        <article class="chapter-card card">
+          <div class="chapter-card-main">
+            <div class="chapter-badge-row">
+              <span class="chapter-order-pill">${key.replace("-", " ")}</span>
+              <span class="badge badge-neutral">Timed Mode</span>
+            </div>
+            <h2>${title}</h2>
+            <p>${description}</p>
+          </div>
+          <div class="chapter-card-actions">
+            <a class="btn primary" href="${href}">
+              ${href.includes("html?") ? "⏱️ Start Test" : "Explore →"}
+            </a>
+          </div>
+        </article>
+      `).join("");
+    }).catch(() => {
+      document.querySelector("#test-categories").innerHTML = '<p class="notice">Could not load test configuration.</p>';
+    });
+  </script>
+</body>
+</html>

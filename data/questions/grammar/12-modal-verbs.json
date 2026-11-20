@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g12-001",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: She ___ swim.",
+    "options": [
+      "can",
+      "to can",
+      "cans",
+      "coulds"
+    ],
+    "answer": 0,
+    "explanation": "Can expresses ability and takes a bare infinitive.",
+    "rule": "Modal + base verb",
+    "bengaliHint": "ability."
+  },
+  {
+    "id": "g12-002",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: ___ you please help me?",
+    "options": [
+      "Could",
+      "Coulds",
+      "To could",
+      "Coulded"
+    ],
+    "answer": 0,
+    "explanation": "Could makes a polite request.",
+    "rule": "Polite modal",
+    "bengaliHint": "vinomro request."
+  },
+  {
+    "id": "g12-003",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: It ___ rain tonight.",
+    "options": [
+      "must",
+      "may",
+      "shoulds",
+      "need toing"
+    ],
+    "answer": 1,
+    "explanation": "May expresses possibility.",
+    "rule": "Modal for possibility",
+    "bengaliHint": "হতে পারে—may."
+  },
+  {
+    "id": "g12-004",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which sentence is correct?",
+    "options": [
+      "You must to go.",
+      "You must goes.",
+      "You must go.",
+      "You must going."
+    ],
+    "answer": 2,
+    "explanation": "A modal is followed by the base verb without to.",
+    "rule": "Bare infinitive",
+    "bengaliHint": "must go."
+  },
+  {
+    "id": "g12-005",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: 'Must not' means ___.",
+    "options": [
+      "not necessary",
+      "prohibited",
+      "not able",
+      "not likely"
+    ],
+    "answer": 1,
+    "explanation": "Must not expresses prohibition.",
+    "rule": "Modal meaning",
+    "bengaliHint": "নিষেধ বোঝায়."
+  },
+  {
+    "id": "g12-006",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the strongest obligation.",
+    "options": [
+      "might",
+      "could",
+      "should",
+      "must"
+    ],
+    "answer": 3,
+    "explanation": "Must expresses strong necessity or obligation.",
+    "rule": "Degree of obligation",
+    "bengaliHint": "সবচেয়ে শক্ত obligation."
+  },
+  {
+    "id": "g12-007",
+    "chapter": "g12",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "We ___ respect our elders and national heritage.",
+    "options": [
+      "ought to",
+      "might",
+      "could",
+      "would"
+    ],
+    "answer": 0,
+    "explanation": "'Ought to' expresses moral duty, ethical obligation, or desirable conduct.",
+    "rule": "Moral obligation: ought to",
+    "bengaliHint": "নৈতিক কর্তব্য বা সামাজিক দায়িত্ব বোঝাতে 'ought to' বসে।"
+  },
+  {
+    "id": "g12-008",
+    "chapter": "g12",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Take an umbrella with you; it ___ rain this afternoon.",
+    "options": [
+      "must",
+      "might",
+      "shall",
+      "ought"
+    ],
+    "answer": 1,
+    "explanation": "'Might' expresses a remote, weaker possibility of a future event occurring.",
+    "rule": "Remote possibility: might",
+    "bengaliHint": "দুর্বল বা ক্ষীণ সম্ভাবনা বোঝাতে 'might' বসে।"
+  },
+  {
+    "id": "g12-009",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which modal expresses a strong deduction/certainty: 'The lights are on; he ___ be in his room.'",
+    "options": [
+      "must",
+      "can",
+      "may",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Must' is used for strong logical deduction or near certainty based on evidence.",
+    "rule": "Logical deduction / certainty: must",
+    "bengaliHint": "প্রমাণের ভিত্তিতে দৃঢ় অনুমান বা নিশ্চিত ধারণা বোঝাতে 'must' বসে।"
+  },
+  {
+    "id": "g12-010",
+    "chapter": "g12",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "You ___ worried about the keys; I had a duplicate in my pocket.",
+    "options": [
+      "need not have",
+      "must not have",
+      "should not",
+      "could not"
+    ],
+    "answer": 0,
+    "explanation": "'Need not have + V3' denotes an action that was performed unnecessarily in the past.",
+    "rule": "Unnecessary past action: need not have + V3",
+    "bengaliHint": "অতীতের অযথা দুশ্চিন্তা বা অনাবশ্যক কাজ বোঝাতে 'need not have' বসে।"
+  },
+  {
+    "id": "g12-011",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the modal for polite request: '___ you please lend me your fountain pen?'",
+    "options": [
+      "Should",
+      "Could",
+      "Must",
+      "Shall"
+    ],
+    "answer": 1,
+    "explanation": "'Could' (or 'Would') expresses a courteous, polite request in formal English.",
+    "rule": "Polite request: Could / Would",
+    "bengaliHint": "ভদ্র ও মার্জিত অনুরোধের ক্ষেত্রে 'Could' বসে।"
+  },
+  {
+    "id": "g12-012",
+    "chapter": "g12",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "When I was young, I ___ swim across this swift river easily.",
+    "options": [
+      "could",
+      "can",
+      "may",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Could' is the past tense of 'can', denoting general past physical ability.",
+    "rule": "Past ability: could",
+    "bengaliHint": "অতীতের দৈহিক সামর্থ্য বোঝাতে 'could' বসে।"
+  },
+  {
+    "id": "g12-013",
+    "chapter": "g12",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'He dare not to oppose his superior.'",
+    "options": [
+      "He dare not oppose his superior.",
+      "He dares not to oppose his superior.",
+      "He dare to not oppose his superior.",
+      "He dared not to oppose his superior."
+    ],
+    "answer": 0,
+    "explanation": "When 'dare' is used as a modal auxiliary with 'not', it takes a bare infinitive (without 'to') and does not take third-person -s.",
+    "rule": "Modal 'dare not' takes bare infinitive (no 'to')",
+    "bengaliHint": "Modal হিসেবে 'dare not'-এর পর 'to' বসে না।"
+  },
+  {
+    "id": "g12-014",
+    "chapter": "g12",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If you had studied consistently, you ___ cleared the preliminary exam.",
+    "options": [
+      "would have",
+      "will have",
+      "would",
+      "could"
+    ],
+    "answer": 0,
+    "explanation": "Third conditional formula: 'If + past perfect (had studied), ... would have + past participle (cleared)'.",
+    "rule": "Third conditional: If + had V3 -> would have V3",
+    "bengaliHint": "'If + had studied' থাকলে পরের অংশে 'would have cleared' বসে।"
+  },
+  {
+    "id": "g12-015",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which modal verb indicates prohibition?",
+    "options": [
+      "May",
+      "Must not",
+      "Can",
+      "Ought"
+    ],
+    "answer": 1,
+    "explanation": "'Must not' expresses clear, non-negotiable prohibition or illegality.",
+    "rule": "Prohibition: must not",
+    "bengaliHint": "কঠোর নিষেধাজ্ঞা বোঝাতে 'must not' বসে।"
+  },
+  {
+    "id": "g12-016",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Citizens ___ obey the traffic laws of the state.",
+    "options": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "answer": 0,
+    "explanation": "'Must' denotes legal compulsion and imperative duty.",
+    "rule": "Compulsion: must",
+    "bengaliHint": "আইন মানার বাধ্যবাধকতা বোঝাতে 'must' বসে।"
+  },
+  {
+    "id": "g12-017",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You ___ carry an umbrella; the weather forecast predicts sunshine.",
+    "options": [
+      "need not",
+      "must not",
+      "cannot",
+      "ought not"
+    ],
+    "answer": 0,
+    "explanation": "'Need not' denotes absence of obligation or necessity.",
+    "rule": "Absence of obligation: need not",
+    "bengaliHint": "প্রয়োজন নেই বোঝাতে 'need not' বসে।"
+  },
+  {
+    "id": "g12-018",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ God bless you with prosperity!",
+    "options": [
+      "May",
+      "Can",
+      "Must",
+      "Might"
+    ],
+    "answer": 0,
+    "explanation": "Optative wishes and blessings are introduced by 'May'.",
+    "rule": "Optative blessing: May",
+    "bengaliHint": "প্রার্থনা বা আশীর্বাদে 'May' বসে।"
+  },
+  {
+    "id": "g12-019",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "We ___ to help the flood victims in our district.",
+    "options": [
+      "ought",
+      "should",
+      "must",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Ought' is followed by 'to' to denote moral duty.",
+    "rule": "Moral duty: ought to",
+    "bengaliHint": "'To' থাকায় 'ought' বসবে।"
+  },
+  {
+    "id": "g12-020",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He ___ swim across the English Channel when he was thirty.",
+    "options": [
+      "could",
+      "can",
+      "may",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Could' denotes physical capability in the past.",
+    "rule": "Past ability: could",
+    "bengaliHint": "অতীতের সামর্থ্য বোঝাতে 'could' বসে।"
+  },
+  {
+    "id": "g12-021",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I ___ rather starve than beg.",
+    "options": [
+      "would",
+      "should",
+      "could",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Would rather... than' expresses a clear preference.",
+    "rule": "Preference: would rather",
+    "bengaliHint": "পছন্দ প্রকাশে 'would rather' বসে।"
+  },
+  {
+    "id": "g12-022",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "You ___ have informed the police immediately after the theft.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "'Should have + V3' expresses an unfulfilled past obligation.",
+    "rule": "Unfulfilled past duty: should have + V3",
+    "bengaliHint": "অতীতের উচিত ছিল এমন কর্তব্যে 'should have' বসে।"
+  },
+  {
+    "id": "g12-023",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The train ___ be arriving at platform three in five minutes.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Should' is used to express reasonable expectation/likelihood.",
+    "rule": "Reasonable expectation: should",
+    "bengaliHint": "যুক্তিসঙ্গত প্রত্যাশায় 'should' বসে।"
+  },
+  {
+    "id": "g12-024",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "How ___ you speak so rudely to an elder?",
+    "options": [
+      "dare",
+      "need",
+      "must",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "'How dare you' expresses righteous indignation or challenge.",
+    "rule": "Idiomatic challenge: How dare you",
+    "bengaliHint": "স্পর্ধা প্রকাশের ক্ষেত্রে 'dare' বসে।"
+  },
+  {
+    "id": "g12-025",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "You ___ not enter without an official pass.",
+    "options": [
+      "must",
+      "need",
+      "may",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Must not' expresses strict negative prohibition.",
+    "rule": "Prohibition: must not",
+    "bengaliHint": "কড়া নিষেধাজ্ঞায় 'must not' বসে।"
+  },
+  {
+    "id": "g12-026",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Citizens ___ obey the traffic laws of the state.",
+    "options": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "answer": 0,
+    "explanation": "'Must' denotes legal compulsion and imperative duty.",
+    "rule": "Compulsion: must",
+    "bengaliHint": "আইন মানার বাধ্যবাধকতা বোঝাতে 'must' বসে।"
+  },
+  {
+    "id": "g12-027",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You ___ carry an umbrella; the weather forecast predicts sunshine.",
+    "options": [
+      "need not",
+      "must not",
+      "cannot",
+      "ought not"
+    ],
+    "answer": 0,
+    "explanation": "'Need not' denotes absence of obligation or necessity.",
+    "rule": "Absence of obligation: need not",
+    "bengaliHint": "প্রয়োজন নেই বোঝাতে 'need not' বসে।"
+  },
+  {
+    "id": "g12-028",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ God bless you with prosperity!",
+    "options": [
+      "May",
+      "Can",
+      "Must",
+      "Might"
+    ],
+    "answer": 0,
+    "explanation": "Optative wishes and blessings are introduced by 'May'.",
+    "rule": "Optative blessing: May",
+    "bengaliHint": "প্রার্থনা বা আশীর্বাদে 'May' বসে।"
+  },
+  {
+    "id": "g12-029",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "We ___ to help the flood victims in our district.",
+    "options": [
+      "ought",
+      "should",
+      "must",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Ought' is followed by 'to' to denote moral duty.",
+    "rule": "Moral duty: ought to",
+    "bengaliHint": "'To' থাকায় 'ought' বসবে।"
+  },
+  {
+    "id": "g12-030",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He ___ swim across the English Channel when he was thirty.",
+    "options": [
+      "could",
+      "can",
+      "may",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Could' denotes physical capability in the past.",
+    "rule": "Past ability: could",
+    "bengaliHint": "অতীতের সামর্থ্য বোঝাতে 'could' বসে।"
+  },
+  {
+    "id": "g12-031",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I ___ rather starve than beg.",
+    "options": [
+      "would",
+      "should",
+      "could",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Would rather... than' expresses a clear preference.",
+    "rule": "Preference: would rather",
+    "bengaliHint": "পছন্দ প্রকাশে 'would rather' বসে।"
+  },
+  {
+    "id": "g12-032",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "You ___ have informed the police immediately after the theft.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "'Should have + V3' expresses an unfulfilled past obligation.",
+    "rule": "Unfulfilled past duty: should have + V3",
+    "bengaliHint": "অতীতের উচিত ছিল এমন কর্তব্যে 'should have' বসে।"
+  },
+  {
+    "id": "g12-033",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The train ___ be arriving at platform three in five minutes.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Should' is used to express reasonable expectation/likelihood.",
+    "rule": "Reasonable expectation: should",
+    "bengaliHint": "যুক্তিসঙ্গত প্রত্যাশায় 'should' বসে।"
+  },
+  {
+    "id": "g12-034",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "How ___ you speak so rudely to an elder?",
+    "options": [
+      "dare",
+      "need",
+      "must",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "'How dare you' expresses righteous indignation or challenge.",
+    "rule": "Idiomatic challenge: How dare you",
+    "bengaliHint": "স্পর্ধা প্রকাশের ক্ষেত্রে 'dare' বসে।"
+  },
+  {
+    "id": "g12-035",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You ___ not enter without an official pass.",
+    "options": [
+      "must",
+      "need",
+      "may",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Must not' expresses strict negative prohibition.",
+    "rule": "Prohibition: must not",
+    "bengaliHint": "কড়া নিষেধাজ্ঞায় 'must not' বসে।"
+  },
+  {
+    "id": "g12-036",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Citizens ___ obey the traffic laws of the state.",
+    "options": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "answer": 0,
+    "explanation": "'Must' denotes legal compulsion and imperative duty.",
+    "rule": "Compulsion: must",
+    "bengaliHint": "আইন মানার বাধ্যবাধকতা বোঝাতে 'must' বসে।"
+  },
+  {
+    "id": "g12-037",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "You ___ carry an umbrella; the weather forecast predicts sunshine.",
+    "options": [
+      "need not",
+      "must not",
+      "cannot",
+      "ought not"
+    ],
+    "answer": 0,
+    "explanation": "'Need not' denotes absence of obligation or necessity.",
+    "rule": "Absence of obligation: need not",
+    "bengaliHint": "প্রয়োজন নেই বোঝাতে 'need not' বসে।"
+  },
+  {
+    "id": "g12-038",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ God bless you with prosperity!",
+    "options": [
+      "May",
+      "Can",
+      "Must",
+      "Might"
+    ],
+    "answer": 0,
+    "explanation": "Optative wishes and blessings are introduced by 'May'.",
+    "rule": "Optative blessing: May",
+    "bengaliHint": "প্রার্থনা বা আশীর্বাদে 'May' বসে।"
+  },
+  {
+    "id": "g12-039",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "We ___ to help the flood victims in our district.",
+    "options": [
+      "ought",
+      "should",
+      "must",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Ought' is followed by 'to' to denote moral duty.",
+    "rule": "Moral duty: ought to",
+    "bengaliHint": "'To' থাকায় 'ought' বসবে।"
+  },
+  {
+    "id": "g12-040",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He ___ swim across the English Channel when he was thirty.",
+    "options": [
+      "could",
+      "can",
+      "may",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Could' denotes physical capability in the past.",
+    "rule": "Past ability: could",
+    "bengaliHint": "অতীতের সামর্থ্য বোঝাতে 'could' বসে।"
+  },
+  {
+    "id": "g12-041",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I ___ rather starve than beg.",
+    "options": [
+      "would",
+      "should",
+      "could",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Would rather... than' expresses a clear preference.",
+    "rule": "Preference: would rather",
+    "bengaliHint": "পছন্দ প্রকাশে 'would rather' বসে।"
+  },
+  {
+    "id": "g12-042",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "You ___ have informed the police immediately after the theft.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "'Should have + V3' expresses an unfulfilled past obligation.",
+    "rule": "Unfulfilled past duty: should have + V3",
+    "bengaliHint": "অতীতের উচিত ছিল এমন কর্তব্যে 'should have' বসে।"
+  },
+  {
+    "id": "g12-043",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The train ___ be arriving at platform three in five minutes.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Should' is used to express reasonable expectation/likelihood.",
+    "rule": "Reasonable expectation: should",
+    "bengaliHint": "যুক্তিসঙ্গত প্রত্যাশায় 'should' বসে।"
+  },
+  {
+    "id": "g12-044",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "How ___ you speak so rudely to an elder?",
+    "options": [
+      "dare",
+      "need",
+      "must",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "'How dare you' expresses righteous indignation or challenge.",
+    "rule": "Idiomatic challenge: How dare you",
+    "bengaliHint": "স্পর্ধা প্রকাশের ক্ষেত্রে 'dare' বসে।"
+  },
+  {
+    "id": "g12-045",
+    "chapter": "g12",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You ___ not enter without an official pass.",
+    "options": [
+      "must",
+      "need",
+      "may",
+      "ought"
+    ],
+    "answer": 0,
+    "explanation": "'Must not' expresses strict negative prohibition.",
+    "rule": "Prohibition: must not",
+    "bengaliHint": "কড়া নিষেধাজ্ঞায় 'must not' বসে।"
+  }
+]

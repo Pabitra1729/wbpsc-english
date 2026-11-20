@@ -1,0 +1,252 @@
+{
+  "id": "v07",
+  "title": "Confusing Words & Usage Distinctions",
+  "intro": "Confusing words are pairs or triplets of words that look or sound similar but differ crucially in meaning, spelling, or grammatical part of speech. In the WBPSC Clerkship examination, candidates lose marks when mixing up noun/verb pairs (advice vs advise, practice vs practise), words with identical roots (affect vs effect), or words that differ by a single vowel (elicit vs illicit).",
+  "bengali": "Confusing Words (বিভ্রান্তিকর শব্দযুগল): ইংরেজি ভাষায় এমন অনেক শব্দ আছে যাদের উচ্চারণ বা বানান প্রায় একরকম হলেও তাদের অর্থ ও ব্যাকরণগত ব্যবহার সম্পূর্ণ ভিন্ন।\n\nWBPSC Clerkship পরীক্ষায় সবচেয়ে বেশি আসা বিভ্রান্তিকর জোড়াগুলো:\n১. Noun বনাম Verb জোড়া (C বনাম S):\n   - Advice (Noun - উপদেশ) বনাম Advise (Verb - উপদেশ দেওয়া)। যেমন: 'He gave me sound advice' বনাম 'He advised me to study'.\n   - Practice (Noun - অনুশীলন) বনাম Practise (Verb - অনুশীলন করা)। যেমন: 'Practice makes a man perfect' বনাম 'You should practise daily'.\n২. Affect বনাম Effect:\n   - Affect (সাধারণত Verb - প্রভাবিত করা): 'The climate change affected the crops.'\n   - Effect (সাধারণত Noun - ফলাফল/প্রভাব): 'The medicine had an immediate effect.'\n৩. Principal বনাম Principle:\n   - Principal: কলেজের অধ্যক্ষ (Noun) বা প্রধান/মূল (Adjective)। যেমন: 'The college Principal addressed the students', 'The principal reason'.\n   - Principle: নৈতিক নীতি বা বৈজ্ঞানিক নিয়ম (Noun)। যেমন: 'He is a man of high principles.'\n৪. Compliment বনাম Complement:\n   - Compliment: প্রশংসা বা শুভকামনা (Noun/Verb)। যেমন: 'He paid her a compliment on her presentation.'\n   - Complement: যা অন্য কিছুকে সম্পূর্ণ বা পরিপূরক করে (Noun/Verb)। যেমন: 'Rice and fish complement each other.'\n৫. Stationary বনাম Stationery:\n   - Stationary (শেষে ARY): স্থির বা অচঞ্চল (যেমন: 'The train was stationary').\n   - Stationery (শেষে ERY): লেখার সরঞ্জাম—কাগজ, কলম, পেন্সিল ইত্যাদি (যেমন: 'She bought pens from the stationery shop').",
+  "rules": [
+    {
+      "rule": "NOUN VS VERB DISTINCTION (Advice/Advise, Practice/Practise, License/Licence): Words ending in '-ce' are NOUNS; words ending in '-se' are VERBS in British/Indian English.",
+      "examples": [
+        "Advice (Noun): His advice was invaluable to the junior clerk.",
+        "Advise (Verb): The magistrate advised the officers to maintain law and order.",
+        "Practice (Noun): Constant practice leads to mastery.",
+        "Practise (Verb): Candidates must practise typing daily."
+      ],
+      "exceptions": [
+        "In American English, 'practice' is used for both noun and verb, but WBPSC strictly follows standard British English conventions (-ce = noun, -se = verb)."
+      ]
+    },
+    {
+      "rule": "AFFECT (Verb) VS EFFECT (Noun): 'Affect' is an action meaning to influence or alter; 'Effect' is a noun denoting the end result or impact.",
+      "examples": [
+        "Affect (Verb): Severe floods affected the agricultural yield in southern Bengal.",
+        "Effect (Noun): The new taxation policy produced an immediate positive effect on revenue.",
+        "Special Verb Effect: 'To effect changes' means to bring about or execute changes: 'The director effected major administrative reforms'."
+      ],
+      "exceptions": [
+        "Mnemonic: A is for Action (Affect = Verb); E is for End-result (Effect = Noun)."
+      ]
+    },
+    {
+      "rule": "PRINCIPAL (Head / Chief) VS PRINCIPLE (Moral Rule / Truth): 'Principal' has an 'a' like Headmaster; 'Principle' ends in '-ple' like Rule.",
+      "examples": [
+        "Principal: The college Principal reviewed the attendance registers (Head of institution).",
+        "Principal: The principal export of this district is jute (Chief / Primary).",
+        "Principle: Netaji was a patriot of steadfast moral principles (Guiding ethical doctrine)."
+      ],
+      "exceptions": [
+        "Never address an institutional head as 'Principle'."
+      ]
+    },
+    {
+      "rule": "COMPLIMENT (Praise) VS COMPLEMENT (Completion): 'Compliment' with an 'I' means praise ('I like your work'); 'Complement' with an 'E' completes.",
+      "examples": [
+        "Compliment: He paid her a polite compliment on her speech (Praise / Adulation).",
+        "Complement: The descriptive English module complements the objective grammar paper (Completes / Supplements)."
+      ],
+      "exceptions": [
+        "With 'Compliments' means with kind regards / best wishes."
+      ]
+    },
+    {
+      "rule": "STATIONARY (Motionless) VS STATIONERY (Paper / Pen / Books): 'Stationery' with an 'E' sells Envelopes and Erasers; 'Stationary' with an 'A' stands At rest.",
+      "examples": [
+        "Stationary: The bus remained stationary at the traffic intersection (Not moving).",
+        "Stationery: The department purchased paper and files from the stationery depot."
+      ],
+      "exceptions": [
+        "Remember: Station-ER-y with an 'E' for Envelope, Eraser, and Exam."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'He gave me an advise' instead of 'He gave me advice' (advise is a verb).",
+    "Writing 'The weather effected my health' instead of 'affected my health' (influence is affect).",
+    "Writing 'The principle of the school' instead of 'The principal of the school' (school head is principal).",
+    "Writing 'She bought pens from the stationary shop' instead of 'stationery shop' (paper goods is stationery).",
+    "Writing 'His words illicit no response' instead of 'elicit no response' (elicit = draw out; illicit = illegal)."
+  ],
+  "examTricks": [
+    "The C vs S Rule: Devi-CE (Noun), Devi-SE (Verb); Practi-CE (Noun), Practi-SE (Verb).",
+    "The Stationery 'E': Station-E-ry = Envelopes and Erasers.",
+    "The Principal 'A': The Principal is your PAL (A). The Principle is a RULE (E).",
+    "The Affect 'A': AFFECT = Action (Verb)."
+  ],
+  "memoryTricks": [
+    "A-ffect is an A-ction (Verb).",
+    "Station-E-ry sells E-nvelopes."
+  ],
+  "revision": [
+    "Advice = Noun; Advise = Verb.",
+    "Practice = Noun; Practise = Verb.",
+    "Affect = Verb (influence); Effect = Noun (result).",
+    "Principal = Chief/Head; Principle = Rule.",
+    "Compliment = Praise; Complement = Enhances/Completes.",
+    "Stationary = Motionless; Stationery = Writing materials.",
+    "Elicit = Draw out; Illicit = Illegal.",
+    "Historic = Memorable/Famous; Historical = Pertaining to history."
+  ],
+  "bookletTitle": "WBPSC Clerkship Confusing Words & Distinctions Directory",
+  "bookletList": [
+    {
+      "term": "ascent",
+      "meaning": "The ascent of the peak took five hours.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "assent",
+      "meaning": "He gave his assent to the proposal.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "bear",
+      "meaning": "He could not bear the heavy load.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "blew",
+      "meaning": "The wind blew the papers away.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "bored",
+      "meaning": "The lecture was so dull that he felt bored.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "compliment",
+      "meaning": "He paid her a compliment on her dress.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "council",
+      "meaning": "The city council meets every Monday.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "counsel",
+      "meaning": "The lawyer gave sound legal counsel.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "dissent",
+      "meaning": "There was strong dissent against the ruling.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "effect",
+      "meaning": "The medicine had a bad effect on him.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "flour",
+      "meaning": "Mother bought a kilo of flour.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "hair",
+      "meaning": "She has long black hair.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "heard",
+      "meaning": "I heard a strange noise last night.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "heir",
+      "meaning": "The prince is the heir to the throne.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "herd",
+      "meaning": "A herd of cattle crossed the road.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "illicit",
+      "meaning": "He was arrested for the illicit trade in drugs.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "knew",
+      "meaning": "I knew the answer already.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "mail",
+      "meaning": "The postman delivered a mail.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "piece",
+      "meaning": "May I have a piece of cake?",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "principal",
+      "meaning": "The principal of the college addressed the students.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "rain",
+      "meaning": "It began to rain heavily at noon.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "reign",
+      "meaning": "The king's reign lasted forty years.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "rein",
+      "meaning": "He pulled the rein to stop the horse.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "route",
+      "meaning": "The bus route was changed last month.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "sight",
+      "meaning": "The sight of the accident was horrifying.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "son",
+      "meaning": "He is the only son of the family.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "stationery",
+      "meaning": "She bought pens and paper from the stationery shop.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "sun",
+      "meaning": "The sun rises in the east.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "tail",
+      "meaning": "The dog wagged its tail.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "whether",
+      "meaning": "I do not know whether it will rain today.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "whole",
+      "meaning": "She ate the whole cake.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    },
+    {
+      "term": "wring",
+      "meaning": "Please wring the wet clothes before drying them.",
+      "bengali": "বিভ্রান্তিকর শব্দের সঠিক বাক্য প্রয়োগ"
+    }
+  ]
+}

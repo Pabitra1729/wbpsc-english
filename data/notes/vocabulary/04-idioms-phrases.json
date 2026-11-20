@@ -1,0 +1,1846 @@
+{
+  "id": "v04",
+  "title": "Idioms & Phrases",
+  "intro": "Idioms are fixed figurative expressions whose metaphorical meaning cannot be derived from the literal definitions of the individual words. WBPSC Clerkship tests common idioms rooted in colors, human anatomy, animal traits, and classic maritime expressions.",
+  "bengali": "Idioms & Phrases (বাগধারা) হলো এমন বিশিষ্টার্থক শব্দগুচ্ছ যার আক্ষরিক অর্থ ও ভাবার্থ সম্পূর্ণ আলাদা। যেমন: 'A bolt from the blue' আক্ষরিক অর্থে নীল আকাশ থেকে বজ্রপাত নয়, এর ভাবার্থ হলো 'বিনা মেঘে বজ্রপাত' বা আকস্মিক অপ্রত্যাশিত বিপদ। মুখস্থ করার কৌশল হলো প্রতিটি বাগধারার পেছনের মূল ভাব বা উৎস বোঝা। অপশনে যদি আক্ষরিক অর্থ (literal meaning) দেওয়া থাকে, তবে ৯৯% ক্ষেত্রে সেটি ভুল উত্তর।",
+  "rules": [
+    {
+      "rule": "The Literal Trap Rule: Never select an option that interprets the words of an idiom literally; idiomatic meaning is always metaphorical and figurative.",
+      "examples": [
+        "'Bite the bullet' does NOT mean biting ammunition; it means facing a grim situation courageously.",
+        "'Spill the beans' does NOT mean dropping vegetables; it means disclosing a confidential secret prematurely."
+      ],
+      "exceptions": [
+        "On rare occasions, the origin of an idiom is factual, but its application remains figurative."
+      ]
+    },
+    {
+      "rule": "Color-based Idioms and their conventional metaphorical associations in English.",
+      "examples": [
+        "'Once in a blue moon': Extremely rarely.",
+        "'Out of the blue': Unexpectedly, without warning.",
+        "'See red': Become violently angry.",
+        "'In the red': Operating at a financial loss.",
+        "'Red-letter day': A memorable, auspicious, or joyful day.",
+        "'White elephant': A burdensome, costly possession with no practical utility."
+      ],
+      "exceptions": [
+        "'White lie' means a harmless lie told to avoid hurting someone's feelings."
+      ]
+    },
+    {
+      "rule": "Anatomy / Body-part Idioms reflecting human emotions and behaviors.",
+      "examples": [
+        "'At arm's length': Keeping at a safe distance; avoiding excessive intimacy.",
+        "'Turn a deaf ear to': Refuse deliberately to listen or heed advice.",
+        "'See eye to eye': Agree entirely on an issue.",
+        "'Bone of contention': The root subject of a dispute.",
+        "'By the skin of one's teeth': Barely escaping disaster; by a narrow margin."
+      ],
+      "exceptions": [
+        "'Cry over spilt milk' means futile regret over past irrecoverable loss."
+      ]
+    },
+    {
+      "rule": "Animal and Nature Metaphors common in exam papers.",
+      "examples": [
+        "'Crocodile tears': Feigned, insincere sorrow.",
+        "'A dark horse': An unexpected winner whose abilities were unrevealed.",
+        "'Wild goose chase': A futile, foolish, and hopeless search.",
+        "'Smell a rat': Suspect foul play or deceit.",
+        "'At a snail's pace': Moving exceedingly slowly."
+      ],
+      "exceptions": [
+        "'Lion's share' means the largest and major portion of something."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Picking an option containing the literal objects mentioned in the idiom (e.g. selecting 'elephants' for 'white elephant').",
+    "Confusing 'Once in a blue moon' (rare) with 'Out of the blue' (sudden).",
+    "Confusing 'Break the ice' (initiate conversation) with 'Break a leg' (good luck).",
+    "Confusing 'Fair-weather friend' (a friend only in good times) with a true friend.",
+    "Misinterpreting 'Achilles' heel' as a strength instead of a vulnerable weak spot."
+  ],
+  "examTricks": [
+    "Literal Meaning Filter: Immediately cross out any option that talks about physical teeth, milk, bullets, or blue moons. Idioms NEVER mean what they literally say!",
+    "Contextual Tone: If a character 'turned a deaf ear', the action is negative (refused advice).",
+    "Frequent Exam Trio: 'White elephant' = costly useless possession; 'Red-letter day' = historic happy day; 'Dark horse' = unexpected competitor."
+  ],
+  "memoryTricks": [
+    "BLUE MOON = RARE; OUT OF BLUE = SUDDEN.",
+    "LION'S SHARE = The King takes the BIGGEST piece.",
+    "WHITE ELEPHANT = An elephant costs a lot to feed but does no work!"
+  ],
+  "revision": [
+    "Eliminate literal interpretations in all idiom questions.",
+    "White elephant = costly and useless possession.",
+    "Red-letter day = important/auspicious day.",
+    "Bolt from the blue = sudden unexpected calamity.",
+    "Achilles' heel = fatal weakness."
+  ],
+  "bookletTitle": "WBPSC Clerkship Official 352 Idioms & Phrases Directory",
+  "bookletType": "idioms",
+  "bookletList": [
+    {
+      "term": "Achilles' heel",
+      "meaning": "A person's weak point",
+      "bengali": "দুর্বল দিক"
+    },
+    {
+      "term": "Apple of one's eye",
+      "meaning": "A dearly loved person",
+      "bengali": "নয়নের মণি / অতি আদরের ব্যক্তি"
+    },
+    {
+      "term": "At loggerheads",
+      "meaning": "In strong disagreement",
+      "bengali": "তীব্র মতবিরোধে লিপ্ত"
+    },
+    {
+      "term": "At sixes and sevens",
+      "meaning": "In a state of confusion",
+      "bengali": "কিংকর্তব্যবিমূঢ় / দিশেহারা"
+    },
+    {
+      "term": "Bad blood",
+      "meaning": "Ill feeling between people",
+      "bengali": "পুনরায় প্রথম অবস্থায় ফিরে যাওয়া"
+    },
+    {
+      "term": "Beat about the bush",
+      "meaning": "Avoid coming to the point",
+      "bengali": "তিক্ত শত্রুতা"
+    },
+    {
+      "term": "Bell the cat",
+      "meaning": "Undertake a risky task on behalf of others",
+      "bengali": "কুসুমাস্তীর্ণ শয্যা / আরামদায়ক অবস্থা"
+    },
+    {
+      "term": "Between the devil and the deep sea",
+      "meaning": "In a dilemma with two bad choices",
+      "bengali": "ঘুরিয়ে ফিরিয়ে কথা বলা"
+    },
+    {
+      "term": "Bite the bullet",
+      "meaning": "Face a painful situation bravely",
+      "bengali": "কারারুদ্ধ / জেলে বন্দি"
+    },
+    {
+      "term": "A blessing in disguise",
+      "meaning": "Something that seems bad at first but turns out good",
+      "bengali": "অন্যায় আঘাত হানা"
+    },
+    {
+      "term": "Blow one's own trumpet",
+      "meaning": "Boast about oneself",
+      "bengali": "অপ্রিয় পরিস্থিতি মেনে নেওয়া"
+    },
+    {
+      "term": "A bolt from the blue",
+      "meaning": "A sudden, completely unexpected event",
+      "bengali": "নিজের ঢাক নিজে পেটানো"
+    },
+    {
+      "term": "Bread and butter",
+      "meaning": "One's livelihood",
+      "bengali": "বিবাদের মূল কারণ"
+    },
+    {
+      "term": "Break the ice",
+      "meaning": "Start a conversation in an awkward situation",
+      "bengali": "আড়ষ্টতা ভেঙে কথা শুরু করা"
+    },
+    {
+      "term": "Build castles in the air",
+      "meaning": "Indulge in daydreams",
+      "bengali": "রাত জেগে কঠোর পরিশ্রম করা"
+    },
+    {
+      "term": "Burn the midnight oil",
+      "meaning": "Work or study late into the night",
+      "bengali": "বিবাদ মিটিয়ে বন্ধুত্ব করা"
+    },
+    {
+      "term": "Bury the hatchet",
+      "meaning": "Make peace after a quarrel",
+      "bengali": "অনিয়মিতভাবে / মাঝে মাঝে"
+    },
+    {
+      "term": "By and large",
+      "meaning": "Generally; on the whole",
+      "bengali": "যে কোনো প্রকারে"
+    },
+    {
+      "term": "By leaps and bounds",
+      "meaning": "Very rapidly",
+      "bengali": "অত্যন্ত দ্রুতগতিতে"
+    },
+    {
+      "term": "Call it a day",
+      "meaning": "Stop working for the day",
+      "bengali": "স্পষ্ট ও অকপট কথা বলা"
+    },
+    {
+      "term": "Carry coals to Newcastle",
+      "meaning": "Do something unnecessary",
+      "bengali": "দিনের মতো কাজ শেষ করা"
+    },
+    {
+      "term": "Cock and bull story",
+      "meaning": "An unbelievable story",
+      "bengali": "হাতে-নাতে ধরা পড়া"
+    },
+    {
+      "term": "Cry over spilt milk",
+      "meaning": "Regret what cannot be undone",
+      "bengali": "পিতামাতার স্বভাবের মতো"
+    },
+    {
+      "term": "Cry wolf",
+      "meaning": "Raise a false alarm",
+      "bengali": "আজগুবি গাঁজাখুরি গল্প"
+    },
+    {
+      "term": "Cut a sorry figure",
+      "meaning": "Make a poor impression",
+      "bengali": "হঠাৎ সাহস হারিয়ে ফেলা"
+    },
+    {
+      "term": "Dark horse",
+      "meaning": "A person with unknown abilities who surprises everyone",
+      "bengali": "মায়াকান্না / কৃত্রিম কান্না"
+    },
+    {
+      "term": "A drop in the ocean",
+      "meaning": "A very small amount compared with what is needed",
+      "bengali": "অতীত ক্ষতি নিয়ে বৃথা অনুশোচনা"
+    },
+    {
+      "term": "Eat humble pie",
+      "meaning": "Apologise humbly",
+      "bengali": "মিথ্যা বিপদের ভয় দেখানো"
+    },
+    {
+      "term": "Face the music",
+      "meaning": "Accept the consequences or punishment",
+      "bengali": "নিজের পছন্দের বিষয়"
+    },
+    {
+      "term": "Fall flat",
+      "meaning": "Fail to produce the expected effect",
+      "bengali": "অপ্রত্যাশিত প্রতিভাবান ব্যক্তি"
+    },
+    {
+      "term": "Fish in troubled waters",
+      "meaning": "Take advantage of a confused situation",
+      "bengali": "মহাসমুদ্রে এক ফোঁটা জল / অতি সামান্য"
+    },
+    {
+      "term": "Flash in the pan",
+      "meaning": "A brief success that is not repeated",
+      "bengali": "সুসময়ের বন্ধু"
+    },
+    {
+      "term": "Fool's paradise",
+      "meaning": "A state of false happiness",
+      "bengali": "গৌরবের নতুন পালক"
+    },
+    {
+      "term": "From pillar to post",
+      "meaning": "From one place to another",
+      "bengali": "অস্বস্তিকর পরিস্থিতিতে পড়া"
+    },
+    {
+      "term": "Get cold feet",
+      "meaning": "Lose courage at the last moment",
+      "bengali": "হঠাৎ প্রচণ্ড রেগে যাওয়া"
+    },
+    {
+      "term": "Give up the ghost",
+      "meaning": "Die",
+      "bengali": "এক স্থান থেকে অন্য স্থানে ছোটাছুটি"
+    },
+    {
+      "term": "Go the extra mile",
+      "meaning": "Make an additional effort",
+      "bengali": "ভয় পাওয়া / দ্বিধান্বিত হওয়া"
+    },
+    {
+      "term": "Go to the dogs",
+      "meaning": "Be ruined",
+      "bengali": "সুন্দর কথা বলার সহজাত ক্ষমতা"
+    },
+    {
+      "term": "Hand in glove",
+      "meaning": "In close association",
+      "bengali": "সঠিক সময়ে একদম খাঁটি কথা বলা"
+    },
+    {
+      "term": "Hard and fast",
+      "meaning": "Fixed and strict",
+      "bengali": "অতি সংক্ষেপে"
+    },
+    {
+      "term": "Have an axe to grind",
+      "meaning": "Have a selfish motive",
+      "bengali": "অত্যন্ত উৎফুল্ল মেজাজে"
+    },
+    {
+      "term": "High and dry",
+      "meaning": "Stranded and helpless",
+      "bengali": "একেবারে শেষ মুহূর্তে"
+    },
+    {
+      "term": "Hit the nail on the head",
+      "meaning": "Say exactly the right thing",
+      "bengali": "এক ঢিলে দুই পাখি মারা"
+    },
+    {
+      "term": "Hold water",
+      "meaning": "Be logical and valid",
+      "bengali": "বিপদে ফেলে পালিয়ে যাওয়া"
+    },
+    {
+      "term": "A hot potato",
+      "meaning": "A controversial issue that is risky to handle",
+      "bengali": "গোপন তথ্য ফাঁস করে দেওয়া"
+    },
+    {
+      "term": "Hue and cry",
+      "meaning": "A loud public protest",
+      "bengali": "কোনোমতে দিন গুজরান করা"
+    },
+    {
+      "term": "In a nutshell",
+      "meaning": "In brief",
+      "bengali": "কদাচিৎ / ডুমুরের ফুল"
+    },
+    {
+      "term": "In hot water",
+      "meaning": "In trouble",
+      "bengali": "স্মরণীয় শুভ দিন"
+    },
+    {
+      "term": "Keep one's fingers crossed",
+      "meaning": "Hope for good luck",
+      "bengali": "গোপন কথা ফাঁস করা"
+    },
+    {
+      "term": "Keep the wolf from the door",
+      "meaning": "Avoid starvation",
+      "bengali": "সামান্য কারণে তুলকালাম কাণ্ড"
+    },
+    {
+      "term": "Kill two birds with one stone",
+      "meaning": "Achieve two aims with one effort",
+      "bengali": "সন্দেহের চোখে দেখা"
+    },
+    {
+      "term": "The last straw",
+      "meaning": "The final thing that makes a situation unbearable",
+      "bengali": "সুখে-দুঃখে সর্বাবস্থায়"
+    },
+    {
+      "term": "Leave no stone unturned",
+      "meaning": "Try every possible means",
+      "bengali": "কথা কানে না তোলা / অগ্রাহ্য করা"
+    },
+    {
+      "term": "Lend a hand",
+      "meaning": "Help",
+      "bengali": "অসুস্থ বা দুর্বল বোধ করা"
+    },
+    {
+      "term": "Let the cat out of the bag",
+      "meaning": "Reveal a secret",
+      "bengali": "পণ্ডশ্রম"
+    },
+    {
+      "term": "The lion's share",
+      "meaning": "The largest part",
+      "bengali": "চূড়ান্ত মাহেন্দ্রক্ষণ"
+    },
+    {
+      "term": "Make hay while the sun shines",
+      "meaning": "Use an opportunity while it lasts",
+      "bengali": "অপ্রত্যাশিত ভাগ্যলাভ"
+    },
+    {
+      "term": "Man of straw",
+      "meaning": "A person of no substance",
+      "bengali": "উপযুক্ত ব্যক্তি উপযুক্ত স্থানে"
+    },
+    {
+      "term": "Method in madness",
+      "meaning": "Order beneath apparent craziness",
+      "bengali": "একমত হওয়া"
+    },
+    {
+      "term": "Moot point",
+      "meaning": "A debatable question",
+      "bengali": "নাক গলানো / হস্তক্ষেপ করা"
+    },
+    {
+      "term": "Now and then",
+      "meaning": "Occasionally",
+      "bengali": "সহজসাধ্য কাজ / খুব সহজ"
+    },
+    {
+      "term": "Null and void",
+      "meaning": "Having no legal force",
+      "bengali": "সন্দেহজনক কিছু আঁচ করা"
+    },
+    {
+      "term": "Odds and ends",
+      "meaning": "Miscellaneous small items",
+      "bengali": "গোপন শত্রু"
+    },
+    {
+      "term": "Once in a blue moon",
+      "meaning": "Very rarely",
+      "bengali": "দ্বিধাদ্বন্দ্বে থাকা"
+    },
+    {
+      "term": "Out and out",
+      "meaning": "Completely",
+      "bengali": "অন্যের কৃতিত্ব চুরি করা"
+    },
+    {
+      "term": "Out of the blue",
+      "meaning": "Unexpectedly",
+      "bengali": "অনমনীয় থাকা"
+    },
+    {
+      "term": "Over the moon",
+      "meaning": "Extremely happy",
+      "bengali": "উত্তেজনাপূর্ণ চরম মুহূর্ত"
+    },
+    {
+      "term": "Part and parcel",
+      "meaning": "An essential part",
+      "bengali": "সুনাম রক্ষা করা"
+    },
+    {
+      "term": "Pay lip service",
+      "meaning": "Express support without acting on it",
+      "bengali": "বিপদের ঝুঁকি নেওয়া"
+    },
+    {
+      "term": "A piece of cake",
+      "meaning": "Something very easy",
+      "bengali": "অসম্ভব প্রত্যাশা করা"
+    },
+    {
+      "term": "Play second fiddle",
+      "meaning": "Take a subordinate role",
+      "bengali": "কঠোর শাসন করা"
+    },
+    {
+      "term": "Pour oil on troubled waters",
+      "meaning": "Calm a quarrel",
+      "bengali": "লজ্জায় লাল হওয়া"
+    },
+    {
+      "term": "Pull someone's leg",
+      "meaning": "Tease or joke with someone",
+      "bengali": "ব্যর্থতায় পর্যবসিত হওয়া"
+    },
+    {
+      "term": "Raining cats and dogs",
+      "meaning": "Raining very heavily",
+      "bengali": "উদ্বেগহীন শান্ত থাকা"
+    },
+    {
+      "term": "Rank and file",
+      "meaning": "Ordinary members of a group",
+      "bengali": "কৌতূহলবশত বিপদ ডেকে আনা"
+    },
+    {
+      "term": "Read between the lines",
+      "meaning": "Understand the hidden meaning",
+      "bengali": "অসম্ভব কোনো কিছু কল্পনা করা"
+    },
+    {
+      "term": "A red-letter day",
+      "meaning": "A memorable, joyful day",
+      "bengali": "সতর্ক দৃষ্টি রাখা"
+    },
+    {
+      "term": "Rest on one's laurels",
+      "meaning": "Be satisfied with past success",
+      "bengali": "ভুল পথে অনুসন্ধান চালানো"
+    },
+    {
+      "term": "Rise to the occasion",
+      "meaning": "Show the ability to handle a situation",
+      "bengali": "অতীত স্মৃতি রোমন্থন করা"
+    },
+    {
+      "term": "Rub shoulders with",
+      "meaning": "Mix with",
+      "bengali": "নিজের স্বার্থ উদ্ধার করা"
+    },
+    {
+      "term": "Run of the mill",
+      "meaning": "Ordinary",
+      "bengali": "আসল বিষয়ে আসা"
+    },
+    {
+      "term": "Safe and sound",
+      "meaning": "Unharmed",
+      "bengali": "সতর্কতা অবলম্বন করা"
+    },
+    {
+      "term": "See eye to eye",
+      "meaning": "Agree completely",
+      "bengali": "কষ্ট সহ্য করা"
+    },
+    {
+      "term": "Show the white feather",
+      "meaning": "Show cowardice",
+      "bengali": "অতি কষ্টে জীবনধারণ করা"
+    },
+    {
+      "term": "Smell a rat",
+      "meaning": "Suspect that something is wrong",
+      "bengali": "ধূমপানের মতো নিঃশেষ হওয়া"
+    },
+    {
+      "term": "Spick and span",
+      "meaning": "Clean and tidy",
+      "bengali": "কোনো সিদ্ধান্তের অপেক্ষায় থাকা"
+    },
+    {
+      "term": "Spill the beans",
+      "meaning": "Reveal a secret",
+      "bengali": "অন্যের কথায় প্রভাবিত হওয়া"
+    },
+    {
+      "term": "Split hairs",
+      "meaning": "Make petty distinctions",
+      "bengali": "বিপদে পাশে থাকা"
+    },
+    {
+      "term": "Stand on ceremony",
+      "meaning": "Behave in a formal way",
+      "bengali": "সমস্যা এড়িয়ে যাওয়া"
+    },
+    {
+      "term": "Take the bull by the horns",
+      "meaning": "Face a difficulty boldly",
+      "bengali": "অসম্ভব আশা ত্যাগ করা"
+    },
+    {
+      "term": "Take to heart",
+      "meaning": "Feel something deeply",
+      "bengali": "নিজের ভুলে ফেঁসে যাওয়া"
+    },
+    {
+      "term": "Throw in the towel",
+      "meaning": "Give up",
+      "bengali": "হাল ছেড়ে দেওয়া"
+    },
+    {
+      "term": "Time and again",
+      "meaning": "Repeatedly",
+      "bengali": "আশা জাগানিয়া দিক"
+    },
+    {
+      "term": "Tooth and nail",
+      "meaning": "With all one's strength",
+      "bengali": "পরিস্থিতি পর্যবেক্ষণ করা"
+    },
+    {
+      "term": "Turn a deaf ear",
+      "meaning": "Refuse to listen",
+      "bengali": "স্পষ্টবাদী হওয়া"
+    },
+    {
+      "term": "Under the weather",
+      "meaning": "Slightly ill",
+      "bengali": "সুযোগ হাতছাড়া না করা"
+    },
+    {
+      "term": "Ups and downs",
+      "meaning": "Changes in fortune",
+      "bengali": "ধীরে সুস্থে এগিয়ে চলা"
+    },
+    {
+      "term": "Wash one's dirty linen in public",
+      "meaning": "Discuss private quarrels in public",
+      "bengali": "বিপদের মুখোমুখি হওয়া"
+    },
+    {
+      "term": "A white elephant",
+      "meaning": "A costly possession that is useless",
+      "bengali": "ভুল বুঝতে পারা"
+    },
+    {
+      "term": "Wild goose chase",
+      "meaning": "A futile search",
+      "bengali": "ধৈর্য ধারণ করা"
+    },
+    {
+      "term": "With flying colours",
+      "meaning": "With great success",
+      "bengali": "সফলতার চূড়ায় পৌঁছানো"
+    },
+    {
+      "term": "Zero hour",
+      "meaning": "The critical moment",
+      "bengali": "চূড়ান্ত সময় / ডেডলাইন"
+    },
+    {
+      "term": "A blessing in disguise",
+      "meaning": "a good thing that seemed bad at first",
+      "bengali": "ছদ্মবেশে আশীর্বাদ"
+    },
+    {
+      "term": "A piece of cake",
+      "meaning": "very easy task",
+      "bengali": "জলভাত; খুব সহজ কাজ"
+    },
+    {
+      "term": "A hot potato",
+      "meaning": "controversial issue",
+      "bengali": "স্পর্শকাতর বিষয়"
+    },
+    {
+      "term": "A black sheep",
+      "meaning": "disgraced member of a group",
+      "bengali": "কুলাঙ্গার"
+    },
+    {
+      "term": "A bolt from the blue",
+      "meaning": "sudden shock",
+      "bengali": "অপ্রত্যাশিত আঘাত"
+    },
+    {
+      "term": "A dark horse",
+      "meaning": "unexpected winner",
+      "bengali": "অজানা শক্তিশালী প্রতিদ্বন্দ্বী"
+    },
+    {
+      "term": "A drop in the ocean",
+      "meaning": "tiny amount",
+      "bengali": "সমুদ্রে বিন্দুমাত্র"
+    },
+    {
+      "term": "A white elephant",
+      "meaning": "costly useless possession",
+      "bengali": "সাদা হাতি; অকেজো ব্যয়বহুল বস্তু"
+    },
+    {
+      "term": "A red letter day",
+      "meaning": "memorable day",
+      "bengali": "স্মরণীয় দিন"
+    },
+    {
+      "term": "A storm in a teacup",
+      "meaning": "much fuss over little",
+      "bengali": "তুচ্ছ বিষয়ে হইচই"
+    },
+    {
+      "term": "A snake in the grass",
+      "meaning": "hidden enemy",
+      "bengali": "ছদ্মবেশী শত্রু"
+    },
+    {
+      "term": "A wild goose chase",
+      "meaning": "useless search",
+      "bengali": "বৃথা অনুসন্ধান"
+    },
+    {
+      "term": "A lame duck",
+      "meaning": "powerless person",
+      "bengali": "ক্ষমতাহীন ব্যক্তি"
+    },
+    {
+      "term": "A fair weather friend",
+      "meaning": "friend only in good times",
+      "bengali": "সুসময়ের বন্ধু"
+    },
+    {
+      "term": "A rolling stone",
+      "meaning": "restless wanderer",
+      "bengali": "ভবঘুরে"
+    },
+    {
+      "term": "A bed of roses",
+      "meaning": "comfortable situation",
+      "bengali": "ফুলের বিছানা; আরামদায়ক অবস্থা"
+    },
+    {
+      "term": "A tough nut to crack",
+      "meaning": "difficult problem/person",
+      "bengali": "কঠিন সমস্যা"
+    },
+    {
+      "term": "A feather in one's cap",
+      "meaning": "achievement",
+      "bengali": "সাফল্যের পালক"
+    },
+    {
+      "term": "A man of straw",
+      "meaning": "insubstantial person",
+      "bengali": "অসার ব্যক্তি"
+    },
+    {
+      "term": "A turn coat",
+      "meaning": "traitor",
+      "bengali": "বিশ্বাসঘাতক"
+    },
+    {
+      "term": "Achilles' heel",
+      "meaning": "weak point",
+      "bengali": "দুর্বল স্থান"
+    },
+    {
+      "term": "Add fuel to the fire",
+      "meaning": "worsen the situation",
+      "bengali": "আগুনে ঘি ঢালা"
+    },
+    {
+      "term": "All and sundry",
+      "meaning": "everyone",
+      "bengali": "সকলেই"
+    },
+    {
+      "term": "All at sea",
+      "meaning": "confused",
+      "bengali": "দিশেহারা"
+    },
+    {
+      "term": "An eye for an eye",
+      "meaning": "retaliation in kind",
+      "bengali": "যেমন কর্ম তেমন ফল"
+    },
+    {
+      "term": "An apple of discord",
+      "meaning": "cause of quarrel",
+      "bengali": "বিবাদের কারণ"
+    },
+    {
+      "term": "Apple of one's eye",
+      "meaning": "dearly loved person",
+      "bengali": "নয়নের মণি"
+    },
+    {
+      "term": "As the crow flies",
+      "meaning": "in a straight line",
+      "bengali": "সোজা পথে"
+    },
+    {
+      "term": "At loggerheads",
+      "meaning": "in disagreement",
+      "bengali": "বিবাদে লিপ্ত"
+    },
+    {
+      "term": "At sixes and sevens",
+      "meaning": "in confusion",
+      "bengali": "বিশৃঙ্খল অবস্থায়"
+    },
+    {
+      "term": "Bag and baggage",
+      "meaning": "with all belongings",
+      "bengali": "তল্পিতল্পা সহ"
+    },
+    {
+      "term": "Bark up the wrong tree",
+      "meaning": "make wrong approach",
+      "bengali": "ভুল পথে চেষ্টা করা"
+    },
+    {
+      "term": "Beat about the bush",
+      "meaning": "avoid the main point",
+      "bengali": "ঘুরিয়ে কথা বলা"
+    },
+    {
+      "term": "Bell the cat",
+      "meaning": "take a risky initiative",
+      "bengali": "ঝুঁকিপূর্ণ দায়িত্ব নেওয়া"
+    },
+    {
+      "term": "Bite the bullet",
+      "meaning": "face something unpleasant bravely",
+      "bengali": "কঠিন সত্য মেনে নেওয়া"
+    },
+    {
+      "term": "Bite the dust",
+      "meaning": "fall dead; fail",
+      "bengali": "ধরাশায়ী হওয়া"
+    },
+    {
+      "term": "Blow one's own trumpet",
+      "meaning": "boast",
+      "bengali": "নিজের ঢাক নিজে পেটানো"
+    },
+    {
+      "term": "Break the ice",
+      "meaning": "start conversation",
+      "bengali": "আড়ষ্টতা কাটানো"
+    },
+    {
+      "term": "Burn the midnight oil",
+      "meaning": "study late at night",
+      "bengali": "রাত জেগে পড়া"
+    },
+    {
+      "term": "Burn one's boats",
+      "meaning": "cut off retreat",
+      "bengali": "ফেরার পথ বন্ধ করা"
+    },
+    {
+      "term": "Bury the hatchet",
+      "meaning": "make peace",
+      "bengali": "বিবাদ মিটিয়ে ফেলা"
+    },
+    {
+      "term": "By hook or by crook",
+      "meaning": "by any means",
+      "bengali": "যে কোনো উপায়ে"
+    },
+    {
+      "term": "Call a spade a spade",
+      "meaning": "speak plainly",
+      "bengali": "স্পষ্ট কথা বলা"
+    },
+    {
+      "term": "Cast pearls before swine",
+      "meaning": "waste on the unworthy",
+      "bengali": "বানরের গলায় মুক্তার মালা"
+    },
+    {
+      "term": "Catch red-handed",
+      "meaning": "catch in the act",
+      "bengali": "হাতেনাতে ধরা"
+    },
+    {
+      "term": "Chip off the old block",
+      "meaning": "like one's parent",
+      "bengali": "বাপকা বেটা"
+    },
+    {
+      "term": "Cry over spilt milk",
+      "meaning": "regret the past",
+      "bengali": "গত বিষয়ে আফসোস করা"
+    },
+    {
+      "term": "Cry wolf",
+      "meaning": "raise false alarm",
+      "bengali": "মিথ্যা বিপদ সংকেত দেওয়া"
+    },
+    {
+      "term": "Cut the Gordian knot",
+      "meaning": "solve a difficult problem boldly",
+      "bengali": "জটিল সমস্যা সহজে সমাধান"
+    },
+    {
+      "term": "Cut a sorry figure",
+      "meaning": "make poor impression",
+      "bengali": "হাস্যকর অবস্থায় পড়া"
+    },
+    {
+      "term": "Cut and dried",
+      "meaning": "fixed; ready-made",
+      "bengali": "পূর্বনির্ধারিত"
+    },
+    {
+      "term": "Dead as a doornail",
+      "meaning": "completely dead",
+      "bengali": "একদম মৃত"
+    },
+    {
+      "term": "Devil's advocate",
+      "meaning": "argue opposing side",
+      "bengali": "বিরুদ্ধ পক্ষের যুক্তি দেওয়া"
+    },
+    {
+      "term": "Die in harness",
+      "meaning": "die while working",
+      "bengali": "কাজ করতে করতে মরা"
+    },
+    {
+      "term": "Dog in the manger",
+      "meaning": "selfish spoiler",
+      "bengali": "যে নিজে ভোগ করে না অন্যকেও করতে দেয় না"
+    },
+    {
+      "term": "Draw the line",
+      "meaning": "set a limit",
+      "bengali": "সীমারেখা টানা"
+    },
+    {
+      "term": "Dutch courage",
+      "meaning": "bravery from alcohol",
+      "bengali": "মদ্যপানজনিত সাহস"
+    },
+    {
+      "term": "Eat humble pie",
+      "meaning": "apologize humbly",
+      "bengali": "নত হয়ে ক্ষমা চাওয়া"
+    },
+    {
+      "term": "Eleventh hour",
+      "meaning": "last moment",
+      "bengali": "শেষ মুহূর্ত"
+    },
+    {
+      "term": "End in smoke",
+      "meaning": "come to nothing",
+      "bengali": "ব্যর্থ হওয়া"
+    },
+    {
+      "term": "Face the music",
+      "meaning": "accept punishment",
+      "bengali": "শাস্তির মুখোমুখি হওয়া"
+    },
+    {
+      "term": "Fall flat",
+      "meaning": "fail to impress",
+      "bengali": "ব্যর্থ হওয়া"
+    },
+    {
+      "term": "Fish in troubled waters",
+      "meaning": "profit from disorder",
+      "bengali": "ঘোলা জলে মাছ ধরা"
+    },
+    {
+      "term": "Flesh and blood",
+      "meaning": "human nature; relatives",
+      "bengali": "রক্তমাংসের মানুষ; আত্মীয়"
+    },
+    {
+      "term": "Fly in the ointment",
+      "meaning": "small spoiling thing",
+      "bengali": "সামান্য বাধা"
+    },
+    {
+      "term": "Food for thought",
+      "meaning": "something to think about",
+      "bengali": "ভাবনার খোরাক"
+    },
+    {
+      "term": "Foul play",
+      "meaning": "unfair action; crime",
+      "bengali": "অসদুপায়; অপরাধ"
+    },
+    {
+      "term": "From pillar to post",
+      "meaning": "from one place to another",
+      "bengali": "এখান থেকে ওখানে"
+    },
+    {
+      "term": "Gift of the gab",
+      "meaning": "talent for speaking",
+      "bengali": "বাকপটুতা"
+    },
+    {
+      "term": "Give and take",
+      "meaning": "mutual concession",
+      "bengali": "আদানপ্রদান"
+    },
+    {
+      "term": "Go to the dogs",
+      "meaning": "be ruined",
+      "bengali": "উচ্ছন্নে যাওয়া"
+    },
+    {
+      "term": "Golden opportunity",
+      "meaning": "excellent chance",
+      "bengali": "সুবর্ণ সুযোগ"
+    },
+    {
+      "term": "Hand in glove",
+      "meaning": "very close",
+      "bengali": "ঘনিষ্ঠ যোগসাজশ"
+    },
+    {
+      "term": "Hand to mouth",
+      "meaning": "barely surviving",
+      "bengali": "দিন আনা দিন খাওয়া"
+    },
+    {
+      "term": "Hard nut",
+      "meaning": "tough person",
+      "bengali": "কঠিন মানুষ"
+    },
+    {
+      "term": "Have an axe to grind",
+      "meaning": "have selfish motive",
+      "bengali": "স্বার্থসিদ্ধির মতলব থাকা"
+    },
+    {
+      "term": "Head over heels",
+      "meaning": "completely in love",
+      "bengali": "প্রেমে হাবুডুবু"
+    },
+    {
+      "term": "Heart and soul",
+      "meaning": "with full dedication",
+      "bengali": "মনেপ্রাণে"
+    },
+    {
+      "term": "Hit the nail on the head",
+      "meaning": "say exactly right",
+      "bengali": "ঠিক কথাটি বলা"
+    },
+    {
+      "term": "Hit the sack",
+      "meaning": "go to bed",
+      "bengali": "ঘুমাতে যাওয়া"
+    },
+    {
+      "term": "Hold water",
+      "meaning": "be logical",
+      "bengali": "যুক্তিসঙ্গত হওয়া"
+    },
+    {
+      "term": "In a nutshell",
+      "meaning": "briefly",
+      "bengali": "সংক্ষেপে"
+    },
+    {
+      "term": "In the long run",
+      "meaning": "eventually",
+      "bengali": "দীর্ঘমেয়াদে"
+    },
+    {
+      "term": "In black and white",
+      "meaning": "in writing",
+      "bengali": "লিখিতভাবে"
+    },
+    {
+      "term": "In hot water",
+      "meaning": "in trouble",
+      "bengali": "বিপদে পড়া"
+    },
+    {
+      "term": "In the pink",
+      "meaning": "in good health",
+      "bengali": "সুস্থ অবস্থায়"
+    },
+    {
+      "term": "Jack of all trades",
+      "meaning": "versatile but not expert",
+      "bengali": "সব বিষয়ে অল্প জানা"
+    },
+    {
+      "term": "Keep a stiff upper lip",
+      "meaning": "stay calm in trouble",
+      "bengali": "বিপদে ধৈর্য ধরা"
+    },
+    {
+      "term": "Keep the wolf from the door",
+      "meaning": "avoid poverty",
+      "bengali": "অভাব থেকে বাঁচা"
+    },
+    {
+      "term": "Kill two birds with one stone",
+      "meaning": "achieve two aims at once",
+      "bengali": "এক ঢিলে দুই পাখি মারা"
+    },
+    {
+      "term": "Kith and kin",
+      "meaning": "relatives",
+      "bengali": "আত্মীয়স্বজন"
+    },
+    {
+      "term": "Lion's share",
+      "meaning": "largest part",
+      "bengali": "সিংহভাগ"
+    },
+    {
+      "term": "Look before you leap",
+      "meaning": "think before acting",
+      "bengali": "ভেবেচিন্তে কাজ করা"
+    },
+    {
+      "term": "Make a mountain of a molehill",
+      "meaning": "exaggerate a small matter",
+      "bengali": "তিলকে তাল করা"
+    },
+    {
+      "term": "Make hay while the sun shines",
+      "meaning": "use opportunity",
+      "bengali": "সুযোগের সদ্ব্যবহার করা"
+    },
+    {
+      "term": "Man of letters",
+      "meaning": "scholar",
+      "bengali": "বিদ্বান ব্যক্তি"
+    },
+    {
+      "term": "Method in madness",
+      "meaning": "order in apparent chaos",
+      "bengali": "পাগলামির মধ্যে নিয়ম"
+    },
+    {
+      "term": "Mare's nest",
+      "meaning": "false discovery",
+      "bengali": "অলীক আবিষ্কার"
+    },
+    {
+      "term": "Meet one's Waterloo",
+      "meaning": "face final defeat",
+      "bengali": "চূড়ান্ত পরাজয়"
+    },
+    {
+      "term": "Mind your p's and q's",
+      "meaning": "be careful",
+      "bengali": "সতর্ক থাকা"
+    },
+    {
+      "term": "Moot point",
+      "meaning": "debatable matter",
+      "bengali": "বিতর্কিত বিষয়"
+    },
+    {
+      "term": "Naked truth",
+      "meaning": "plain fact",
+      "bengali": "নগ্ন সত্য"
+    },
+    {
+      "term": "Neck and neck",
+      "meaning": "very close in race",
+      "bengali": "সমানে সমানে"
+    },
+    {
+      "term": "Nip in the bud",
+      "meaning": "stop early",
+      "bengali": "অঙ্কুরেই বিনাশ করা"
+    },
+    {
+      "term": "Not worth a straw",
+      "meaning": "worthless",
+      "bengali": "মূল্যহীন"
+    },
+    {
+      "term": "Null and void",
+      "meaning": "invalid",
+      "bengali": "বাতিল"
+    },
+    {
+      "term": "Of late",
+      "meaning": "recently",
+      "bengali": "ইদানীং"
+    },
+    {
+      "term": "Off and on",
+      "meaning": "occasionally",
+      "bengali": "মাঝে মাঝে"
+    },
+    {
+      "term": "Once in a blue moon",
+      "meaning": "very rarely",
+      "bengali": "কালেভদ্রে"
+    },
+    {
+      "term": "On cloud nine",
+      "meaning": "extremely happy",
+      "bengali": "আনন্দে আত্মহারা"
+    },
+    {
+      "term": "On the horns of a dilemma",
+      "meaning": "in a difficult choice",
+      "bengali": "উভয়সংকটে"
+    },
+    {
+      "term": "On the spur of the moment",
+      "meaning": "impulsively",
+      "bengali": "আবেগের বশে"
+    },
+    {
+      "term": "Out and out",
+      "meaning": "completely",
+      "bengali": "সম্পূর্ণভাবে"
+    },
+    {
+      "term": "Out of the blue",
+      "meaning": "unexpectedly",
+      "bengali": "অপ্রত্যাশিতভাবে"
+    },
+    {
+      "term": "Over head and ears",
+      "meaning": "deeply involved",
+      "bengali": "আপাদমস্তক ডুবে"
+    },
+    {
+      "term": "Palmy days",
+      "meaning": "prosperous times",
+      "bengali": "সুদিন"
+    },
+    {
+      "term": "Pay lip service",
+      "meaning": "give false support",
+      "bengali": "মুখে সমর্থন জানানো"
+    },
+    {
+      "term": "Pay through the nose",
+      "meaning": "pay too much",
+      "bengali": "অতিরিক্ত দাম দেওয়া"
+    },
+    {
+      "term": "Play second fiddle",
+      "meaning": "take lesser role",
+      "bengali": "গৌণ ভূমিকা নেওয়া"
+    },
+    {
+      "term": "Play with fire",
+      "meaning": "take risk",
+      "bengali": "আগুন নিয়ে খেলা"
+    },
+    {
+      "term": "Pull someone's leg",
+      "meaning": "tease",
+      "bengali": "মজা করা"
+    },
+    {
+      "term": "Put a spoke in one's wheel",
+      "meaning": "obstruct",
+      "bengali": "বাধা সৃষ্টি করা"
+    },
+    {
+      "term": "Put the cart before the horse",
+      "meaning": "reverse order",
+      "bengali": "গোড়া কেটে আগায় জল"
+    },
+    {
+      "term": "Rain cats and dogs",
+      "meaning": "rain heavily",
+      "bengali": "মুষলধারে বৃষ্টি"
+    },
+    {
+      "term": "Raise a hue and cry",
+      "meaning": "protest loudly",
+      "bengali": "হইচই করা"
+    },
+    {
+      "term": "Read between the lines",
+      "meaning": "find hidden meaning",
+      "bengali": "ভাবার্থ বোঝা"
+    },
+    {
+      "term": "Red tape",
+      "meaning": "bureaucratic delay",
+      "bengali": "লালফিতার বাঁধন"
+    },
+    {
+      "term": "Rob Peter to pay Paul",
+      "meaning": "borrow to pay another",
+      "bengali": "একজনের ধার অন্যজনকে দিয়ে শোধ"
+    },
+    {
+      "term": "Rub salt into the wound",
+      "meaning": "worsen pain",
+      "bengali": "ক্ষতে নুনের ছিটে"
+    },
+    {
+      "term": "Run in the family",
+      "meaning": "be hereditary",
+      "bengali": "বংশগত হওয়া"
+    },
+    {
+      "term": "Save one's skin",
+      "meaning": "escape danger",
+      "bengali": "নিজের প্রাণ বাঁচানো"
+    },
+    {
+      "term": "Scot free",
+      "meaning": "without punishment",
+      "bengali": "বিনা শাস্তিতে"
+    },
+    {
+      "term": "See eye to eye",
+      "meaning": "agree completely",
+      "bengali": "একমত হওয়া"
+    },
+    {
+      "term": "Show the white feather",
+      "meaning": "show cowardice",
+      "bengali": "ভীরুতা দেখানো"
+    },
+    {
+      "term": "Sit on the fence",
+      "meaning": "stay neutral",
+      "bengali": "নিরপেক্ষ থাকা"
+    },
+    {
+      "term": "Skeleton in the cupboard",
+      "meaning": "family secret",
+      "bengali": "গোপন লজ্জার কথা"
+    },
+    {
+      "term": "Smell a rat",
+      "meaning": "suspect foul play",
+      "bengali": "সন্দেহ করা"
+    },
+    {
+      "term": "Spill the beans",
+      "meaning": "reveal secret",
+      "bengali": "গোপন কথা ফাঁস করা"
+    },
+    {
+      "term": "Spick and span",
+      "meaning": "neat and clean",
+      "bengali": "ঝকঝকে পরিষ্কার"
+    },
+    {
+      "term": "Stand on ceremony",
+      "meaning": "be formal",
+      "bengali": "আনুষ্ঠানিকতা করা"
+    },
+    {
+      "term": "Steal a march",
+      "meaning": "gain advantage secretly",
+      "bengali": "গোপনে এগিয়ে যাওয়া"
+    },
+    {
+      "term": "Stick to one's guns",
+      "meaning": "hold firm",
+      "bengali": "নিজের মতে অটল থাকা"
+    },
+    {
+      "term": "Take the bull by the horns",
+      "meaning": "face difficulty bravely",
+      "bengali": "সাহসে কঠিন কাজ করা"
+    },
+    {
+      "term": "Take to heart",
+      "meaning": "feel deeply",
+      "bengali": "মনে লাগানো"
+    },
+    {
+      "term": "Take to one's heels",
+      "meaning": "run away",
+      "bengali": "পালিয়ে যাওয়া"
+    },
+    {
+      "term": "The last straw",
+      "meaning": "final trouble",
+      "bengali": "সহ্যের শেষ সীমা"
+    },
+    {
+      "term": "The lion's den",
+      "meaning": "dangerous place",
+      "bengali": "বিপদের আস্তানা"
+    },
+    {
+      "term": "Through thick and thin",
+      "meaning": "in all conditions",
+      "bengali": "সুখে-দুঃখে"
+    },
+    {
+      "term": "Throw in the towel",
+      "meaning": "surrender",
+      "bengali": "হার স্বীকার করা"
+    },
+    {
+      "term": "Tit for tat",
+      "meaning": "retaliation",
+      "bengali": "যেমন কুকুর তেমন মুগুর"
+    },
+    {
+      "term": "To the backbone",
+      "meaning": "completely",
+      "bengali": "আপাদমস্তক"
+    },
+    {
+      "term": "Toe the line",
+      "meaning": "obey rules",
+      "bengali": "নিয়ম মেনে চলা"
+    },
+    {
+      "term": "Turn a deaf ear",
+      "meaning": "ignore",
+      "bengali": "কানে না তোলা"
+    },
+    {
+      "term": "Turn over a new leaf",
+      "meaning": "start afresh",
+      "bengali": "নতুন জীবন শুরু করা"
+    },
+    {
+      "term": "Under the weather",
+      "meaning": "slightly ill",
+      "bengali": "শরীর খারাপ"
+    },
+    {
+      "term": "Up and doing",
+      "meaning": "active",
+      "bengali": "কর্মতৎপর"
+    },
+    {
+      "term": "Up in arms",
+      "meaning": "angry protest",
+      "bengali": "ক্ষোভে ফেটে পড়া"
+    },
+    {
+      "term": "Variety is the spice of life",
+      "meaning": "change makes life interesting",
+      "bengali": "বৈচিত্র্যই জীবনের স্বাদ"
+    },
+    {
+      "term": "Walk on air",
+      "meaning": "be very happy",
+      "bengali": "আনন্দে আত্মহারা"
+    },
+    {
+      "term": "Wash one's hands of",
+      "meaning": "refuse responsibility",
+      "bengali": "দায়মুক্ত হওয়া"
+    },
+    {
+      "term": "Water under the bridge",
+      "meaning": "past and forgotten",
+      "bengali": "অতীত ঘটনা"
+    },
+    {
+      "term": "Wear and tear",
+      "meaning": "damage by use",
+      "bengali": "ক্ষয়ক্ষতি"
+    },
+    {
+      "term": "Weather the storm",
+      "meaning": "survive difficulty",
+      "bengali": "ঝড় কাটিয়ে ওঠা"
+    },
+    {
+      "term": "Wet blanket",
+      "meaning": "killjoy",
+      "bengali": "আনন্দ নষ্টকারী"
+    },
+    {
+      "term": "Wolf in sheep's clothing",
+      "meaning": "hidden evil",
+      "bengali": "মেষের ছদ্মবেশে নেকড়ে"
+    },
+    {
+      "term": "Yeoman's service",
+      "meaning": "great useful help",
+      "bengali": "বিরাট সহায়তা"
+    },
+    {
+      "term": "Zero hour",
+      "meaning": "decisive moment",
+      "bengali": "নির্ণায়ক মুহূর্ত"
+    },
+    {
+      "term": "A cat's paw",
+      "meaning": "dupe used by others",
+      "bengali": "অন্যের হাতের পুতুল"
+    },
+    {
+      "term": "A square peg in a round hole",
+      "meaning": "misfit",
+      "bengali": "অযোগ্য স্থানে"
+    },
+    {
+      "term": "A pretty kettle of fish",
+      "meaning": "messy situation",
+      "bengali": "জটিল পরিস্থিতি"
+    },
+    {
+      "term": "A slip of the tongue",
+      "meaning": "accidental word",
+      "bengali": "জিভ ফসকে বলা কথা"
+    },
+    {
+      "term": "A cock and bull story",
+      "meaning": "unbelievable tale",
+      "bengali": "আজগুবি গল্প"
+    },
+    {
+      "term": "A leopard cannot change its spots",
+      "meaning": "nature never changes",
+      "bengali": "স্বভাব যায় না মলে"
+    },
+    {
+      "term": "Barking dog seldom bites",
+      "meaning": "loud people harmless",
+      "bengali": "যে গর্জে সে বর্ষে না"
+    },
+    {
+      "term": "Beggars can't be choosers",
+      "meaning": "accept what's offered",
+      "bengali": "ভিখারির পছন্দ থাকে না"
+    },
+    {
+      "term": "Better late than never",
+      "meaning": "late is better than not",
+      "bengali": "দেরি হলেও না হওয়ার চেয়ে ভালো"
+    },
+    {
+      "term": "Birds of a feather",
+      "meaning": "similar people",
+      "bengali": "সমমনা মানুষ"
+    },
+    {
+      "term": "Blood is thicker than water",
+      "meaning": "family bonds strongest",
+      "bengali": "রক্তের টান বড় টান"
+    },
+    {
+      "term": "Burn the candle at both ends",
+      "meaning": "overwork",
+      "bengali": "অতিরিক্ত পরিশ্রম করা"
+    },
+    {
+      "term": "Butter someone up",
+      "meaning": "flatter",
+      "bengali": "তোষামোদ করা"
+    },
+    {
+      "term": "Cast aside",
+      "meaning": "reject",
+      "bengali": "ছুড়ে ফেলা"
+    },
+    {
+      "term": "Come to a head",
+      "meaning": "reach crisis",
+      "bengali": "চরম সীমায় পৌঁছানো"
+    },
+    {
+      "term": "Come to grief",
+      "meaning": "meet disaster",
+      "bengali": "বিপদে পড়া"
+    },
+    {
+      "term": "Crocodile tears",
+      "meaning": "false sorrow",
+      "bengali": "কুমিরের কান্না"
+    },
+    {
+      "term": "Cross the Rubicon",
+      "meaning": "take irreversible step",
+      "bengali": "অপরিবর্তনীয় পদক্ষেপ নেওয়া"
+    },
+    {
+      "term": "Curry favour",
+      "meaning": "seek favour by flattery",
+      "bengali": "মন জোগানো"
+    },
+    {
+      "term": "Daylight robbery",
+      "meaning": "overcharging",
+      "bengali": "প্রকাশ্য লুট"
+    },
+    {
+      "term": "Dig one's own grave",
+      "meaning": "cause own ruin",
+      "bengali": "নিজের সর্বনাশ ডেকে আনা"
+    },
+    {
+      "term": "Do or die",
+      "meaning": "try at all costs",
+      "bengali": "করব অথবা মরব"
+    },
+    {
+      "term": "Down in the dumps",
+      "meaning": "depressed",
+      "bengali": "মনমরা"
+    },
+    {
+      "term": "Drive home",
+      "meaning": "emphasise",
+      "bengali": "বুঝিয়ে দেওয়া"
+    },
+    {
+      "term": "Easier said than done",
+      "meaning": "hard to do",
+      "bengali": "বলা সহজ করা কঠিন"
+    },
+    {
+      "term": "Every cloud has a silver lining",
+      "meaning": "good in bad",
+      "bengali": "প্রতি মেঘের রুপালি রেখা"
+    },
+    {
+      "term": "Fight tooth and nail",
+      "meaning": "fight fiercely",
+      "bengali": "প্রাণপণে লড়া"
+    },
+    {
+      "term": "Fish out of water",
+      "meaning": "uncomfortable person",
+      "bengali": "অচেনা পরিবেশে অস্বস্তি"
+    },
+    {
+      "term": "Fit as a fiddle",
+      "meaning": "very healthy",
+      "bengali": "একেবারে সুস্থ"
+    },
+    {
+      "term": "Flog a dead horse",
+      "meaning": "waste effort",
+      "bengali": "বৃথা চেষ্টা করা"
+    },
+    {
+      "term": "Gild the lily",
+      "meaning": "over-decorate",
+      "bengali": "বাড়াবাড়ি করা"
+    },
+    {
+      "term": "Give the cold shoulder",
+      "meaning": "ignore coldly",
+      "bengali": "অবহেলা করা"
+    },
+    {
+      "term": "Go Dutch",
+      "meaning": "share expenses",
+      "bengali": "খরচ ভাগ করা"
+    },
+    {
+      "term": "Go to rack and ruin",
+      "meaning": "decay",
+      "bengali": "ধ্বংস হওয়া"
+    },
+    {
+      "term": "Grease the palm",
+      "meaning": "bribe",
+      "bengali": "ঘুষ দেওয়া"
+    },
+    {
+      "term": "Green-eyed monster",
+      "meaning": "jealousy",
+      "bengali": "হিংসা"
+    },
+    {
+      "term": "Hit below the belt",
+      "meaning": "act unfairly",
+      "bengali": "অন্যায্য আঘাত করা"
+    },
+    {
+      "term": "Hobson's choice",
+      "meaning": "no real choice",
+      "bengali": "বাধ্যতামূলক পছন্দ"
+    },
+    {
+      "term": "Hush money",
+      "meaning": "bribe for silence",
+      "bengali": "মুখ বন্ধের ঘুষ"
+    },
+    {
+      "term": "In the doldrums",
+      "meaning": "in low spirits",
+      "bengali": "বিষণ্ণ অবস্থায়"
+    },
+    {
+      "term": "In the lurch",
+      "meaning": "in difficulty",
+      "bengali": "বিপদে ফেলে"
+    },
+    {
+      "term": "Jump on the bandwagon",
+      "meaning": "follow a trend",
+      "bengali": "হুজুগে মাতা"
+    },
+    {
+      "term": "Keep at bay",
+      "meaning": "hold off",
+      "bengali": "দূরে রাখা"
+    },
+    {
+      "term": "Keep mum",
+      "meaning": "stay silent",
+      "bengali": "চুপ থাকা"
+    },
+    {
+      "term": "Knock on wood",
+      "meaning": "touch wood for luck",
+      "bengali": "কপাল ঠোকা"
+    },
+    {
+      "term": "Let the cat out of the bag",
+      "meaning": "reveal secret",
+      "bengali": "গোপন ফাঁস করা"
+    },
+    {
+      "term": "Let sleeping dogs lie",
+      "meaning": "avoid stirring trouble",
+      "bengali": "ঘুমন্ত সমস্যা না জাগানো"
+    },
+    {
+      "term": "Lose heart",
+      "meaning": "become discouraged",
+      "bengali": "সাহস হারানো"
+    },
+    {
+      "term": "Make both ends meet",
+      "meaning": "manage with income",
+      "bengali": "কোনোমতে সংসার চালানো"
+    },
+    {
+      "term": "Make a clean breast of",
+      "meaning": "confess fully",
+      "bengali": "খোলাখুলি স্বীকার করা"
+    },
+    {
+      "term": "Make clean sweep",
+      "meaning": "remove everything",
+      "bengali": "সবকিছু সাফ করা"
+    },
+    {
+      "term": "Make light of",
+      "meaning": "treat as unimportant",
+      "bengali": "হালকাভাবে নেওয়া"
+    },
+    {
+      "term": "Make way",
+      "meaning": "give space",
+      "bengali": "পথ ছেড়ে দেওয়া"
+    },
+    {
+      "term": "Mend one's fences",
+      "meaning": "repair relations",
+      "bengali": "সম্পর্ক ঠিক করা"
+    },
+    {
+      "term": "Miss the boat",
+      "meaning": "lose opportunity",
+      "bengali": "সুযোগ হারানো"
+    },
+    {
+      "term": "No man's land",
+      "meaning": "disputed land",
+      "bengali": "কারও নয় এমন জমি"
+    },
+    {
+      "term": "Odds and ends",
+      "meaning": "miscellaneous items",
+      "bengali": "খুচরো জিনিস"
+    },
+    {
+      "term": "Of one's own accord",
+      "meaning": "voluntarily",
+      "bengali": "স্বেচ্ছায়"
+    },
+    {
+      "term": "On pins and needles",
+      "meaning": "anxious",
+      "bengali": "উৎকণ্ঠিত"
+    },
+    {
+      "term": "Out of sorts",
+      "meaning": "unwell/moody",
+      "bengali": "মনমরা বা অসুস্থ"
+    },
+    {
+      "term": "Over the moon",
+      "meaning": "delighted",
+      "bengali": "আনন্দে আত্মহারা"
+    },
+    {
+      "term": "Pass the buck",
+      "meaning": "shift blame",
+      "bengali": "দায় এড়ানো"
+    },
+    {
+      "term": "Pocket the insult",
+      "meaning": "bear insult quietly",
+      "bengali": "অপমান হজম করা"
+    },
+    {
+      "term": "Pour oil on troubled waters",
+      "meaning": "calm a dispute",
+      "bengali": "বিবাদ থামানো"
+    },
+    {
+      "term": "Pros and cons",
+      "meaning": "advantages and disadvantages",
+      "bengali": "সুবিধা-অসুবিধা"
+    },
+    {
+      "term": "Put one's foot down",
+      "meaning": "be firm",
+      "bengali": "কঠোর অবস্থান নেওয়া"
+    },
+    {
+      "term": "Quid pro quo",
+      "meaning": "something for something",
+      "bengali": "বিনিময়"
+    },
+    {
+      "term": "Rack one's brain",
+      "meaning": "think hard",
+      "bengali": "মাথা ঘামানো"
+    },
+    {
+      "term": "Rise to the occasion",
+      "meaning": "meet challenge",
+      "bengali": "পরিস্থিতি সামাল দেওয়া"
+    },
+    {
+      "term": "Rule the roost",
+      "meaning": "be in command",
+      "bengali": "কর্তৃত্ব করা"
+    },
+    {
+      "term": "Safe and sound",
+      "meaning": "unharmed",
+      "bengali": "নিরাপদে ও সুস্থ"
+    },
+    {
+      "term": "Sail in the same boat",
+      "meaning": "share same situation",
+      "bengali": "একই অবস্থায় থাকা"
+    },
+    {
+      "term": "Send to Coventry",
+      "meaning": "ostracise",
+      "bengali": "একঘরে করা"
+    },
+    {
+      "term": "Show a clean pair of heels",
+      "meaning": "run away fast",
+      "bengali": "দ্রুত পালানো"
+    },
+    {
+      "term": "Sing a different tune",
+      "meaning": "change opinion",
+      "bengali": "সুর পাল্টানো"
+    },
+    {
+      "term": "Sleep like a log",
+      "meaning": "sleep deeply",
+      "bengali": "গভীর ঘুমানো"
+    },
+    {
+      "term": "Small fry",
+      "meaning": "unimportant people",
+      "bengali": "তুচ্ছ লোক"
+    },
+    {
+      "term": "Sour grapes",
+      "meaning": "pretending to despise",
+      "bengali": "আঙুর ফল টক"
+    },
+    {
+      "term": "Spare the rod",
+      "meaning": "avoid punishment",
+      "bengali": "শাসনে ঢিল দেওয়া"
+    },
+    {
+      "term": "Stand in good stead",
+      "meaning": "prove useful",
+      "bengali": "কাজে লাগা"
+    },
+    {
+      "term": "Swallow the bitter pill",
+      "meaning": "accept unpleasant fact",
+      "bengali": "তিক্ত সত্য মেনে নেওয়া"
+    },
+    {
+      "term": "Take a rain check",
+      "meaning": "postpone invitation",
+      "bengali": "পরে সুযোগ নেওয়া"
+    },
+    {
+      "term": "Take French leave",
+      "meaning": "leave without permission",
+      "bengali": "অনুমতি ছাড়া চলে যাওয়া"
+    }
+  ]
+}

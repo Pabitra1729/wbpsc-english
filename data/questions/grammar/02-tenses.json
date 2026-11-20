@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g02-001",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct form: I ___ tea every morning.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking",
+      "has drank"
+    ],
+    "answer": 0,
+    "explanation": "With I, the simple present uses drink.",
+    "rule": "Simple present for habit",
+    "bengaliHint": "daily habit-এর জন্য present simple ব্যবহার করুন।"
+  },
+  {
+    "id": "g02-002",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct form: She ___ her homework now.",
+    "options": [
+      "does",
+      "did",
+      "is doing",
+      "has do"
+    ],
+    "answer": 2,
+    "explanation": "Now indicates the present continuous: is doing.",
+    "rule": "Present continuous for an action in progress",
+    "bengaliHint": "এখন চলছে—present continuous।"
+  },
+  {
+    "id": "g02-003",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: They ___ football yesterday.",
+    "options": [
+      "play",
+      "played",
+      "has played",
+      "are playing"
+    ],
+    "answer": 1,
+    "explanation": "Yesterday marks a completed past action, so played is correct.",
+    "rule": "Simple past for a finished past action",
+    "bengaliHint": "Yesterday-এর সঙ্গে simple past।"
+  },
+  {
+    "id": "g02-004",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: The sun ___ in the east.",
+    "options": [
+      "rise",
+      "rises",
+      "is rising",
+      "rose"
+    ],
+    "answer": 1,
+    "explanation": "The sun follows he/she/it agreement in the simple present.",
+    "rule": "Simple present for a general truth",
+    "bengaliHint": "সাধারণ সত্যের জন্য simple present।"
+  },
+  {
+    "id": "g02-005",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct form: We ___ in Kolkata since 2020.",
+    "options": [
+      "live",
+      "lived",
+      "have lived",
+      "are lived"
+    ],
+    "answer": 2,
+    "explanation": "Since indicates a period continuing to the present.",
+    "rule": "Present perfect with since",
+    "bengaliHint": "Since 2020 থেকে এখনও—present perfect।"
+  },
+  {
+    "id": "g02-006",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct form: He ___ a letter an hour ago.",
+    "options": [
+      "writes",
+      "wrote",
+      "has written",
+      "is writing"
+    ],
+    "answer": 1,
+    "explanation": "An hour ago makes the action a completed past event.",
+    "rule": "Simple past with an ago time",
+    "bengaliHint": "ago থাকলে simple past।"
+  },
+  {
+    "id": "g02-007",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: It ___ heavily when I woke up.",
+    "options": [
+      "rains",
+      "is raining",
+      "was raining",
+      "has rained"
+    ],
+    "answer": 2,
+    "explanation": "Was raining describes an ongoing action interrupted by another past event.",
+    "rule": "Past continuous for an interrupted past action",
+    "bengaliHint": "woke up-এর সময় বৃষ্টি চলছিল।"
+  },
+  {
+    "id": "g02-008",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct form: I ___ you tomorrow.",
+    "options": [
+      "meet",
+      "met",
+      "will meet",
+      "have met"
+    ],
+    "answer": 2,
+    "explanation": "Tomorrow indicates a future action.",
+    "rule": "Simple future for a future action",
+    "bengaliHint": "Tomorrow থাকলে future।"
+  },
+  {
+    "id": "g02-009",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: By 10 pm, the train ___.",
+    "options": [
+      "left",
+      "has left",
+      "had left",
+      "is leaving"
+    ],
+    "answer": 2,
+    "explanation": "Had left is the earlier past action before a reference time.",
+    "rule": "Past perfect for the earlier past",
+    "bengaliHint": "10 pm-এর আগেই train ছেড়েছিল।"
+  },
+  {
+    "id": "g02-010",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct form: The students ___ the exam for two hours now.",
+    "options": [
+      "take",
+      "took",
+      "are taking",
+      "have been taking"
+    ],
+    "answer": 3,
+    "explanation": "For two hours now shows an action continuing up to the present.",
+    "rule": "Present perfect continuous for duration",
+    "bengaliHint": "দুই ঘণ্টা ধরে চলছে—perfect continuous।"
+  },
+  {
+    "id": "g02-011",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: She ___ to school before the bell rang.",
+    "options": [
+      "goes",
+      "went",
+      "had gone",
+      "has gone"
+    ],
+    "answer": 2,
+    "explanation": "Going happened before the bell rang, so past perfect is appropriate.",
+    "rule": "Past perfect indicates earlier past action",
+    "bengaliHint": "bell বাজার আগের কাজ—past perfect।"
+  },
+  {
+    "id": "g02-012",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "I have seen him yesterday.",
+      "I saw him yesterday.",
+      "I am seeing him yesterday.",
+      "I seen him yesterday."
+    ],
+    "answer": 1,
+    "explanation": "Yesterday requires simple past rather than present perfect.",
+    "rule": "Do not use present perfect with a finished past time",
+    "bengaliHint": "Yesterday-এর সঙ্গে have seen নয়।"
+  },
+  {
+    "id": "g02-013",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: Every day he ___ the newspaper carefully.",
+    "options": [
+      "read",
+      "reads",
+      "is read",
+      "has reading"
+    ],
+    "answer": 1,
+    "explanation": "Every day and the singular subject he require the simple present reads.",
+    "rule": "Simple present with he/she/it",
+    "bengaliHint": "রোজকার অভ্যাস—he-এর সঙ্গে -s।"
+  },
+  {
+    "id": "g02-014",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: This time next week, I ___ the interview.",
+    "options": [
+      "will give",
+      "shall give",
+      "will be giving",
+      "gave"
+    ],
+    "answer": 2,
+    "explanation": "This time next week describes an activity in progress at a future point.",
+    "rule": "Future continuous for a future ongoing action",
+    "bengaliHint": "এক নির্দিষ্ট future moment-এ কাজ চলছে।"
+  },
+  {
+    "id": "g02-015",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct option: She ___ her report by Friday.",
+    "options": [
+      "completes",
+      "will complete",
+      "is completing",
+      "has complete"
+    ],
+    "answer": 1,
+    "explanation": "A simple future action is expected to finish by Friday.",
+    "rule": "Simple future for prediction or schedule",
+    "bengaliHint": "Friday-এর মধ্যে হবে—future।"
+  },
+  {
+    "id": "g02-016",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He is working here since five years.",
+      "He has been working here for five years.",
+      "He works here for five years.",
+      "He worked here since five years."
+    ],
+    "answer": 1,
+    "explanation": "For a continuing duration, present perfect continuous with for is standard.",
+    "rule": "Present perfect continuous with for and since",
+    "bengaliHint": "duration-এর সঙ্গে for; current পর্যন্ত continuity।"
+  },
+  {
+    "id": "g02-017",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Complete: I wish I ___ harder for the exam.",
+    "options": [
+      "study",
+      "studied",
+      "had studied",
+      "have studied"
+    ],
+    "answer": 2,
+    "explanation": "Had studied expresses regret about a past condition.",
+    "rule": "Past perfect after wish for an unreal past",
+    "bengaliHint": "অতীত নিয়ে regret—past perfect।"
+  },
+  {
+    "id": "g02-018",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Complete: If it ___, the match will be cancelled.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "would rain"
+    ],
+    "answer": 0,
+    "explanation": "In a likely present/future condition, the if-clause uses simple present.",
+    "rule": "First conditional uses present in the if-clause",
+    "bengaliHint": "real future condition—if-এর পর present."
+  },
+  {
+    "id": "g02-019",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Complete: When I entered, all the guests ___.",
+    "options": [
+      "leave",
+      "were leaving",
+      "has left",
+      "will leave"
+    ],
+    "answer": 1,
+    "explanation": "Were leaving describes a past action in progress when the second action happened.",
+    "rule": "Past continuous for ongoing past action",
+    "bengaliHint": "আমি ঢোকার সময় guests-রা যাওয়ার proses-এ ছিল।"
+  },
+  {
+    "id": "g02-020",
+    "chapter": "g02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Complete: The programme ___ for two weeks before it was cancelled.",
+    "options": [
+      "runs",
+      "ran",
+      "had been running",
+      "has run"
+    ],
+    "answer": 2,
+    "explanation": "Had been running shows continuous duration before another past event.",
+    "rule": "Past perfect continuous for duration before past event",
+    "bengaliHint": "cancel হওয়ার আগে দু'সপ্তাহ ধরে চলছিল।"
+  },
+  {
+    "id": "g02-021",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'I ___ him since last Monday.'",
+    "options": [
+      "have not seen",
+      "did not see",
+      "had not seen",
+      "do not see"
+    ],
+    "answer": 0,
+    "explanation": "'Since' with point of time indicates an action continuing to the present, requiring Present Perfect.",
+    "rule": "Present Perfect with 'since'",
+    "bengaliHint": "নির্দিষ্ট সময় থেকে আজ পর্যন্ত বোঝাতে Present Perfect বসে।"
+  },
+  {
+    "id": "g02-022",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'He ___ to the office five minutes ago.'",
+    "options": [
+      "went",
+      "has gone",
+      "had gone",
+      "was going"
+    ],
+    "answer": 0,
+    "explanation": "'Ago' is a definite past time marker requiring Simple Past tense.",
+    "rule": "Simple Past with 'ago'",
+    "bengaliHint": "'Ago' থাকলে সর্বদা Simple Past বসে।"
+  },
+  {
+    "id": "g02-023",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'By next December, we ___ in this city for ten years.'",
+    "options": [
+      "will live",
+      "will have lived",
+      "are living",
+      "have lived"
+    ],
+    "answer": 1,
+    "explanation": "'By + future time' combined with duration ('for ten years') requires Future Perfect tense.",
+    "rule": "Future Perfect with 'by + future time'",
+    "bengaliHint": "ভবিষ্যতে কোনো নির্দিষ্ট সময়ে কাজ সম্পন্ন হওয়া বোঝাতে Future Perfect বসে।"
+  },
+  {
+    "id": "g02-024",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'The patient had died before the doctor ___.'",
+    "options": [
+      "arrived",
+      "had arrived",
+      "arriving",
+      "arrives"
+    ],
+    "answer": 0,
+    "explanation": "In past perfect sentences with 'before', the earlier action takes Past Perfect and the later action takes Simple Past.",
+    "rule": "Past Perfect with 'before' + Simple Past",
+    "bengaliHint": "'Before'-এর পরের অংশে Simple Past বসে।"
+  },
+  {
+    "id": "g02-025",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'The train had left after he ___ at the station.'",
+    "options": [
+      "reached",
+      "had reached",
+      "reaches",
+      "was reaching"
+    ],
+    "answer": 1,
+    "explanation": "With 'after', the earlier action (which happened first) takes Past Perfect.",
+    "rule": "Past Perfect with 'after'",
+    "bengaliHint": "'After'-এর পরের কাজটি আগে হওয়ায় Past Perfect হয়।"
+  },
+  {
+    "id": "g02-026",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'She ___ for three hours when her brother finally arrived.'",
+    "options": [
+      "had been waiting",
+      "has been waiting",
+      "was waiting",
+      "waited"
+    ],
+    "answer": 0,
+    "explanation": "An action continuing in the past up to another past action requires Past Perfect Continuous.",
+    "rule": "Past Perfect Continuous with 'when + past'",
+    "bengaliHint": "অতীতের দুটি ঘটনার মধ্যে দীর্ঘতর চলমান কাজে Past Perfect Continuous বসে।"
+  },
+  {
+    "id": "g02-027",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'Water ___ at 100 degrees Celsius.'",
+    "options": [
+      "boils",
+      "is boiling",
+      "boiled",
+      "will boil"
+    ],
+    "answer": 0,
+    "explanation": "Universal scientific truths are stated strictly in Simple Present tense.",
+    "rule": "Simple Present for scientific facts",
+    "bengaliHint": "চিরন্তন সত্য সর্বদা Simple Present হয়।"
+  },
+  {
+    "id": "g02-028",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'Look! The children ___ in the rain.'",
+    "options": [
+      "dance",
+      "are dancing",
+      "danced",
+      "have danced"
+    ],
+    "answer": 1,
+    "explanation": "'Look!' indicates an action occurring right at the moment of speech, requiring Present Continuous.",
+    "rule": "Present Continuous for action happening now",
+    "bengaliHint": "বর্তমান মুহূর্তে চলমান কাজে Present Continuous বসে।"
+  },
+  {
+    "id": "g02-029",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'I ___ my graduation in 2018.'",
+    "options": [
+      "completed",
+      "have completed",
+      "had completed",
+      "was completing"
+    ],
+    "answer": 0,
+    "explanation": "A specific past year ('in 2018') requires Simple Past tense, not Present Perfect.",
+    "rule": "Simple Past with past year marker",
+    "bengaliHint": "অতীতের নির্দিষ্ট সাল উল্লেখ থাকলে Simple Past বসে।"
+  },
+  {
+    "id": "g02-030",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'When I reached his house, he ___ breakfast.'",
+    "options": [
+      "was having",
+      "had",
+      "has had",
+      "is having"
+    ],
+    "answer": 0,
+    "explanation": "An interrupted past activity takes Past Continuous ('was having') when another action occurred.",
+    "rule": "Past Continuous for background action",
+    "bengaliHint": "অতীতের চলমান পটভূমি বোঝাতে Past Continuous বসে।"
+  },
+  {
+    "id": "g02-031",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'He thanked me for what I ___ for him.'",
+    "options": [
+      "did",
+      "had done",
+      "have done",
+      "was doing"
+    ],
+    "answer": 1,
+    "explanation": "The act of helping happened before the act of thanking, requiring Past Perfect.",
+    "rule": "Past Perfect for earlier past event",
+    "bengaliHint": "ধন্যবাদ দেওয়ার পূর্বেই সাহায্য করায় Past Perfect বসে।"
+  },
+  {
+    "id": "g02-032",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'If you heat ice, it ___.'",
+    "options": [
+      "melts",
+      "will melt",
+      "melted",
+      "would melt"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical law takes Simple Present in both clauses.",
+    "rule": "Zero Conditional (Simple Present)",
+    "bengaliHint": "প্রাকৃতিক নিয়মের শর্তে উভয় অংশে Simple Present হয়।"
+  },
+  {
+    "id": "g02-033",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'He spoke as if he ___ everything.'",
+    "options": [
+      "knew",
+      "knows",
+      "has known",
+      "will know"
+    ],
+    "answer": 0,
+    "explanation": "'As if / As though' expressing unreality takes past subjunctive ('knew').",
+    "rule": "Subjunctive mood after 'as if'",
+    "bengaliHint": "'As if'-এর পর অবাস্তব ভাব প্রকাশে Past tense বসে।"
+  },
+  {
+    "id": "g02-034",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'It is high time we ___ to the police.'",
+    "options": [
+      "report",
+      "reported",
+      "have reported",
+      "should report"
+    ],
+    "answer": 1,
+    "explanation": "'It is high time' is followed by a subject and a verb in the Simple Past tense.",
+    "rule": "'It is high time' + Simple Past",
+    "bengaliHint": "'It is high time'-এর পর Subject থাকলে Past Tense বসে।"
+  },
+  {
+    "id": "g02-035",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'I ___ this book for the past two weeks.'",
+    "options": [
+      "read",
+      "am reading",
+      "have been reading",
+      "had read"
+    ],
+    "answer": 2,
+    "explanation": "'For the past two weeks' shows action starting in past and continuing now -> Present Perfect Continuous.",
+    "rule": "Present Perfect Continuous with duration",
+    "bengaliHint": "অতীত থেকে বর্তমান পর্যন্ত চলছে বোঝাতে Present Perfect Continuous বসে।"
+  },
+  {
+    "id": "g02-036",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'Hardly had the bell rung when the teacher ___ the room.'",
+    "options": [
+      "entered",
+      "had entered",
+      "entering",
+      "enters"
+    ],
+    "answer": 0,
+    "explanation": "The correlative 'Hardly had... when' requires Simple Past in the subsequent clause.",
+    "rule": "Hardly had... when + Simple Past",
+    "bengaliHint": "'When'-এর পর Simple Past বসে।"
+  },
+  {
+    "id": "g02-037",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'She usually ___ coffee in the morning.'",
+    "options": [
+      "drinks",
+      "is drinking",
+      "drank",
+      "has drunk"
+    ],
+    "answer": 0,
+    "explanation": "Habitual actions signaled by 'usually', 'always', 'often' take Simple Present.",
+    "rule": "Simple Present for habitual actions",
+    "bengaliHint": "প্রাত্যহিক অভ্যাস বোঝাতে Simple Present বসে।"
+  },
+  {
+    "id": "g02-038",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'They ___ football since 3:00 PM.'",
+    "options": [
+      "are playing",
+      "have been playing",
+      "were playing",
+      "play"
+    ],
+    "answer": 1,
+    "explanation": "Duration starting at a specific clock point with 'since' takes Present Perfect Continuous.",
+    "rule": "Present Perfect Continuous with 'since'",
+    "bengaliHint": "'Since'-এর সাথে সময় নির্দেশ থাকায় Present Perfect Continuous হবে।"
+  },
+  {
+    "id": "g02-039",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'The match ___ before we arrived at the stadium.'",
+    "options": [
+      "began",
+      "had begun",
+      "has begun",
+      "was beginning"
+    ],
+    "answer": 1,
+    "explanation": "Earlier past action before 'before' takes Past Perfect.",
+    "rule": "Past Perfect with 'before'",
+    "bengaliHint": "আগে ঘটে যাওয়া ঘটনায় Past Perfect বসে।"
+  },
+  {
+    "id": "g02-040",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'He told me that he ___ ill for a week.'",
+    "options": [
+      "had been",
+      "was",
+      "has been",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Indirect speech shifting past simple/present perfect duration into Past Perfect ('had been').",
+    "rule": "Sequence of Tenses in Indirect Speech",
+    "bengaliHint": "অতীতের বর্ণনা Indirect করার সময় Past Perfect হয়।"
+  },
+  {
+    "id": "g02-041",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'I will call you as soon as I ___ at the station.'",
+    "options": [
+      "arrive",
+      "will arrive",
+      "arrived",
+      "am arriving"
+    ],
+    "answer": 0,
+    "explanation": "Time clauses with 'as soon as', 'when', 'until' take Simple Present, not future tense.",
+    "rule": "Time clause takes Simple Present",
+    "bengaliHint": "ভবিষ্যতের শর্তসূচক Time clause-এ Simple Present বসে।"
+  },
+  {
+    "id": "g02-042",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'The sun ___ in the east.'",
+    "options": [
+      "rises",
+      "is rising",
+      "rose",
+      "has risen"
+    ],
+    "answer": 0,
+    "explanation": "Universal geographic truth takes Simple Present.",
+    "rule": "Universal truth in Simple Present",
+    "bengaliHint": "চিরন্তন সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g02-043",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'I have not received any reply ___.'",
+    "options": [
+      "yet",
+      "already",
+      "since",
+      "just"
+    ],
+    "answer": 0,
+    "explanation": "'Yet' is used in negative present perfect sentences to denote up to now.",
+    "rule": "Position of 'yet' in negative perfect",
+    "bengaliHint": "বর্তমান পর্যন্ত কোনো উত্তর না পাওয়া বোঝাতে 'yet' বসে।"
+  },
+  {
+    "id": "g02-044",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'He ___ television all evening yesterday.'",
+    "options": [
+      "watched",
+      "was watching",
+      "has watched",
+      "had watched"
+    ],
+    "answer": 1,
+    "explanation": "Continuous activity over a specific past span takes Past Continuous.",
+    "rule": "Past Continuous for ongoing past action",
+    "bengaliHint": "অতীতের দীর্ঘ সময় ধরে চলা কাজে Past Continuous বসে।"
+  },
+  {
+    "id": "g02-045",
+    "chapter": "g02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct tense form: 'By the time you wake up, I ___ for Delhi.'",
+    "options": [
+      "will leave",
+      "will have left",
+      "am leaving",
+      "left"
+    ],
+    "answer": 1,
+    "explanation": "'By the time + present' indicates an action completed before a future moment -> Future Perfect.",
+    "rule": "Future Perfect with 'by the time'",
+    "bengaliHint": "ভবিষ্যতের নির্দিষ্ট সময়ের আগে সম্পন্ন হওয়া কাজে Future Perfect বসে।"
+  }
+]

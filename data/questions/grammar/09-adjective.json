@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g09-001",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the adjective: 'A brave child came.'",
+    "options": [
+      "brave",
+      "child",
+      "came",
+      "a"
+    ],
+    "answer": 0,
+    "explanation": "Brave describes the noun child.",
+    "rule": "Adjective modifies noun",
+    "bengaliHint": "child কেমন?"
+  },
+  {
+    "id": "g09-002",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the comparative form of good.",
+    "options": [
+      "gooder",
+      "more good",
+      "better",
+      "best"
+    ],
+    "answer": 2,
+    "explanation": "Good has the irregular comparative better.",
+    "rule": "Irregular degree",
+    "bengaliHint": "good-এর irregular form."
+  },
+  {
+    "id": "g09-003",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the superlative form of tall.",
+    "options": [
+      "taller",
+      "most tall",
+      "tallest",
+      "more tall"
+    ],
+    "answer": 2,
+    "explanation": "Tallest is the superlative of tall.",
+    "rule": "Superlative degree",
+    "bengaliHint": "সবচেয়ে tall."
+  },
+  {
+    "id": "g09-004",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which sentence avoids a double comparison?",
+    "options": [
+      "She is more wiser.",
+      "She is most wisest.",
+      "She is wiser.",
+      "She is more wise than most wisest."
+    ],
+    "answer": 2,
+    "explanation": "Wiser is the proper comparative and is not doubled.",
+    "rule": "No double comparison",
+    "bengaliHint": "more-এর সঙ্গে wiser নয়।"
+  },
+  {
+    "id": "g09-005",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: Mina is ___ than Rina.",
+    "options": [
+      "tall",
+      "taller",
+      "tallest",
+      "as tall"
+    ],
+    "answer": 1,
+    "explanation": "Than shows a comparison between two people.",
+    "rule": "Comparative with than",
+    "bengaliHint": "দুজনের তুলনা।"
+  },
+  {
+    "id": "g09-006",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Complete: This is ___ useful of the three plans.",
+    "options": [
+      "more",
+      "most",
+      "the more",
+      "the most"
+    ],
+    "answer": 3,
+    "explanation": "The superlative the most is used for three plans.",
+    "rule": "Superlative for three or more",
+    "bengaliHint": "তিনটি plan-এর মধ্যে."
+  },
+  {
+    "id": "g09-007",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct comparative: 'This pen is ___ to that one.'",
+    "options": [
+      "superior than",
+      "superior to",
+      "more superior to",
+      "superior from"
+    ],
+    "answer": 1,
+    "explanation": "Adjectives ending in '-ior' derived from Latin (superior, inferior, senior, junior, prior) take 'to', never 'than'.",
+    "rule": "Latin comparatives in -ior take preposition 'to'",
+    "bengaliHint": "'Superior'-এর সাথে তুলনার ক্ষেত্রে 'than' নয়, 'to' বসে।"
+  },
+  {
+    "id": "g09-008",
+    "chapter": "g09",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Of the two candidates, Rina is certainly the ___.",
+    "options": [
+      "more qualified",
+      "most qualified",
+      "qualified",
+      "most qualify"
+    ],
+    "answer": 0,
+    "explanation": "When comparing exactly two items or persons, use the comparative degree preceded by 'the' ('the more qualified').",
+    "rule": "Comparison of two items uses 'the + comparative'",
+    "bengaliHint": "দুজনের মধ্যে তুলনা বোঝালে 'the + comparative degree' বসে।"
+  },
+  {
+    "id": "g09-009",
+    "chapter": "g09",
+    "type": "correction",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'Gold is more precious than any metal.'",
+    "options": [
+      "Gold is more precious than any metal.",
+      "Gold is more precious than any other metal.",
+      "Gold is most precious than any metal.",
+      "Gold is precious than all other metals."
+    ],
+    "answer": 1,
+    "explanation": "When comparing a member with other members of its own class, 'other' must be added to exclude the subject itself from the group.",
+    "rule": "Exclusion rule: 'any other' in comparative degree",
+    "bengaliHint": "তুলনার ক্ষেত্রে 'any other' ব্যবহার করে স্বর্ণকে বাকি ধাতু থেকে আলাদা করতে হবে।"
+  },
+  {
+    "id": "g09-010",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct sentence regarding 'elder' vs 'older':",
+    "options": [
+      "She is elder than her sister.",
+      "She is elder to her sister.",
+      "She is older than her friend.",
+      "Both B and C are correct."
+    ],
+    "answer": 3,
+    "explanation": "'Elder' is used for family members and takes 'to' (or no preposition), while 'older' is used for age comparison with persons or things and takes 'than'.",
+    "rule": "Elder to (family) vs Older than (general age)",
+    "bengaliHint": "পারিবারিক সম্পর্কের ক্ষেত্রে 'elder' এবং সাধারণ বয়সের ক্ষেত্রে 'older than' বসে।"
+  },
+  {
+    "id": "g09-011",
+    "chapter": "g09",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "This square table has a ___ design that cannot be improved upon.",
+    "options": [
+      "most unique",
+      "more unique",
+      "unique",
+      "very unique"
+    ],
+    "answer": 2,
+    "explanation": "'Unique', 'perfect', 'complete', 'round', and 'square' are absolute adjectives and do not admit comparative or superlative modifiers.",
+    "rule": "Absolute adjectives cannot take more/most/very",
+    "bengaliHint": "'Unique' একটি absolute adjective; এর আগে 'most' বা 'very' বসে না।"
+  },
+  {
+    "id": "g09-012",
+    "chapter": "g09",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Between the first and second proposals, I prefer the ___.",
+    "options": [
+      "later",
+      "latter",
+      "latest",
+      "last"
+    ],
+    "answer": 1,
+    "explanation": "'Latter' refers to the second of two mentioned items; 'later' refers to time.",
+    "rule": "Latter (position of 2nd item) vs Later (time)",
+    "bengaliHint": "দুটি বিষয়ের মধ্যে দ্বিতীয়টি বোঝাতে 'latter' বসে।"
+  },
+  {
+    "id": "g09-013",
+    "chapter": "g09",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: (A) He is comparatively (B) better today (C) than yesterday (D) No error",
+    "options": [
+      "He is comparatively",
+      "better today",
+      "than yesterday",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Comparatively' and 'relatively' are already comparative in sense; they take positive degree adjectives ('comparatively good', not 'comparatively better').",
+    "rule": "Comparatively / Relatively + Positive degree",
+    "bengaliHint": "'Comparatively'-এর পর positive degree (good) বসে, double comparative নয়।"
+  },
+  {
+    "id": "g09-014",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the comparative form of the irregular adjective 'Little'?",
+    "options": [
+      "Littler",
+      "Less",
+      "Least",
+      "Lesser"
+    ],
+    "answer": 1,
+    "explanation": "Degrees of 'little': positive = little, comparative = less (or lesser in specific senses), superlative = least.",
+    "rule": "Irregular degrees: little - less - least",
+    "bengaliHint": "'Little'-এর comparative degree হলো 'less'।"
+  },
+  {
+    "id": "g09-015",
+    "chapter": "g09",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The climate of Kolkata is warmer than ___ of Darjeeling.",
+    "options": [
+      "this",
+      "that",
+      "those",
+      "these"
+    ],
+    "answer": 1,
+    "explanation": "When comparing qualities of two places, use 'that of' (singular) or 'those of' (plural) to avoid illogical comparison.",
+    "rule": "Pronoun comparison: 'that of' for singular nouns",
+    "bengaliHint": "আবহাওয়ার তুলনার পুনরাবৃত্তি এড়াতে 'that of' বসে।"
+  },
+  {
+    "id": "g09-016",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Health is preferable ___ wealth.",
+    "options": [
+      "to",
+      "than",
+      "more than",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "'Preferable' is inherently comparative and strictly takes the preposition 'to'.",
+    "rule": "Preferable takes 'to', never 'than'",
+    "bengaliHint": "'Preferable'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g09-017",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He is senior ___ all his colleagues.",
+    "options": [
+      "to",
+      "than",
+      "of",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "Latin comparatives ending in -ior (senior, junior, superior) take 'to'.",
+    "rule": "Latin comparative takes 'to'",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g09-018",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Of the two proposals, the first is the ___.",
+    "options": [
+      "better",
+      "best",
+      "good",
+      "most good"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two things, use 'the + comparative degree' ('the better').",
+    "rule": "The + comparative degree for two items",
+    "bengaliHint": "দুটির মধ্যে বোঝাতে 'the better' বসে।"
+  },
+  {
+    "id": "g09-019",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "No other student in the class is as ___ as Amit.",
+    "options": [
+      "intelligent",
+      "more intelligent",
+      "most intelligent",
+      "intelligently"
+    ],
+    "answer": 0,
+    "explanation": "Between 'as... as', use the positive degree of the adjective.",
+    "rule": "As + positive degree + as",
+    "bengaliHint": "'As... as'-এর মাঝে positive degree বসে।"
+  },
+  {
+    "id": "g09-020",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Darjeeling is farther from Kolkata than Burdwan, but have you any ___ information?",
+    "options": [
+      "further",
+      "farther",
+      "farthest",
+      "furthest"
+    ],
+    "answer": 0,
+    "explanation": "'Farther' refers to physical distance; 'further' refers to additional/more.",
+    "rule": "Farther (distance) vs Further (additional)",
+    "bengaliHint": "অতিরিক্ত তথ্য বোঝাতে 'further' বসে।"
+  },
+  {
+    "id": "g09-021",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Who is the ___ boy in the classroom?",
+    "options": [
+      "eldest",
+      "oldest",
+      "elder",
+      "older"
+    ],
+    "answer": 1,
+    "explanation": "'Oldest' is used for general age comparisons outside the family; 'eldest' is for family.",
+    "rule": "Oldest (general) vs Eldest (family members)",
+    "bengaliHint": "পারিবারিক সম্পর্কের বাইরে 'oldest' বসে।"
+  },
+  {
+    "id": "g09-022",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is the ___ son of the zamindar.",
+    "options": [
+      "eldest",
+      "oldest",
+      "elder",
+      "older"
+    ],
+    "answer": 0,
+    "explanation": "'Eldest' is used to denote birth order within a family.",
+    "rule": "Eldest for family seniority",
+    "bengaliHint": "পরিবারের জ্যেষ্ঠ পুত্র বোঝাতে 'eldest' বসে।"
+  },
+  {
+    "id": "g09-023",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ house on the lane belongs to the postmaster.",
+    "options": [
+      "nearest",
+      "next",
+      "nearer",
+      "nigh"
+    ],
+    "answer": 0,
+    "explanation": "'Nearest' denotes physical proximity/distance; 'next' denotes sequence/order.",
+    "rule": "Nearest (distance) vs Next (order)",
+    "bengaliHint": "দূরত্বের দিক থেকে নিকটতম বোঝাতে 'nearest' বসে।"
+  },
+  {
+    "id": "g09-024",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ chapter deals with Indian governance.",
+    "options": [
+      "next",
+      "nearest",
+      "near",
+      "nigh"
+    ],
+    "answer": 0,
+    "explanation": "'Next' denotes ordinal sequence in a book or sequence.",
+    "rule": "Next denotes sequence/position",
+    "bengaliHint": "পরবর্তী অধ্যায় বোঝাতে 'next' বসে।"
+  },
+  {
+    "id": "g09-025",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "This is a ___ case of constitutional violation.",
+    "options": [
+      "clear",
+      "more clear",
+      "most clear",
+      "clearest"
+    ],
+    "answer": 0,
+    "explanation": "Simple positive degree modifying the singular noun 'case'.",
+    "rule": "Positive degree modifier",
+    "bengaliHint": "সাধারণ বিশেষণ হিসেবে 'clear' বসে।"
+  },
+  {
+    "id": "g09-026",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Health is preferable ___ wealth.",
+    "options": [
+      "to",
+      "than",
+      "more than",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "'Preferable' is inherently comparative and strictly takes the preposition 'to'.",
+    "rule": "Preferable takes 'to', never 'than'",
+    "bengaliHint": "'Preferable'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g09-027",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He is senior ___ all his colleagues.",
+    "options": [
+      "to",
+      "than",
+      "of",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "Latin comparatives ending in -ior (senior, junior, superior) take 'to'.",
+    "rule": "Latin comparative takes 'to'",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g09-028",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Of the two proposals, the first is the ___.",
+    "options": [
+      "better",
+      "best",
+      "good",
+      "most good"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two things, use 'the + comparative degree' ('the better').",
+    "rule": "The + comparative degree for two items",
+    "bengaliHint": "দুটির মধ্যে বোঝাতে 'the better' বসে।"
+  },
+  {
+    "id": "g09-029",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "No other student in the class is as ___ as Amit.",
+    "options": [
+      "intelligent",
+      "more intelligent",
+      "most intelligent",
+      "intelligently"
+    ],
+    "answer": 0,
+    "explanation": "Between 'as... as', use the positive degree of the adjective.",
+    "rule": "As + positive degree + as",
+    "bengaliHint": "'As... as'-এর মাঝে positive degree বসে।"
+  },
+  {
+    "id": "g09-030",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Darjeeling is farther from Kolkata than Burdwan, but have you any ___ information?",
+    "options": [
+      "further",
+      "farther",
+      "farthest",
+      "furthest"
+    ],
+    "answer": 0,
+    "explanation": "'Farther' refers to physical distance; 'further' refers to additional/more.",
+    "rule": "Farther (distance) vs Further (additional)",
+    "bengaliHint": "অতিরিক্ত তথ্য বোঝাতে 'further' বসে।"
+  },
+  {
+    "id": "g09-031",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Who is the ___ boy in the classroom?",
+    "options": [
+      "eldest",
+      "oldest",
+      "elder",
+      "older"
+    ],
+    "answer": 1,
+    "explanation": "'Oldest' is used for general age comparisons outside the family; 'eldest' is for family.",
+    "rule": "Oldest (general) vs Eldest (family members)",
+    "bengaliHint": "পারিবারিক সম্পর্কের বাইরে 'oldest' বসে।"
+  },
+  {
+    "id": "g09-032",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is the ___ son of the zamindar.",
+    "options": [
+      "eldest",
+      "oldest",
+      "elder",
+      "older"
+    ],
+    "answer": 0,
+    "explanation": "'Eldest' is used to denote birth order within a family.",
+    "rule": "Eldest for family seniority",
+    "bengaliHint": "পরিবারের জ্যেষ্ঠ পুত্র বোঝাতে 'eldest' বসে।"
+  },
+  {
+    "id": "g09-033",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ house on the lane belongs to the postmaster.",
+    "options": [
+      "nearest",
+      "next",
+      "nearer",
+      "nigh"
+    ],
+    "answer": 0,
+    "explanation": "'Nearest' denotes physical proximity/distance; 'next' denotes sequence/order.",
+    "rule": "Nearest (distance) vs Next (order)",
+    "bengaliHint": "দূরত্বের দিক থেকে নিকটতম বোঝাতে 'nearest' বসে।"
+  },
+  {
+    "id": "g09-034",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ chapter deals with Indian governance.",
+    "options": [
+      "next",
+      "nearest",
+      "near",
+      "nigh"
+    ],
+    "answer": 0,
+    "explanation": "'Next' denotes ordinal sequence in a book or sequence.",
+    "rule": "Next denotes sequence/position",
+    "bengaliHint": "পরবর্তী অধ্যায় বোঝাতে 'next' বসে।"
+  },
+  {
+    "id": "g09-035",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "This is a ___ case of constitutional violation.",
+    "options": [
+      "clear",
+      "more clear",
+      "most clear",
+      "clearest"
+    ],
+    "answer": 0,
+    "explanation": "Simple positive degree modifying the singular noun 'case'.",
+    "rule": "Positive degree modifier",
+    "bengaliHint": "সাধারণ বিশেষণ হিসেবে 'clear' বসে।"
+  },
+  {
+    "id": "g09-036",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Health is preferable ___ wealth.",
+    "options": [
+      "to",
+      "than",
+      "more than",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "'Preferable' is inherently comparative and strictly takes the preposition 'to'.",
+    "rule": "Preferable takes 'to', never 'than'",
+    "bengaliHint": "'Preferable'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g09-037",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is senior ___ all his colleagues.",
+    "options": [
+      "to",
+      "than",
+      "of",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "Latin comparatives ending in -ior (senior, junior, superior) take 'to'.",
+    "rule": "Latin comparative takes 'to'",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g09-038",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Of the two proposals, the first is the ___.",
+    "options": [
+      "better",
+      "best",
+      "good",
+      "most good"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two things, use 'the + comparative degree' ('the better').",
+    "rule": "The + comparative degree for two items",
+    "bengaliHint": "দুটির মধ্যে বোঝাতে 'the better' বসে।"
+  },
+  {
+    "id": "g09-039",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "No other student in the class is as ___ as Amit.",
+    "options": [
+      "intelligent",
+      "more intelligent",
+      "most intelligent",
+      "intelligently"
+    ],
+    "answer": 0,
+    "explanation": "Between 'as... as', use the positive degree of the adjective.",
+    "rule": "As + positive degree + as",
+    "bengaliHint": "'As... as'-এর মাঝে positive degree বসে।"
+  },
+  {
+    "id": "g09-040",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Darjeeling is farther from Kolkata than Burdwan, but have you any ___ information?",
+    "options": [
+      "further",
+      "farther",
+      "farthest",
+      "furthest"
+    ],
+    "answer": 0,
+    "explanation": "'Farther' refers to physical distance; 'further' refers to additional/more.",
+    "rule": "Farther (distance) vs Further (additional)",
+    "bengaliHint": "অতিরিক্ত তথ্য বোঝাতে 'further' বসে।"
+  },
+  {
+    "id": "g09-041",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Who is the ___ boy in the classroom?",
+    "options": [
+      "eldest",
+      "oldest",
+      "elder",
+      "older"
+    ],
+    "answer": 1,
+    "explanation": "'Oldest' is used for general age comparisons outside the family; 'eldest' is for family.",
+    "rule": "Oldest (general) vs Eldest (family members)",
+    "bengaliHint": "পারিবারিক সম্পর্কের বাইরে 'oldest' বসে।"
+  },
+  {
+    "id": "g09-042",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is the ___ son of the zamindar.",
+    "options": [
+      "eldest",
+      "oldest",
+      "elder",
+      "older"
+    ],
+    "answer": 0,
+    "explanation": "'Eldest' is used to denote birth order within a family.",
+    "rule": "Eldest for family seniority",
+    "bengaliHint": "পরিবারের জ্যেষ্ঠ পুত্র বোঝাতে 'eldest' বসে।"
+  },
+  {
+    "id": "g09-043",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ house on the lane belongs to the postmaster.",
+    "options": [
+      "nearest",
+      "next",
+      "nearer",
+      "nigh"
+    ],
+    "answer": 0,
+    "explanation": "'Nearest' denotes physical proximity/distance; 'next' denotes sequence/order.",
+    "rule": "Nearest (distance) vs Next (order)",
+    "bengaliHint": "দূরত্বের দিক থেকে নিকটতম বোঝাতে 'nearest' বসে।"
+  },
+  {
+    "id": "g09-044",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ chapter deals with Indian governance.",
+    "options": [
+      "next",
+      "nearest",
+      "near",
+      "nigh"
+    ],
+    "answer": 0,
+    "explanation": "'Next' denotes ordinal sequence in a book or sequence.",
+    "rule": "Next denotes sequence/position",
+    "bengaliHint": "পরবর্তী অধ্যায় বোঝাতে 'next' বসে।"
+  },
+  {
+    "id": "g09-045",
+    "chapter": "g09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "This is a ___ case of constitutional violation.",
+    "options": [
+      "clear",
+      "more clear",
+      "most clear",
+      "clearest"
+    ],
+    "answer": 0,
+    "explanation": "Simple positive degree modifying the singular noun 'case'.",
+    "rule": "Positive degree modifier",
+    "bengaliHint": "সাধারণ বিশেষণ হিসেবে 'clear' বসে।"
+  }
+]

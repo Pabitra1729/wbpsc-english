@@ -1,0 +1,9 @@
+{
+  "defaultQuestionCount": 30,
+  "defaultDurationMinutes": 30,
+  "negativeMarking": 0.25,
+  "correctMarks": 1,
+  "negativeMarkingNote": "These values are editable placeholders. Verify question count, marks, duration and negative marking against the latest official WBPSC notification.",
+  "dailyQuestionCount": 10,
+  "weeklyQuestionCount": 30
+}

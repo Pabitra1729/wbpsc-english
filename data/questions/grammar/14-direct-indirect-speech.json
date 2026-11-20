@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g14-001",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Report: He said, 'I am busy.'",
+    "options": [
+      "He said that I am busy.",
+      "He said that he was busy.",
+      "He said I busy.",
+      "He says he was busy."
+    ],
+    "answer": 1,
+    "explanation": "The past reporting verb backshifts am to was and changes I to he.",
+    "rule": "Backshift and pronouns",
+    "bengaliHint": "said-এর সঙ্গে was এবং he."
+  },
+  {
+    "id": "g14-002",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Report: She said, 'I will go.'",
+    "options": [
+      "She said that she will go.",
+      "She said that she would go.",
+      "She said I would go.",
+      "She says she will gone."
+    ],
+    "answer": 1,
+    "explanation": "Will becomes would after a past reporting verb.",
+    "rule": "Reported speech tense",
+    "bengaliHint": "past reporting—would."
+  },
+  {
+    "id": "g14-003",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Report: He asked, 'Are you ready?'",
+    "options": [
+      "He asked if I was ready.",
+      "He asked if you are ready.",
+      "He asked are you ready.",
+      "He asked that I ready."
+    ],
+    "answer": 0,
+    "explanation": "A yes/no question uses if or whether and normal reported word order.",
+    "rule": "Indirect question",
+    "bengaliHint": "if + normal order."
+  },
+  {
+    "id": "g14-004",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Report: The teacher said, 'Write clearly.'",
+    "options": [
+      "The teacher said write clearly.",
+      "The teacher told us to write clearly.",
+      "The teacher told we writing.",
+      "The teacher asked writes."
+    ],
+    "answer": 1,
+    "explanation": "An imperative is reported with tell and to + infinitive.",
+    "rule": "Indirect imperative",
+    "bengaliHint": "told us to write."
+  },
+  {
+    "id": "g14-005",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Report: Rina said, 'This is my book.'",
+    "options": [
+      "Rina said that this is my book.",
+      "Rina said that that was her book.",
+      "Rina said that this was her book.",
+      "Rina said my book was this."
+    ],
+    "answer": 1,
+    "explanation": "This may change to that, I to her and am to was.",
+    "rule": "Reported speech reference",
+    "bengaliHint": "this→that, I→her."
+  },
+  {
+    "id": "g14-006",
+    "chapter": "g14",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect Speech: He said to me, 'Where are you going?'",
+    "options": [
+      "He asked me where was I going.",
+      "He asked me where I was going.",
+      "He inquired me where I am going.",
+      "He said where you are going."
+    ],
+    "answer": 1,
+    "explanation": "In indirect questions, the question word ('where') serves as the connector, and normal assertive word order (Subject + Verb: 'where I was going') is followed.",
+    "rule": "Indirect Question: wh-word + Subject + Verb",
+    "bengaliHint": "Indirect Speech-এ প্রশ্নবোধক বাক্য Assertive বাক্যে (Subject + Verb) রূপান্তরিত হয়।"
+  },
+  {
+    "id": "g14-007",
+    "chapter": "g14",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect Speech: The teacher said, 'The earth revolves around the sun.'",
+    "options": [
+      "The teacher said that the earth revolved around the sun.",
+      "The teacher said that the earth revolves around the sun.",
+      "The teacher told that earth revolves around the sun.",
+      "The teacher said earth had revolved around sun."
+    ],
+    "answer": 1,
+    "explanation": "When the reported speech expresses a universal truth or scientific fact, the tense of the verb remains in the simple present tense regardless of the past reporting verb.",
+    "rule": "Universal truth retains present tense in indirect speech",
+    "bengaliHint": "চিরন্তন সত্যের ক্ষেত্রে Reported Speech-এর Tense পরিবর্তিত হয় না।"
+  },
+  {
+    "id": "g14-008",
+    "chapter": "g14",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect Speech: She said to her friend, 'Alas! I have lost my grandmother's necklace.'",
+    "options": [
+      "She exclaimed with sorrow that she had lost her grandmother's necklace.",
+      "She told sadly that she has lost grandmother necklace.",
+      "She exclaimed with joy that she lost necklace.",
+      "She cried that she had lost necklace."
+    ],
+    "answer": 0,
+    "explanation": "'Alas!' expresses grief, converted with 'exclaimed with sorrow / grief that...'. Present perfect ('have lost') shifts to past perfect ('had lost').",
+    "rule": "Exclamatory sentence with 'Alas': exclaimed with sorrow that + past perfect",
+    "bengaliHint": "'Alas!' থাকলে 'exclaimed with sorrow' এবং Tense past perfect-এ পরিবর্তিত হয়।"
+  },
+  {
+    "id": "g14-009",
+    "chapter": "g14",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect Speech: He said, 'Do you speak English?'",
+    "options": [
+      "He asked me that if I spoke English.",
+      "He asked me whether I spoke English.",
+      "He said me if I speak English.",
+      "He asked did I speak English."
+    ],
+    "answer": 1,
+    "explanation": "Yes/No questions use 'if' or 'whether' as the conjunction. Never use 'that if' together.",
+    "rule": "Yes/No questions use if/whether without 'that'",
+    "bengaliHint": "Yes/No প্রশ্ন Indirect করার সময় 'if' বা 'whether' বসে, 'that' বসে না।"
+  },
+  {
+    "id": "g14-010",
+    "chapter": "g14",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect Speech: The captain said to the soldiers, 'Attack the enemy post now!'",
+    "options": [
+      "The captain told soldiers to attack enemy post now.",
+      "The captain commanded the soldiers to attack the enemy post then.",
+      "The captain requested soldiers to attack enemy post then.",
+      "The captain asked soldiers that attack the post then."
+    ],
+    "answer": 1,
+    "explanation": "Military orders take reporting verb 'commanded'. Imperative converts to 'to + V1', and time word 'now' shifts to 'then'.",
+    "rule": "Imperative command + time word shift: now -> then",
+    "bengaliHint": "সামরিক আদেশে 'commanded' বসে এবং 'now' পরিবর্তিত হয়ে 'then' হয়।"
+  },
+  {
+    "id": "g14-011",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-012",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-013",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-014",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-015",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  },
+  {
+    "id": "g14-016",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-017",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-018",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-019",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-020",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  },
+  {
+    "id": "g14-021",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-022",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-023",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-024",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-025",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  },
+  {
+    "id": "g14-026",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-027",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-028",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-029",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-030",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  },
+  {
+    "id": "g14-031",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-032",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-033",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-034",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-035",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  },
+  {
+    "id": "g14-036",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-037",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-038",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-039",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-040",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  },
+  {
+    "id": "g14-041",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said, 'I have bought a new bicycle.'",
+    "options": [
+      "He said that he had bought a new bicycle.",
+      "He said that he has bought a new bicycle.",
+      "He said he bought a bicycle.",
+      "He told he had bought a bicycle."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect ('have bought') backshifts to past perfect ('had bought') in indirect speech.",
+    "rule": "Tense shift: Present Perfect -> Past Perfect",
+    "bengaliHint": "Indirect-এ 'have bought' পরিবর্তিত হয়ে 'had bought' হয়।"
+  },
+  {
+    "id": "g14-042",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The doctor said to the patient, 'Take these pills twice a day.'",
+    "options": [
+      "The doctor advised the patient to take those pills twice a day.",
+      "The doctor said the patient take pills.",
+      "The doctor asked to take these pills.",
+      "The doctor ordered take pills."
+    ],
+    "answer": 0,
+    "explanation": "Medical instructions take reporting verb 'advised', 'these' shifts to 'those', and infinitive 'to take' is used.",
+    "rule": "Imperative reporting: advised + to-infinitive",
+    "bengaliHint": "ডাক্তারের পরামর্শে 'advised to take those pills' হয়।"
+  },
+  {
+    "id": "g14-043",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: She said, 'What a splendid sunset it is!'",
+    "options": [
+      "She exclaimed with wonder that it was a very splendid sunset.",
+      "She exclaimed that it is a splendid sunset.",
+      "She said what a splendid sunset.",
+      "She told that sunset is splendid."
+    ],
+    "answer": 0,
+    "explanation": "Exclamatory sentences convert using 'exclaimed with wonder/joy that' + assertive past sentence.",
+    "rule": "Exclamatory sentence transformation",
+    "bengaliHint": "বিস্ময়সূচক বাক্যের রূপান্তরে 'exclaimed with wonder that...' বসে।"
+  },
+  {
+    "id": "g14-044",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Indirect: He said to me, 'Can you solve this puzzle?'",
+    "options": [
+      "He asked me if I could solve that puzzle.",
+      "He asked me that if I can solve puzzle.",
+      "He asked me could I solve that puzzle.",
+      "He inquired me if I can solve puzzle."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions use 'if/whether', modal 'can' shifts to 'could', and 'this' becomes 'that'.",
+    "rule": "Interrogative modal shift: can -> could",
+    "bengaliHint": "Yes/No প্রশ্নে 'if' বসে এবং 'can' পরিবর্তিত হয়ে 'could' হয়।"
+  },
+  {
+    "id": "g14-045",
+    "chapter": "g14",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Indirect: The teacher said, 'Honesty is the best policy.'",
+    "options": [
+      "The teacher said that honesty is the best policy.",
+      "The teacher said that honesty was the best policy.",
+      "The teacher told honesty had been best.",
+      "The teacher said honesty were best."
+    ],
+    "answer": 0,
+    "explanation": "Proverbs and universal moral truths never backshift their tense.",
+    "rule": "Proverb retains present tense in indirect speech",
+    "bengaliHint": "প্রবাদের ক্ষেত্রে Tense পরিবর্তন হয় না।"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "id": "g09",
+  "title": "Adjectives & Degree of Comparison",
+  "intro": "Adjectives qualify or describe nouns and pronouns, providing attributes of quality, quantity, number, and demonstration. In the WBPSC Clerkship examination, questions focus heavily on comparative degrees with 'any other', the distinction between 'elder' and 'older', 'little/few' gradations, and the correct order of multiple adjectives.",
+  "bengali": "Adjective বা বিশেষণ হলো এমন শব্দ যা Noun বা Pronoun-এর দোষ, গুণ, অবস্থা, পরিমাণ বা সংখ্যা নির্দেশ করে।\n\nWBPSC Clerkship পরীক্ষায় Adjective সংক্রান্ত যেসব প্রশ্ন বারবার আসে:\n১. তুলনামূলক ডিগ্রির ফাঁদ (Degrees of Comparison):\n   - 'Any other' ব্যবহারের নিয়ম: একই শ্রেণীর কোনো ব্যক্তি বা বস্তুর সাথে অন্য সবার তুলনা করতে Comparative ডিগ্রিতে 'any other' ব্যবহার আবশ্যক। যেমন: 'Iron is more useful than any other metal' (NOT: than any metal, কারণ লোহা নিজেই একটি ধাতু)।\n   - Superlative-এ 'Of all': যেমন: 'Iron is the most useful of all metals.'\n২. Elder/Eldest বনাম Older/Oldest:\n   - Elder/Eldest: শুধুমাত্র একই পরিবারের রক্তের সম্পর্কের ক্ষেত্রে বসে। এদের পরে কখনো 'than' বসে না (যেমন: 'He is my elder brother', 'He is elder to me')।\n   - Older/Oldest: রক্ত সম্পর্ক ছাড়াও সাধারণ মানুষ, প্রাণী বা যেকোনো জড়বস্তুর বয়স বোঝাতে বসে এবং এর পরে 'than' বসে (যেমন: 'Rahul is older than Amit', 'This is the oldest temple').\n৩. Little / A little / The little বনাম Few / A few / The few:\n   - Little (পরিমাণ - Uncountable Noun): Little = প্রায় নেই বললেই চলে (নেতিবাচক); A little = কিছুটা আছে (ইতিবাচক); The little = যে সামান্যটুকু আছে তার পুরোটাই।\n   - Few (সংখ্যা - Countable Plural Noun): Few = প্রায় নেই বললেই চলে (নেতিবাচক); A few = অল্প কয়েকটি (ইতিবাচক); The few = যে অল্প কয়টি আছে তার সবগুলোই।\n৪. Farther (দূরত্ব) বনাম Further (অতিরিক্ত/পরবর্তী): 'Kolkata is farther from Delhi than Patna' (দূরত্ব); 'Wait for further orders' (অতিরিক্ত)।",
+  "rules": [
+    {
+      "rule": "In comparative degree comparisons within the SAME category, 'ANY OTHER' must be used to exclude the subject being compared.",
+      "examples": [
+        "Iron is more useful than any other metal (NOT: than any metal; iron cannot be more useful than itself).",
+        "Rabindranath Tagore is greater than any other Bengali poet.",
+        "Kolkata is larger than any other city in West Bengal."
+      ],
+      "exceptions": [
+        "When comparing entities from TWO ENTIRELY DIFFERENT classes, omit 'other': 'An elephant is stronger than any horse' (elephant is not a horse)."
+      ]
+    },
+    {
+      "rule": "ELDER and ELDEST apply strictly to blood relations and NEVER take 'than' (use 'to'); OLDER and OLDEST apply to unrelated persons and objects and take 'than'.",
+      "examples": [
+        "Suresh is my elder brother (blood relation).",
+        "He is elder to me by three years (takes 'to', never 'than').",
+        "This ancient banyan tree is older than the village temple (non-human object takes 'older').",
+        "Ramesh is older than his classmate Mohan (unrelated person)."
+      ],
+      "exceptions": [
+        "Never write 'elder than'—this is one of the most persistent exam errors in WBPSC."
+      ]
+    },
+    {
+      "rule": "Quantifiers for UNCOUNTABLE Nouns: 'Little' (hardly any, negative); 'A little' (some quantity, positive); 'The little' (the specific small amount available).",
+      "examples": [
+        "There is little milk left in the pot; we cannot prepare tea (almost none, negative).",
+        "A little knowledge is a dangerous thing (proverbial positive presence).",
+        "The cat drank the little milk that was left in the pot (the entire small quantity)."
+      ],
+      "exceptions": [
+        "Never use 'few' or 'a few' with uncountable nouns like water, milk, money, advice, or time."
+      ]
+    },
+    {
+      "rule": "Quantifiers for COUNTABLE Nouns: 'Few' (hardly any, negative); 'A few' (a small number, positive); 'The few' (all of the small number available).",
+      "examples": [
+        "Few candidates passed the rigorous Clerkship test (almost none, negative).",
+        "A few officers attended the emergency briefing (a small positive number).",
+        "The few books he possessed were destroyed in the fire."
+      ],
+      "exceptions": [
+        "'A few' has a constructive positive sense; 'Few' has an almost zero negative sense."
+      ]
+    },
+    {
+      "rule": "FARTHER denotes physical measurable distance; FURTHER denotes additional, supplementary, or subsequent progression.",
+      "examples": [
+        "Siliguri is farther from Kolkata than Malda is (physical distance).",
+        "For further information, please visit the official PSC portal (additional details).",
+        "Without further delay, the committee commenced the meeting."
+      ],
+      "exceptions": [
+        "Never write 'farther orders' or 'farther details'; always use 'further'."
+      ]
+    },
+    {
+      "rule": "LATTER and LAST refer to ORDER / POSITION; LATER and LATEST refer to TIME / CHRONOLOGY.",
+      "examples": [
+        "Between Hamlet and Macbeth, I prefer the latter (the second of two).",
+        "The last chapter of the grammar textbook is comprehensive (final in series).",
+        "He arrived later than expected at the examination venue (time).",
+        "What is the latest news from the relief camp? (most recent time)."
+      ],
+      "exceptions": [
+        "Former / Latter are used when referring to exactly TWO items; First / Last are used for THREE or more."
+      ]
+    },
+    {
+      "rule": "Adjectives that represent absolute or non-gradable states DO NOT accept comparative or superlative forms (no 'more' or 'most').",
+      "examples": [
+        "Unique, perfect, universal, complete, dead, supreme, round, square, eternal, chief.",
+        "Correct: This is a unique artifact (NOT: most unique or more unique).",
+        "Correct: His decision was supreme (NOT: very supreme)."
+      ],
+      "exceptions": [
+        "Qualifiers like 'almost' or 'nearly' are permitted: 'nearly perfect'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'He is elder than me' instead of 'He is elder to me' (elder takes 'to').",
+    "Writing 'Gold is more precious than any metal' instead of 'any other metal' (other is required for self-exclusion).",
+    "Writing 'This is the most unique opportunity' instead of 'a unique opportunity' (unique cannot be intensified).",
+    "Writing 'He asked for farther details' instead of 'further details' (additional information takes further).",
+    "Using 'few' for uncountable nouns (say 'little milk', not 'few milk')."
+  ],
+  "examTricks": [
+    "The 'Any Other' Rule: If comparing within the same group, ALWAYS add 'other' after 'any'.",
+    "The 'Elder / Older' Check: Family = Elder (takes 'to'). Outside = Older (takes 'than').",
+    "The 'Little / Few' Axis: Can you count it? Yes -> FEW. No -> LITTLE.",
+    "The 'Farther / Further' Test: Physical miles? -> FAR-ther. Additional thoughts? -> FURTHER."
+  ],
+  "memoryTricks": [
+    "FAR-ther has FAR (distance).",
+    "L-A-T-T-E-R has two T's like L-E-T-T-E-R (position in text)."
+  ],
+  "revision": [
+    "More useful than any other metal (same category).",
+    "Elder to (blood relation, no than); Older than (general).",
+    "Little (uncountable, negative); A little (some); The little (the specific whole).",
+    "Few (countable, negative); A few (some); The few (the specific whole).",
+    "Farther = Distance; Further = Additional.",
+    "Latter / Last = Order; Later / Latest = Time.",
+    "Absolute: Unique, perfect, universal (no more/most)."
+  ]
+}

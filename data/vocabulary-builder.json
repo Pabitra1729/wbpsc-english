@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "w001",
+    "word": "Abandon",
+    "meaning": "leave completely; forsake",
+    "bengali": "পরিত্যাগ করা",
+    "example": "The word 'Abandon' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w002",
+    "word": "Abate",
+    "meaning": "reduce in intensity",
+    "bengali": "হ্রাস পাওয়া",
+    "example": "The word 'Abate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w003",
+    "word": "Abdicate",
+    "meaning": "give up throne/power",
+    "bengali": "সিংহাসন ত্যাগ করা",
+    "example": "The word 'Abdicate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w004",
+    "word": "Aberration",
+    "meaning": "deviation from normal",
+    "bengali": "বিচ্যুতি",
+    "example": "The word 'Aberration' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w005",
+    "word": "Abhor",
+    "meaning": "hate intensely",
+    "bengali": "ঘৃণা করা",
+    "example": "The word 'Abhor' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w006",
+    "word": "Abide",
+    "meaning": "tolerate; stay",
+    "bengali": "সহ্য করা; থাকা",
+    "example": "The word 'Abide' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w007",
+    "word": "Abject",
+    "meaning": "miserable; wretched",
+    "bengali": "শোচনীয়",
+    "example": "The word 'Abject' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w008",
+    "word": "Abolish",
+    "meaning": "put an end to",
+    "bengali": "বিলোপ করা",
+    "example": "The word 'Abolish' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w009",
+    "word": "Abridge",
+    "meaning": "shorten",
+    "bengali": "সংক্ষিপ্ত করা",
+    "example": "The word 'Abridge' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w010",
+    "word": "Abstain",
+    "meaning": "refrain",
+    "bengali": "বিরত থাকা",
+    "example": "The word 'Abstain' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w011",
+    "word": "Abstruse",
+    "meaning": "difficult to understand",
+    "bengali": "দুর্বোধ্য",
+    "example": "The word 'Abstruse' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w012",
+    "word": "Abundant",
+    "meaning": "plentiful",
+    "bengali": "প্রচুর",
+    "example": "The word 'Abundant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w013",
+    "word": "Accede",
+    "meaning": "agree; assume office",
+    "bengali": "সম্মত হওয়া",
+    "example": "The word 'Accede' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w014",
+    "word": "Accomplice",
+    "meaning": "partner in crime",
+    "bengali": "সহযোগী অপরাধী",
+    "example": "The word 'Accomplice' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w015",
+    "word": "Acrimony",
+    "meaning": "bitterness",
+    "bengali": "তিক্ততা",
+    "example": "The word 'Acrimony' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w016",
+    "word": "Adamant",
+    "meaning": "firm; unyielding",
+    "bengali": "অনমনীয়",
+    "example": "The word 'Adamant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w017",
+    "word": "Adept",
+    "meaning": "skilled",
+    "bengali": "দক্ষ",
+    "example": "The word 'Adept' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w018",
+    "word": "Adhere",
+    "meaning": "stick to",
+    "bengali": "আঁকড়ে থাকা",
+    "example": "The word 'Adhere' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w019",
+    "word": "Adjourn",
+    "meaning": "postpone; suspend",
+    "bengali": "মুলতবি করা",
+    "example": "The word 'Adjourn' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w020",
+    "word": "Admonish",
+    "meaning": "warn gently",
+    "bengali": "সতর্ক করা",
+    "example": "The word 'Admonish' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w021",
+    "word": "Adroit",
+    "meaning": "clever; skillful",
+    "bengali": "নিপুণ",
+    "example": "The word 'Adroit' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w022",
+    "word": "Adulation",
+    "meaning": "excessive praise",
+    "bengali": "অতিরিক্ত প্রশংসা",
+    "example": "The word 'Adulation' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w023",
+    "word": "Adversary",
+    "meaning": "opponent",
+    "bengali": "প্রতিপক্ষ",
+    "example": "The word 'Adversary' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w024",
+    "word": "Adversity",
+    "meaning": "hardship",
+    "bengali": "দুর্দশা",
+    "example": "The word 'Adversity' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w025",
+    "word": "Affable",
+    "meaning": "friendly",
+    "bengali": "অমায়িক",
+    "example": "The word 'Affable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w026",
+    "word": "Affluent",
+    "meaning": "wealthy",
+    "bengali": "ধনী",
+    "example": "The word 'Affluent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w027",
+    "word": "Aggravate",
+    "meaning": "make worse",
+    "bengali": "আরও খারাপ করা",
+    "example": "The word 'Aggravate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w028",
+    "word": "Alacrity",
+    "meaning": "eagerness; speed",
+    "bengali": "তৎপরতা",
+    "example": "The word 'Alacrity' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w029",
+    "word": "Alleviate",
+    "meaning": "relieve",
+    "bengali": "উপশম করা",
+    "example": "The word 'Alleviate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w030",
+    "word": "Aloof",
+    "meaning": "distant; reserved",
+    "bengali": "নির্লিপ্ত",
+    "example": "The word 'Aloof' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w031",
+    "word": "Altruism",
+    "meaning": "selfless concern",
+    "bengali": "পরার্থপরতা",
+    "example": "The word 'Altruism' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w032",
+    "word": "Amalgamate",
+    "meaning": "combine",
+    "bengali": "একত্র করা",
+    "example": "The word 'Amalgamate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w033",
+    "word": "Ambiguous",
+    "meaning": "unclear; double-meaning",
+    "bengali": "দ্ব্যর্থক",
+    "example": "The word 'Ambiguous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w034",
+    "word": "Ameliorate",
+    "meaning": "improve",
+    "bengali": "উন্নতি করা",
+    "example": "The word 'Ameliorate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w035",
+    "word": "Amiable",
+    "meaning": "pleasant; friendly",
+    "bengali": "মিশুকে",
+    "example": "The word 'Amiable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w036",
+    "word": "Anarchy",
+    "meaning": "lawlessness",
+    "bengali": "অরাজকতা",
+    "example": "The word 'Anarchy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w037",
+    "word": "Animosity",
+    "meaning": "hostility",
+    "bengali": "বিদ্বেষ",
+    "example": "The word 'Animosity' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w038",
+    "word": "Annihilate",
+    "meaning": "destroy completely",
+    "bengali": "সম্পূর্ণ ধ্বংস করা",
+    "example": "The word 'Annihilate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w039",
+    "word": "Anomaly",
+    "meaning": "irregularity",
+    "bengali": "ব্যতিক্রম",
+    "example": "The word 'Anomaly' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w040",
+    "word": "Antagonist",
+    "meaning": "opponent",
+    "bengali": "বিরোধী",
+    "example": "The word 'Antagonist' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w041",
+    "word": "Antidote",
+    "meaning": "remedy for poison",
+    "bengali": "প্রতিষেধক",
+    "example": "The word 'Antidote' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w042",
+    "word": "Apathy",
+    "meaning": "lack of interest",
+    "bengali": "উদাসীনতা",
+    "example": "The word 'Apathy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w043",
+    "word": "Appease",
+    "meaning": "pacify",
+    "bengali": "শান্ত করা",
+    "example": "The word 'Appease' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w044",
+    "word": "Apprehend",
+    "meaning": "arrest; understand",
+    "bengali": "গ্রেপ্তার করা; উপলব্ধি করা",
+    "example": "The word 'Apprehend' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w045",
+    "word": "Arbitrary",
+    "meaning": "based on whim",
+    "bengali": "খেয়ালখুশিমতো",
+    "example": "The word 'Arbitrary' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w046",
+    "word": "Arduous",
+    "meaning": "difficult; laborious",
+    "bengali": "কষ্টসাধ্য",
+    "example": "The word 'Arduous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w047",
+    "word": "Arrogant",
+    "meaning": "proud; overbearing",
+    "bengali": "উদ্ধত",
+    "example": "The word 'Arrogant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w048",
+    "word": "Ascend",
+    "meaning": "go up",
+    "bengali": "আরোহণ করা",
+    "example": "The word 'Ascend' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w049",
+    "word": "Ascertain",
+    "meaning": "find out",
+    "bengali": "নিশ্চিত হওয়া",
+    "example": "The word 'Ascertain' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w050",
+    "word": "Ascetic",
+    "meaning": "self-denying person",
+    "bengali": "সন্ন্যাসী",
+    "example": "The word 'Ascetic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w051",
+    "word": "Assiduous",
+    "meaning": "hardworking",
+    "bengali": "অধ্যবসায়ী",
+    "example": "The word 'Assiduous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w052",
+    "word": "Astute",
+    "meaning": "shrewd",
+    "bengali": "সুচতুর",
+    "example": "The word 'Astute' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w053",
+    "word": "Audacious",
+    "meaning": "bold",
+    "bengali": "দুঃসাহসী",
+    "example": "The word 'Audacious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w054",
+    "word": "Augment",
+    "meaning": "increase",
+    "bengali": "বৃদ্ধি করা",
+    "example": "The word 'Augment' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w055",
+    "word": "Austere",
+    "meaning": "strict; plain",
+    "bengali": "কঠোর; সাদাসিধা",
+    "example": "The word 'Austere' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w056",
+    "word": "Authentic",
+    "meaning": "genuine",
+    "bengali": "খাঁটি",
+    "example": "The word 'Authentic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w057",
+    "word": "Avarice",
+    "meaning": "greed for wealth",
+    "bengali": "লোভ",
+    "example": "The word 'Avarice' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w058",
+    "word": "Aversion",
+    "meaning": "strong dislike",
+    "bengali": "বিতৃষ্ণা",
+    "example": "The word 'Aversion' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w059",
+    "word": "Banal",
+    "meaning": "commonplace",
+    "bengali": "গতানুগতিক",
+    "example": "The word 'Banal' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w060",
+    "word": "Banish",
+    "meaning": "exile",
+    "bengali": "নির্বাসন দেওয়া",
+    "example": "The word 'Banish' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w061",
+    "word": "Barren",
+    "meaning": "unproductive",
+    "bengali": "অনুর্বর",
+    "example": "The word 'Barren' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w062",
+    "word": "Beguile",
+    "meaning": "charm; deceive",
+    "bengali": "মুগ্ধকরা; প্রতারণা করা",
+    "example": "The word 'Beguile' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w063",
+    "word": "Belligerent",
+    "meaning": "aggressive",
+    "bengali": "যুদ্ধংদেহী",
+    "example": "The word 'Belligerent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w064",
+    "word": "Benevolent",
+    "meaning": "kind",
+    "bengali": "পরোপকারী",
+    "example": "The word 'Benevolent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w065",
+    "word": "Benign",
+    "meaning": "harmless; kind",
+    "bengali": "নিরীহ; সদয়",
+    "example": "The word 'Benign' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w066",
+    "word": "Bewilder",
+    "meaning": "confuse",
+    "bengali": "হতবুদ্ধি করা",
+    "example": "The word 'Bewilder' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w067",
+    "word": "Bigot",
+    "meaning": "intolerant person",
+    "bengali": "গোঁড়া ব্যক্তি",
+    "example": "The word 'Bigot' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w068",
+    "word": "Blasphemy",
+    "meaning": "insulting sacred things",
+    "bengali": "ধর্মনিন্দা",
+    "example": "The word 'Blasphemy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w069",
+    "word": "Blatant",
+    "meaning": "obvious",
+    "bengali": "প্রকট",
+    "example": "The word 'Blatant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w070",
+    "word": "Bleak",
+    "meaning": "gloomy; hopeless",
+    "bengali": "অন্ধকারাচ্ছন্ন",
+    "example": "The word 'Bleak' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w071",
+    "word": "Bliss",
+    "meaning": "great happiness",
+    "bengali": "পরম সুখ",
+    "example": "The word 'Bliss' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w072",
+    "word": "Bolster",
+    "meaning": "support",
+    "bengali": "শক্তিশালী করা",
+    "example": "The word 'Bolster' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w073",
+    "word": "Boorish",
+    "meaning": "rude",
+    "bengali": "অমার্জিত",
+    "example": "The word 'Boorish' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w074",
+    "word": "Brevity",
+    "meaning": "shortness",
+    "bengali": "সংক্ষিপ্ততা",
+    "example": "The word 'Brevity' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w075",
+    "word": "Brazen",
+    "meaning": "shameless",
+    "bengali": "নির্লজ্জ",
+    "example": "The word 'Brazen' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w076",
+    "word": "Bureaucracy",
+    "meaning": "official administration",
+    "bengali": "আমলাতন্ত্র",
+    "example": "The word 'Bureaucracy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w077",
+    "word": "Callous",
+    "meaning": "insensitive",
+    "bengali": "নিষ্ঠুর",
+    "example": "The word 'Callous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w078",
+    "word": "Candid",
+    "meaning": "frank",
+    "bengali": "স্পষ্টবাদী",
+    "example": "The word 'Candid' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w079",
+    "word": "Capricious",
+    "meaning": "unpredictable",
+    "bengali": "খেয়ালি",
+    "example": "The word 'Capricious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w080",
+    "word": "Captivate",
+    "meaning": "charm",
+    "bengali": "মোহিত করা",
+    "example": "The word 'Captivate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w081",
+    "word": "Censure",
+    "meaning": "severe criticism",
+    "bengali": "নিন্দা",
+    "example": "The word 'Censure' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w082",
+    "word": "Chaos",
+    "meaning": "disorder",
+    "bengali": "বিশৃঙ্খলা",
+    "example": "The word 'Chaos' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w083",
+    "word": "Chronic",
+    "meaning": "long-lasting",
+    "bengali": "দীর্ঘস্থায়ী",
+    "example": "The word 'Chronic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w084",
+    "word": "Circumspect",
+    "meaning": "cautious",
+    "bengali": "সতর্ক",
+    "example": "The word 'Circumspect' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w085",
+    "word": "Clemency",
+    "meaning": "mercy",
+    "bengali": "ক্ষমা; দয়া",
+    "example": "The word 'Clemency' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w086",
+    "word": "Coalition",
+    "meaning": "alliance",
+    "bengali": "জোট",
+    "example": "The word 'Coalition' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w087",
+    "word": "Coerce",
+    "meaning": "force",
+    "bengali": "বাধ্য করা",
+    "example": "The word 'Coerce' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w088",
+    "word": "Cogent",
+    "meaning": "convincing",
+    "bengali": "যুক্তিসঙ্গত",
+    "example": "The word 'Cogent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w089",
+    "word": "Colossal",
+    "meaning": "huge",
+    "bengali": "বিশাল",
+    "example": "The word 'Colossal' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w090",
+    "word": "Commence",
+    "meaning": "begin",
+    "bengali": "শুরু করা",
+    "example": "The word 'Commence' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w091",
+    "word": "Compassion",
+    "meaning": "sympathy",
+    "bengali": "সমবেদনা",
+    "example": "The word 'Compassion' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w092",
+    "word": "Compel",
+    "meaning": "force",
+    "bengali": "বাধ্য করা",
+    "example": "The word 'Compel' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w093",
+    "word": "Complacent",
+    "meaning": "self-satisfied",
+    "bengali": "আত্মতুষ্ট",
+    "example": "The word 'Complacent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w094",
+    "word": "Comprehensive",
+    "meaning": "complete",
+    "bengali": "সর্বাঙ্গীণ",
+    "example": "The word 'Comprehensive' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w095",
+    "word": "Concede",
+    "meaning": "admit",
+    "bengali": "স্বীকার করা",
+    "example": "The word 'Concede' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w096",
+    "word": "Concise",
+    "meaning": "brief",
+    "bengali": "সংক্ষিপ্ত",
+    "example": "The word 'Concise' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w097",
+    "word": "Condone",
+    "meaning": "forgive; overlook",
+    "bengali": "ক্ষমা করা",
+    "example": "The word 'Condone' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w098",
+    "word": "Conspicuous",
+    "meaning": "clearly visible",
+    "bengali": "সুস্পষ্ট",
+    "example": "The word 'Conspicuous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w099",
+    "word": "Contemplate",
+    "meaning": "think deeply",
+    "bengali": "গভীরভাবে ভাবা",
+    "example": "The word 'Contemplate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w100",
+    "word": "Contempt",
+    "meaning": "scorn",
+    "bengali": "অবজ্ঞা",
+    "example": "The word 'Contempt' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w101",
+    "word": "Contentious",
+    "meaning": "controversial",
+    "bengali": "বিতর্কিত",
+    "example": "The word 'Contentious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w102",
+    "word": "Copious",
+    "meaning": "abundant",
+    "bengali": "প্রচুর",
+    "example": "The word 'Copious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w103",
+    "word": "Corroborate",
+    "meaning": "confirm",
+    "bengali": "সমর্থন করা",
+    "example": "The word 'Corroborate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w104",
+    "word": "Credible",
+    "meaning": "believable",
+    "bengali": "বিশ্বাসযোগ্য",
+    "example": "The word 'Credible' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w105",
+    "word": "Crucial",
+    "meaning": "very important",
+    "bengali": "সংকটপূর্ণ; অত্যন্ত গুরুত্বপূর্ণ",
+    "example": "The word 'Crucial' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w106",
+    "word": "Cryptic",
+    "meaning": "mysterious",
+    "bengali": "রহস্যময়",
+    "example": "The word 'Cryptic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w107",
+    "word": "Culminate",
+    "meaning": "reach climax",
+    "bengali": "চূড়ান্ত পর্যায়ে পৌঁছানো",
+    "example": "The word 'Culminate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w108",
+    "word": "Cunning",
+    "meaning": "crafty",
+    "bengali": "ধূর্ত",
+    "example": "The word 'Cunning' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w109",
+    "word": "Curtail",
+    "meaning": "cut short",
+    "bengali": "হ্রাস করা",
+    "example": "The word 'Curtail' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w110",
+    "word": "Dauntless",
+    "meaning": "fearless",
+    "bengali": "নির্ভীক",
+    "example": "The word 'Dauntless' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w111",
+    "word": "Debilitate",
+    "meaning": "weaken",
+    "bengali": "দুর্বল করা",
+    "example": "The word 'Debilitate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w112",
+    "word": "Decadent",
+    "meaning": "declining in morals",
+    "bengali": "অবক্ষয়ী",
+    "example": "The word 'Decadent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w113",
+    "word": "Deceive",
+    "meaning": "mislead",
+    "bengali": "প্রতারণা করা",
+    "example": "The word 'Deceive' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w114",
+    "word": "Decorum",
+    "meaning": "proper behaviour",
+    "bengali": "শিষ্টাচার",
+    "example": "The word 'Decorum' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w115",
+    "word": "Defer",
+    "meaning": "postpone; yield",
+    "bengali": "স্থগিত করা; মান্য করা",
+    "example": "The word 'Defer' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w116",
+    "word": "Deficient",
+    "meaning": "lacking",
+    "bengali": "ঘাটতিযুক্ত",
+    "example": "The word 'Deficient' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w117",
+    "word": "Defiance",
+    "meaning": "open resistance",
+    "bengali": "অবাধ্যতা",
+    "example": "The word 'Defiance' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w118",
+    "word": "Deft",
+    "meaning": "skillful",
+    "bengali": "দক্ষ",
+    "example": "The word 'Deft' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w119",
+    "word": "Delude",
+    "meaning": "deceive",
+    "bengali": "ভ্রমে ফেলা",
+    "example": "The word 'Delude' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w120",
+    "word": "Denounce",
+    "meaning": "condemn publicly",
+    "bengali": "প্রকাশ্যে নিন্দা করা",
+    "example": "The word 'Denounce' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w121",
+    "word": "Deplore",
+    "meaning": "regret strongly",
+    "bengali": "দুঃখ প্রকাশ করা",
+    "example": "The word 'Deplore' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w122",
+    "word": "Deprecate",
+    "meaning": "express disapproval",
+    "bengali": "অনুমোদন না করা",
+    "example": "The word 'Deprecate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w123",
+    "word": "Derelict",
+    "meaning": "neglectful; abandoned",
+    "bengali": "পরিত্যক্ত",
+    "example": "The word 'Derelict' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w124",
+    "word": "Derogatory",
+    "meaning": "insulting",
+    "bengali": "অবমাননাকর",
+    "example": "The word 'Derogatory' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w125",
+    "word": "Desolate",
+    "meaning": "lonely; deserted",
+    "bengali": "জনশূন্য",
+    "example": "The word 'Desolate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w126",
+    "word": "Despondent",
+    "meaning": "hopeless",
+    "bengali": "হতাশ",
+    "example": "The word 'Despondent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w127",
+    "word": "Destitute",
+    "meaning": "extremely poor",
+    "bengali": "নিঃস্ব",
+    "example": "The word 'Destitute' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w128",
+    "word": "Deter",
+    "meaning": "discourage",
+    "bengali": "নিরুৎসাহিত করা",
+    "example": "The word 'Deter' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w129",
+    "word": "Devious",
+    "meaning": "deceitful",
+    "bengali": "কুটিল",
+    "example": "The word 'Devious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w130",
+    "word": "Diligent",
+    "meaning": "hardworking",
+    "bengali": "পরিশ্রমী",
+    "example": "The word 'Diligent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w131",
+    "word": "Discern",
+    "meaning": "perceive",
+    "bengali": "বুঝতে পারা",
+    "example": "The word 'Discern' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w132",
+    "word": "Disparage",
+    "meaning": "belittle",
+    "bengali": "অবজ্ঞা করা",
+    "example": "The word 'Disparage' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w133",
+    "word": "Dispel",
+    "meaning": "drive away",
+    "bengali": "দূর করা",
+    "example": "The word 'Dispel' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w134",
+    "word": "Dissent",
+    "meaning": "disagreement",
+    "bengali": "ভিন্নমত",
+    "example": "The word 'Dissent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w135",
+    "word": "Diverse",
+    "meaning": "varied",
+    "bengali": "বৈচিত্র্যময়",
+    "example": "The word 'Diverse' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w136",
+    "word": "Divulge",
+    "meaning": "reveal",
+    "bengali": "ফাঁস করা",
+    "example": "The word 'Divulge' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w137",
+    "word": "Dogmatic",
+    "meaning": "rigidly opinionated",
+    "bengali": "গোঁড়া",
+    "example": "The word 'Dogmatic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w138",
+    "word": "Dubious",
+    "meaning": "doubtful",
+    "bengali": "সন্দেহজনক",
+    "example": "The word 'Dubious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w139",
+    "word": "Eccentric",
+    "meaning": "odd",
+    "bengali": "খামখেয়ালি",
+    "example": "The word 'Eccentric' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w140",
+    "word": "Eloquent",
+    "meaning": "fluent speaker",
+    "bengali": "বাগ্মী",
+    "example": "The word 'Eloquent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w141",
+    "word": "Elusive",
+    "meaning": "hard to catch",
+    "bengali": "দুর্বোধ্য; ধরা-ছোঁয়ার বাইরে",
+    "example": "The word 'Elusive' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w142",
+    "word": "Emancipate",
+    "meaning": "set free",
+    "bengali": "মুক্ত করা",
+    "example": "The word 'Emancipate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w143",
+    "word": "Embezzle",
+    "meaning": "steal entrusted money",
+    "bengali": "আত্মসাৎ করা",
+    "example": "The word 'Embezzle' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w144",
+    "word": "Eminent",
+    "meaning": "distinguished",
+    "bengali": "খ্যাতনামা",
+    "example": "The word 'Eminent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w145",
+    "word": "Empathy",
+    "meaning": "understanding feelings",
+    "bengali": "সহমর্মিতা",
+    "example": "The word 'Empathy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w146",
+    "word": "Emulate",
+    "meaning": "imitate to equal",
+    "bengali": "অনুকরণ করা",
+    "example": "The word 'Emulate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w147",
+    "word": "Endeavour",
+    "meaning": "try hard",
+    "bengali": "প্রচেষ্টা",
+    "example": "The word 'Endeavour' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w148",
+    "word": "Enigma",
+    "meaning": "puzzle",
+    "bengali": "ধাঁধা",
+    "example": "The word 'Enigma' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w149",
+    "word": "Ephemeral",
+    "meaning": "short-lived",
+    "bengali": "ক্ষণস্থায়ী",
+    "example": "The word 'Ephemeral' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w150",
+    "word": "Equitable",
+    "meaning": "fair",
+    "bengali": "ন্যায্য",
+    "example": "The word 'Equitable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w151",
+    "word": "Erudite",
+    "meaning": "learned",
+    "bengali": "বিদ্বান",
+    "example": "The word 'Erudite' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w152",
+    "word": "Eschew",
+    "meaning": "avoid",
+    "bengali": "পরিহার করা",
+    "example": "The word 'Eschew' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w153",
+    "word": "Esteem",
+    "meaning": "respect",
+    "bengali": "শ্রদ্ধা",
+    "example": "The word 'Esteem' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w154",
+    "word": "Eulogy",
+    "meaning": "praise speech",
+    "bengali": "প্রশস্তি",
+    "example": "The word 'Eulogy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w155",
+    "word": "Evade",
+    "meaning": "avoid",
+    "bengali": "এড়িয়ে যাওয়া",
+    "example": "The word 'Evade' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w156",
+    "word": "Exacerbate",
+    "meaning": "make worse",
+    "bengali": "বাড়িয়ে তোলা",
+    "example": "The word 'Exacerbate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w157",
+    "word": "Exemplary",
+    "meaning": "ideal",
+    "bengali": "দৃষ্টান্তমূলক",
+    "example": "The word 'Exemplary' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w158",
+    "word": "Exonerate",
+    "meaning": "clear of blame",
+    "bengali": "দায়মুক্ত করা",
+    "example": "The word 'Exonerate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w159",
+    "word": "Exorbitant",
+    "meaning": "excessive",
+    "bengali": "অত্যধিক",
+    "example": "The word 'Exorbitant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w160",
+    "word": "Expedient",
+    "meaning": "convenient",
+    "bengali": "সুবিধাজনক",
+    "example": "The word 'Expedient' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w161",
+    "word": "Explicit",
+    "meaning": "clearly stated",
+    "bengali": "সুস্পষ্ট",
+    "example": "The word 'Explicit' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w162",
+    "word": "Extol",
+    "meaning": "praise highly",
+    "bengali": "উচ্চপ্রশংসা করা",
+    "example": "The word 'Extol' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w163",
+    "word": "Fabricate",
+    "meaning": "invent; make",
+    "bengali": "বানানো",
+    "example": "The word 'Fabricate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w164",
+    "word": "Facetious",
+    "meaning": "joking",
+    "bengali": "রসিক",
+    "example": "The word 'Facetious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w165",
+    "word": "Fallacy",
+    "meaning": "false belief",
+    "bengali": "ভ্রান্তি",
+    "example": "The word 'Fallacy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w166",
+    "word": "Fastidious",
+    "meaning": "hard to please",
+    "bengali": "খুঁতখুঁতে",
+    "example": "The word 'Fastidious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w167",
+    "word": "Feasible",
+    "meaning": "possible",
+    "bengali": "সম্ভবপর",
+    "example": "The word 'Feasible' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w168",
+    "word": "Feeble",
+    "meaning": "weak",
+    "bengali": "দুর্বল",
+    "example": "The word 'Feeble' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w169",
+    "word": "Feign",
+    "meaning": "pretend",
+    "bengali": "ভান করা",
+    "example": "The word 'Feign' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w170",
+    "word": "Ferocious",
+    "meaning": "fierce",
+    "bengali": "হিংস্র",
+    "example": "The word 'Ferocious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w171",
+    "word": "Fertile",
+    "meaning": "productive",
+    "bengali": "উর্বর",
+    "example": "The word 'Fertile' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w172",
+    "word": "Fickle",
+    "meaning": "changeable",
+    "bengali": "চপলমতি",
+    "example": "The word 'Fickle' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w173",
+    "word": "Flamboyant",
+    "meaning": "showy",
+    "bengali": "জাঁকজমকপূর্ণ",
+    "example": "The word 'Flamboyant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w174",
+    "word": "Flourish",
+    "meaning": "thrive",
+    "bengali": "বিকশিত হওয়া",
+    "example": "The word 'Flourish' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w175",
+    "word": "Foster",
+    "meaning": "encourage; nurture",
+    "bengali": "লালন করা",
+    "example": "The word 'Foster' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w176",
+    "word": "Frugal",
+    "meaning": "economical",
+    "bengali": "মিতব্যয়ী",
+    "example": "The word 'Frugal' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w177",
+    "word": "Futile",
+    "meaning": "useless",
+    "bengali": "নিষ্ফল",
+    "example": "The word 'Futile' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w178",
+    "word": "Gratify",
+    "meaning": "please",
+    "bengali": "তৃপ্ত করা",
+    "example": "The word 'Gratify' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w179",
+    "word": "Gregarious",
+    "meaning": "sociable",
+    "bengali": "সামাজিক",
+    "example": "The word 'Gregarious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w180",
+    "word": "Gullible",
+    "meaning": "easily fooled",
+    "bengali": "সরলবিশ্বাসী",
+    "example": "The word 'Gullible' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w181",
+    "word": "Haughty",
+    "meaning": "arrogant",
+    "bengali": "দাম্ভিক",
+    "example": "The word 'Haughty' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w182",
+    "word": "Hostile",
+    "meaning": "unfriendly",
+    "bengali": "শত্রুভাবাপন্ন",
+    "example": "The word 'Hostile' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w183",
+    "word": "Humane",
+    "meaning": "compassionate",
+    "bengali": "মানবিক",
+    "example": "The word 'Humane' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w184",
+    "word": "Hypocrite",
+    "meaning": "pretender of virtue",
+    "bengali": "ভণ্ড",
+    "example": "The word 'Hypocrite' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w185",
+    "word": "Immaculate",
+    "meaning": "spotless",
+    "bengali": "নিখুঁত",
+    "example": "The word 'Immaculate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w186",
+    "word": "Impartial",
+    "meaning": "unbiased",
+    "bengali": "নিরপেক্ষ",
+    "example": "The word 'Impartial' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w187",
+    "word": "Impeccable",
+    "meaning": "faultless",
+    "bengali": "ত্রুটিহীন",
+    "example": "The word 'Impeccable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w188",
+    "word": "Impetuous",
+    "meaning": "hasty",
+    "bengali": "অবিমৃষ্যকারী",
+    "example": "The word 'Impetuous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w189",
+    "word": "Impudent",
+    "meaning": "rude",
+    "bengali": "ধৃষ্ট",
+    "example": "The word 'Impudent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w190",
+    "word": "Incessant",
+    "meaning": "continuous",
+    "bengali": "অবিরাম",
+    "example": "The word 'Incessant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w191",
+    "word": "Indigenous",
+    "meaning": "native",
+    "bengali": "দেশজ",
+    "example": "The word 'Indigenous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w192",
+    "word": "Indolent",
+    "meaning": "lazy",
+    "bengali": "অলস",
+    "example": "The word 'Indolent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w193",
+    "word": "Inevitable",
+    "meaning": "unavoidable",
+    "bengali": "অনিবার্য",
+    "example": "The word 'Inevitable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w194",
+    "word": "Infallible",
+    "meaning": "never wrong",
+    "bengali": "অভ্রান্ত",
+    "example": "The word 'Infallible' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w195",
+    "word": "Ingenious",
+    "meaning": "clever",
+    "bengali": "উদ্ভাবনী",
+    "example": "The word 'Ingenious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w196",
+    "word": "Innocuous",
+    "meaning": "harmless",
+    "bengali": "নিরীহ",
+    "example": "The word 'Innocuous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w197",
+    "word": "Insolent",
+    "meaning": "disrespectful",
+    "bengali": "উদ্ধত",
+    "example": "The word 'Insolent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w198",
+    "word": "Integrity",
+    "meaning": "honesty",
+    "bengali": "সততা",
+    "example": "The word 'Integrity' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w199",
+    "word": "Intrepid",
+    "meaning": "fearless",
+    "bengali": "নির্ভীক",
+    "example": "The word 'Intrepid' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w200",
+    "word": "Irrevocable",
+    "meaning": "cannot be undone",
+    "bengali": "অপরিবর্তনীয়",
+    "example": "The word 'Irrevocable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w201",
+    "word": "Jeopardy",
+    "meaning": "danger",
+    "bengali": "বিপদ",
+    "example": "The word 'Jeopardy' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w202",
+    "word": "Jubilant",
+    "meaning": "joyful",
+    "bengali": "উল্লসিত",
+    "example": "The word 'Jubilant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w203",
+    "word": "Lament",
+    "meaning": "mourn",
+    "bengali": "বিলাপ করা",
+    "example": "The word 'Lament' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w204",
+    "word": "Lethargic",
+    "meaning": "sluggish",
+    "bengali": "নিস্তেজ",
+    "example": "The word 'Lethargic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w205",
+    "word": "Lucid",
+    "meaning": "clear",
+    "bengali": "সহজবোধ্য",
+    "example": "The word 'Lucid' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w206",
+    "word": "Lucrative",
+    "meaning": "profitable",
+    "bengali": "লাভজনক",
+    "example": "The word 'Lucrative' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w207",
+    "word": "Magnanimous",
+    "meaning": "generous",
+    "bengali": "মহানুভব",
+    "example": "The word 'Magnanimous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w208",
+    "word": "Malevolent",
+    "meaning": "wishing harm",
+    "bengali": "বিদ্বেষী",
+    "example": "The word 'Malevolent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w209",
+    "word": "Meticulous",
+    "meaning": "very careful",
+    "bengali": "সূক্ষ্মদর্শী",
+    "example": "The word 'Meticulous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w210",
+    "word": "Mundane",
+    "meaning": "ordinary",
+    "bengali": "জাগতিক; সাধারণ",
+    "example": "The word 'Mundane' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w211",
+    "word": "Notorious",
+    "meaning": "infamous",
+    "bengali": "কুখ্যাত",
+    "example": "The word 'Notorious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w212",
+    "word": "Obsolete",
+    "meaning": "outdated",
+    "bengali": "অচল",
+    "example": "The word 'Obsolete' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w213",
+    "word": "Obstinate",
+    "meaning": "stubborn",
+    "bengali": "একগুঁয়ে",
+    "example": "The word 'Obstinate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w214",
+    "word": "Ostentatious",
+    "meaning": "showy",
+    "bengali": "আড়ম্বরপূর্ণ",
+    "example": "The word 'Ostentatious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w215",
+    "word": "Panacea",
+    "meaning": "cure for all",
+    "bengali": "সর্বরোগহর",
+    "example": "The word 'Panacea' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w216",
+    "word": "Pragmatic",
+    "meaning": "practical",
+    "bengali": "বাস্তববাদী",
+    "example": "The word 'Pragmatic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w217",
+    "word": "Prudent",
+    "meaning": "wise; careful",
+    "bengali": "বিচক্ষণ",
+    "example": "The word 'Prudent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w218",
+    "word": "Quintessence",
+    "meaning": "perfect example",
+    "bengali": "সারাংশ",
+    "example": "The word 'Quintessence' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w219",
+    "word": "Reclusive",
+    "meaning": "solitary",
+    "bengali": "নির্জনবাসী",
+    "example": "The word 'Reclusive' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w220",
+    "word": "Redundant",
+    "meaning": "unnecessary",
+    "bengali": "অপ্রয়োজনীয়",
+    "example": "The word 'Redundant' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w221",
+    "word": "Resilient",
+    "meaning": "able to recover",
+    "bengali": "স্থিতিস্থাপক",
+    "example": "The word 'Resilient' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w222",
+    "word": "Reticent",
+    "meaning": "reserved",
+    "bengali": "স্বল্পভাষী",
+    "example": "The word 'Reticent' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w223",
+    "word": "Scrupulous",
+    "meaning": "conscientious",
+    "bengali": "নীতিনিষ্ঠ",
+    "example": "The word 'Scrupulous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w224",
+    "word": "Serene",
+    "meaning": "calm",
+    "bengali": "প্রশান্ত",
+    "example": "The word 'Serene' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w225",
+    "word": "Sincere",
+    "meaning": "genuine",
+    "bengali": "আন্তরিক",
+    "example": "The word 'Sincere' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w226",
+    "word": "Skeptic",
+    "meaning": "doubter",
+    "bengali": "সংশয়বাদী",
+    "example": "The word 'Skeptic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w227",
+    "word": "Solemn",
+    "meaning": "serious",
+    "bengali": "গম্ভীর",
+    "example": "The word 'Solemn' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w228",
+    "word": "Spurious",
+    "meaning": "fake",
+    "bengali": "জাল",
+    "example": "The word 'Spurious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w229",
+    "word": "Squander",
+    "meaning": "waste",
+    "bengali": "অপচয় করা",
+    "example": "The word 'Squander' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w230",
+    "word": "Stoic",
+    "meaning": "enduring without complaint",
+    "bengali": "নির্বিকার",
+    "example": "The word 'Stoic' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w231",
+    "word": "Superfluous",
+    "meaning": "unnecessary",
+    "bengali": "অতিরিক্ত",
+    "example": "The word 'Superfluous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w232",
+    "word": "Taciturn",
+    "meaning": "silent by nature",
+    "bengali": "মিতভাষী",
+    "example": "The word 'Taciturn' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w233",
+    "word": "Tenacious",
+    "meaning": "persistent",
+    "bengali": "অদম্য",
+    "example": "The word 'Tenacious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w234",
+    "word": "Transient",
+    "meaning": "temporary",
+    "bengali": "ক্ষণস্থায়ী",
+    "example": "The word 'Transient' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w235",
+    "word": "Trivial",
+    "meaning": "unimportant",
+    "bengali": "তুচ্ছ",
+    "example": "The word 'Trivial' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w236",
+    "word": "Ubiquitous",
+    "meaning": "present everywhere",
+    "bengali": "সর্বব্যাপী",
+    "example": "The word 'Ubiquitous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w237",
+    "word": "Unanimous",
+    "meaning": "all in agreement",
+    "bengali": "সর্বসম্মত",
+    "example": "The word 'Unanimous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w238",
+    "word": "Venerable",
+    "meaning": "respected for age",
+    "bengali": "শ্রদ্ধেয়",
+    "example": "The word 'Venerable' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w239",
+    "word": "Verbose",
+    "meaning": "using too many words",
+    "bengali": "বাচাল",
+    "example": "The word 'Verbose' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w240",
+    "word": "Versatile",
+    "meaning": "many-sided",
+    "bengali": "বহুমুখী",
+    "example": "The word 'Versatile' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w241",
+    "word": "Vindicate",
+    "meaning": "prove right",
+    "bengali": "নির্দোষ প্রমাণ করা",
+    "example": "The word 'Vindicate' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w242",
+    "word": "Vindictive",
+    "meaning": "revengeful",
+    "bengali": "প্রতিহিংসাপরায়ণ",
+    "example": "The word 'Vindictive' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w243",
+    "word": "Vivacious",
+    "meaning": "lively",
+    "bengali": "প্রাণবন্ত",
+    "example": "The word 'Vivacious' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w244",
+    "word": "Volatile",
+    "meaning": "unstable",
+    "bengali": "অস্থির",
+    "example": "The word 'Volatile' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w245",
+    "word": "Wary",
+    "meaning": "cautious",
+    "bengali": "সতর্ক",
+    "example": "The word 'Wary' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w246",
+    "word": "Zealous",
+    "meaning": "enthusiastic",
+    "bengali": "উদ্যমী",
+    "example": "The word 'Zealous' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w247",
+    "word": "Zenith",
+    "meaning": "highest point",
+    "bengali": "শীর্ষবিন্দু",
+    "example": "The word 'Zenith' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w248",
+    "word": "Zeal",
+    "meaning": "great enthusiasm",
+    "bengali": "উদ্যম",
+    "example": "The word 'Zeal' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w249",
+    "word": "Yield",
+    "meaning": "give way; produce",
+    "bengali": "নতি স্বীকার করা; ফলন",
+    "example": "The word 'Yield' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  },
+  {
+    "id": "w250",
+    "word": "Wrath",
+    "meaning": "extreme anger",
+    "bengali": "ক্রোধ",
+    "example": "The word 'Wrath' is frequently tested in WBPSC examinations.",
+    "partOfSpeech": "vocabulary"
+  }
+]

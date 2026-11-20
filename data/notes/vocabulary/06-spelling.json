@@ -1,0 +1,454 @@
+{
+  "id": "v06",
+  "title": "Spelling Rules & Confusing Misspellings",
+  "intro": "English orthography is notoriously irregular, yet recurring exam spellings conform to identifiable phonetic patterns, prefix/suffix guidelines, and consonant doubling rules. In the WBPSC Clerkship examination, spelling questions specifically target words with double consonants (c, m, s, r, l), silent letters, vowels before suffixes (-able vs -ible), and the classic 'i before e' rule.",
+  "bengali": "Spelling (বানান শুদ্ধিকরণ): WBPSC Clerkship পরীক্ষায় বানান সংক্রান্ত প্রশ্নে যেসব শব্দ আসে, সেগুলোতে সাধারণত Double Consonant (যেমন: Accommodation-এ double c এবং double m, Embarrass-এ double r এবং double s) অথবা 'ei' বনাম 'ie'-এর বিভ্রান্তি তৈরি করা হয়।\n\nWBPSC Clerkship-এ ভালো নম্বর পাওয়ার জন্য ৪টি মৌলিক বানানের নিয়ম:\n১. 'I before E, except after C':\n   - সাধারণ ক্ষেত্রে 'ie' বসে: Believe, achieve, relief, thief, chief, brief, yield।\n   - কিন্তু 'C'-এর ঠিক পরে হলে 'ei' বসে: Receive, deceive, conceive, ceiling, receipt।\n   - ব্যতিক্রম (Exceptions): Weird, seize, leisure, protein, height, foreign।\n২. Consonant দ্বিত্ব হওয়ার নিয়ম (Doubling Rule):\n   শব্দে এক বা দুটি সিলেবল থাকলে এবং শেষ অক্ষর Consonant এবং তার ঠিক আগের অক্ষরটি একক Vowel হলে, Vowel দিয়ে শুরু হওয়া Suffix (-ed, -ing, -er, -ence) যোগ করার সময় শেষের Consonant-টি দ্বিত্ব (Double) হয়:\n   - Occur -> Occurred, Occurrence\n   - Begin -> Beginning\n   - Refer -> Referred, Referral\n   - Commit -> Committed, Committee (Committee-তে double m, double t, double e!)\n৩. শেষের 'E' বাদ পড়ার নিয়ম:\n   শব্দের শেষে অনুচ্চারিত 'e' থাকলে, Vowel দিয়ে শুরু হওয়া প্রত্যয় যোগের সময় 'e' বাদ যায়:\n   - Hope + ing = Hoping; Guide + ance = Guidance; Argue + ment = Argument (লক্ষ্য করুন: Argument-এ 'e' নেই!)।\n   - কিন্তু Consonant দিয়ে প্রত্যয় শুরু হলে 'e' থেকে যায়: Hope + ful = Hopeful; Nine + ty = Ninety (ব্যতিক্রম: Ninth)।\n৪. -able বনাম -ible:\n   - মূল শব্দটি যদি নিজে একটি সম্পূর্ণ শব্দ হয়, তবে সাধারণত '-able' যুক্ত হয়: Accept + able = Acceptable, Read + able = Readable।\n   - মূল শব্দটি যদি একা কোনো অর্থপূর্ণ শব্দ না হয়, তবে '-ible' যুক্ত হয়: Audible, visible, edible, illegible, incredible।",
+  "rules": [
+    {
+      "rule": "THE 'I BEFORE E EXCEPT AFTER C' RULE: Use 'IE' for the /i:/ sound in general words, but use 'EI' immediately following the letter 'C'.",
+      "examples": [
+        "IE after other consonants: Believe, achieve, relief, thief, brief, grief, yield.",
+        "EI after the letter 'C': Receive, deceive, conceive, ceiling, receipt, perceive."
+      ],
+      "exceptions": [
+        "Common exam exceptions: Weird, seize, leisure, caffeine, protein, height, foreign, neighbor."
+      ]
+    },
+    {
+      "rule": "CONSONANT DOUBLING WITH STRESSED VOWELS: A final single consonant preceded by a single vowel doubles when receiving a vowel-initial suffix if the final syllable is stressed.",
+      "examples": [
+        "Occur -> Occurrence, Occurred (Double 'c' and double 'r').",
+        "Commit -> Committee (Double 'm', double 't', double 'e'), Committed.",
+        "Equip -> Equipped, Equipping; Begin -> Beginning; Run -> Running."
+      ],
+      "exceptions": [
+        "If the accent/stress is on the first syllable, the consonant does NOT double in British English: Offer -> Offered, Offering; Prefer -> Preference (stress shifts back to 'pref-')."
+      ]
+    },
+    {
+      "rule": "DROPPING THE SILENT FINAL 'E': Silent final 'e' is dropped before vowel suffixes (-ing, -able, -ation), but retained before consonant suffixes (-ful, -ment, -ly).",
+      "examples": [
+        "Drop 'e' before vowel: Guide + ance = Guidance; Argue + ment = Argument; True + ly = Truly.",
+        "Retain 'e' before consonant: Hope + ful = Hopeful; Manage + ment = Management; Sincere + ly = Sincerely."
+      ],
+      "exceptions": [
+        "Soft 'c' and 'g' retain 'e' before 'a' and 'o' to maintain their soft pronunciation: Courageous, Noticeable, Peaceable."
+      ]
+    },
+    {
+      "rule": "SUFFIX PAIRINGS: '-ABLE' vs '-IBLE': If the base is an intact independent English word, it typically takes '-able'; if an incomplete root, it takes '-ible'.",
+      "examples": [
+        "Intact base takes -ABLE: Dependable, readable, acceptable, comfortable, perishable.",
+        "Incomplete root takes -IBLE: Visible, audible, edible, credible, eligible, illegible."
+      ],
+      "exceptions": [
+        "Inevitable, formidable, culpable are established exceptions using -able on Latin bases."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Accomodation' instead of 'Accommodation' (must have double 'c' AND double 'm').",
+    "Writing 'Embarass' instead of 'Embarrass' (must have double 'r' AND double 's').",
+    "Writing 'Occurence' instead of 'Occurrence' (must have double 'r').",
+    "Writing 'Seperate' instead of 'Separate' (remember: there is 'A RAT' in separate).",
+    "Writing 'Definately' instead of 'Definitely' (from finite -> definitely, with 'i')."
+  ],
+  "examTricks": [
+    "The 'A RAT' Trick for SEPARATE: Sep-A-RAT-e (never write 'seper-').",
+    "The 'Committee' Rule: 2 M's, 2 T's, 2 E's -> Co-mm-i-tt-ee.",
+    "The 'Truly / Argument' Check: True drops 'e' -> TRULY. Argue drops 'e' -> ARGUMENT.",
+    "The 'Accommodation' Rule: 2 Cots, 2 Mattresses -> 2 C's, 2 M's."
+  ],
+  "memoryTricks": [
+    "There is A RAT in sep-A-RAT-e.",
+    "Accommodation has 2 Cars and 2 Motors (CC + MM)."
+  ],
+  "revision": [
+    "Accommodation: double c, double m.",
+    "Embarrass: double r, double s.",
+    "Committee: double m, double t, double e.",
+    "Occurrence: double c, double r.",
+    "Separate: s-e-p-a-r-a-t-e.",
+    "Definitely: d-e-f-i-n-i-t-e-l-y.",
+    "Privilege: p-r-i-v-i-l-e-g-e (no 'd').",
+    "Maintenance: m-a-i-n-t-e-n-a-n-c-e."
+  ],
+  "bookletTitle": "WBPSC Clerkship 75 Most Tricky Exam Spellings Directory",
+  "bookletList": [
+    {
+      "term": "Accommodation",
+      "meaning": "Common Misspellings: Accomodation   •   Acommodation   •   Accomadation",
+      "bengali": "আবাসন / থাকার ব্যবস্থা"
+    },
+    {
+      "term": "Achievement",
+      "meaning": "Common Misspellings: Acheivement   •   Achievment   •   Achivement",
+      "bengali": "কৃতিত্ব / অর্জন"
+    },
+    {
+      "term": "Acquaintance",
+      "meaning": "Common Misspellings: Aquaintance   •   Acquaintence   •   Acqaintance",
+      "bengali": "পরিচিত ব্যক্তি"
+    },
+    {
+      "term": "Apparent",
+      "meaning": "Common Misspellings: Apparant   •   Aparent   •   Apparrent",
+      "bengali": "ঠিকানা"
+    },
+    {
+      "term": "Assassination",
+      "meaning": "Common Misspellings: Asassination   •   Assasination   •   Assassanation",
+      "bengali": "আক্রমণাত্মক"
+    },
+    {
+      "term": "Bureaucracy",
+      "meaning": "Common Misspellings: Beaurocracy   •   Bureaucrasy   •   Buraucracy",
+      "bengali": "বরাদ্দকৃত"
+    },
+    {
+      "term": "Calendar",
+      "meaning": "Common Misspellings: Calender   •   Calandar   •   Calendre",
+      "bengali": "অপেশাদার"
+    },
+    {
+      "term": "Category",
+      "meaning": "Common Misspellings: Catagory   •   Cateogry   •   Categorey",
+      "bengali": "মূল্যায়ন"
+    },
+    {
+      "term": "Cemetery",
+      "meaning": "Common Misspellings: Cemetary   •   Cematery   •   Cemmetery",
+      "bengali": "আমলাতন্ত্র"
+    },
+    {
+      "term": "Changeable",
+      "meaning": "Common Misspellings: Changable   •   Changible   •   Chaingeable",
+      "bengali": "কবরস্থান"
+    },
+    {
+      "term": "Colleague",
+      "meaning": "Common Misspellings: Collegue   •   Colleage   •   Collaegue",
+      "bengali": "সহকর্মীবৃন্দ"
+    },
+    {
+      "term": "Commitment",
+      "meaning": "Common Misspellings: Comittment   •   Commitmant   •   Commitement",
+      "bengali": "কমিটি / সমিতি"
+    },
+    {
+      "term": "Committee",
+      "meaning": "Common Misspellings: Comittee   •   Commitee   •   Comittie",
+      "bengali": "শিল্প সমঝদার"
+    },
+    {
+      "term": "Competition",
+      "meaning": "Common Misspellings: Competion   •   Compitition   •   Competetion",
+      "bengali": "বিবেকবান / ন্যায়নিষ্ঠ"
+    },
+    {
+      "term": "Conscience",
+      "meaning": "Common Misspellings: Consience   •   Conscions   •   Concience",
+      "bengali": "শৃঙ্খলা"
+    },
+    {
+      "term": "Conscientious",
+      "meaning": "Common Misspellings: Consientious   •   Conscentious   •   Conscienscious",
+      "bengali": "বিব্রত করা"
+    },
+    {
+      "term": "Conscious",
+      "meaning": "Common Misspellings: Concious   •   Consious   •   Concsious",
+      "bengali": "অতিরঞ্জিত করা"
+    },
+    {
+      "term": "Criticism",
+      "meaning": "Common Misspellings: Critisism   •   Critcism   •   Criticizm",
+      "bengali": "নিশ্চয়তা / গ্যারান্টি"
+    },
+    {
+      "term": "Curiosity",
+      "meaning": "Common Misspellings: Curiousity   •   Curiocity   •   Curosity",
+      "bengali": "হয়রানি করা"
+    },
+    {
+      "term": "Definitely",
+      "meaning": "Common Misspellings: Definately   •   Definitly   •   Defanitely",
+      "bengali": "পদসোপান / স্তরবিন্যাস"
+    },
+    {
+      "term": "Disappoint",
+      "meaning": "Common Misspellings: Dissappoint   •   Disapoint   •   Disappiont",
+      "bengali": "স্বাস্থ্যবিধি"
+    },
+    {
+      "term": "Discipline",
+      "meaning": "Common Misspellings: Disipline   •   Dicipline   •   Discepline",
+      "bengali": "সামরিক পদমর্যাদা (লেফটেন্যান্ট)"
+    },
+    {
+      "term": "Embarrass",
+      "meaning": "Common Misspellings: Embarass   •   Embarras   •   Embarrase",
+      "bengali": "রক্ষণাবেক্ষণ"
+    },
+    {
+      "term": "Environment",
+      "meaning": "Common Misspellings: Enviroment   •   Environmant   •   Envirenment",
+      "bengali": "সহস্রাব্দ"
+    },
+    {
+      "term": "Exaggerate",
+      "meaning": "Common Misspellings: Exagerate   •   Exagerrate   •   Exaggarate",
+      "bengali": "দুষ্টু / অনিষ্টকারী"
+    },
+    {
+      "term": "Existence",
+      "meaning": "Common Misspellings: Existance   •   Existense   •   Exsistence",
+      "bengali": "প্রয়োজনীয়"
+    },
+    {
+      "term": "Familiar",
+      "meaning": "Common Misspellings: Familar   •   Familier   •   Famillar",
+      "bengali": "ঘটনা"
+    },
+    {
+      "term": "February",
+      "meaning": "Common Misspellings: Febuary   •   Feburary   •   Februery",
+      "bengali": "সমান্তরাল"
+    },
+    {
+      "term": "Foreign",
+      "meaning": "Common Misspellings: Foriegn   •   Forein   •   Forreign",
+      "bengali": "সুযোগ-সুবিধা"
+    },
+    {
+      "term": "Government",
+      "meaning": "Common Misspellings: Goverment   •   Govenment   •   Governmant",
+      "bengali": "প্রশ্নমালা"
+    },
+    {
+      "term": "Grammar",
+      "meaning": "Common Misspellings: Grammer   •   Gramar   •   Grammmar",
+      "bengali": "গ্রহণ করা"
+    },
+    {
+      "term": "Guarantee",
+      "meaning": "Common Misspellings: Gaurantee   •   Garantee   •   Guarentee",
+      "bengali": "সুপারিশ করা"
+    },
+    {
+      "term": "Harass",
+      "meaning": "Common Misspellings: Harrass   •   Haras   •   Harrasse",
+      "bengali": "রেস্তোরাঁ"
+    },
+    {
+      "term": "Height",
+      "meaning": "Common Misspellings: Hieght   •   Heigth   •   Hight",
+      "bengali": "পৃথক / আলাদা"
+    },
+    {
+      "term": "Humorous",
+      "meaning": "Common Misspellings: Humourous   •   Humorus   •   Humerous",
+      "bengali": "আগামীকাল"
+    },
+    {
+      "term": "Hygiene",
+      "meaning": "Common Misspellings: Hygeine   •   Hygine   •   Higiene",
+      "bengali": "স্বৈরাচারী শাসন"
+    },
+    {
+      "term": "Immediately",
+      "meaning": "Common Misspellings: Imediately   •   Immediatly   •   Immidiately",
+      "bengali": "শূন্যস্থান"
+    },
+    {
+      "term": "Independent",
+      "meaning": "Common Misspellings: Independant   •   Independint   •   Indipendent",
+      "bengali": "অদ্ভুত / অস্বাভাবিক"
+    },
+    {
+      "term": "Intelligence",
+      "meaning": "Common Misspellings: Inteligence   •   Intelligance   •   Intellegence",
+      "bengali": "অনুপস্থিতি"
+    },
+    {
+      "term": "Interrupt",
+      "meaning": "Common Misspellings: Interupt   •   Interrept   •   Intterupt",
+      "bengali": "অধিগ্রহণ"
+    },
+    {
+      "term": "Jewellery",
+      "meaning": "Common Misspellings: Jewelery   •   Jwellery   •   Jewelary",
+      "bengali": "উপদেষ্টা"
+    },
+    {
+      "term": "Knowledge",
+      "meaning": "Common Misspellings: Knowlege   •   Knowldge   •   Nowledge",
+      "bengali": "সংযোজন / সংযুক্তি"
+    },
+    {
+      "term": "Library",
+      "meaning": "Common Misspellings: Libary   •   Liberary   •   Librery",
+      "bengali": "অনুকূল / সুবিধাজনক"
+    },
+    {
+      "term": "Lightning",
+      "meaning": "Common Misspellings: Lightnng   •   Lightining   •   Ligtning",
+      "bengali": "অনুসরণ / আনুগত্য"
+    },
+    {
+      "term": "Maintenance",
+      "meaning": "Common Misspellings: Maintainance   •   Maintenence   •   Maintanance",
+      "bengali": "স্বীকারোক্তি"
+    },
+    {
+      "term": "Millennium",
+      "meaning": "Common Misspellings: Millenium   •   Milennium   •   Millenum",
+      "bengali": "উদ্বেগজনক / অপ্রীতিকর"
+    },
+    {
+      "term": "Mischievous",
+      "meaning": "Common Misspellings: Mischievious   •   Mischevous   •   Mischeivous",
+      "bengali": "স্পষ্ট / আপাতদৃষ্ট"
+    },
+    {
+      "term": "Necessary",
+      "meaning": "Common Misspellings: Neccessary   •   Necesary   •   Neccesary",
+      "bengali": "আবেদনময়"
+    },
+    {
+      "term": "Neighbour",
+      "meaning": "Common Misspellings: Nieghbour   •   Neigbour   •   Nighbour",
+      "bengali": "প্রশংসনীয়"
+    },
+    {
+      "term": "Noticeable",
+      "meaning": "Common Misspellings: Noticable   •   Noticible   •   Notiseable",
+      "bengali": "ব্যবস্থা / আয়োজন"
+    },
+    {
+      "term": "Occasion",
+      "meaning": "Common Misspellings: Ocassion   •   Occassion   •   Ocasion",
+      "bengali": "সহায়ক"
+    },
+    {
+      "term": "Occurrence",
+      "meaning": "Common Misspellings: Occurence   •   Ocurrence   •   Occurance",
+      "bengali": "উপস্থিতি"
+    },
+    {
+      "term": "Opportunity",
+      "meaning": "Common Misspellings: Oportunity   •   Opportunty   •   Oppurtunity",
+      "bengali": "কর্তৃপক্ষ"
+    },
+    {
+      "term": "Parallel",
+      "meaning": "Common Misspellings: Paralel   •   Parralel   •   Parellel",
+      "bengali": "সহায়ক / আনুষঙ্গিক"
+    },
+    {
+      "term": "Parliament",
+      "meaning": "Common Misspellings: Parliment   •   Parlament   •   Parliamant",
+      "bengali": "উপলব্ধিযোগ্য"
+    },
+    {
+      "term": "Perseverance",
+      "meaning": "Common Misspellings: Perseverence   •   Persaverance   •   Perserverance",
+      "bengali": "ব্যয়সংকোচন / বাজেট"
+    },
+    {
+      "term": "Possession",
+      "meaning": "Common Misspellings: Posession   •   Possesion   •   Possesssion",
+      "bengali": "পঞ্জিকা / ক্যালেন্ডার"
+    },
+    {
+      "term": "Prejudice",
+      "meaning": "Common Misspellings: Predjudice   •   Prejudise   •   Prejuduce",
+      "bengali": "ক্যাম্পেইন / প্রচারণা"
+    },
+    {
+      "term": "Privilege",
+      "meaning": "Common Misspellings: Priviledge   •   Privelege   •   Privilage",
+      "bengali": "বাতিলকরণ"
+    },
+    {
+      "term": "Pronunciation",
+      "meaning": "Common Misspellings: Pronounciation   •   Pronunciaton   •   Pronuciation",
+      "bengali": "সহনশীলতা / ক্ষমতা"
+    },
+    {
+      "term": "Questionnaire",
+      "meaning": "Common Misspellings: Questionaire   •   Quesstionnaire   •   Questionnare",
+      "bengali": "বিভাগ / শ্রেণী"
+    },
+    {
+      "term": "Receive",
+      "meaning": "Common Misspellings: Recieve   •   Receeve   •   Receve",
+      "bengali": "সঙ্গীতদল"
+    },
+    {
+      "term": "Recommend",
+      "meaning": "Common Misspellings: Reccomend   •   Recomend   •   Recomment",
+      "bengali": "চক্রাকার"
+    },
+    {
+      "term": "Reference",
+      "meaning": "Common Misspellings: Refrence   •   Referance   •   Refference",
+      "bengali": "সহবাস / সহাবস্থান"
+    },
+    {
+      "term": "Rendezvous",
+      "meaning": "Common Misspellings: Rendezvouz   •   Rendevous   •   Rendezvus",
+      "bengali": "সম্মিলিত / সমবেত"
+    },
+    {
+      "term": "Restaurant",
+      "meaning": "Common Misspellings: Resturant   •   Restarant   •   Restraunt",
+      "bengali": "কমিশন / প্রতিনিধি দল"
+    },
+    {
+      "term": "Rhythm",
+      "meaning": "Common Misspellings: Rythm   •   Rhythem   •   Rhytm",
+      "bengali": "উৎসর্গীকৃত / প্রতিশ্রুতিবদ্ধ"
+    },
+    {
+      "term": "Schedule",
+      "meaning": "Common Misspellings: Schedual   •   Shedule   •   Scedule",
+      "bengali": "তুলনাযোগ্য"
+    },
+    {
+      "term": "Secretary",
+      "meaning": "Common Misspellings: Secratary   •   Secretery   •   Sekretary",
+      "bengali": "প্রতিযোগিতামূলক"
+    },
+    {
+      "term": "Separate",
+      "meaning": "Common Misspellings: Seperate   •   Separete   •   Sepparate",
+      "bengali": "অভিযোগকারী"
+    },
+    {
+      "term": "Succeed",
+      "meaning": "Common Misspellings: Succede   •   Suceed   •   Sucseed",
+      "bengali": "গঠনগত / যৌগিক"
+    },
+    {
+      "term": "Supersede",
+      "meaning": "Common Misspellings: Supercede   •   Superceed   •   Supersead",
+      "bengali": "স্বীকারোক্তি"
+    },
+    {
+      "term": "Tomorrow",
+      "meaning": "Common Misspellings: Tommorow   •   Tomorow   •   Tommorrow",
+      "bengali": "অভিনন্দন"
+    },
+    {
+      "term": "Wednesday",
+      "meaning": "Common Misspellings: Wensday   •   Wedensday   •   Wenesday",
+      "bengali": "অনুকূল / উপযোগী"
+    },
+    {
+      "term": "Weird",
+      "meaning": "Common Misspellings: Wierd   •   Weerd   •   Wierde",
+      "bengali": "অদ্ভুত / অলৌকিক"
+    }
+  ]
+}

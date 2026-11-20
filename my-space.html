@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Space · WBPSC Clerkship English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/test.css">
+  <script>
+    try {
+      document.documentElement.dataset.theme = JSON.parse(localStorage.getItem("wbpsc-theme") || '"light"');
+    } catch(e) {
+      document.documentElement.dataset.theme = "light";
+    }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+  <main id="main" class="page">
+    <header class="page-header">
+      <p class="eyebrow">Personal Learning Hub</p>
+      <h1>My Space</h1>
+      <p>Review your mistakes, revisit bookmarked questions, monitor chapter progress, and track accuracy.</p>
+    </header>
+
+    <section class="grid dashboard-grid" aria-label="Personal Metrics">
+      <article class="card metric">
+        <span>Questions Attempted</span>
+        <strong id="answered-value">0</strong>
+      </article>
+      <article class="card metric">
+        <span>Overall Accuracy</span>
+        <strong id="accuracy-value">—</strong>
+      </article>
+      <article class="card metric">
+        <span>Mistake Notebook</span>
+        <strong id="mistake-count">0</strong>
+      </article>
+      <article class="card metric">
+        <span>Active Bookmarks</span>
+        <strong id="bookmarks-count">0</strong>
+      </article>
+    </section>
+
+    <!-- Mistake Notebook Section -->
+    <section class="card" style="margin-bottom:1.5rem;">
+      <div class="section-heading">
+        <div>
+          <h2>Mistake Notebook</h2>
+          <p style="color:var(--muted); margin:0.25rem 0 0;">Questions answered incorrectly during practice and tests are automatically logged here.</p>
+        </div>
+      </div>
+      <div id="mistake-root" style="margin-top:1rem;" aria-live="polite">
+        <p class="loading">Loading mistake notebook…</p>
+      </div>
+    </section>
+
+    <!-- Bookmarks Section -->
+    <section class="card" style="margin-bottom:1.5rem;">
+      <h2>Bookmarked Questions</h2>
+      <p style="color:var(--muted); margin-bottom:1rem;">Questions you marked for revision during practice.</p>
+      <div id="bookmarks-root"></div>
+    </section>
+
+    <!-- Recent Test Results -->
+    <section class="card" style="margin-bottom:1.5rem;">
+      <h2>Recent Mock Test Results</h2>
+      <div id="test-history" style="margin-top:0.75rem;"></div>
+    </section>
+
+    <!-- Weak Topics -->
+    <section class="card" style="margin-bottom:1.5rem;">
+      <h2>Weak Topics (< 60% accuracy)</h2>
+      <p style="color:var(--muted); margin-bottom:0.75rem;">Topics requiring focused revision based on your test performances:</p>
+      <div id="weak-topics"></div>
+    </section>
+
+    <!-- Favourite Notes -->
+    <section class="card">
+      <h2>Favourite Chapter Notes</h2>
+      <div id="favourite-root" style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-top:0.75rem;"></div>
+    </section>
+  </main>
+
+  <script src="js/storage.js"></script>
+  <script src="js/bookmarks.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/analytics.js"></script>
+  <script src="js/mistake-notebook.js"></script>
+  <script>
+    (() => {
+      // 1. Metrics
+      const attempts = WBPSCStorage.get("wbpsc-attempts", []) || [];
+      document.querySelector("#answered-value").textContent = attempts.length;
+      if (attempts.length > 0) {
+        const correct = attempts.filter(a => a.correct).length;
+        document.querySelector("#accuracy-value").textContent = Math.round((correct / attempts.length) * 100) + "%";
+      }
+
+      const wrong = WBPSCStorage.get("wbpsc-wrong", []) || [];
+      document.querySelector("#mistake-count").textContent = wrong.length;
+
+      const bookmarks = WBPSCBookmarks.get();
+      const qBookmarks = bookmarks.filter(b => b.startsWith("q-"));
+      document.querySelector("#bookmarks-count").textContent = qBookmarks.length;
+
+      // 2. Test History
+      const testResults = WBPSCStorage.get("wbpsc-test-results", []) || [];
+      const testHistory = document.querySelector("#test-history");
+      if (testResults.length > 0) {
+        testHistory.innerHTML = testResults.slice(-5).reverse().map(result => `
+          <article class="card" style="background:var(--bg); margin-bottom:0.75rem; border:1px solid var(--border);">
+            <div class="meta-row">
+              <span class="badge" style="text-transform:capitalize;">${result.category || "Test"}</span>
+              <span class="badge">${result.correct} / ${result.total} Correct</span>
+              <span class="badge">Accuracy: ${result.accuracy}%</span>
+            </div>
+            <p style="margin:0.5rem 0;"><strong>Score:</strong> ${result.score} pts · <strong>Duration:</strong> ${Math.floor(result.timeSec / 60)}m ${result.timeSec % 60}s · <em>${new Date(result.date).toLocaleDateString()}</em></p>
+            <a class="btn secondary" href="result.html">View Detailed Solutions</a>
+          </article>
+        `).join("");
+      } else {
+        testHistory.innerHTML = '<p class="notice">No completed tests yet. <a href="mock-tests.html" style="font-weight:700; color:var(--primary);">Take a Mock Test</a> to evaluate your readiness.</p>';
+      }
+
+      // 3. Weak Topics
+      const weakTopicsMap = new Map();
+      testResults.forEach(result => {
+        Object.entries(result.byTopic || {}).forEach(([key, topic]) => {
+          const prev = weakTopicsMap.get(key) || { title: topic.title || key, correct: 0, total: 0 };
+          prev.correct += topic.correct;
+          prev.total += topic.total;
+          weakTopicsMap.set(key, prev);
+        });
+      });
+      const weakList = [...weakTopicsMap.values()].filter(t => t.total >= 2 && (t.correct / t.total) < 0.6);
+      const weakContainer = document.querySelector("#weak-topics");
+      if (weakList.length > 0) {
+        weakContainer.innerHTML = weakList.map(t => `
+          <span class="badge" style="background:var(--danger-soft); color:var(--danger); padding:0.4rem 0.8rem; font-size:0.9rem;">
+            ⚠️ ${t.title} (${Math.round((t.correct / t.total) * 100)}% accuracy)
+          </span>
+        `).join(" ");
+      } else {
+        weakContainer.innerHTML = '<p>No critical weak topics identified. Keep practicing!</p>';
+      }
+
+      // 4. Favourite Notes
+      const favouriteNotes = bookmarks.filter(id => id.startsWith("chapter-"));
+      const favRoot = document.querySelector("#favourite-root");
+      if (favouriteNotes.length > 0) {
+        favRoot.innerHTML = favouriteNotes.map(id => {
+          const chId = id.replace("chapter-", "");
+          return `<a class="btn secondary" href="chapter.html?id=${encodeURIComponent(chId)}">📖 Chapter: ${chId.toUpperCase()}</a>`;
+        }).join(" ");
+      } else {
+        favRoot.innerHTML = '<p>No favourite notes saved yet. Click "☆ Add to favourites" inside any chapter to pin it here.</p>';
+      }
+
+      // 5. Render Bookmarked Questions
+      async function renderBookmarks() {
+        const bRoot = document.querySelector("#bookmarks-root");
+        if (qBookmarks.length === 0) {
+          bRoot.innerHTML = '<p>No questions bookmarked yet. During practice, click the star (☆) button on any question to bookmark it.</p>';
+          return;
+        }
+
+        try {
+          const resp = await fetch("data/all-questions.json");
+          const all = await resp.json();
+          const targetIds = new Set(qBookmarks.map(b => b.replace("q-", "")));
+          const matched = all.filter(q => targetIds.has(q.id));
+
+          if (matched.length > 0) {
+            bRoot.innerHTML = matched.map(q => `
+              <article class="card" style="background:var(--bg); border:1px solid var(--border); margin-bottom:0.75rem;">
+                <div class="meta-row">
+                  <span class="badge">${q.chapterTitle || q.chapter}</span>
+                  <span class="badge">${q.difficulty}</span>
+                </div>
+                <h3 style="font-size:1.05rem; margin:0.35rem 0;">${q.question}</h3>
+                <p style="margin:0 0 0.5rem; font-size:0.95rem;"><strong>Correct Answer:</strong> <span style="color:var(--success); font-weight:700;">${q.options[q.answer]}</span></p>
+                <div style="display:flex; gap:0.5rem;">
+                  <a class="btn primary" href="chapter.html?id=${encodeURIComponent(q.chapter)}">Study Chapter</a>
+                  <button class="btn secondary unbkm-btn" data-id="q-${q.id}">Remove Bookmark</button>
+                </div>
+              </article>
+            `).join("");
+
+            bRoot.querySelectorAll(".unbkm-btn").forEach(btn => {
+              btn.addEventListener("click", () => {
+                WBPSCBookmarks.toggle(btn.dataset.id);
+                location.reload();
+              });
+            });
+          } else {
+            bRoot.innerHTML = '<p>No matching questions found.</p>';
+          }
+        } catch (e) {
+          bRoot.innerHTML = '<p>Unable to load bookmarked questions.</p>';
+        }
+      }
+      renderBookmarks();
+    })();
+  </script>
+</body>
+</html>

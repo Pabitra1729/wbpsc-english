@@ -1,0 +1,90 @@
+{
+  "id": "g12",
+  "title": "Modal Auxiliaries & Past Modals",
+  "intro": "Modal auxiliary verbs express modality such as ability, permission, obligation, possibility, advice, and deduction. In the WBPSC Clerkship examination, questions test modal nuances (may vs can, must vs should), semi-modals (used to, dare, need), and perfect modals (should have, could have, must have, would have) expressing unfulfilled past obligations or conjectures.",
+  "bengali": "Modal Auxiliaries হলো বিশেষ ধরনের সাহায্যকারী ক্রিয়া যা বক্তার মনোভাব—যেমন সামর্থ্য (Ability), অনুমতি (Permission), সম্ভাবনা (Possibility), বাধ্যবাধকতা (Obligation), অথবা পরামর্শ (Advice) প্রকাশ করে।\n\nWBPSC Clerkship পরীক্ষায় Modal থেকে যেসব প্রশ্ন বারবার আসে:\n১. Can বনাম May:\n   - Can: শারীরিক বা মানসিক সামর্থ্য (Ability) বোঝায়। যেমন: 'I can swim across the river.'\n   - May: আনুষ্ঠানিক অনুমতি (Permission) এবং সম্ভাবনা (Possibility) বোঝায়। যেমন: 'May I come in, Sir?', 'It may rain today.'\n২. 'Used to' বনাম 'Be used to + V-ing':\n   - Used to + V1: অতীতের অভ্যাস যা বর্তমানে আর নেই। যেমন: 'He used to smoke' (সে ধূমপান করত, এখন করে না)।\n   - Be used to / Get used to + V-ing: কোনো কাজে অভ্যস্ত হওয়া। যেমন: 'He is used to working under pressure.'\n৩. Semi-modals: 'Dare' এবং 'Need':\n   - Negative ও Interrogative বাক্যে এরা যখন Modal হিসেবে বসে, তখন এদের সাথে 's' বসে না এবং এদের পরে 'to' ছাড়া Bare Infinitive বসে। যেমন: 'He need not worry' (NOT: needs not), 'How dare you speak like this?'\n৪. Past Modals (অতীতের অপূর্ণ কাজ বা অনুমান):\n   - Should have + V3: অতীতে করা উচিত ছিল কিন্তু করা হয়নি। যেমন: 'You should have verified the file' (তোমার ফাইলটি যাচাই করা উচিত ছিল)।\n   - Could have + V3: অতীতে করার সামর্থ্য ছিল কিন্তু করা হয়নি। যেমন: 'He could have won the prize.'\n   - Must have + V3: অতীতে কোনো কাজ নিশ্চিতভাবে ঘটেছিল বলে অনুমান। যেমন: 'The thief must have entered through the window.'",
+  "rules": [
+    {
+      "rule": "CAN expresses inherent ability or capacity; MAY expresses permission or realistic factual possibility.",
+      "examples": [
+        "Ability: She can draft official notices in both English and Bengali fluently.",
+        "Permission: You may leave the office early today as your work is complete.",
+        "Possibility: The clerkship notification may be announced this week."
+      ],
+      "exceptions": [
+        "In informal spoken English, 'can' is often used for permission, but standard WBPSC exam grammar strictly reserves 'May' for permission."
+      ]
+    },
+    {
+      "rule": "'USED TO' followed by BARE INFINITIVE denotes past discontinued habits; 'BE / GET USED TO' followed by GERUND (-ing) denotes familiarity/adaptation.",
+      "examples": [
+        "Past Habit: He used to commute by tram when he lived in North Kolkata (Past habit, now discontinued).",
+        "Familiarity: He is used to working in high-pressure administrative environments (Accustomed to, takes -ing).",
+        "Adaptation: You will soon get used to drafting official minutes."
+      ],
+      "exceptions": [
+        "Notice the difference: 'used to + V1' vs 'be/is/are + used to + V-ing'."
+      ]
+    },
+    {
+      "rule": "DARE and NEED as Modal Auxiliaries in negative and interrogative sentences take BARE INFINITIVES without 'to' and never take '-s' with third-person singular.",
+      "examples": [
+        "He need not submit the application again (NOT: needs not, and NOT: need not to submit).",
+        "How dare you challenge the committee's decision? (Bare infinitive 'challenge').",
+        "Need I attend the disciplinary hearing?"
+      ],
+      "exceptions": [
+        "When used as MAIN VERBS, they take standard conjugation and full infinitives with 'to': 'He does not need to worry', 'She dared to question the order'."
+      ]
+    },
+    {
+      "rule": "PERFECT MODALS expressing past regrets, unfulfilled obligations, and deductions:",
+      "examples": [
+        "Should have + V3: You should have informed the magistrate immediately (Duty expected but not performed).",
+        "Could have + V3: He could have cleared the exam with disciplined study (Capacity existed, but was not realized).",
+        "Must have + V3: The miscreants must have escaped under the cover of darkness (Strong logical past deduction).",
+        "Need not have + V3: You need not have purchased a second copy of the book (Action done unnecessarily)."
+      ],
+      "exceptions": [
+        "'Didn't need to' means the action was unnecessary and was NOT done; 'Need not have + V3' means the action was done unnecessarily."
+      ]
+    },
+    {
+      "rule": "'MUST' expresses internal compulsion, strict necessity, or logical certainty; 'SHOULD' / 'OUGHT TO' expresses moral duty or advisory recommendations.",
+      "examples": [
+        "Strict necessity: Candidates must carry their admit cards into the hall.",
+        "Moral duty: Citizens ought to respect national symbols.",
+        "Advice: You should revise error detection rules thoroughly."
+      ],
+      "exceptions": [
+        "'Ought to' is always followed by 'to', whereas 'must' and 'should' are never followed by 'to'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'He needs not go there' instead of 'He need not go there' (modal need never adds 's').",
+    "Writing 'He is used to wake up early' instead of 'He is used to waking up early' (be used to takes -ing).",
+    "Saying 'Can I come in, Sir?' instead of 'May I come in, Sir?' (formal permission takes may).",
+    "Writing 'You should have inform me' instead of 'You should have informed me' (perfect modals take V3).",
+    "Writing 'He ought respect his elders' instead of 'He ought to respect his elders' (ought requires to)."
+  ],
+  "examTricks": [
+    "The 'Need Not' Test: Never allow an 's' on 'need not' (e.g., 'he need not', NOT 'he needs not').",
+    "The 'Used To' Duality: Verb to-be + used to = V-ING. Just 'used to' = V1.",
+    "The 'Past Regret' Formula: Should have / Could have + V3.",
+    "The 'Lest' Connection: 'Lest' is uniquely accompanied by the modal 'SHOULD'."
+  ],
+  "memoryTricks": [
+    "BE used to takes ING (Being accustomed).",
+    "NEED NOT has NO S and NO TO."
+  ],
+  "revision": [
+    "May = Permission & Possibility; Can = Ability & Capacity.",
+    "Used to + V1 (discontinued past habit).",
+    "Is/Are used to + V-ing (accustomed).",
+    "Need not / Dare not + Bare Infinitive (no 's', no 'to').",
+    "Should have + V3 (unfulfilled past obligation).",
+    "Must have + V3 (strong past logical deduction).",
+    "Ought to + V1 (moral duty)."
+  ]
+}

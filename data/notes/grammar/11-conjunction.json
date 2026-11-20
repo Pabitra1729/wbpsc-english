@@ -1,0 +1,102 @@
+{
+  "id": "g11",
+  "title": "Conjunctions & Correlative Pairs",
+  "intro": "Conjunctions connect words, phrases, or clauses, establishing logical relationships of addition, contrast, cause, condition, or choice. In the WBPSC Clerkship examination, questions primarily test correlative conjunction pairs, grammatical parallelism across joined elements, and the strict omission of redundant negatives with 'unless', 'until', and 'lest'.",
+  "bengali": "Conjunction বা সংযোজক অব্যয় হলো এমন শব্দ যা দুটি শব্দ, বাক্য বা বাক্যাংশকে যুক্ত করে।\n\nWBPSC Clerkship পরীক্ষায় Conjunction থেকে যেসব প্রশ্ন বারবার আসে:\n১. Correlative Conjunction জোড়া (Fixed Pairs):\n   - Neither... NOR (কখনো or হবে না)\n   - Either... OR\n   - Not only... BUT ALSO\n   - Scarcely / Hardly... WHEN (কখনো than হবে না)\n   - No sooner... THAN (কখনো when বা then হবে না)\n   - Although / Though... YET (কখনো but হবে না)\n   - Between... AND (কখনো to হবে না)\n   - From... TO\n২. 'Lest'-এর সাথে 'SHOULD': 'Lest' মানে 'পাছে ঘটে' বা 'যাতে না হয়'। এর সাথে সর্বদা 'should' বসে এবং এর সাথে কখনো 'not' বসে না (কারণ lest নিজেই নেতিবাচক)। যেমন: 'Walk carefully lest you should stumble' (NOT: lest you should not stumble).\n৩. Unless বনাম Until:\n   - Unless = শর্ত বোঝায় (If not)। এর নিজস্ব ক্লজে কখনো 'not' বসে না। যেমন: 'Unless you work hard, you cannot pass.'\n   - Until = সময় নির্দেশ করে (Up to the time when)। এর নিজস্ব ক্লজেও কখনো 'not' বসে না। যেমন: 'Wait until I return.'\n৪. 'As if' / 'As though' (অবাস্তব কল্পনা): এর পরে সর্বদা 'were' বসে। যেমন: 'He speaks as if he were the boss.'",
+  "rules": [
+    {
+      "rule": "Correlative conjunction pairs are STRICT and INVIOLABLE in standard examination English:",
+      "examples": [
+        "Neither is paired with NOR (NOT: or).",
+        "Either is paired with OR (NOT: nor).",
+        "Not only is paired with BUT ALSO.",
+        "Hardly / Scarcely is paired with WHEN (NOT: than or then).",
+        "No sooner is paired with THAN (NOT: when or then).",
+        "Although / Though is paired with YET or a comma (NOT: but)."
+      ],
+      "exceptions": [
+        "Never mix the pairs: 'Hardly had he arrived than' is INCORRECT; it must be 'Hardly... when'."
+      ]
+    },
+    {
+      "rule": "'LEST' expresses fear of an adverse consequence and is MANDATORILY followed by 'SHOULD'. It NEVER takes 'not'.",
+      "examples": [
+        "Run fast lest you should miss the train (NOT: lest you should not miss).",
+        "Check the voter records thoroughly lest any discrepancy should arise.",
+        "Speak softly lest someone should overhear our strategy."
+      ],
+      "exceptions": [
+        "In archaic or subjunctive English, the bare subjunctive (V1) is occasionally used without 'should', but 'not' remains strictly forbidden."
+      ]
+    },
+    {
+      "rule": "UNLESS expresses CONDITION ('if not'); UNTIL expresses TIME ('up to the point when'). Neither permits a negative word inside its clause.",
+      "examples": [
+        "Condition: You will not qualify unless you prepare systematically (NOT: unless you do not prepare).",
+        "Time: Please wait in the office until the commissioner arrives (NOT: until he does not arrive).",
+        "Unless the rain stops, the match cannot resume."
+      ],
+      "exceptions": [
+        "The main clause outside the unless/until clause can and often does contain negatives: 'He will not leave until I return'."
+      ]
+    },
+    {
+      "rule": "Parallelism with 'NOT ONLY... BUT ALSO', 'EITHER... OR', 'NEITHER... NOR': Both parts of the pair must precede the SAME PART OF SPEECH.",
+      "examples": [
+        "Incorrect: He not only lost his ticket but also his luggage (Verb + Noun).",
+        "Correct: He lost not only his ticket but also his luggage (Noun + Noun).",
+        "Correct: She can not only sing melodiously but also dance gracefully (Verb + Verb)."
+      ],
+      "exceptions": [
+        "Always balance the structure: if 'but also' precedes a noun, 'not only' must precede a noun."
+      ]
+    },
+    {
+      "rule": "Connecting time ranges and relationships: 'BETWEEN' is paired with 'AND'; 'FROM' is paired with 'TO'.",
+      "examples": [
+        "The interview will take place between 10:00 AM and 1:00 PM (NOT: between 10:00 AM to 1:00 PM).",
+        "The office remains open from 9:30 AM to 5:00 PM."
+      ],
+      "exceptions": [
+        "Never write 'between 10 AM to 2 PM'—always use 'between... and'."
+      ]
+    },
+    {
+      "rule": "'AS IF' and 'AS THOUGH' introduce unreal hypothetical comparisons and require the PAST SUBJUNCTIVE ('were' for all subjects).",
+      "examples": [
+        "He behaves as if he were the district magistrate (NOT: as if he was / is).",
+        "She talks as though she knew every secret in the secretariat."
+      ],
+      "exceptions": [
+        "If the comparison expresses a realistic possibility, indicative mood is acceptable: 'It looks as if it is going to rain'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Hardly had I left than it rained' instead of 'Hardly had I left when it rained' (hardly takes when).",
+    "Writing 'No sooner did he see the police when he ran' instead of 'than he ran' (no sooner takes than).",
+    "Writing 'Walk carefully lest you should not fall' instead of 'lest you should fall' (lest is already negative).",
+    "Writing 'Between 2:00 PM to 4:00 PM' instead of 'Between 2:00 PM and 4:00 PM' (between pairs with and).",
+    "Writing 'Unless you do not hurry, you will be late' instead of 'Unless you hurry' (unless already contains 'not')."
+  ],
+  "examTricks": [
+    "The Pair Alignment Test: Check the second half first. If you see 'THAN', the first must be 'NO SOONER'. If you see 'WHEN', the first must be 'HARDLY/SCARCELY'.",
+    "The 'Lest' Formula: Lest + Subject + SHOULD + V1 (Zero 'not').",
+    "The 'Between' Formula: Between + X + AND + Y (never 'to').",
+    "The Parallelism Check: Look at what immediately follows 'but also'—the identical part of speech must follow 'not only'."
+  ],
+  "memoryTricks": [
+    "NO SOONER loves THAN (both have 'N').",
+    "HARD-LY and SCARCE-LY love WHEN (all end in 'N' sound).",
+    "LEST needs SHOULD, no 'NOT' allowed."
+  ],
+  "revision": [
+    "No sooner... THAN; Hardly / Scarcely... WHEN.",
+    "Not only... BUT ALSO; Either... OR; Neither... NOR.",
+    "Although / Though... YET (never 'but').",
+    "Lest + Subject + SHOULD + V1 (no 'not').",
+    "Unless = Condition (no 'not'); Until = Time (no 'not').",
+    "Between... AND; From... TO.",
+    "As if / As though + were (hypothetical)."
+  ]
+}

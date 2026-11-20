@@ -1,0 +1,812 @@
+[
+  {
+    "id": "v07-001",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: Please ___ the invitation.",
+    "options": [
+      "accept",
+      "except",
+      "expect",
+      "access"
+    ],
+    "answer": 0,
+    "explanation": "Accept means to receive or agree to; it is the verb needed here.",
+    "rule": "Accept/except",
+    "bengaliHint": "গ্রহণ করা."
+  },
+  {
+    "id": "v07-002",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: She gave me good ___.",
+    "options": [
+      "advise",
+      "advice",
+      "advises",
+      "advising"
+    ],
+    "answer": 1,
+    "explanation": "Advice is the noun meaning a suggestion or recommendation.",
+    "rule": "Advice/adviser",
+    "bengaliHint": "noun—advice."
+  },
+  {
+    "id": "v07-003",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: The sun may ___ the crop.",
+    "options": [
+      "effect",
+      "affect",
+      "affection",
+      "effective"
+    ],
+    "answer": 1,
+    "explanation": "Affect is usually a verb meaning to influence.",
+    "rule": "Affect/effect",
+    "bengaliHint": "influence করা."
+  },
+  {
+    "id": "v07-004",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: The shirt has become ___.",
+    "options": [
+      "lose",
+      "loose",
+      "loss",
+      "loosely"
+    ],
+    "answer": 1,
+    "explanation": "Loose is an adjective meaning not tight.",
+    "rule": "Lose/loose",
+    "bengaliHint": "খুলা বা ঢিলেঢালা."
+  },
+  {
+    "id": "v07-005",
+    "chapter": "v07",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The heavy monsoon rainfall will greatly ___ the rice harvest.",
+    "options": [
+      "effect",
+      "affect",
+      "effective",
+      "affected"
+    ],
+    "answer": 1,
+    "explanation": "'Affect' is typically a verb meaning to influence or produce a change in. 'Effect' is usually a noun meaning the result.",
+    "rule": "Affect (verb: influence) vs Effect (noun: result)",
+    "bengaliHint": "প্রভাবিত করা (Verb) হিসেবে 'affect' বসে।"
+  },
+  {
+    "id": "v07-006",
+    "chapter": "v07",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The teacher gave the students sound ___ on time management.",
+    "options": [
+      "advise",
+      "advice",
+      "advises",
+      "advising"
+    ],
+    "answer": 1,
+    "explanation": "'Advice' is an uncountable noun (the counsel given). 'Advise' is the verb (the act of giving counsel).",
+    "rule": "Advice (noun) vs Advise (verb)",
+    "bengaliHint": "উপদেশ (Noun) হিসেবে 'advice' বসে; উপদেশ দেওয়া (Verb) হলো 'advise'।"
+  },
+  {
+    "id": "v07-007",
+    "chapter": "v07",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The judge was praised for being completely ___, showing neither bias nor personal favoritism.",
+    "options": [
+      "uninterested",
+      "disinterested",
+      "indifferent",
+      "apathetic"
+    ],
+    "answer": 1,
+    "explanation": "'Disinterested' means impartial and unbiased. 'Uninterested' means not interested or bored.",
+    "rule": "Disinterested (impartial) vs Uninterested (not interested)",
+    "bengaliHint": "নিরপেক্ষ ও পক্ষপাতহীন বিচারক বোঝাতে 'disinterested' বসে।"
+  },
+  {
+    "id": "v07-008",
+    "chapter": "v07",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "You must ___ yourself to the new workplace environment.",
+    "options": [
+      "adopt",
+      "adapt",
+      "adept",
+      "adopts"
+    ],
+    "answer": 1,
+    "explanation": "'Adapt' means to adjust to new conditions. ('Adopt' means to take up/embrace; 'adept' means proficient).",
+    "rule": "Adapt (adjust) vs Adopt (take up) vs Adept (skilled)",
+    "bengaliHint": "পরিবেশের সাথে মানিয়ে নেওয়া অর্থে 'adapt' বসে।"
+  },
+  {
+    "id": "v07-009",
+    "chapter": "v07",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The police discovered an ___ consignment of arms hidden in the lorry.",
+    "options": [
+      "illicit",
+      "elicit",
+      "explicit",
+      "elicitous"
+    ],
+    "answer": 0,
+    "explanation": "'Illicit' means forbidden by law, illegal. ('Elicit' is a verb meaning to evoke or draw out a response).",
+    "rule": "Illicit (illegal, adjective) vs Elicit (draw out, verb)",
+    "bengaliHint": "বেআইনি বা নিষিদ্ধ বোঝাতে 'illicit' বসে।"
+  },
+  {
+    "id": "v07-010",
+    "chapter": "v07",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Integrity is a fundamental ___ of civil administration.",
+    "options": [
+      "principal",
+      "principle",
+      "principality",
+      "principled"
+    ],
+    "answer": 1,
+    "explanation": "'Principle' refers to a fundamental truth, rule, or moral standard. 'Principal' means chief, head, or capital sum.",
+    "rule": "Principle (moral rule) vs Principal (head / main)",
+    "bengaliHint": "নৈতিক আদর্শ বা নীতি বোঝাতে 'principle' বসে।"
+  },
+  {
+    "id": "v07-011",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-012",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-013",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-014",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-015",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  },
+  {
+    "id": "v07-016",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-017",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-018",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-019",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-020",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  },
+  {
+    "id": "v07-021",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-022",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-023",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-024",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-025",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  },
+  {
+    "id": "v07-026",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-027",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-028",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-029",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-030",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  },
+  {
+    "id": "v07-031",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-032",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-033",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-034",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-035",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  },
+  {
+    "id": "v07-036",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-037",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-038",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-039",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-040",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  },
+  {
+    "id": "v07-041",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I bought pens and envelopes from the local ___ shop.",
+    "options": [
+      "stationery",
+      "stationary",
+      "stationer",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
+    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
+    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+  },
+  {
+    "id": "v07-042",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The bus remained ___ at the traffic signal.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationing",
+      "station"
+    ],
+    "answer": 0,
+    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
+    "rule": "Stationary means motionless",
+    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+  },
+  {
+    "id": "v07-043",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "options": [
+      "complement",
+      "compliment",
+      "complimentary",
+      "complience"
+    ],
+    "answer": 0,
+    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
+    "rule": "Complement (enhances/completes) vs Compliment (praise)",
+    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+  },
+  {
+    "id": "v07-044",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He paid her a gracious ___ on her elegant attire.",
+    "options": [
+      "compliment",
+      "complement",
+      "complimentary",
+      "comply"
+    ],
+    "answer": 0,
+    "explanation": "'Compliment' means an expression of praise or admiration.",
+    "rule": "Compliment means praise",
+    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+  },
+  {
+    "id": "v07-045",
+    "chapter": "v07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The headmaster will not ___ of such indiscipline.",
+    "options": [
+      "hear",
+      "here",
+      "hare",
+      "heir"
+    ],
+    "answer": 0,
+    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
+    "rule": "Hear vs Here",
+    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+  }
+]

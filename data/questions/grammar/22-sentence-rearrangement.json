@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g22-001",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the opening: Rina lost her bag.  A. She searched at home.  B. Rina was worried.",
+    "options": [
+      "Rina lost her bag.",
+      "She searched at home.",
+      "Rina was worried.",
+      "There was no clue."
+    ],
+    "answer": 0,
+    "explanation": "The opening introduces the event; following sentences refer to Rina and the bag.",
+    "rule": "Opening sentence",
+    "bengaliHint": "প্রথমে ঘটনা পরিচিত করাবে."
+  },
+  {
+    "id": "g22-002",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the sentence that naturally follows: 'Amina reached the station.'",
+    "options": [
+      "She missed the train.",
+      "The station has platforms.",
+      "Trains carry passengers.",
+      "Water is important."
+    ],
+    "answer": 0,
+    "explanation": "The sentence develops the station event logically.",
+    "rule": "Coherence",
+    "bengaliHint": "station-এর সঙ্গে সম্পর্কযুক্ত."
+  },
+  {
+    "id": "g22-003",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct concluding sentence for: 'The road was flooded. The driver slowed down.'",
+    "options": [
+      "He drove faster.",
+      "He carefully crossed the water.",
+      "He bought a book.",
+      "The road was dry yesterday."
+    ],
+    "answer": 1,
+    "explanation": "The conclusion gives the safe action resulting from the flooded road.",
+    "rule": "Cause and result",
+    "bengaliHint": "বন্যার পর সমীকরণ."
+  },
+  {
+    "id": "g22-004",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which pronoun sentence follows 'The teacher entered.' naturally?",
+    "options": [
+      "He was tired.",
+      "She welcomed the students.",
+      "They welcomed the teacher.",
+      "No one knew."
+    ],
+    "answer": 2,
+    "explanation": "They can refer to the students that have not yet been named, but a more complete sequence would name them first. Here the clearest pronoun link is They welcomed the teacher.",
+    "rule": "Pronoun reference",
+    "bengaliHint": "teacher-এর পর natural chain."
+  },
+  {
+    "id": "g22-005",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the logical sequence marker.",
+    "options": [
+      "finally",
+      "nothing",
+      "neverwhere",
+      "becauseof"
+    ],
+    "answer": 0,
+    "explanation": "Finally signals the closing stage of a sequence.",
+    "rule": "Sequence connector",
+    "bengaliHint": "শেষ stage."
+  },
+  {
+    "id": "g22-006",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Arrange into a coherent sentence: P: without proper planning / Q: cannot achieve success / R: an aspirant / S: in competitive examinations",
+    "options": [
+      "R - P - Q - S",
+      "R - P - S - Q",
+      "P - R - Q - S",
+      "Q - S - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Logical sequence: Subject (R: An aspirant) + Condition (P: without proper planning) + Verb phrase (Q: cannot achieve success) + Prepositional phrase (S: in competitive examinations) -> R-P-Q-S.",
+    "rule": "Subject + Modifier + Predicate + Context",
+    "bengaliHint": "Subject (An aspirant) দিয়ে শুরু করে ক্রমান্বয়ে সাজান।"
+  },
+  {
+    "id": "g22-007",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Arrange into a coherent sentence: P: was awarded the gold medal / Q: for her exceptional research / R: in environmental biotechnology / S: the young scientist",
+    "options": [
+      "S - P - Q - R",
+      "S - Q - R - P",
+      "P - S - Q - R",
+      "Q - R - S - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (S: The young scientist) + Passive verb (P: was awarded the gold medal) + Cause (Q: for her exceptional research) + Field (R: in environmental biotechnology) -> S-P-Q-R.",
+    "rule": "Subject + Passive Verb + Purpose phrase + Domain",
+    "bengaliHint": "প্রথমে Subject (The young scientist), তারপর ক্রিয়া (was awarded)।"
+  },
+  {
+    "id": "g22-008",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Arrange into a coherent sentence: P: reading good books / Q: of personal wisdom / R: the surest source / S: has always been",
+    "options": [
+      "P - S - R - Q",
+      "R - Q - P - S",
+      "S - P - R - Q",
+      "P - R - S - Q"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P: Reading good books) + Verb (S: has always been) + Complement (R: the surest source) + Modifier (Q: of personal wisdom) -> P-S-R-Q.",
+    "rule": "Gerund Subject + Verb + Complement phrase",
+    "bengaliHint": "Gerund 'Reading good books' subject হিসেবে প্রথমে আসবে।"
+  },
+  {
+    "id": "g22-009",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Arrange into a coherent sentence: P: to protect wildlife / Q: strict laws / R: must be enforced / S: against poaching",
+    "options": [
+      "Q - S - R - P",
+      "P - Q - R - S",
+      "Q - R - S - P",
+      "R - S - Q - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q: Strict laws) + Modifier (S: against poaching) + Modal passive (R: must be enforced) + Infinitive purpose (P: to protect wildlife) -> Q-S-R-P.",
+    "rule": "Subject with post-modifier + Verb + Purpose infinitive",
+    "bengaliHint": "'Strict laws against poaching must be enforced to protect wildlife.'"
+  },
+  {
+    "id": "g22-010",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Arrange into a coherent sentence: P: neither wealth nor fame / Q: genuine inner peace / R: can purchase / S: for an individual",
+    "options": [
+      "P - R - Q - S",
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "S - P - R - Q"
+    ],
+    "answer": 0,
+    "explanation": "Correlative subject (P: Neither wealth nor fame) + Verb (R: can purchase) + Object (Q: genuine inner peace) + Prepositional phrase (S: for an individual) -> P-R-Q-S.",
+    "rule": "Compound Subject + Modal + Direct Object + Prepositional adjunct",
+    "bengaliHint": "'Neither wealth nor fame' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-011",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-012",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-013",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-014",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-015",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  },
+  {
+    "id": "g22-016",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-017",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-018",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-019",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-020",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  },
+  {
+    "id": "g22-021",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-022",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-023",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-024",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-025",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  },
+  {
+    "id": "g22-026",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-027",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-028",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-029",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-030",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  },
+  {
+    "id": "g22-031",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-032",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-033",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-034",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-035",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  },
+  {
+    "id": "g22-036",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-037",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-038",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-039",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-040",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  },
+  {
+    "id": "g22-041",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: the ancient monument / Q: tourists from across the globe / R: visit / S: every winter",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - P - Q - S",
+      "S - Q - R - P"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Verb (R) + Object (P) + Adverbial of time (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb + Object + Time modifier",
+    "bengaliHint": "Subject (tourists) দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": "g22-042",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: for maintaining health / Q: regular physical exercise / R: is essential / S: throughout life",
+    "options": [
+      "Q - R - P - S",
+      "P - Q - R - S",
+      "R - Q - P - S",
+      "S - P - Q - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (Q) + Linking Verb and Predicate (R) + Purpose (P) + Scope (S) -> Q-R-P-S.",
+    "rule": "Subject + Verb phrase + Prepositional adjuncts",
+    "bengaliHint": "ব্যায়ামের উপকারিতা বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-043",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: before submitting your paper / Q: examine every answer / R: thoroughly / S: in the examination hall",
+    "options": [
+      "Q - R - S - P",
+      "P - Q - R - S",
+      "S - P - Q - R",
+      "R - Q - P - S"
+    ],
+    "answer": 0,
+    "explanation": "Imperative verb (Q) + Adverb of manner (R) + Locational phrase (S) + Time clause (P) -> Q-R-S-P.",
+    "rule": "Imperative Verb + Manner + Place + Time",
+    "bengaliHint": "আদেশসূচক ক্রিয়া (examine) দিয়ে শুরু হবে।"
+  },
+  {
+    "id": "g22-044",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: environmental pollution / Q: to protect humanity / R: must be curtailed / S: from extinction",
+    "options": [
+      "P - R - Q - S",
+      "Q - S - P - R",
+      "R - P - Q - S",
+      "S - Q - P - R"
+    ],
+    "answer": 0,
+    "explanation": "Subject (P) + Modal Passive (R) + Infinitive purpose (Q) + Prepositional phrase (S) -> P-R-Q-S.",
+    "rule": "Subject + Passive Verb + Purpose clause",
+    "bengaliHint": "পরিবেশ দূষণ রোধের বিষয়ে সাজান।"
+  },
+  {
+    "id": "g22-045",
+    "chapter": "g22",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Rearrange the sentence: P: an educated mind / Q: without critical thinking / R: cannot attain / S: intellectual maturity",
+    "options": [
+      "P - Q - R - S",
+      "Q - P - R - S",
+      "R - S - P - Q",
+      "P - R - Q - S"
+    ],
+    "answer": 0,
+    "explanation": "Subject with post-modifier (P-Q) + Verb (R) + Object (S) -> P-Q-R-S.",
+    "rule": "Modified Subject + Negative Modal + Object",
+    "bengaliHint": "'An educated mind without critical thinking' দিয়ে শুরু।"
+  }
+]

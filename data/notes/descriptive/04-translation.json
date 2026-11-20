@@ -1,0 +1,77 @@
+{
+  "id": "d04",
+  "title": "Translation (Bengali to English)",
+  "intro": "Translation from Bengali to English in WBPSC Clerkship Part-II evaluates bilingual command, grammatical fidelity, tense concordance, and the ability to render Bengali idioms into natural, idiomatic English prose (typically 100-150 words carrying 15-20 marks). Literal word-by-word substitution results in broken English; true translation demands sentence restructuring and contextual equivalence.",
+  "bengali": "Translation (বাংলা থেকে ইংরেজি অনুবাদ): WBPSC Clerkship Part-II-র অন্যতম সর্বোচ্চ নম্বর তোলার জায়গা হলো অনুবাদ (১৫-২০ নম্বর)।\n\nআক্ষরিক অনুবাদের ফাঁদ এড়িয়ে পূর্ণাঙ্গ নম্বর পাওয়ার ৫টি বৈজ্ঞানিক কৌশল:\n১. ভাবানুবাদ বনাম আক্ষরিক অনুবাদ (Sense over Literal Translation):\n   শব্দ ধরে ধরে অনুবাদ (Word-by-word) করতে গেলে বাক্য অদ্ভুত ও ভুল শোনায়। যেমন: 'তার গায়ে জ্বর' -> 'Fever is on his body' সম্পূর্ণ ভুল; সঠিক হলো 'He has a fever' বা 'He is running a fever'।\n২. Tense ও Time-এর ধারাবাহিকতা বজায় রাখা:\n   প্যাসেজটি যদি অতীতের কোনো স্মৃতি বা গল্প হয়, তবে পুরো অনুবাদটি Past Tense-এ রাখতে হবে। মাঝপথে হুট করে Present Tense-এ যাওয়া যাবে না।\n৩. Passive ও নৈর্ব্যক্তিক বাংলা বাক্যের ইংরেজি:\n   বাংলায় আমরা বলি: 'বলা হয়ে থাকে যে...' -> 'It is said that...'; 'দেখা গেছে যে...' -> 'It has been observed that...'; 'তাকে শাস্তি দেওয়া হয়েছিল' -> 'He was punished'।\n৪. বহুল ব্যবহৃত বাংলা প্রবাদ ও বাগধারার ইংরেজি সমার্থ:\n   - 'যেমন কর্ম তেমন ফল' -> 'As you sow, so you reap.'\n   - 'চকচক করলেই সোনা হয় না' -> 'All that glitters is not gold.'\n   - 'বলা বাহুল্য যে' -> 'It goes without saying that...'\n   - 'সময়ের এক ফোঁড় অসময়ের দশ ফোঁড়' -> 'A stitch in time saves nine.'\n   - 'অতি চালাকের গলায় দড়ি' -> 'Too much cunning overreaches itself.'\n৫. যুক্তবাক্যকে ভেঙে সরল করা:\n   বাংলায় অনেক সময় একটি মাত্র বাক্যে ৪-৫টি শর্ত বা বাক্য জুড়ে দেওয়া থাকে। ইংরেজিতে অনুবাদ করার সময় প্রয়োজনে দীর্ঘ বাক্যটিকে দুটি স্পষ্ট, ব্যাকরণগতভাবে নির্ভুল বাক্যে বিভক্ত করে অনুবাদ করা অনেক বেশি নিরাপদ।",
+  "rules": [
+    {
+      "rule": "SENSE-FOR-SENSE TRANSLATION: Translate the underlying semantic thought rather than mechanical word-for-word replacement.",
+      "examples": [
+        "Bengali: 'সে সাঁতার কাটতে জানে।' -> Literal: 'He knows to swim' (Incorrect) -> Idiomatic: 'He knows HOW TO swim.'",
+        "Bengali: 'আজ খুব গরম পড়েছে।' -> Literal: 'Today very hot fell' (Nonsense) -> Idiomatic: 'It is very hot today.'",
+        "Bengali: 'আমি তাকে দশ বছর ধরে চিনি।' -> Idiomatic: 'I have known him for ten years' (Present Perfect for duration)."
+      ],
+      "exceptions": [
+        "Never translate word-by-word from Bengali syntax (Subject-Object-Verb) into English syntax (Subject-Verb-Object)."
+      ]
+    },
+    {
+      "rule": "SUBJECT RECONSTRUCTION WITH IMPERSONAL 'IT' AND 'THERE': Bengali sentences often omit an explicit grammatical subject; English requires an overt dummy subject.",
+      "examples": [
+        "Bengali: 'গাছে অনেক আম আছে।' -> 'THERE ARE many mangoes on the tree.'",
+        "Bengali: 'এখন সকাল আটটা বাজে।' -> 'IT IS eight o'clock in the morning now.'",
+        "Bengali: 'বৃষ্টি হচ্ছে।' -> 'IT IS raining.'"
+      ],
+      "exceptions": [
+        "English grammar forbids verbless sentences or sentences lacking an overt subject."
+      ]
+    },
+    {
+      "rule": "HANDLING BENGALI PASSIVE AND REPORTING CONSTRUCTIONS:",
+      "examples": [
+        "Bengali: 'বলা হয় যে সততাই সর্বোৎকৃষ্ট পন্থা।' -> 'It is said that honesty is the best policy.'",
+        "Bengali: 'দেখা গেছে যে পরিশ্রমী ছাত্ররাই সাফল্য লাভ করে।' -> 'It has been observed that diligent students achieve success.'",
+        "Bengali: 'তাকে এই বিষয়ে সতর্ক করা হয়েছিল।' -> 'He was warned regarding this matter.'"
+      ],
+      "exceptions": [
+        "Maintain the passive voice in English where the original Bengali expresses impersonal communal authority."
+      ]
+    },
+    {
+      "rule": "PROVERBIAL AND IDIOMATIC EQUIVALENTS IN WBPSC TRANSLATION:",
+      "examples": [
+        "Bengali: 'বলা বাহুল্য যে...' -> 'It goes without saying that...'",
+        "Bengali: 'যেমন কর্ম তেমন ফল' -> 'As you sow, so you reap.'",
+        "Bengali: 'গাছে কাঁঠাল গোঁফে তেল' -> 'To count one's chickens before they are hatched.'",
+        "Bengali: 'অল্পবিদ্যা ভয়ংকরী' -> 'A little learning is a dangerous thing.'"
+      ],
+      "exceptions": [
+        "Never attempt a literal translation of a proverb; always supply its recognized standard English cultural equivalent."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Translating 'আমি পরীক্ষা দেব' into 'I will give exam' (say 'I will take / sit for the exam').",
+    "Translating 'তার বয়স দশ বছর' into 'His age is ten years' (say 'He is ten years old').",
+    "Translating word-by-word leading to Bengali SOV word order instead of English SVO.",
+    "Switching from past tense to present tense haphazardly during paragraph translation.",
+    "Forgetting 'how to' with verbs of capability: saying 'I know to drive' instead of 'I know how to drive'."
+  ],
+  "examTricks": [
+    "The 'Know How To' Rule: Whenever you translate 'জানে' (সাঁতার কাটতে জানে, ড্রাইভ করতে জানে), always use 'knows HOW TO + V1'.",
+    "The Tense Continuity Check: Read your completed English translation aloud in your head. Check that all past tense verbs remain consistent.",
+    "The SVO Inversion: Bengali order is Subject -> Object -> Verb ('আমি [S] ভাত [O] খাই [V]'). English order is Subject -> Verb -> Object ('I [S] eat [V] rice [O]')."
+  ],
+  "memoryTricks": [
+    "English is S-V-O (Subject, Verb, Object).",
+    "Students TAKE exams; Teachers GIVE exams."
+  ],
+  "revision": [
+    "Translate sense, not isolated words.",
+    "English word order: Subject + Verb + Object.",
+    "Know how to swim / know how to drive.",
+    "Dummy subjects: It is raining; There are many trees.",
+    "Common idioms: It goes without saying that; As you sow, so you reap.",
+    "Keep narrative tenses consistent throughout."
+  ]
+}

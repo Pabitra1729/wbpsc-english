@@ -1,0 +1,87 @@
+{
+  "id": "g22",
+  "title": "Sentence Rearrangement (Para-Jumbles / PQRS)",
+  "intro": "Sentence Rearrangement (commonly designated PQRS or Para-Jumbles) evaluates logical coherence, sequential narrative understanding, and syntactic cohesion by requiring candidates to organize jumbled segments into a coherent, grammatically sound paragraph. In the WBPSC Clerkship examination, questions can be solved rapidly using elimination of non-openers, mandatory pair identification, and pronoun-noun chaining.",
+  "bengali": "Sentence Rearrangement (Para-Jumbles / PQRS): এই বিভাগে একটি অনুচ্ছেদকে ৪টি বা ৬টি এলোমেলো বাক্যে বা বাক্যাংশে (P, Q, R, S) ভাগ করে দেওয়া হয় এবং এদের সঠিক ধারাবাহিকতায় সাজাতে হয়।\n\nWBPSC Clerkship পরীক্ষায় Para-Jumbles দ্রুত ও নির্ভুলভাবে সমাধানের ৪টি মোক্ষম কৌশল:\n১. শুরুর বাক্যটি চিহ্নিতকরণ (Find the Mandatory Opener):\n   - যে বাক্যটি স্বাধীন (Independent), মূল বিষয়বস্তু বা বিষয়ের সংজ্ঞা দিয়ে শুরু হয়, সেটিই হবে শুরুর বাক্য।\n   - যেসব বাক্য Pronoun (he, she, it, they), Conjunction (but, and, so, therefore, however, although) দিয়ে শুরু হয়, তারা সাধারণত কখনোই প্রথম বাক্য হতে পারে না।\n২. Noun-Pronoun শৃঙ্খল (Noun-to-Pronoun Chain):\n   প্রথমে কোনো ব্যক্তির বা প্রতিষ্ঠানের নাম (Noun) থাকবে, তার পরের কোনো বাক্যে তার পরিবর্তে Pronoun (he, they, it) বসবে। যেমন: 'Rabindranath Tagore...' থাকবে আগে, আর 'He was awarded...' থাকবে পরে।\n৩. বাধ্যতামূলক জোড়া (Mandatory Pairs):\n   দুটি বাক্য সবসময় একসাথে থাকবে এমন জোড়া খুঁজুন। যেমন: কারণ ও ফলাফল (Cause and Effect), প্রশ্ন ও তার উত্তর, বা 'Not only... but also'-র দুই অংশ। যদি নিশ্চিত হন যে 'Q-র পর S হবে' (QS Pair), তবে অপশনগুলো দেখে যেগুলোতে QS নেই সেগুলো সরাসরি কেটে দিন (Eliminate)।\n৪. ক্রমানুযায়ী সময়ক্রম (Chronological Order):\n   অতীত থেকে বর্তমানের ঘটনাক্রম (যেমন: 1947 -> 1950 -> Today) লক্ষ্য করুন।",
+  "rules": [
+    {
+      "rule": "MANDATORY OPENER ELIMINATION: The opening sentence of an independent paragraph introduces the central theme and NEVER begins with dependent pronouns, transitional conjunctions, or contrast markers.",
+      "examples": [
+        "Invalid Openers: Sentences starting with 'However', 'Therefore', 'Furthermore', 'He', 'She', 'They', 'This', 'These'.",
+        "Valid Opener: A sentence introducing a proper noun, a historical event, or an overarching thematic definition.",
+        "Example: 'Mahatma Gandhi led the salt march in 1930' can be an opener; 'He defied the British salt monopoly' cannot be the opener."
+      ],
+      "exceptions": [
+        "In split-sentence arrangements where Sentence 1 and Sentence 6 are fixed, P, Q, R, S must grammatically complete Sentence 1."
+      ]
+    },
+    {
+      "rule": "NOUN-PRONOUN CHAINING: A noun must be formally established before any personal pronoun (he, she, it, they) can refer to it.",
+      "examples": [
+        "Sentence P: 'Dr. B.R. Ambedkar was the chief architect of the Indian Constitution.'",
+        "Sentence Q: 'He dedicated his life to establishing social justice.'",
+        "Mandatory Order: P must precede Q (P -> Q)."
+      ],
+      "exceptions": [
+        "In rare literary constructions, preparatory dummy pronouns like 'It' may appear in the first sentence: 'It is widely believed that...'"
+      ]
+    },
+    {
+      "rule": "MANDATORY PAIR (BLOCK) IDENTIFICATION: Identify two sentences that logically and grammatically must follow each other consecutively.",
+      "examples": [
+        "Cause & Effect Pair: If Sentence R details a flood and Sentence S details relief operations, R must immediately precede S (RS pair).",
+        "Correlative Pair: If Sentence P has 'Not only the state government', Sentence Q must contain 'but also the municipal corporation'.",
+        "Scan options for the block: If RS is your mandatory pair, instantly eliminate options that read SR, RPS, or QSR."
+      ],
+      "exceptions": [
+        "A mandatory pair drastically narrows down choices from 4 options to usually 1 or 2 immediately."
+      ]
+    },
+    {
+      "rule": "CHRONOLOGICAL AND NARRATIVE PROGRESSION: Events must align with the natural forward flow of time or logical causality.",
+      "examples": [
+        "Chronological markers: First -> Then -> Next -> Afterwards -> Finally.",
+        "Historical years: In 1914 -> During the war -> After the armistice in 1918.",
+        "Problem-Solution order: Stating the crisis -> Deliberating measures -> Implementing the resolution."
+      ],
+      "exceptions": [
+        "Flashback narratives occasionally occur, but standard WBPSC Clerkship passages follow strict linear chronology."
+      ]
+    },
+    {
+      "rule": "TRANSITIONAL CONJUNCTION CUES: Words like 'However', 'On the other hand', 'Nevertheless' signal contrast against the immediately preceding sentence.",
+      "examples": [
+        "Sentence A: 'The rainfall was abundant throughout southern Bengal.'",
+        "Sentence B: 'However, farmers in western districts experienced severe drought.'",
+        "A and B form a contrast pair (AB)."
+      ],
+      "exceptions": [
+        "Conclusion markers like 'Thus', 'Therefore', 'Hence', 'In conclusion' typically designate the final closing sentence."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Choosing an option that starts with 'However' or 'He' as the opening sentence.",
+    "Failing to look at the 4 multiple-choice options before rearranging (always use options to guide your test).",
+    "Placing the pronoun sentence before the noun sentence.",
+    "Misidentifying cause and effect (placing the relief effort before the calamity).",
+    "Ignoring transition words like 'Furthermore' (addition) and 'Nevertheless' (contrast)."
+  ],
+  "examTricks": [
+    "The First Letter Filter: Look at the first letters of all 4 options (e.g., A: PQRS, B: QPRS, C: SPRQ, D: RQPS). If you know 'Q' is the opener, you pick B instantly without reading the rest!",
+    "The 'Mandatory Pair' Shortcut: Find ONE pair (e.g., PR). Search options containing 'PR' together—usually only one option has it.",
+    "The Pronoun Eliminator: Sentences starting with He, She, It, They, This, That, But, However, Therefore CANNOT be Sentence 1.",
+    "The Conclusion Marker: 'Thus', 'Therefore', 'Finally' usually signal the LAST sentence."
+  ],
+  "memoryTricks": [
+    "NOUN before PRONOUN, always and forever.",
+    "FIND ONE PAIR and look down at the options."
+  ],
+  "revision": [
+    "Opener: Must be an independent thematic statement (no pronouns, no 'however/therefore').",
+    "Noun precedes Pronoun (Ambedkar -> He).",
+    "Mandatory pairs: Link cause with effect, problem with solution, question with answer.",
+    "Transitions: 'Furthermore' adds info; 'However' contrasts; 'Therefore' concludes.",
+    "Always use option elimination to solve PQRS in under 30 seconds."
+  ]
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g08-001",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which word is the auxiliary in 'She is reading'?",
+    "options": [
+      "She",
+      "is",
+      "reading",
+      "the"
+    ],
+    "answer": 1,
+    "explanation": "Is helps form the present continuous tense.",
+    "rule": "Auxiliary verb",
+    "bengaliHint": "Main verb-কে সহায়তা করে।"
+  },
+  {
+    "id": "g08-002",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which verb is transitive?",
+    "options": [
+      "The baby slept.",
+      "She opened the door.",
+      "The rain fell.",
+      "The bus stopped."
+    ],
+    "answer": 1,
+    "explanation": "Opened takes the door as its object.",
+    "rule": "Transitive verb",
+    "bengaliHint": "Object আছে।"
+  },
+  {
+    "id": "g08-003",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which verb is intransitive?",
+    "options": [
+      "wrote",
+      "carried",
+      "slept",
+      "opened"
+    ],
+    "answer": 2,
+    "explanation": "Slept does not normally take an object.",
+    "rule": "Intransitive verb",
+    "bengaliHint": "Object দরকার নেই।"
+  },
+  {
+    "id": "g08-004",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the linking verb: 'The milk tastes sour.'",
+    "options": [
+      "milk",
+      "tastes",
+      "sour",
+      "the"
+    ],
+    "answer": 1,
+    "explanation": "Tastes links the subject to the complement sour.",
+    "rule": "Linking verb",
+    "bengaliHint": "sour-এর সঙ্গে link করে।"
+  },
+  {
+    "id": "g08-005",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: They have ___ the report.",
+    "options": [
+      "finish",
+      "finished",
+      "finishing",
+      "finishes"
+    ],
+    "answer": 1,
+    "explanation": "The auxiliary have is followed by a past participle.",
+    "rule": "Perfect tense",
+    "bengaliHint": "have + past participle."
+  },
+  {
+    "id": "g08-006",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which sentence uses a regular verb correctly?",
+    "options": [
+      "He have walked.",
+      "He has walked.",
+      "He is walk.",
+      "He walking."
+    ],
+    "answer": 1,
+    "explanation": "Has is singular agreement and walked is the past participle.",
+    "rule": "Auxiliary and participle",
+    "bengaliHint": "has + walked."
+  },
+  {
+    "id": "g08-007",
+    "chapter": "g08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The tired traveler ___ down under the shady tree to rest.",
+    "options": [
+      "lay",
+      "laid",
+      "lied",
+      "lain"
+    ],
+    "answer": 0,
+    "explanation": "'Lie' (to recline) has past tense 'lay' and past participle 'lain'. 'Lay' (to put down) has past tense 'laid'. The traveler reclined, so 'lay' is correct.",
+    "rule": "Lie (recline: lie-lay-lain) vs Lay (place: lay-laid-laid)",
+    "bengaliHint": "বিশ্রাম নেওয়া বা শোয়া অর্থে 'lie'-এর past form 'lay' হবে।"
+  },
+  {
+    "id": "g08-008",
+    "chapter": "g08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The hen has ___ an egg in the straw basket.",
+    "options": [
+      "lain",
+      "laid",
+      "lay",
+      "lied"
+    ],
+    "answer": 1,
+    "explanation": "To produce an egg is 'lay' (transitive verb), whose past participle is 'laid' (has laid).",
+    "rule": "Transitive verb 'lay' -> laid",
+    "bengaliHint": "ডিম পাড়া অর্থে 'lay'-এর past participle 'laid' বসে।"
+  },
+  {
+    "id": "g08-009",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In the sentence 'The criminal was ___ yesterday at dawn', choose the correct verb form:",
+    "options": [
+      "hung",
+      "hanged",
+      "hanging",
+      "hang"
+    ],
+    "answer": 1,
+    "explanation": "When execution of human life by the neck is meant, the past/past participle of hang is 'hanged'. For clothes or pictures, it is 'hung'.",
+    "rule": "Hang (execute) -> hanged vs Hang (suspend object) -> hung",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' হয়; জামাকাপড় টাঙানো অর্থে 'hung' হয়।"
+  },
+  {
+    "id": "g08-010",
+    "chapter": "g08",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: (A) She told me (B) that she cannot come (C) yesterday (D) No error",
+    "options": [
+      "She told me",
+      "that she cannot come",
+      "yesterday",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Sequence of tenses: When the reporting verb is in past tense ('told'), subordinate clauses must be in past tense ('could not come').",
+    "rule": "Sequence of Tenses: Past reporting verb requires past subordinate verb",
+    "bengaliHint": "Principal clause past-এ থাকলে subordinate clause-এ 'could not' হবে।"
+  },
+  {
+    "id": "g08-011",
+    "chapter": "g08",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ship ___ in the stormy ocean, but all passengers were rescued.",
+    "options": [
+      "drowned",
+      "sank",
+      "sunk",
+      "floated"
+    ],
+    "answer": 1,
+    "explanation": "Non-living objects (ships) 'sink' (past 'sank'); living beings (humans, animals) 'drown'.",
+    "rule": "Sink (non-living) vs Drown (living)",
+    "bengaliHint": "জাহাজ বা নির্জীব বস্তুর ক্ষেত্রে 'sank' এবং মানুষের ক্ষেত্রে 'drowned' বসে।"
+  },
+  {
+    "id": "g08-012",
+    "chapter": "g08",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'The price of petroleum has raised again.'",
+    "options": [
+      "The price of petroleum has risen again.",
+      "The price of petroleum has rose again.",
+      "The price of petroleum has raising again.",
+      "The price of petroleum is raising again."
+    ],
+    "answer": 0,
+    "explanation": "'Rise' (intransitive: something goes up by itself) has past participle 'risen'. 'Raise' (transitive) requires a direct object.",
+    "rule": "Intransitive 'rise' vs Transitive 'raise'",
+    "bengaliHint": "কোনো কিছুর দাম নিজে থেকে বৃদ্ধি পাওয়া বোঝাতে 'risen' বসে।"
+  },
+  {
+    "id": "g08-013",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which of the following is a linking (copular) verb?",
+    "options": [
+      "Run",
+      "Smell",
+      "Kick",
+      "Write"
+    ],
+    "answer": 1,
+    "explanation": "Verbs of perception like 'smell', 'taste', 'look', 'seem' connect the subject to a subject complement adjective ('The soup smells delicious').",
+    "rule": "Linking verbs connect subject to predicate adjective",
+    "bengaliHint": "'Smell' এখানে ইন্দ্রিয়গ্রাহ্য অনুভূতি প্রকাশ করে Subject-এর অবস্থা বর্ণনা করছে।"
+  },
+  {
+    "id": "g08-014",
+    "chapter": "g08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I wish I ___ a bird so I could fly across the ocean.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "would be"
+    ],
+    "answer": 2,
+    "explanation": "In subjunctive mood expressing an unreal wish or imaginary condition, 'were' is used with all subjects.",
+    "rule": "Subjunctive mood uses 'were' for imaginary wishes",
+    "bengaliHint": "অবাস্তব কল্পনা বা অসম্ভব ইচ্ছার ক্ষেত্রে 'were' বসে।"
+  },
+  {
+    "id": "g08-015",
+    "chapter": "g08",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: (A) He did not (B) wrote the letter (C) to his father (D) No error",
+    "options": [
+      "He did not",
+      "wrote the letter",
+      "to his father",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "After the auxiliary 'did / did not', the main verb must always be in its base form (V1: 'write'), not past form 'wrote'.",
+    "rule": "Auxiliary did + base verb (V1)",
+    "bengaliHint": "'Did not'-এর পর সর্বদা verb-এর মূল রূপ (write) বসে।"
+  },
+  {
+    "id": "g08-016",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The sun had ___ before we commenced our journey.",
+    "options": [
+      "risen",
+      "rose",
+      "raised",
+      "raising"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of intransitive 'rise' is 'risen' (rise-rose-risen).",
+    "rule": "Intransitive verb rise -> risen",
+    "bengaliHint": "সূর্য উদিত হওয়া অর্থে 'risen' বসে।"
+  },
+  {
+    "id": "g08-017",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The teacher ___ an interesting question in the assembly.",
+    "options": [
+      "raised",
+      "rose",
+      "risen",
+      "rising"
+    ],
+    "answer": 0,
+    "explanation": "Transitive verb 'raise' (raise-raised-raised) takes a direct object ('a question').",
+    "rule": "Transitive verb raise -> raised",
+    "bengaliHint": "প্রশ্ন তোলা অর্থে 'raised' বসে।"
+  },
+  {
+    "id": "g08-018",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He has ___ his bag on the reading table.",
+    "options": [
+      "laid",
+      "lain",
+      "lay",
+      "lied"
+    ],
+    "answer": 0,
+    "explanation": "Transitive verb 'lay' (to place: lay-laid-laid) takes past participle 'laid'.",
+    "rule": "Transitive lay -> laid",
+    "bengaliHint": "কোনো বস্তু রাখা অর্থে 'laid' বসে।"
+  },
+  {
+    "id": "g08-019",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The exhausted traveler has ___ in bed all morning.",
+    "options": [
+      "lain",
+      "laid",
+      "lay",
+      "lied"
+    ],
+    "answer": 0,
+    "explanation": "Intransitive verb 'lie' (to recline: lie-lay-lain) takes past participle 'lain'.",
+    "rule": "Intransitive lie -> lain",
+    "bengaliHint": "বিশ্রাম নেওয়া অর্থে 'lain' বসে।"
+  },
+  {
+    "id": "g08-020",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He ___ that he had never seen the documents.",
+    "options": [
+      "lied",
+      "lay",
+      "laid",
+      "lain"
+    ],
+    "answer": 0,
+    "explanation": "To tell an untruth is 'lie-lied-lied'.",
+    "rule": "Lie (untruth) -> lied",
+    "bengaliHint": "মিথ্যা কথা বলা অর্থে 'lied' বসে।"
+  },
+  {
+    "id": "g08-021",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The river has ___ its banks.",
+    "options": [
+      "overflowed",
+      "overflown",
+      "overflew",
+      "overflowing"
+    ],
+    "answer": 0,
+    "explanation": "'Overflow' is a regular verb whose past participle is 'overflowed'. ('Overflown' is from fly).",
+    "rule": "Overflow -> overflowed (regular verb)",
+    "bengaliHint": "নদী প্লাবিত হওয়ার ক্ষেত্রে 'overflowed' বসে।"
+  },
+  {
+    "id": "g08-022",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The bird has ___ away.",
+    "options": [
+      "flown",
+      "flowed",
+      "fled",
+      "flew"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of 'fly' is 'flown' (fly-flew-flown).",
+    "rule": "Fly -> flown",
+    "bengaliHint": "পাখির ওড়ার ক্ষেত্রে 'flown' বসে।"
+  },
+  {
+    "id": "g08-023",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The refugees ___ across the international border.",
+    "options": [
+      "fled",
+      "flew",
+      "flowed",
+      "fleed"
+    ],
+    "answer": 0,
+    "explanation": "Past tense of 'flee' (to escape) is 'fled'.",
+    "rule": "Flee -> fled",
+    "bengaliHint": "পলায়ন করা অর্থে 'fled' বসে।"
+  },
+  {
+    "id": "g08-024",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bell ___ just as the clock struck ten.",
+    "options": [
+      "rang",
+      "rung",
+      "ringed",
+      "rings"
+    ],
+    "answer": 0,
+    "explanation": "Simple past of 'ring' is 'rang' (ring-rang-rung).",
+    "rule": "Ring -> rang -> rung",
+    "bengaliHint": "ঘণ্টা বাজার অতীত রূপ 'rang'।"
+  },
+  {
+    "id": "g08-025",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The pond was ___ over during the severe winter.",
+    "options": [
+      "frozen",
+      "freezed",
+      "froze",
+      "frosted"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of 'freeze' is 'frozen' (freeze-froze-frozen).",
+    "rule": "Freeze -> frozen",
+    "bengaliHint": "জমাট বাঁধা অর্থে 'frozen' বসে।"
+  },
+  {
+    "id": "g08-026",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sun had ___ before we commenced our journey.",
+    "options": [
+      "risen",
+      "rose",
+      "raised",
+      "raising"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of intransitive 'rise' is 'risen' (rise-rose-risen).",
+    "rule": "Intransitive verb rise -> risen",
+    "bengaliHint": "সূর্য উদিত হওয়া অর্থে 'risen' বসে।"
+  },
+  {
+    "id": "g08-027",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The teacher ___ an interesting question in the assembly.",
+    "options": [
+      "raised",
+      "rose",
+      "risen",
+      "rising"
+    ],
+    "answer": 0,
+    "explanation": "Transitive verb 'raise' (raise-raised-raised) takes a direct object ('a question').",
+    "rule": "Transitive verb raise -> raised",
+    "bengaliHint": "প্রশ্ন তোলা অর্থে 'raised' বসে।"
+  },
+  {
+    "id": "g08-028",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He has ___ his bag on the reading table.",
+    "options": [
+      "laid",
+      "lain",
+      "lay",
+      "lied"
+    ],
+    "answer": 0,
+    "explanation": "Transitive verb 'lay' (to place: lay-laid-laid) takes past participle 'laid'.",
+    "rule": "Transitive lay -> laid",
+    "bengaliHint": "কোনো বস্তু রাখা অর্থে 'laid' বসে।"
+  },
+  {
+    "id": "g08-029",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The exhausted traveler has ___ in bed all morning.",
+    "options": [
+      "lain",
+      "laid",
+      "lay",
+      "lied"
+    ],
+    "answer": 0,
+    "explanation": "Intransitive verb 'lie' (to recline: lie-lay-lain) takes past participle 'lain'.",
+    "rule": "Intransitive lie -> lain",
+    "bengaliHint": "বিশ্রাম নেওয়া অর্থে 'lain' বসে।"
+  },
+  {
+    "id": "g08-030",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He ___ that he had never seen the documents.",
+    "options": [
+      "lied",
+      "lay",
+      "laid",
+      "lain"
+    ],
+    "answer": 0,
+    "explanation": "To tell an untruth is 'lie-lied-lied'.",
+    "rule": "Lie (untruth) -> lied",
+    "bengaliHint": "মিথ্যা কথা বলা অর্থে 'lied' বসে।"
+  },
+  {
+    "id": "g08-031",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The river has ___ its banks.",
+    "options": [
+      "overflowed",
+      "overflown",
+      "overflew",
+      "overflowing"
+    ],
+    "answer": 0,
+    "explanation": "'Overflow' is a regular verb whose past participle is 'overflowed'. ('Overflown' is from fly).",
+    "rule": "Overflow -> overflowed (regular verb)",
+    "bengaliHint": "নদী প্লাবিত হওয়ার ক্ষেত্রে 'overflowed' বসে।"
+  },
+  {
+    "id": "g08-032",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bird has ___ away.",
+    "options": [
+      "flown",
+      "flowed",
+      "fled",
+      "flew"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of 'fly' is 'flown' (fly-flew-flown).",
+    "rule": "Fly -> flown",
+    "bengaliHint": "পাখির ওড়ার ক্ষেত্রে 'flown' বসে।"
+  },
+  {
+    "id": "g08-033",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The refugees ___ across the international border.",
+    "options": [
+      "fled",
+      "flew",
+      "flowed",
+      "fleed"
+    ],
+    "answer": 0,
+    "explanation": "Past tense of 'flee' (to escape) is 'fled'.",
+    "rule": "Flee -> fled",
+    "bengaliHint": "পলায়ন করা অর্থে 'fled' বসে।"
+  },
+  {
+    "id": "g08-034",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The bell ___ just as the clock struck ten.",
+    "options": [
+      "rang",
+      "rung",
+      "ringed",
+      "rings"
+    ],
+    "answer": 0,
+    "explanation": "Simple past of 'ring' is 'rang' (ring-rang-rung).",
+    "rule": "Ring -> rang -> rung",
+    "bengaliHint": "ঘণ্টা বাজার অতীত রূপ 'rang'।"
+  },
+  {
+    "id": "g08-035",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The pond was ___ over during the severe winter.",
+    "options": [
+      "frozen",
+      "freezed",
+      "froze",
+      "frosted"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of 'freeze' is 'frozen' (freeze-froze-frozen).",
+    "rule": "Freeze -> frozen",
+    "bengaliHint": "জমাট বাঁধা অর্থে 'frozen' বসে।"
+  },
+  {
+    "id": "g08-036",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sun had ___ before we commenced our journey.",
+    "options": [
+      "risen",
+      "rose",
+      "raised",
+      "raising"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of intransitive 'rise' is 'risen' (rise-rose-risen).",
+    "rule": "Intransitive verb rise -> risen",
+    "bengaliHint": "সূর্য উদিত হওয়া অর্থে 'risen' বসে।"
+  },
+  {
+    "id": "g08-037",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The teacher ___ an interesting question in the assembly.",
+    "options": [
+      "raised",
+      "rose",
+      "risen",
+      "rising"
+    ],
+    "answer": 0,
+    "explanation": "Transitive verb 'raise' (raise-raised-raised) takes a direct object ('a question').",
+    "rule": "Transitive verb raise -> raised",
+    "bengaliHint": "প্রশ্ন তোলা অর্থে 'raised' বসে।"
+  },
+  {
+    "id": "g08-038",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He has ___ his bag on the reading table.",
+    "options": [
+      "laid",
+      "lain",
+      "lay",
+      "lied"
+    ],
+    "answer": 0,
+    "explanation": "Transitive verb 'lay' (to place: lay-laid-laid) takes past participle 'laid'.",
+    "rule": "Transitive lay -> laid",
+    "bengaliHint": "কোনো বস্তু রাখা অর্থে 'laid' বসে।"
+  },
+  {
+    "id": "g08-039",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The exhausted traveler has ___ in bed all morning.",
+    "options": [
+      "lain",
+      "laid",
+      "lay",
+      "lied"
+    ],
+    "answer": 0,
+    "explanation": "Intransitive verb 'lie' (to recline: lie-lay-lain) takes past participle 'lain'.",
+    "rule": "Intransitive lie -> lain",
+    "bengaliHint": "বিশ্রাম নেওয়া অর্থে 'lain' বসে।"
+  },
+  {
+    "id": "g08-040",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He ___ that he had never seen the documents.",
+    "options": [
+      "lied",
+      "lay",
+      "laid",
+      "lain"
+    ],
+    "answer": 0,
+    "explanation": "To tell an untruth is 'lie-lied-lied'.",
+    "rule": "Lie (untruth) -> lied",
+    "bengaliHint": "মিথ্যা কথা বলা অর্থে 'lied' বসে।"
+  },
+  {
+    "id": "g08-041",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The river has ___ its banks.",
+    "options": [
+      "overflowed",
+      "overflown",
+      "overflew",
+      "overflowing"
+    ],
+    "answer": 0,
+    "explanation": "'Overflow' is a regular verb whose past participle is 'overflowed'. ('Overflown' is from fly).",
+    "rule": "Overflow -> overflowed (regular verb)",
+    "bengaliHint": "নদী প্লাবিত হওয়ার ক্ষেত্রে 'overflowed' বসে।"
+  },
+  {
+    "id": "g08-042",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bird has ___ away.",
+    "options": [
+      "flown",
+      "flowed",
+      "fled",
+      "flew"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of 'fly' is 'flown' (fly-flew-flown).",
+    "rule": "Fly -> flown",
+    "bengaliHint": "পাখির ওড়ার ক্ষেত্রে 'flown' বসে।"
+  },
+  {
+    "id": "g08-043",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The refugees ___ across the international border.",
+    "options": [
+      "fled",
+      "flew",
+      "flowed",
+      "fleed"
+    ],
+    "answer": 0,
+    "explanation": "Past tense of 'flee' (to escape) is 'fled'.",
+    "rule": "Flee -> fled",
+    "bengaliHint": "পলায়ন করা অর্থে 'fled' বসে।"
+  },
+  {
+    "id": "g08-044",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bell ___ just as the clock struck ten.",
+    "options": [
+      "rang",
+      "rung",
+      "ringed",
+      "rings"
+    ],
+    "answer": 0,
+    "explanation": "Simple past of 'ring' is 'rang' (ring-rang-rung).",
+    "rule": "Ring -> rang -> rung",
+    "bengaliHint": "ঘণ্টা বাজার অতীত রূপ 'rang'।"
+  },
+  {
+    "id": "g08-045",
+    "chapter": "g08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The pond was ___ over during the severe winter.",
+    "options": [
+      "frozen",
+      "freezed",
+      "froze",
+      "frosted"
+    ],
+    "answer": 0,
+    "explanation": "Past participle of 'freeze' is 'frozen' (freeze-froze-frozen).",
+    "rule": "Freeze -> frozen",
+    "bengaliHint": "জমাট বাঁধা অর্থে 'frozen' বসে।"
+  }
+]

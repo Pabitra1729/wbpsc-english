@@ -1,0 +1,213 @@
+{
+  "id": "g13",
+  "title": "Active & Passive Voice Mastery",
+  "intro": "Comprehensive study notes covering all voice change rules, 9 tenses, modal verbs, imperative sentences, two-object constructions, bare infinitives, prepositional verbs, impersonal passive, and prepositions other than 'by' as per the official WBPSC Clerkship syllabus.",
+  "bengali": "Active ও Passive Voice সংক্রান্ত সম্পূর্ণ নির্দেশিকা (WBPSC Clerkship স্পেশাল):\n1. **ভয়েস পরিবর্তনের মূল ৫টি ধাপ**:\n   • ধাপ ১: বাক্যের Subject, Verb এবং Object চিহ্নিত করুন।\n   • ধাপ ২: Active-এর Object-কে Passive-এর Subject বানান। Pronoun হলে Subject রূপ দিন (me → I, him → he, them → they)।\n   • ধাপ ৩: Tense ও Subject-এর Number/Person অনুযায়ী উপযুক্ত Be-Verb বসান (is/am/are, was/were, being, been, be)।\n   • ধাপ ৪: মূল Verb-এর সর্বদা Past Participle (V3) রূপ ব্যবহার করুন।\n   • ধাপ ৫: শেষে 'by' + Active-এর Subject (Object রূপে) যোগ করুন, অথবা Doer গৌণ বা অনির্দিষ্ট হলে (someone, people, they) তা বাদ দিন।\n\n2. **Tense পরিবর্তনের নিয়মাবলী**:\n   • Simple Present: is / am / are + V3\n   • Present Continuous: is / am / are + being + V3\n   • Present Perfect: has / have + been + V3\n   • Simple Past: was / were + V3\n   • Past Continuous: was / were + being + V3\n   • Past Perfect: had + been + V3\n   • Simple Future: will / shall + be + V3\n   • Future Perfect: will / shall + have been + V3\n   • Going to (Near Future): is / am / are going to + be + V3\n   *(নোট: Present Perfect Continuous, Past Perfect Continuous, Future Continuous এবং Future Perfect Continuous সচরাচর Passive-এ রূপান্তরিত হয় না।)*\n\n3. **বিশেষ ক্ষেত্র ও সাধারণ ফাঁদ (Exam Traps)**:\n   • **Wh-Questions**: 'Who' থাকলে Passive শুরু হয় 'By whom' দিয়ে (Who wrote this? → By whom was this written?)। 'Whom' থাকলে Passive শুরু হয় 'Who' দিয়ে (Whom did you meet? → Who was met by you?)।\n   • **Imperative Sentences**: আদেশ বোঝালে: Let + object + be + V3 (Let the door be opened) অথবা You are ordered to...। অনুরোধ বোঝালে: You are requested to...। উপদেশ বোঝালে: You are advised to... অথবা Subject + should be + V3। নিষেধ বোঝালে: You are forbidden to... / Let + object + not be + V3।\n   • **Bare Infinitive (Make, See, Hear, Watch, Let)**: Active বাক্যে 'to' ছাড়া বসে, কিন্তু Passive করার সময় 'to' যুক্ত করতে হয় (They made him work hard → He was made to work hard by them)।\n   • **Prepositional Verbs (Phrasal Verbs)**: Verb-এর সাথে যুক্ত Preposition কখনই বাদ দেওয়া যাবে না (They laughed at him → He was laughed at by them)।\n   • **By ছাড়া অন্যান্য Preposition**: কিছু নির্দিষ্ট Verb-এর ক্ষেত্রে 'by'-এর পরিবর্তে অন্য Preposition বসে (surprised at, pleased with, known to, interested in, satisfied with, covered with, filled with, shocked at, annoyed with)।\n   • **Intransitive Verbs ও Verbs of State**: যেসকল Verb-এর Object থাকে না (come, go, sleep, arrive, fall, die) এবং যেগুলি স্থিতি বা মালিকানা বোঝায় (resemble, suit, fit, lack, have) তাদের Passive হয় না।",
+  "rules": [
+    {
+      "rule": "Five Core Steps & Pronoun Transformations (A1 & A2)",
+      "examples": [
+        "Formula: Subject + Verb + Object → Object + be-verb (as per tense) + V3 + (by + subject).",
+        "Active: The boy kicked the ball. → Passive: The ball was kicked by the boy.",
+        "Pronoun Shifts: I → me, We → us, You → you, He → him, She → her, It → it, They → them, Who → whom.",
+        "Active: She saw him. → Passive: He was seen by her."
+      ],
+      "exceptions": [
+        "Drop 'by + agent' when the doer is unknown, obvious or general (someone, people, they, one): Someone has stolen my wallet → My wallet has been stolen.",
+        "Retain 'by + agent' when the doer is a specific person of importance: Hamlet was written by Shakespeare."
+      ]
+    },
+    {
+      "rule": "Voice Across All Tenses & Going-To Form (A3)",
+      "examples": [
+        "Simple Present: She writes a letter. → A letter is written by her (is/am/are + V3).",
+        "Present Continuous: She is writing a letter. → A letter is being written by her (is/am/are + being + V3).",
+        "Present Perfect: She has written a letter. → A letter has been written by her (has/have + been + V3).",
+        "Simple Past: She wrote a letter. → A letter was written by her (was/were + V3).",
+        "Past Continuous: She was writing a letter. → A letter was being written by her (was/were + being + V3).",
+        "Past Perfect: She had written a letter. → A letter had been written by her (had + been + V3).",
+        "Simple Future: She will write a letter. → A letter will be written by her (will/shall + be + V3).",
+        "Future Perfect: She will have written a letter. → A letter will have been written by her (will/shall + have been + V3).",
+        "Going to (Near Future): She is going to write a letter. → A letter is going to be written by her (is/am/are going to + be + V3)."
+      ],
+      "exceptions": [
+        "Present Perfect Continuous, Past Perfect Continuous, Future Continuous, and Future Perfect Continuous are not normally transformed into the passive in standard examination English."
+      ]
+    },
+    {
+      "rule": "Sentence Structures: Negatives, Questions & Exclamations (A4)",
+      "examples": [
+        "Negative: She did not write the letter. → The letter was not written by her.",
+        "Negative with Nobody/No one: Nobody helped me. → I was not helped by anybody.",
+        "Negative with No one: No one can solve this problem. → This problem cannot be solved by anyone.",
+        "Helping Verb Question: Does he write letters? → Are letters written by him?",
+        "Helping Verb Question: Did you see the film? → Was the film seen by you?",
+        "Helping Verb Question: Have they finished the work? → Has the work been finished by them?",
+        "Negative Interrogative: Didn't he finish the work? → Was the work not finished by him?",
+        "Wh-Question (Subject): Who wrote this letter? → By whom was this letter written?",
+        "Wh-Question (Subject): Who is teaching you? → By whom are you being taught?",
+        "Wh-Question (Object): Whom did you meet? → Who was met by you?",
+        "Wh-Question (Object): What do you want? → What is wanted by you?",
+        "Wh-Question (Wh + Noun): Which book did you read? → Which book was read by you?",
+        "Exclamatory: What a beautiful song she sang! → What a beautiful song was sung by her!",
+        "Exclamatory: How well he plays the guitar! → How well the guitar is played by him!"
+      ],
+      "exceptions": [
+        "In questions, maintain the interrogative word order: auxiliary verb must precede the new subject (Was the film seen by you? NOT The film was seen by you?)."
+      ]
+    },
+    {
+      "rule": "Imperative Sentences: Command, Request, Advice, Prohibition & Let (A5)",
+      "examples": [
+        "Command: Open the door. → Let the door be opened. / You are ordered to open the door.",
+        "Request: Please help me. → You are requested to help me.",
+        "Advice: Do your duty. → You are advised to do your duty. / Your duty should be done.",
+        "Prohibition: Do not touch the wire. → Let the wire not be touched. / The wire should not be touched.",
+        "Prohibition: Do not tell a lie. → You are forbidden to tell a lie. / A lie should never be told.",
+        "Let (Permission): Let him do it. → Let it be done by him.",
+        "Let (Permission): Let her sing a song. → Let a song be sung by her."
+      ],
+      "exceptions": [
+        "Never use 'by you' in imperative requests like 'You are requested to help me'.",
+        "Use 'should be + V3' when expressing general moral advice or duty rather than a strict command."
+      ]
+    },
+    {
+      "rule": "Modal Verbs & Perfect Modals (A6)",
+      "examples": [
+        "Pattern: modal + be + V3 (e.g., can be, could be, must be, should be, ought to be).",
+        "can: He can do this work. → This work can be done by him.",
+        "could: She could solve the sum. → The sum could be solved by her.",
+        "may: You may borrow this book. → This book may be borrowed by you.",
+        "might: He might win the prize. → The prize might be won by him.",
+        "must: You must obey the rules. → The rules must be obeyed by you.",
+        "should: We should respect elders. → Elders should be respected by us.",
+        "would: She would bake a cake. → A cake would be baked by her.",
+        "ought to: We ought to help the poor. → The poor ought to be helped by us.",
+        "have to / has to: We have to complete the work. → The work has to be completed by us.",
+        "used to: He used to beat the dog. → The dog used to be beaten by him.",
+        "is to / are to: The Prime Minister is to address the nation. → The nation is to be addressed by the Prime Minister.",
+        "should have + V3: You should have finished the work. → The work should have been finished by you.",
+        "could have + V3: He could have saved the child. → The child could have been saved by him.",
+        "must have + V3: Someone must have stolen it. → It must have been stolen by someone."
+      ],
+      "exceptions": [
+        "In perfect modals, ensure 'have been' is used, never 'has been' or 'had been' after a modal (e.g. 'could have been saved', NOT 'could has been')."
+      ]
+    },
+    {
+      "rule": "Two Objects, Phrasal Verbs & Bare Infinitives (A7, A8, A9)",
+      "examples": [
+        "Two Objects (Person Preferred): She gave me a gift. → I was given a gift by her. (Or: A gift was given to me by her.)",
+        "Two Objects: He taught us grammar. → We were taught grammar by him. (Or: Grammar was taught to us by him.)",
+        "Two Objects: The teacher showed the students a map. → The students were shown a map by the teacher.",
+        "Phrasal Verbs (Keep Preposition): They laughed at him. → He was laughed at by them.",
+        "Phrasal Verbs: The doctor looked after the patient. → The patient was looked after by the doctor.",
+        "Phrasal Verbs: He turned down the offer. → The offer was turned down by him.",
+        "Phrasal Verbs: We must put off the meeting. → The meeting must be put off.",
+        "Phrasal Verbs: She looks down upon the poor. → The poor are looked down upon by her.",
+        "Phrasal Verbs: The police are looking into the case. → The case is being looked into by the police.",
+        "Bare Infinitives (Add 'to' in Passive): They made him work hard. → He was made to work hard by them.",
+        "Bare Infinitives: She saw him go out. → He was seen to go out by her.",
+        "Bare Infinitives: I heard her sing a song. → She was heard to sing a song by me.",
+        "Infinitives: He wants me to write a letter. → He wants a letter to be written by me."
+      ],
+      "exceptions": [
+        "After make, see, hear, watch: active takes bare infinitive (without 'to'); passive REQUIRES 'to' (They made him work → He was made to work).",
+        "Never drop the preposition attached to a verb in passive voice (He was laughed at, NOT He was laughed)."
+      ]
+    },
+    {
+      "rule": "Impersonal Passive & Prepositions Other Than 'By' (A10, A11, A12)",
+      "examples": [
+        "Impersonal Passive: People say that he is honest. → It is said that he is honest. / He is said to be honest.",
+        "Impersonal Passive: They believe that the thief is hiding in the forest. → It is believed that the thief is hiding in the forest. / The thief is believed to be hiding in the forest.",
+        "Impersonal Passive: Everyone knows that she is brilliant. → It is known that she is brilliant. / She is known to be brilliant.",
+        "Compound Sentence: She cooked the food and served the guests. → The food was cooked and the guests were served by her.",
+        "Prepositions Other Than By: The news surprised me. → I was surprised at the news (NOT by the news).",
+        "Prepositions Other Than By: The gift pleased her. → She was pleased with the gift.",
+        "Prepositions Other Than By: Snow covered the road. → The road was covered with snow.",
+        "Prepositions Other Than By: Everyone knows him. → He is known to everyone (NOT by everyone).",
+        "Prepositions Other Than By: Music interests me. → I am interested in music.",
+        "Prepositions Other Than By: The result disappointed us. → We were disappointed with the result.",
+        "Prepositions Other Than By: His behaviour annoyed me. → I was annoyed with his behaviour.",
+        "Prepositions Other Than By: The accident shocked them. → They were shocked at the accident.",
+        "Prepositions Other Than By: Water fills the pot. → The pot is filled with water."
+      ],
+      "exceptions": [
+        "Known takes 'to' (known to me); surprised, shocked, alarmed take 'at'; pleased, satisfied, annoyed take 'with'; interested, contained take 'in'; covered, filled take 'with'."
+      ]
+    },
+    {
+      "rule": "Sentences That Cannot Be Changed & Passive-to-Active Conversion (A13 & A14)",
+      "examples": [
+        "Intransitive Verbs (No Object → No Passive): come, go, sleep, arrive, fall, rise, die.",
+        "Verbs of State/Possession (No Passive): She resembles her mother. / He has a car.",
+        "Non-Passive Verbs: suit, fit, lack, resemble.",
+        "Passive to Active: The thief was caught by the police. → The police caught the thief.",
+        "Passive to Active: The work has been finished by me. → I have finished the work.",
+        "Passive to Active: He is loved by all. → All love him.",
+        "Passive to Active: Let the door be closed. → Close the door.",
+        "Passive to Active: A new bridge is being built. → They are building a new bridge.",
+        "Passive to Active: By whom was this letter written? → Who wrote this letter?"
+      ],
+      "exceptions": [
+        "If a passive sentence has no 'by-agent', supply an appropriate logical subject (someone, they, people, police, we) when converting back to active."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He is known by me.",
+      "right": "He is known to me.",
+      "note": "The verb 'know' takes the fixed preposition 'to' in the passive voice, never 'by'."
+    },
+    {
+      "wrong": "I was surprised by his sudden arrival.",
+      "right": "I was surprised at his sudden arrival.",
+      "note": "Verbs expressing mental reaction (surprised, shocked, alarmed, astonished) take 'at' in the passive."
+    },
+    {
+      "wrong": "He was made work hard by the master.",
+      "right": "He was made to work hard by the master.",
+      "note": "Verbs like make, see, hear take a bare infinitive in active, but REQUIRE 'to + verb' in passive voice."
+    },
+    {
+      "wrong": "The patient was looked by the nurse.",
+      "right": "The patient was looked after by the nurse.",
+      "note": "In prepositional verbs, the attached preposition must NEVER be dropped in the passive."
+    },
+    {
+      "wrong": "Who was this glass broken?",
+      "right": "By whom was this glass broken? / Who was this glass broken by?",
+      "note": "When 'who' is the active subject, change it to 'By whom' at the start of the passive interrogative sentence."
+    },
+    {
+      "wrong": "Let the door open.",
+      "right": "Let the door be opened.",
+      "note": "Imperative passive formula with let requires 'be + V3'."
+    }
+  ],
+  "examTricks": [
+    "Tense Invariance Law: Voice change NEVER changes the tense of the sentence. If active is in past tense, passive MUST stay in past tense.",
+    "Elimination Shortcut: In MCQ options, immediately eliminate options where the tense changed (e.g. present changed to past) or where the main verb is not in V3 form.",
+    "Who vs. Whom Shortcut: If active starts with 'Who', passive starts with 'By whom'. If active has 'Whom', passive starts with 'Who'.",
+    "Continuous Tense Marker: Continuous active tenses (is writing, was singing) ALWAYS require 'being' in the passive voice.",
+    "Perfect Tense Marker: Perfect active tenses (has written, had eaten, will have seen) ALWAYS require 'been' in the passive voice."
+  ],
+  "memoryTricks": [
+    "Voice Golden Formula: Object + BE-form + V3 + BY + Subject.",
+    "Continuous needs BEING: 'ing' active → 'being' passive.",
+    "Perfect needs BEEN: 'has/have/had' active → 'been' passive.",
+    "No-By Family: Known TO, Surprised AT, Pleased WITH, Interested IN, Filled WITH."
+  ],
+  "revision": [
+    "The tense of the verb must NOT change when voice changes.",
+    "Always use the V3 (past participle) form of the main verb after the appropriate be-verb in passive.",
+    "Pronoun shifts: I → me, we → us, he → him, she → her, they → them, who → whom.",
+    "For questions: 'By whom...?' replaces 'Who...?' when who is the active subject.",
+    "Add 'to' after make / see / hear in passive (He was made to work).",
+    "Imperative sentences: use 'Let + object + be + V3' or 'You are ordered / requested / advised to + V1'.",
+    "Intransitive verbs (go, come, sleep, die) and verbs of state (resemble, lack, fit) have no passive."
+  ]
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g18-001",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Change to passive: 'The boy broke the cup.'",
+    "options": [
+      "The cup breaks.",
+      "The cup was broken by the boy.",
+      "The boy was broken.",
+      "The cup broke boy."
+    ],
+    "answer": 1,
+    "explanation": "The object becomes subject and the past tense becomes was broken.",
+    "rule": "Active to passive",
+    "bengaliHint": "past passive."
+  },
+  {
+    "id": "g18-002",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Change to indirect: He said, 'I am ready.'",
+    "options": [
+      "He said he is ready.",
+      "He said that he was ready.",
+      "He said I am ready.",
+      "He said that I was."
+    ],
+    "answer": 1,
+    "explanation": "The reporting past tense backshifts am to was.",
+    "rule": "Indirect speech",
+    "bengaliHint": "said→was."
+  },
+  {
+    "id": "g18-003",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform: 'No student is more diligent than Rina.'",
+    "options": [
+      "Rina is more diligent than most.",
+      "Rina is the most diligent student.",
+      "Rina is less diligent.",
+      "Rina is diligent."
+    ],
+    "answer": 1,
+    "explanation": "This means Rina is at the highest degree in the comparison.",
+    "rule": "Degree transformation",
+    "bengaliHint": "সবচেয়ে diligent."
+  },
+  {
+    "id": "g18-004",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Change to negative without changing meaning: 'He always comes late.'",
+    "options": [
+      "He never comes late.",
+      "He does not come early.",
+      "He never comes early.",
+      "He comes never."
+    ],
+    "answer": 1,
+    "explanation": "Always late and does not come early express the same fact without a double comparison.",
+    "rule": "Negative transformation",
+    "bengaliHint": "অর্থ একই রাখতে."
+  },
+  {
+    "id": "g18-005",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Change simple to complex: 'Seeing the danger, Mina stopped.'",
+    "options": [
+      "Mina stopped because she saw the danger.",
+      "Mina sees danger and stopped.",
+      "Mina had stop.",
+      "Danger Mina stopped."
+    ],
+    "answer": 0,
+    "explanation": "The phrase is replaced by a because-clause with equivalent meaning.",
+    "rule": "Simple to complex",
+    "bengaliHint": "seeing→because."
+  },
+  {
+    "id": "g18-006",
+    "chapter": "g18",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform Affirmative to Negative: 'Only a courageous man could do this.'",
+    "options": [
+      "None but a courageous man could do this.",
+      "No courageous man could do this.",
+      "A courageous man could not do this.",
+      "Only courageous man cannot do this."
+    ],
+    "answer": 0,
+    "explanation": "When transforming affirmative 'only' referring to a person, replace with 'none but' to make it negative without changing meaning.",
+    "rule": "Transformation: Only (person) -> None but",
+    "bengaliHint": "'Only' ব্যক্তির ক্ষেত্রে Negative করার সময় 'None but' হয়।"
+  },
+  {
+    "id": "g18-007",
+    "chapter": "g18",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Remove 'too': 'He is too weak to walk alone.'",
+    "options": [
+      "He is so weak that he cannot walk alone.",
+      "He is very weak that he cannot walk alone.",
+      "He is so weak that he can walk alone.",
+      "He is too weak so that he cannot walk."
+    ],
+    "answer": 0,
+    "explanation": "'too + adj + to + V1' transforms into 'so + adj + that + subject + cannot + V1'.",
+    "rule": "Removal of too: so... that... cannot",
+    "bengaliHint": "'Too... to' তুলে দিয়ে 'so... that... cannot' বসে।"
+  },
+  {
+    "id": "g18-008",
+    "chapter": "g18",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform Superlative to Comparative: 'Iron is the most useful of all metals.'",
+    "options": [
+      "Iron is more useful than any other metal.",
+      "Iron is more useful than all metal.",
+      "No metal is as useful as iron.",
+      "Iron is very useful metal."
+    ],
+    "answer": 0,
+    "explanation": "Superlative 'most useful of all metals' becomes 'more useful than any other metal' in comparative degree.",
+    "rule": "Degree transformation: Superlative to Comparative with 'any other'",
+    "bengaliHint": "Comparative-এ রূপান্তরের ক্ষেত্রে 'more useful than any other metal' হয়।"
+  },
+  {
+    "id": "g18-009",
+    "chapter": "g18",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform Simple to Complex: 'He confessed his guilt.'",
+    "options": [
+      "He confessed that he was guilty.",
+      "He confessed being guilty.",
+      "His guilt was confessed by him.",
+      "He was guilty and he confessed."
+    ],
+    "answer": 0,
+    "explanation": "Expanding the noun phrase 'his guilt' into a noun clause 'that he was guilty' turns the simple sentence into a complex sentence.",
+    "rule": "Simple to Complex: expand noun phrase into noun clause",
+    "bengaliHint": "Noun phrase 'his guilt'-কে Noun clause 'that he was guilty'-তে রূপান্তর করতে হয়।"
+  },
+  {
+    "id": "g18-010",
+    "chapter": "g18",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform Exclamatory to Assertive: 'What a beautiful flower this is!'",
+    "options": [
+      "This is a very beautiful flower.",
+      "This flower is beautiful indeed.",
+      "Is this a very beautiful flower?",
+      "How beautiful this flower is!"
+    ],
+    "answer": 0,
+    "explanation": "'What a + adj + noun!' transforms to assertive 'Subject + verb + a very + adj + noun'.",
+    "rule": "Exclamatory to Assertive: What a -> a very",
+    "bengaliHint": "Exclamatory থেকে Assertive করার সময় 'What a'-র পরিবর্তে 'a very' বসে।"
+  },
+  {
+    "id": "g18-011",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-012",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-013",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-014",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-015",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  },
+  {
+    "id": "g18-016",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-017",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-018",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-019",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-020",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  },
+  {
+    "id": "g18-021",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-022",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-023",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-024",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-025",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  },
+  {
+    "id": "g18-026",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-027",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-028",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-029",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-030",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  },
+  {
+    "id": "g18-031",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-032",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-033",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-034",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-035",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  },
+  {
+    "id": "g18-036",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-037",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-038",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-039",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-040",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  },
+  {
+    "id": "g18-041",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Negative: 'As soon as the bell rang, the students dispersed.'",
+    "options": [
+      "No sooner did the bell ring than the students dispersed.",
+      "No sooner had the bell rung when the students dispersed.",
+      "The bell rang and students dispersed.",
+      "As the bell did not ring, students dispersed."
+    ],
+    "answer": 0,
+    "explanation": "'As soon as' transforms into 'No sooner did + subject + V1 + than' in negative transformation.",
+    "rule": "Transformation: As soon as -> No sooner... than",
+    "bengaliHint": "'As soon as'-এর negative রূপান্তর হলো 'No sooner... than'।"
+  },
+  {
+    "id": "g18-042",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Transform to Assertive: 'Who does not love his motherland?'",
+    "options": [
+      "Everyone loves his motherland.",
+      "No one loves his motherland.",
+      "Someone loves his motherland.",
+      "Who loves motherland."
+    ],
+    "answer": 0,
+    "explanation": "Rhetorical negative question 'Who does not...' transforms into affirmative assertive 'Everyone loves...'.",
+    "rule": "Rhetorical question to universal assertive",
+    "bengaliHint": "সবার ভালোবাসা অর্থে 'Everyone loves...' হবে।"
+  },
+  {
+    "id": "g18-043",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Positive Degree: 'Kolkata is larger than most other cities in the state.'",
+    "options": [
+      "Very few cities in the state are as large as Kolkata.",
+      "No other city is as large as Kolkata.",
+      "Kolkata is as large as all cities.",
+      "Kolkata is a large city in the state."
+    ],
+    "answer": 0,
+    "explanation": "'Comparative + than most other' transforms to positive with 'Very few... as... as'.",
+    "rule": "Degree transformation with 'most other' -> 'Very few'",
+    "bengaliHint": "'Most other' থাকলে positive-এ 'Very few' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": "g18-044",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Transform to Simple: 'He finished his work and went home.'",
+    "options": [
+      "Having finished his work, he went home.",
+      "When he finished work, he went home.",
+      "He went home because he finished work.",
+      "He finished work to go home."
+    ],
+    "answer": 0,
+    "explanation": "Using a perfect participle ('Having finished') reduces one clause into a non-finite phrase, creating a simple sentence.",
+    "rule": "Compound to Simple using perfect participle",
+    "bengaliHint": "Participle ব্যবহার করে সরল বাক্যে রূপান্তর।"
+  },
+  {
+    "id": "g18-045",
+    "chapter": "g18",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Transform to Affirmative: 'No one can deny that he is honest.'",
+    "options": [
+      "Everyone admits that he is honest.",
+      "Someone denies that he is honest.",
+      "He is not dishonest.",
+      "None can accept his honesty."
+    ],
+    "answer": 0,
+    "explanation": "'No one can deny' is equivalent in affirmative to 'Everyone admits'.",
+    "rule": "Negative to Affirmative: deny -> admit",
+    "bengaliHint": "'No one can deny'-র সদর্থক রূপ 'Everyone admits'।"
+  }
+]

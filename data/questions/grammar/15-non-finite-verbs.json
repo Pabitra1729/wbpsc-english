@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g15-001",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which is a gerund?",
+    "options": [
+      "to run",
+      "running is healthy",
+      "runs",
+      "ran"
+    ],
+    "answer": 1,
+    "explanation": "Running is used as a noun subject.",
+    "rule": "Gerund",
+    "bengaliHint": "-ing noun হিসেবে."
+  },
+  {
+    "id": "g15-002",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: She enjoys ___.",
+    "options": [
+      "sing",
+      "to sang",
+      "singing",
+      "sang"
+    ],
+    "answer": 2,
+    "explanation": "Enjoy is commonly followed by a gerund.",
+    "rule": "Gerund after enjoy",
+    "bengaliHint": "enjoy + -ing."
+  },
+  {
+    "id": "g15-003",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: He wants ___.",
+    "options": [
+      "leave",
+      "leaving",
+      "to leave",
+      "left"
+    ],
+    "answer": 2,
+    "explanation": "Want is followed by a to-infinitive.",
+    "rule": "Infinitive after want",
+    "bengaliHint": "want to leave."
+  },
+  {
+    "id": "g15-004",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the bare infinitive after a modal.",
+    "options": [
+      "to leave",
+      "leaves",
+      "leave",
+      "leaving"
+    ],
+    "answer": 2,
+    "explanation": "Modal verbs take the bare infinitive.",
+    "rule": "Bare infinitive",
+    "bengaliHint": "modal-এর পর base form."
+  },
+  {
+    "id": "g15-005",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: 'The ___ boy is absent.'",
+    "options": [
+      "runs",
+      "ran",
+      "running",
+      "run"
+    ],
+    "answer": 2,
+    "explanation": "Running modifies boy as a participial adjective.",
+    "rule": "Present participle",
+    "bengaliHint": "boy কেমন চলছে."
+  },
+  {
+    "id": "g15-006",
+    "chapter": "g15",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is looking forward to ___ you at the conference.",
+    "options": [
+      "meet",
+      "meeting",
+      "have met",
+      "met"
+    ],
+    "answer": 1,
+    "explanation": "In phrases like 'look forward to', 'with a view to', 'accustomed to', the 'to' is a preposition and must be followed by a gerund (V-ing: 'meeting').",
+    "rule": "'Look forward to' takes a gerund (-ing form)",
+    "bengaliHint": "'Look forward to'-র পর সর্বদা gerund (-ing) বসে।"
+  },
+  {
+    "id": "g15-007",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In the sentence 'Walking is a healthy exercise', what is 'walking'?",
+    "options": [
+      "Participle",
+      "Gerund",
+      "Infinitive",
+      "Finite Verb"
+    ],
+    "answer": 1,
+    "explanation": "'Walking' acts as the subject noun of the sentence while having verb characteristics; a verbal noun is a gerund.",
+    "rule": "Gerund functioning as grammatical subject",
+    "bengaliHint": "Verb-এর সাথে -ing যুক্ত হয়ে Noun-এর কাজ করলে তাকে Gerund বলে।"
+  },
+  {
+    "id": "g15-008",
+    "chapter": "g15",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I made him ___ the whole document carefully.",
+    "options": [
+      "read",
+      "to read",
+      "reading",
+      "reads"
+    ],
+    "answer": 0,
+    "explanation": "Causative verbs like 'make', 'let', 'bid' in active voice take a bare infinitive (verb base form without 'to').",
+    "rule": "Causative 'make' takes bare infinitive",
+    "bengaliHint": "'Made him'-এর পর 'to' ছাড়া bare infinitive (read) বসে।"
+  },
+  {
+    "id": "g15-009",
+    "chapter": "g15",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Find the error: (A) Walking in the park (B) a snake (C) bit him (D) No error",
+    "options": [
+      "Walking in the park",
+      "a snake",
+      "bit him",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "Dangling participle: As written, it sounds like the snake was walking in the park. It should be: 'While he was walking in the park, a snake bit him'.",
+    "rule": "Dangling participle must agree with logical subject",
+    "bengaliHint": "Dangling Participle-এর কারণে অর্থ বিভ্রান্তি ঘটে; 'While he was walking...' হতে হবে।"
+  },
+  {
+    "id": "g15-010",
+    "chapter": "g15",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She avoided ___ to him about the confidential matter.",
+    "options": [
+      "speak",
+      "speaking",
+      "to speak",
+      "spoke"
+    ],
+    "answer": 1,
+    "explanation": "Verbs like 'avoid', 'enjoy', 'mind', 'postpone', 'suggest' are followed directly by gerunds (-ing form).",
+    "rule": "Verbs followed exclusively by gerund: avoid + V-ing",
+    "bengaliHint": "'Avoid'-এর পর verb-এর সাথে -ing (speaking) বসে।"
+  },
+  {
+    "id": "g15-011",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-012",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-013",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-014",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-015",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  },
+  {
+    "id": "g15-016",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-017",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-018",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-019",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-020",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  },
+  {
+    "id": "g15-021",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-022",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-023",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-024",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-025",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  },
+  {
+    "id": "g15-026",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-027",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-028",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-029",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-030",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  },
+  {
+    "id": "g15-031",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-032",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-033",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-034",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-035",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  },
+  {
+    "id": "g15-036",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-037",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-038",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-039",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-040",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  },
+  {
+    "id": "g15-041",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "She is accustomed to ___ up early in the morning.",
+    "options": [
+      "waking",
+      "wake",
+      "woke",
+      "woken"
+    ],
+    "answer": 0,
+    "explanation": "'Accustomed to' is followed by a gerund (-ing form), not a bare infinitive.",
+    "rule": "Accustomed to + gerund (-ing)",
+    "bengaliHint": "'Accustomed to'-র পর verb-এর সাথে -ing বসে।"
+  },
+  {
+    "id": "g15-042",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "We heard the thunder ___ in the distance.",
+    "options": [
+      "rumble",
+      "to rumble",
+      "rumbled",
+      "have rumbled"
+    ],
+    "answer": 0,
+    "explanation": "Verbs of perception (hear, see, watch) take a bare infinitive or present participle.",
+    "rule": "Verbs of perception take bare infinitive",
+    "bengaliHint": "'Heard'-এর পর bare infinitive (rumble) বসে।"
+  },
+  {
+    "id": "g15-043",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ the lion, the hunter took aim.",
+    "options": [
+      "Seeing",
+      "Seen",
+      "Having saw",
+      "See"
+    ],
+    "answer": 0,
+    "explanation": "Present participle 'Seeing' shows two actions happening in immediate sequence by the same subject.",
+    "rule": "Participle phrase indicating immediate sequence",
+    "bengaliHint": "দেখা মাত্র লক্ষ্যভেদ করায় Present Participle 'Seeing' বসে।"
+  },
+  {
+    "id": "g15-044",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He went to England with a view to ___ higher education.",
+    "options": [
+      "pursuing",
+      "pursue",
+      "pursued",
+      "to pursue"
+    ],
+    "answer": 0,
+    "explanation": "'With a view to' is an idiomatic prepositional phrase governing a gerund (-ing).",
+    "rule": "With a view to + gerund (-ing)",
+    "bengaliHint": "'With a view to'-র পর gerund (pursuing) বসে।"
+  },
+  {
+    "id": "g15-045",
+    "chapter": "g15",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I watched the magician ___ a white dove from the hat.",
+    "options": [
+      "produce",
+      "to produce",
+      "produced",
+      "have produced"
+    ],
+    "answer": 0,
+    "explanation": "The verb of perception 'watch' takes an object followed by a bare infinitive ('produce').",
+    "rule": "Bare infinitive after 'watch'",
+    "bengaliHint": "'Watch'-এর পর 'to' ছাড়া bare infinitive বসে।"
+  }
+]

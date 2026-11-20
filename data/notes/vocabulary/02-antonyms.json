@@ -1,0 +1,533 @@
+{
+  "id": "v02",
+  "title": "Antonyms & Contrast Clues",
+  "intro": "An antonym is a word that expresses a meaning directly contrary to that of another word. In the WBPSC Clerkship examination, questions rarely test basic school-level opposites (like good/bad); they intensely test words with negative prefixes (un-, in-, dis-, mis-, non-, a-, anti-), nuanced formal vocabulary, and contextual opposites where a word can have multiple distinct antonyms depending on sentence context.",
+  "bengali": "Antonym বা বিপরীতার্থক শব্দ হলো এমন শব্দ যা অন্য একটি শব্দের সম্পূর্ণ বিপরীত অর্থ প্রকাশ করে।\n\nWBPSC Clerkship পরীক্ষায় Antonym সমাধানের ৪টি প্রধান বৈজ্ঞানিক কৌশল:\n১. Prefix Analysis (উপসর্গ বিশ্লেষণ):\n   অনেক শব্দের পূর্বে নির্দিষ্ট Prefix যুক্ত করে বিপরীত শব্দ গঠিত হয়:\n   - in- (inactive, incomplete, infallible, innocuous)\n   - un- (unfriendly, unstable, unyielding)\n   - dis- (dishonest, disrespect, disappear, disparity)\n   - mis- (mislead, misunderstand, misconduct)\n   - il- / im- / ir- (illogical, immortal, impossible, irresponsible)\n২. Tone and Connotation (শব্দের সুর ও ইতিবাচক/নেতিবাচক মাত্রা):\n   প্রশ্নে দেওয়া শব্দটি যদি ইতিবাচক (Positive) অর্থ প্রকাশ করে (যেমন: Benevolent, Amiable, Lucrative), তবে তার Antonym নিশ্চিতভাবে কোনো নেতিবাচক (Negative) শব্দ হবে। অপশনগুলোর অর্থ পুরোপুরি না জানলেও শুধুমাত্র Tone ম্যাচিং করে ২টি অপশন সঙ্গে সঙ্গে বাদ দেওয়া যায়।\n৩. Contextual Antonyms (প্রেক্ষাপটভিত্তিক বিপরীত শব্দ):\n   একই শব্দের একাধিক বিপরীতার্থক শব্দ থাকতে পারে। যেমন: 'Light'-এর বিপরীত 'Dark' (আলোর ক্ষেত্রে), কিন্তু ওজনের ক্ষেত্রে 'Heavy'; 'Fresh'-এর বিপরীত খাবারের ক্ষেত্রে 'Stale', কিন্তু অভিজ্ঞতার ক্ষেত্রে 'Experienced'।\n৪. Root Word Mastery (মূল শব্দাংশ):\n   Bene- (ভালো) বনাম Male- (খারাপ): যেমন Benevolent (দয়ালু) <-> Malevolent (বিদ্বেষী); Benefactor (উপকারী) <-> Malefactor (অপরাধী)।",
+  "rules": [
+    {
+      "rule": "PREFIX REVERSAL RULES: English creates precise antonyms by prefixing Latin and Greek negative particles.",
+      "examples": [
+        "In- / Im- / Il- / Ir-: Capable -> Incapable; Patient -> Impatient; Legible -> Illegible; Rational -> Irrational.",
+        "Dis-: Harmony -> Disharmony; Approve -> Disapprove; Honest -> Dishonest.",
+        "Un-: Yielding -> Unyielding; Precedented -> Unprecedented; Scrupulous -> Unscrupulous.",
+        "A- (without): Moral -> Amoral; Typical -> Atypical; Symmetric -> Asymmetric."
+      ],
+      "exceptions": [
+        "Beware of false prefixes: 'Valuable' and 'Invaluable' are SYNONYMS (both mean priceless); 'Flammable' and 'Inflammable' both mean easily set on fire!"
+      ]
+    },
+    {
+      "rule": "ROOT WORD CONTRASTS (Bene- vs Mal-; Eu- vs Dys-; Phil- vs Mis-):",
+      "examples": [
+        "Benevolent (kind, generous) <-> Malevolent (spiteful, malicious).",
+        "Benefactor (one who supports) <-> Malefactor (criminal, wrongdoer).",
+        "Euphoria (intense joy) <-> Dysphoria (deep unease or dissatisfaction).",
+        "Philanthropist (lover of humanity) <-> Misanthrope (hater of humanity)."
+      ],
+      "exceptions": [
+        "Root words provide instantaneous elimination shortcuts when evaluating unfamiliar options in the exam hall."
+      ]
+    },
+    {
+      "rule": "CONTEXTUAL ANTONYMS: Many common English words have divergent antonyms depending on their semantic domain.",
+      "examples": [
+        "BARREN (land) <-> Fertile; BARREN (discussion) <-> Fruitful / Productive.",
+        "ACUTE (angle) <-> Obtuse; ACUTE (pain / mind) <-> Mild / Dull.",
+        "OBSOLETE (technology / law) <-> Modern / Contemporary / In vogue.",
+        "CANDID (frank, truthful) <-> Secretive / Evasive / Deceitful."
+      ],
+      "exceptions": [
+        "Always read the word in context or identify the primary dictionary register intended by the exam question."
+      ]
+    },
+    {
+      "rule": "DEGREE AND INTENSITY POLARITY: An extreme adjective requires an equally extreme or appropriately scaled opposite.",
+      "examples": [
+        "Colossal (gigantic, immense) <-> Tiny / Miniature / Minute.",
+        "Zenith (highest peak, acme) <-> Nadir (lowest depth, rock-bottom).",
+        "Opulent (lavishly wealthy) <-> Destitute / Impoverished / Indigent.",
+        "Meticulous (extremely thorough) <-> Careless / Sloppy / Negligent."
+      ],
+      "exceptions": [
+        "Do not match a highly formal literary word with a casual colloquial opposite if a formal antonym exists among the options."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Thinking 'Invaluable' is the opposite of 'Valuable' (they are synonyms; the opposite is 'worthless').",
+    "Thinking 'Inflammable' means non-flammable (it means easily ignited; opposite is 'non-flammable').",
+    "Choosing an antonym with a mismatched part of speech (an adjective must be paired with an adjective).",
+    "Confusing 'Nadir' (lowest point, opposite of zenith) with 'Apex' (highest point, synonym of zenith)."
+  ],
+  "examTricks": [
+    "The Tone Elimination Shortcut: Label the question word as (+) or (-). The correct antonym MUST have the opposite polarity (+ becomes -, - becomes +).",
+    "The 'Invaluable' Trap: Remember: Valuable = মূল্যবান; Invaluable = অমূল্য (synonym, not antonym). Worthless = মূল্যহীন (true antonym).",
+    "The Zenith-Nadir Pair: Zenith = শীর্ষবিন্দু (highest); Nadir = পাদদেশ (lowest). Recurring WBPSC favorite."
+  ],
+  "memoryTricks": [
+    "ZENITH is on the ZEILING (ceiling); NADIR is on the NETHER (floor).",
+    "BENE means BENEFIT (+); MALE means MALICE (-)."
+  ],
+  "revision": [
+    "Zenith <-> Nadir; Acumen <-> Ignorance.",
+    "Candid <-> Deceitful / Secretive.",
+    "Diligent <-> Idle / Lazy; Frugal <-> Extravagant.",
+    "Ephemeral (short-lived) <-> Eternal / Permanent.",
+    "Obstinate (stubborn) <-> Flexible / Docile.",
+    "Invaluable = priceless (Opposite: Worthless).",
+    "Benevolent <-> Malevolent; Philanthropist <-> Misanthrope."
+  ],
+  "bookletTitle": "WBPSC Clerkship 90 Essential Antonyms Directory",
+  "bookletList": [
+    {
+      "term": "Absent",
+      "meaning": "Antonym: Present",
+      "bengali": "অনুপস্থিত vs উপস্থিত"
+    },
+    {
+      "term": "Abundant",
+      "meaning": "Antonym: Scanty",
+      "bengali": "প্রচুর vs স্বল্প / অপর্যাপ্ত"
+    },
+    {
+      "term": "Accept",
+      "meaning": "Antonym: Reject",
+      "bengali": "গ্রহণ করা vs বর্জন করা"
+    },
+    {
+      "term": "Admire",
+      "meaning": "Antonym: Despise",
+      "bengali": "সক্রিয় vs নিষ্ক্রিয়"
+    },
+    {
+      "term": "Adversity",
+      "meaning": "Antonym: Prosperity",
+      "bengali": "প্রশংসা করা vs ঘৃণা করা"
+    },
+    {
+      "term": "Affluence",
+      "meaning": "Antonym: Poverty",
+      "bengali": "অগ্রসর হওয়া vs পিছু হটা"
+    },
+    {
+      "term": "Amateur",
+      "meaning": "Antonym: Professional",
+      "bengali": "সমৃদ্ধি vs দারিদ্র্য"
+    },
+    {
+      "term": "Ancient",
+      "meaning": "Antonym: Modern",
+      "bengali": "একমত হওয়া vs দ্বিমত হওয়া"
+    },
+    {
+      "term": "Approve",
+      "meaning": "Antonym: Disapprove",
+      "bengali": "বিদেশি vs স্বদেশি"
+    },
+    {
+      "term": "Arrogant",
+      "meaning": "Antonym: Modest",
+      "bengali": "অপেশাদার vs পেশাদার"
+    },
+    {
+      "term": "Artificial",
+      "meaning": "Antonym: Natural",
+      "bengali": "প্রাচীন vs আধুনিক"
+    },
+    {
+      "term": "Ascend",
+      "meaning": "Antonym: Descend",
+      "bengali": "স্পষ্ট vs লুক্কায়িত"
+    },
+    {
+      "term": "Attract",
+      "meaning": "Antonym: Repel",
+      "bengali": "আগমন vs প্রস্থান"
+    },
+    {
+      "term": "Benevolent",
+      "meaning": "Antonym: Malevolent",
+      "bengali": "অহংকারী vs বিনয়ী"
+    },
+    {
+      "term": "Blame",
+      "meaning": "Antonym: Praise",
+      "bengali": "আরোহণ vs অবতরণ"
+    },
+    {
+      "term": "Bold",
+      "meaning": "Antonym: Timid",
+      "bengali": "আক্রমণ করা vs রক্ষা করা"
+    },
+    {
+      "term": "Brave",
+      "meaning": "Antonym: Cowardly",
+      "bengali": "আকর্ষণ করা vs বিকর্ষণ করা"
+    },
+    {
+      "term": "Brief",
+      "meaning": "Antonym: Lengthy",
+      "bengali": "খাঁটি vs নকল"
+    },
+    {
+      "term": "Candid",
+      "meaning": "Antonym: Deceitful",
+      "bengali": "অনুর্বর vs উর্বর"
+    },
+    {
+      "term": "Cheap",
+      "meaning": "Antonym: Expensive",
+      "bengali": "সুন্দর vs কুৎসিত"
+    },
+    {
+      "term": "Combine",
+      "meaning": "Antonym: Separate",
+      "bengali": "হিতৈষী vs অনিষ্টকারী"
+    },
+    {
+      "term": "Complex",
+      "meaning": "Antonym: Simple",
+      "bengali": "তিক্ত vs মধুর"
+    },
+    {
+      "term": "Compulsory",
+      "meaning": "Antonym: Optional",
+      "bengali": "ভোঁতা vs ধারালো"
+    },
+    {
+      "term": "Conceal",
+      "meaning": "Antonym: Reveal",
+      "bengali": "সাহসী vs ভীরু"
+    },
+    {
+      "term": "Condemn",
+      "meaning": "Antonym: Applaud",
+      "bengali": "বীরত্ব vs কাপুরুষতা"
+    },
+    {
+      "term": "Constant",
+      "meaning": "Antonym: Variable",
+      "bengali": "সংক্ষিপ্ত vs দীর্ঘ"
+    },
+    {
+      "term": "Courage",
+      "meaning": "Antonym: Cowardice",
+      "bengali": "প্রশস্ত vs সংকীর্ণ"
+    },
+    {
+      "term": "Cruel",
+      "meaning": "Antonym: Kind",
+      "bengali": "শান্ত vs উত্তাল"
+    },
+    {
+      "term": "Defend",
+      "meaning": "Antonym: Attack",
+      "bengali": "যত্নবান vs অসতর্ক"
+    },
+    {
+      "term": "Deliberate",
+      "meaning": "Antonym: Accidental",
+      "bengali": "সস্তা vs মূল্যবান"
+    },
+    {
+      "term": "Dense",
+      "meaning": "Antonym: Sparse",
+      "bengali": "প্রফুল্ল vs বিষণ্ণ"
+    },
+    {
+      "term": "Departure",
+      "meaning": "Antonym: Arrival",
+      "bengali": "পরিষ্কার vs নোংরা"
+    },
+    {
+      "term": "Diligent",
+      "meaning": "Antonym: Lazy",
+      "bengali": "চালাক vs বোকা"
+    },
+    {
+      "term": "Domestic",
+      "meaning": "Antonym: Foreign",
+      "bengali": "স্থূল vs সূক্ষ্ম"
+    },
+    {
+      "term": "Dull",
+      "meaning": "Antonym: Sharp",
+      "bengali": "ঠান্ডা vs গরম"
+    },
+    {
+      "term": "Empty",
+      "meaning": "Antonym: Full",
+      "bengali": "যুক্ত করা vs পৃথক করা"
+    },
+    {
+      "term": "Ephemeral",
+      "meaning": "Antonym: Eternal",
+      "bengali": "আরাম vs অস্বস্তি"
+    },
+    {
+      "term": "Evil",
+      "meaning": "Antonym: Virtuous",
+      "bengali": "সাধারণ vs বিরল"
+    },
+    {
+      "term": "Expand",
+      "meaning": "Antonym: Contract",
+      "bengali": "জটিল vs সহজ"
+    },
+    {
+      "term": "Exterior",
+      "meaning": "Antonym: Interior",
+      "bengali": "গোপন করা vs প্রকাশ করা"
+    },
+    {
+      "term": "Fake",
+      "meaning": "Antonym: Genuine",
+      "bengali": "নির্মাণ করা vs ধ্বংস করা"
+    },
+    {
+      "term": "Fertile",
+      "meaning": "Antonym: Barren",
+      "bengali": "সাহস vs ভয়"
+    },
+    {
+      "term": "Fiction",
+      "meaning": "Antonym: Fact",
+      "bengali": "নিষ্ঠুর vs দয়ালু"
+    },
+    {
+      "term": "Frequent",
+      "meaning": "Antonym: Rare",
+      "bengali": "অন্ধকার vs আলো"
+    },
+    {
+      "term": "Gather",
+      "meaning": "Antonym: Scatter",
+      "bengali": "গভীর vs অগভীর"
+    },
+    {
+      "term": "Generous",
+      "meaning": "Antonym: Stingy",
+      "bengali": "পরাজয় vs জয়"
+    },
+    {
+      "term": "Gloomy",
+      "meaning": "Antonym: Cheerful",
+      "bengali": "নির্দিষ্ট vs অস্পষ্ট"
+    },
+    {
+      "term": "Guilty",
+      "meaning": "Antonym: Innocent",
+      "bengali": "চাহিদা vs জোগান"
+    },
+    {
+      "term": "Harmony",
+      "meaning": "Antonym: Discord",
+      "bengali": "হতাশা vs আশা"
+    },
+    {
+      "term": "Hasty",
+      "meaning": "Antonym: Leisurely",
+      "bengali": "কঠিন vs সহজ"
+    },
+    {
+      "term": "Hostile",
+      "meaning": "Antonym: Friendly",
+      "bengali": "হ্রাস পাওয়া vs বৃদ্ধি পাওয়া"
+    },
+    {
+      "term": "Humble",
+      "meaning": "Antonym: Arrogant",
+      "bengali": "ভাগ করা vs একত্রিত করা"
+    },
+    {
+      "term": "Idle",
+      "meaning": "Antonym: Busy",
+      "bengali": "নিষ্প্রভ vs উজ্জ্বল"
+    },
+    {
+      "term": "Imprison",
+      "meaning": "Antonym: Release",
+      "bengali": "তাড়াতাড়ি vs দেরিতে"
+    },
+    {
+      "term": "Include",
+      "meaning": "Antonym: Exclude",
+      "bengali": "খালি vs পূর্ণ"
+    },
+    {
+      "term": "Inferior",
+      "meaning": "Antonym: Superior",
+      "bengali": "বিশাল vs অতি ক্ষুদ্র"
+    },
+    {
+      "term": "Inflate",
+      "meaning": "Antonym: Deflate",
+      "bengali": "প্রবেশ vs প্রস্থান"
+    },
+    {
+      "term": "Joy",
+      "meaning": "Antonym: Sorrow",
+      "bengali": "প্রসারিত vs সংকুচিত"
+    },
+    {
+      "term": "Lenient",
+      "meaning": "Antonym: Strict",
+      "bengali": "বাহ্যিক vs অভ্যন্তরীণ"
+    },
+    {
+      "term": "Lofty",
+      "meaning": "Antonym: Lowly",
+      "bengali": "ব্যর্থতা vs সাফল্য"
+    },
+    {
+      "term": "Majority",
+      "meaning": "Antonym: Minority",
+      "bengali": "বিশ্বস্ত vs বিশ্বাসঘাতক"
+    },
+    {
+      "term": "Maximum",
+      "meaning": "Antonym: Minimum",
+      "bengali": "বিখ্যাত vs অখ্যাত"
+    },
+    {
+      "term": "Mild",
+      "meaning": "Antonym: Harsh",
+      "bengali": "দ্রুত vs ধীর"
+    },
+    {
+      "term": "Mortal",
+      "meaning": "Antonym: Immortal",
+      "bengali": "প্রাণঘাতী vs ক্ষতিহীন"
+    },
+    {
+      "term": "Negligent",
+      "meaning": "Antonym: Careful",
+      "bengali": "সম্ভবপর vs অসম্ভব"
+    },
+    {
+      "term": "Novice",
+      "meaning": "Antonym: Expert",
+      "bengali": "দুর্বল vs বলিষ্ঠ"
+    },
+    {
+      "term": "Obscure",
+      "meaning": "Antonym: Clear",
+      "bengali": "নমনীয় vs অনমনীয়"
+    },
+    {
+      "term": "Often",
+      "meaning": "Antonym: Seldom",
+      "bengali": "বিদেশি vs দেশীয়"
+    },
+    {
+      "term": "Optimistic",
+      "meaning": "Antonym: Pessimistic",
+      "bengali": "ক্ষমা করা vs দোষারোপ করা"
+    },
+    {
+      "term": "Polite",
+      "meaning": "Antonym: Rude",
+      "bengali": "ভাগ্যবান vs দুর্ভাগ্যজনক"
+    },
+    {
+      "term": "Prodigal",
+      "meaning": "Antonym: Thrifty",
+      "bengali": "স্বাধীনতা vs বন্দিদশা"
+    },
+    {
+      "term": "Rapid",
+      "meaning": "Antonym: Slow",
+      "bengali": "টাটকা vs বাসি"
+    },
+    {
+      "term": "Reluctant",
+      "meaning": "Antonym: Eager",
+      "bengali": "বন্ধু vs শত্রু"
+    },
+    {
+      "term": "Rigid",
+      "meaning": "Antonym: Flexible",
+      "bengali": "উদার vs কৃপণ"
+    },
+    {
+      "term": "Rural",
+      "meaning": "Antonym: Urban",
+      "bengali": "নম্র vs রূঢ়"
+    },
+    {
+      "term": "Sane",
+      "meaning": "Antonym: Insane",
+      "bengali": "খাঁটি vs কৃত্রিম"
+    },
+    {
+      "term": "Scarce",
+      "meaning": "Antonym: Abundant",
+      "bengali": "বিষাদ vs উল্লাস"
+    },
+    {
+      "term": "Strengthen",
+      "meaning": "Antonym: Weaken",
+      "bengali": "দোষী vs নির্দোষ"
+    },
+    {
+      "term": "Sturdy",
+      "meaning": "Antonym: Frail",
+      "bengali": "কঠিন vs নরম"
+    },
+    {
+      "term": "Sweet",
+      "meaning": "Antonym: Bitter",
+      "bengali": "ঐক্য vs অনৈক্য"
+    },
+    {
+      "term": "Temporary",
+      "meaning": "Antonym: Permanent",
+      "bengali": "ভারী vs হালকা"
+    },
+    {
+      "term": "Tranquil",
+      "meaning": "Antonym: Turbulent",
+      "bengali": "নায়ক vs খলনায়ক"
+    },
+    {
+      "term": "Transparent",
+      "meaning": "Antonym: Opaque",
+      "bengali": "সৎ vs অসৎ"
+    },
+    {
+      "term": "Vague",
+      "meaning": "Antonym: Precise",
+      "bengali": "সম্মান vs লজ্জা"
+    },
+    {
+      "term": "Valid",
+      "meaning": "Antonym: Invalid",
+      "bengali": "শত্রুতাপূর্ণ vs বন্ধুত্বপূর্ণ"
+    },
+    {
+      "term": "Vice",
+      "meaning": "Antonym: Virtue",
+      "bengali": "বিশাল vs ক্ষুদ্র"
+    },
+    {
+      "term": "Victory",
+      "meaning": "Antonym: Defeat",
+      "bengali": "আমদানি vs রপ্তানি"
+    },
+    {
+      "term": "Wisdom",
+      "meaning": "Antonym: Folly",
+      "bengali": "কনিষ্ঠ vs জ্যেষ্ঠ"
+    },
+    {
+      "term": "Zeal",
+      "meaning": "Antonym: Apathy",
+      "bengali": "ন্যায়বিচার vs অন্যায়"
+    },
+    {
+      "term": "Zenith",
+      "meaning": "Antonym: Nadir",
+      "bengali": "শীর্ষবিন্দু vs পাদবিন্দু"
+    }
+  ]
+}

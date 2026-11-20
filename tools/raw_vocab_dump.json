@@ -1,0 +1,3234 @@
+{
+  "ows100": [
+    {
+      "no": 1,
+      "word": "Acrophobia",
+      "phrase": "Fear of heights"
+    },
+    {
+      "no": 2,
+      "word": "Agoraphobia",
+      "phrase": "Fear of open spaces"
+    },
+    {
+      "no": 3,
+      "word": "Altruist",
+      "phrase": "One who works selflessly for the welfare of others"
+    },
+    {
+      "no": 4,
+      "word": "Amateur",
+      "phrase": "One who does something for pleasure, not as a profession"
+    },
+    {
+      "no": 5,
+      "word": "Ambidextrous",
+      "phrase": "One who can use both hands equally well"
+    },
+    {
+      "no": 6,
+      "word": "Anarchy",
+      "phrase": "Absence of government or law"
+    },
+    {
+      "no": 7,
+      "word": "Anthropology",
+      "phrase": "Study of human origin and development"
+    },
+    {
+      "no": 8,
+      "word": "Antidote",
+      "phrase": "A remedy that counters poison"
+    },
+    {
+      "no": 9,
+      "word": "Archaeology",
+      "phrase": "Study of ancient remains"
+    },
+    {
+      "no": 10,
+      "word": "Archives",
+      "phrase": "A place where public records are kept"
+    },
+    {
+      "no": 11,
+      "word": "Astronomy",
+      "phrase": "Study of heavenly bodies"
+    },
+    {
+      "no": 12,
+      "word": "Atheist",
+      "phrase": "One who does not believe in God"
+    },
+    {
+      "no": 13,
+      "word": "Auditor",
+      "phrase": "An official who examines accounts"
+    },
+    {
+      "no": 14,
+      "word": "Autobiography",
+      "phrase": "Life story of a person written by himself"
+    },
+    {
+      "no": 15,
+      "word": "Autocracy",
+      "phrase": "Government by one person with absolute power"
+    },
+    {
+      "no": 16,
+      "word": "Aviary",
+      "phrase": "A place where birds are kept"
+    },
+    {
+      "no": 17,
+      "word": "Bibliophile",
+      "phrase": "A lover of books"
+    },
+    {
+      "no": 18,
+      "word": "Biennial",
+      "phrase": "Happening every two years"
+    },
+    {
+      "no": 19,
+      "word": "Bilingual",
+      "phrase": "A person who can speak two languages"
+    },
+    {
+      "no": 20,
+      "word": "Bureaucracy",
+      "phrase": "Government by officials"
+    },
+    {
+      "no": 21,
+      "word": "Calligraphy",
+      "phrase": "Art of beautiful handwriting"
+    },
+    {
+      "no": 22,
+      "word": "Cartography",
+      "phrase": "Science or art of making maps"
+    },
+    {
+      "no": 23,
+      "word": "Choir",
+      "phrase": "A group of singers"
+    },
+    {
+      "no": 24,
+      "word": "Claustrophobia",
+      "phrase": "Fear of closed places"
+    },
+    {
+      "no": 25,
+      "word": "Connoisseur",
+      "phrase": "An expert judge in matters of art or taste"
+    },
+    {
+      "no": 26,
+      "word": "Democracy",
+      "phrase": "Government by the people"
+    },
+    {
+      "no": 27,
+      "word": "Edible",
+      "phrase": "That which can be eaten"
+    },
+    {
+      "no": 28,
+      "word": "Egoist",
+      "phrase": "One who thinks only of himself"
+    },
+    {
+      "no": 29,
+      "word": "Elegy",
+      "phrase": "A poem of lament for the dead"
+    },
+    {
+      "no": 30,
+      "word": "Emigrant",
+      "phrase": "A person who leaves his own country to settle in another"
+    },
+    {
+      "no": 31,
+      "word": "Entomology",
+      "phrase": "Study of insects"
+    },
+    {
+      "no": 32,
+      "word": "Ephemeral",
+      "phrase": "Lasting for a very short time"
+    },
+    {
+      "no": 33,
+      "word": "Epic",
+      "phrase": "A long narrative poem about heroic deeds"
+    },
+    {
+      "no": 34,
+      "word": "Epigram",
+      "phrase": "A short witty saying"
+    },
+    {
+      "no": 35,
+      "word": "Epilogue",
+      "phrase": "The concluding part of a play"
+    },
+    {
+      "no": 36,
+      "word": "Epitaph",
+      "phrase": "Inscription on a tomb"
+    },
+    {
+      "no": 37,
+      "word": "Etymology",
+      "phrase": "Study of the origin of words"
+    },
+    {
+      "no": 38,
+      "word": "Extempore",
+      "phrase": "A speech delivered without preparation"
+    },
+    {
+      "no": 39,
+      "word": "Fleet",
+      "phrase": "A group of ships"
+    },
+    {
+      "no": 40,
+      "word": "Fragile",
+      "phrase": "That which can be easily broken"
+    },
+    {
+      "no": 41,
+      "word": "Fratricide",
+      "phrase": "Murder of one's brother"
+    },
+    {
+      "no": 42,
+      "word": "Genocide",
+      "phrase": "Mass killing of a whole race or group"
+    },
+    {
+      "no": 43,
+      "word": "Gourmet",
+      "phrase": "A person with refined taste in food"
+    },
+    {
+      "no": 44,
+      "word": "Hermit",
+      "phrase": "One who lives alone, away from society"
+    },
+    {
+      "no": 45,
+      "word": "Hydrophobia",
+      "phrase": "Fear of water"
+    },
+    {
+      "no": 46,
+      "word": "Illegible",
+      "phrase": "That which cannot be read"
+    },
+    {
+      "no": 47,
+      "word": "Immigrant",
+      "phrase": "A person who enters a foreign country to settle there"
+    },
+    {
+      "no": 48,
+      "word": "Immortal",
+      "phrase": "That which can never die"
+    },
+    {
+      "no": 49,
+      "word": "Inaudible",
+      "phrase": "That which cannot be heard"
+    },
+    {
+      "no": 50,
+      "word": "Incorrigible",
+      "phrase": "One who cannot be corrected"
+    },
+    {
+      "no": 51,
+      "word": "Inevitable",
+      "phrase": "That which cannot be avoided"
+    },
+    {
+      "no": 52,
+      "word": "Infanticide",
+      "phrase": "Killing of an infant"
+    },
+    {
+      "no": 53,
+      "word": "Inimitable",
+      "phrase": "That which cannot be imitated"
+    },
+    {
+      "no": 54,
+      "word": "Insatiable",
+      "phrase": "That which cannot be satisfied"
+    },
+    {
+      "no": 55,
+      "word": "Insolvent",
+      "phrase": "One who is unable to pay his debts"
+    },
+    {
+      "no": 56,
+      "word": "Invincible",
+      "phrase": "That which cannot be defeated"
+    },
+    {
+      "no": 57,
+      "word": "Invisible",
+      "phrase": "That which cannot be seen"
+    },
+    {
+      "no": 58,
+      "word": "Matricide",
+      "phrase": "Murder of one's mother"
+    },
+    {
+      "no": 59,
+      "word": "Misanthrope",
+      "phrase": "One who hates mankind"
+    },
+    {
+      "no": 60,
+      "word": "Miser",
+      "phrase": "One who hoards money greedily"
+    },
+    {
+      "no": 61,
+      "word": "Monarchy",
+      "phrase": "Rule by a king or queen"
+    },
+    {
+      "no": 62,
+      "word": "Nomad",
+      "phrase": "One who wanders from place to place"
+    },
+    {
+      "no": 63,
+      "word": "Novice",
+      "phrase": "A person new to an activity"
+    },
+    {
+      "no": 64,
+      "word": "Numismatics",
+      "phrase": "Study of coins"
+    },
+    {
+      "no": 65,
+      "word": "Obsolete",
+      "phrase": "That which is no longer in use"
+    },
+    {
+      "no": 66,
+      "word": "Oligarchy",
+      "phrase": "Government by a few"
+    },
+    {
+      "no": 67,
+      "word": "Omnipresent",
+      "phrase": "One who is present everywhere"
+    },
+    {
+      "no": 68,
+      "word": "Omniscient",
+      "phrase": "One who knows everything"
+    },
+    {
+      "no": 69,
+      "word": "Optimist",
+      "phrase": "One who always looks on the bright side"
+    },
+    {
+      "no": 70,
+      "word": "Orator",
+      "phrase": "A person skilled in public speaking"
+    },
+    {
+      "no": 71,
+      "word": "Ornithology",
+      "phrase": "Study of birds"
+    },
+    {
+      "no": 72,
+      "word": "Paediatrician",
+      "phrase": "A doctor who treats children"
+    },
+    {
+      "no": 73,
+      "word": "Panacea",
+      "phrase": "A remedy for all diseases"
+    },
+    {
+      "no": 74,
+      "word": "Parasite",
+      "phrase": "One who lives at the expense of others"
+    },
+    {
+      "no": 75,
+      "word": "Patricide",
+      "phrase": "Murder of one's father"
+    },
+    {
+      "no": 76,
+      "word": "Patriot",
+      "phrase": "One who loves his country"
+    },
+    {
+      "no": 77,
+      "word": "Patron",
+      "phrase": "One who gives financial support to an artist"
+    },
+    {
+      "no": 78,
+      "word": "Pauper",
+      "phrase": "A very poor person"
+    },
+    {
+      "no": 79,
+      "word": "Perennial",
+      "phrase": "Lasting through many years"
+    },
+    {
+      "no": 80,
+      "word": "Pessimist",
+      "phrase": "One who always expects the worst"
+    },
+    {
+      "no": 81,
+      "word": "Philanthropist",
+      "phrase": "One who loves mankind"
+    },
+    {
+      "no": 82,
+      "word": "Philatelist",
+      "phrase": "Collector of postage stamps"
+    },
+    {
+      "no": 83,
+      "word": "Pilgrim",
+      "phrase": "A person who travels to a holy place"
+    },
+    {
+      "no": 84,
+      "word": "Plutocracy",
+      "phrase": "Government by the rich"
+    },
+    {
+      "no": 85,
+      "word": "Polyglot",
+      "phrase": "One who knows many languages"
+    },
+    {
+      "no": 86,
+      "word": "Prologue",
+      "phrase": "The introductory part of a play"
+    },
+    {
+      "no": 87,
+      "word": "Psychology",
+      "phrase": "Study of the human mind and behaviour"
+    },
+    {
+      "no": 88,
+      "word": "Ransom",
+      "phrase": "Money paid for the release of a captive"
+    },
+    {
+      "no": 89,
+      "word": "Regicide",
+      "phrase": "Killing of a king"
+    },
+    {
+      "no": 90,
+      "word": "Sacrilege",
+      "phrase": "Violation of something sacred"
+    },
+    {
+      "no": 91,
+      "word": "Sociology",
+      "phrase": "Study of society"
+    },
+    {
+      "no": 92,
+      "word": "Soliloquy",
+      "phrase": "A speech spoken by a character to himself in a play"
+    },
+    {
+      "no": 93,
+      "word": "Somnambulist",
+      "phrase": "A person who walks in sleep"
+    },
+    {
+      "no": 94,
+      "word": "Spendthrift",
+      "phrase": "One who spends money recklessly"
+    },
+    {
+      "no": 95,
+      "word": "Stenography",
+      "phrase": "Art of shorthand writing"
+    },
+    {
+      "no": 96,
+      "word": "Stoic",
+      "phrase": "One who is indifferent to pleasure and pain"
+    },
+    {
+      "no": 97,
+      "word": "Tangible",
+      "phrase": "That which can be touched or felt"
+    },
+    {
+      "no": 98,
+      "word": "Theocracy",
+      "phrase": "Government by religious leaders"
+    },
+    {
+      "no": 99,
+      "word": "Widow",
+      "phrase": "A woman whose husband is dead"
+    },
+    {
+      "no": 100,
+      "word": "Xenophobia",
+      "phrase": "Fear of foreigners"
+    }
+  ],
+  "synonyms95": [
+    {
+      "no": 1,
+      "word": "Abandon",
+      "synonym": "Forsake"
+    },
+    {
+      "no": 2,
+      "word": "Abate",
+      "synonym": "Subside"
+    },
+    {
+      "no": 3,
+      "word": "Abundant",
+      "synonym": "Plentiful"
+    },
+    {
+      "no": 4,
+      "word": "Acumen",
+      "synonym": "Keenness"
+    },
+    {
+      "no": 5,
+      "word": "Adept",
+      "synonym": "Skilful"
+    },
+    {
+      "no": 6,
+      "word": "Adversity",
+      "synonym": "Hardship"
+    },
+    {
+      "no": 7,
+      "word": "Allay",
+      "synonym": "Soothe"
+    },
+    {
+      "no": 8,
+      "word": "Ameliorate",
+      "synonym": "Improve"
+    },
+    {
+      "no": 9,
+      "word": "Amiable",
+      "synonym": "Friendly"
+    },
+    {
+      "no": 10,
+      "word": "Anguish",
+      "synonym": "Agony"
+    },
+    {
+      "no": 11,
+      "word": "Apathy",
+      "synonym": "Indifference"
+    },
+    {
+      "no": 12,
+      "word": "Arduous",
+      "synonym": "Difficult"
+    },
+    {
+      "no": 13,
+      "word": "Audacious",
+      "synonym": "Bold"
+    },
+    {
+      "no": 14,
+      "word": "Austere",
+      "synonym": "Stern"
+    },
+    {
+      "no": 15,
+      "word": "Baffle",
+      "synonym": "Puzzle"
+    },
+    {
+      "no": 16,
+      "word": "Benevolent",
+      "synonym": "Kind"
+    },
+    {
+      "no": 17,
+      "word": "Blunder",
+      "synonym": "Mistake"
+    },
+    {
+      "no": 18,
+      "word": "Brisk",
+      "synonym": "Quick"
+    },
+    {
+      "no": 19,
+      "word": "Callous",
+      "synonym": "Heartless"
+    },
+    {
+      "no": 20,
+      "word": "Candid",
+      "synonym": "Frank"
+    },
+    {
+      "no": 21,
+      "word": "Cease",
+      "synonym": "Stop"
+    },
+    {
+      "no": 22,
+      "word": "Coerce",
+      "synonym": "Force"
+    },
+    {
+      "no": 23,
+      "word": "Conceal",
+      "synonym": "Hide"
+    },
+    {
+      "no": 24,
+      "word": "Concur",
+      "synonym": "Agree"
+    },
+    {
+      "no": 25,
+      "word": "Condone",
+      "synonym": "Forgive"
+    },
+    {
+      "no": 26,
+      "word": "Contempt",
+      "synonym": "Scorn"
+    },
+    {
+      "no": 27,
+      "word": "Copious",
+      "synonym": "Plentiful"
+    },
+    {
+      "no": 28,
+      "word": "Cunning",
+      "synonym": "Crafty"
+    },
+    {
+      "no": 29,
+      "word": "Deter",
+      "synonym": "Discourage"
+    },
+    {
+      "no": 30,
+      "word": "Devout",
+      "synonym": "Pious"
+    },
+    {
+      "no": 31,
+      "word": "Dilemma",
+      "synonym": "Predicament"
+    },
+    {
+      "no": 32,
+      "word": "Diligent",
+      "synonym": "Industrious"
+    },
+    {
+      "no": 33,
+      "word": "Dubious",
+      "synonym": "Doubtful"
+    },
+    {
+      "no": 34,
+      "word": "Elated",
+      "synonym": "Overjoyed"
+    },
+    {
+      "no": 35,
+      "word": "Eloquent",
+      "synonym": "Fluent"
+    },
+    {
+      "no": 36,
+      "word": "Elude",
+      "synonym": "Evade"
+    },
+    {
+      "no": 37,
+      "word": "Emancipate",
+      "synonym": "Liberate"
+    },
+    {
+      "no": 38,
+      "word": "Eminent",
+      "synonym": "Distinguished"
+    },
+    {
+      "no": 39,
+      "word": "Endeavour",
+      "synonym": "Attempt"
+    },
+    {
+      "no": 40,
+      "word": "Fabricate",
+      "synonym": "Invent"
+    },
+    {
+      "no": 41,
+      "word": "Feeble",
+      "synonym": "Weak"
+    },
+    {
+      "no": 42,
+      "word": "Fervent",
+      "synonym": "Passionate"
+    },
+    {
+      "no": 43,
+      "word": "Frugal",
+      "synonym": "Thrifty"
+    },
+    {
+      "no": 44,
+      "word": "Futile",
+      "synonym": "Useless"
+    },
+    {
+      "no": 45,
+      "word": "Garrulous",
+      "synonym": "Talkative"
+    },
+    {
+      "no": 46,
+      "word": "Gaudy",
+      "synonym": "Showy"
+    },
+    {
+      "no": 47,
+      "word": "Gratify",
+      "synonym": "Satisfy"
+    },
+    {
+      "no": 48,
+      "word": "Hamper",
+      "synonym": "Hinder"
+    },
+    {
+      "no": 49,
+      "word": "Haughty",
+      "synonym": "Arrogant"
+    },
+    {
+      "no": 50,
+      "word": "Hostile",
+      "synonym": "Antagonistic"
+    },
+    {
+      "no": 51,
+      "word": "Humble",
+      "synonym": "Modest"
+    },
+    {
+      "no": 52,
+      "word": "Illustrious",
+      "synonym": "Famous"
+    },
+    {
+      "no": 53,
+      "word": "Immense",
+      "synonym": "Huge"
+    },
+    {
+      "no": 54,
+      "word": "Impetuous",
+      "synonym": "Hasty"
+    },
+    {
+      "no": 55,
+      "word": "Inept",
+      "synonym": "Clumsy"
+    },
+    {
+      "no": 56,
+      "word": "Innocuous",
+      "synonym": "Harmless"
+    },
+    {
+      "no": 57,
+      "word": "Jeopardy",
+      "synonym": "Danger"
+    },
+    {
+      "no": 58,
+      "word": "Jovial",
+      "synonym": "Cheerful"
+    },
+    {
+      "no": 59,
+      "word": "Keen",
+      "synonym": "Eager"
+    },
+    {
+      "no": 60,
+      "word": "Lament",
+      "synonym": "Mourn"
+    },
+    {
+      "no": 61,
+      "word": "Lavish",
+      "synonym": "Extravagant"
+    },
+    {
+      "no": 62,
+      "word": "Lethargic",
+      "synonym": "Sluggish"
+    },
+    {
+      "no": 63,
+      "word": "Lucid",
+      "synonym": "Clear"
+    },
+    {
+      "no": 64,
+      "word": "Meagre",
+      "synonym": "Scanty"
+    },
+    {
+      "no": 65,
+      "word": "Meticulous",
+      "synonym": "Painstaking"
+    },
+    {
+      "no": 66,
+      "word": "Mundane",
+      "synonym": "Ordinary"
+    },
+    {
+      "no": 67,
+      "word": "Nefarious",
+      "synonym": "Wicked"
+    },
+    {
+      "no": 68,
+      "word": "Notorious",
+      "synonym": "Infamous"
+    },
+    {
+      "no": 69,
+      "word": "Novel",
+      "synonym": "New"
+    },
+    {
+      "no": 70,
+      "word": "Oblivious",
+      "synonym": "Unaware"
+    },
+    {
+      "no": 71,
+      "word": "Obstinate",
+      "synonym": "Stubborn"
+    },
+    {
+      "no": 72,
+      "word": "Opulent",
+      "synonym": "Wealthy"
+    },
+    {
+      "no": 73,
+      "word": "Pacify",
+      "synonym": "Appease"
+    },
+    {
+      "no": 74,
+      "word": "Perilous",
+      "synonym": "Hazardous"
+    },
+    {
+      "no": 75,
+      "word": "Placid",
+      "synonym": "Calm"
+    },
+    {
+      "no": 76,
+      "word": "Pragmatic",
+      "synonym": "Practical"
+    },
+    {
+      "no": 77,
+      "word": "Prudent",
+      "synonym": "Wise"
+    },
+    {
+      "no": 78,
+      "word": "Quell",
+      "synonym": "Suppress"
+    },
+    {
+      "no": 79,
+      "word": "Rebuke",
+      "synonym": "Reprimand"
+    },
+    {
+      "no": 80,
+      "word": "Reluctant",
+      "synonym": "Unwilling"
+    },
+    {
+      "no": 81,
+      "word": "Ruthless",
+      "synonym": "Merciless"
+    },
+    {
+      "no": 82,
+      "word": "Sagacious",
+      "synonym": "Shrewd"
+    },
+    {
+      "no": 83,
+      "word": "Scrutinize",
+      "synonym": "Examine"
+    },
+    {
+      "no": 84,
+      "word": "Serene",
+      "synonym": "Peaceful"
+    },
+    {
+      "no": 85,
+      "word": "Stagnant",
+      "synonym": "Motionless"
+    },
+    {
+      "no": 86,
+      "word": "Tedious",
+      "synonym": "Boring"
+    },
+    {
+      "no": 87,
+      "word": "Tenacious",
+      "synonym": "Persistent"
+    },
+    {
+      "no": 88,
+      "word": "Trivial",
+      "synonym": "Petty"
+    },
+    {
+      "no": 89,
+      "word": "Ubiquitous",
+      "synonym": "Omnipresent"
+    },
+    {
+      "no": 90,
+      "word": "Vacant",
+      "synonym": "Empty"
+    },
+    {
+      "no": 91,
+      "word": "Vanish",
+      "synonym": "Disappear"
+    },
+    {
+      "no": 92,
+      "word": "Verbose",
+      "synonym": "Wordy"
+    },
+    {
+      "no": 93,
+      "word": "Vigilant",
+      "synonym": "Watchful"
+    },
+    {
+      "no": 94,
+      "word": "Wary",
+      "synonym": "Cautious"
+    },
+    {
+      "no": 95,
+      "word": "Wrath",
+      "synonym": "Anger"
+    }
+  ],
+  "antonyms90": [
+    {
+      "no": 1,
+      "word": "Absent",
+      "antonym": "Present"
+    },
+    {
+      "no": 2,
+      "word": "Abundant",
+      "antonym": "Scanty"
+    },
+    {
+      "no": 3,
+      "word": "Accept",
+      "antonym": "Reject"
+    },
+    {
+      "no": 4,
+      "word": "Admire",
+      "antonym": "Despise"
+    },
+    {
+      "no": 5,
+      "word": "Adversity",
+      "antonym": "Prosperity"
+    },
+    {
+      "no": 6,
+      "word": "Affluence",
+      "antonym": "Poverty"
+    },
+    {
+      "no": 7,
+      "word": "Amateur",
+      "antonym": "Professional"
+    },
+    {
+      "no": 8,
+      "word": "Ancient",
+      "antonym": "Modern"
+    },
+    {
+      "no": 9,
+      "word": "Approve",
+      "antonym": "Disapprove"
+    },
+    {
+      "no": 10,
+      "word": "Arrogant",
+      "antonym": "Modest"
+    },
+    {
+      "no": 11,
+      "word": "Artificial",
+      "antonym": "Natural"
+    },
+    {
+      "no": 12,
+      "word": "Ascend",
+      "antonym": "Descend"
+    },
+    {
+      "no": 13,
+      "word": "Attract",
+      "antonym": "Repel"
+    },
+    {
+      "no": 14,
+      "word": "Benevolent",
+      "antonym": "Malevolent"
+    },
+    {
+      "no": 15,
+      "word": "Blame",
+      "antonym": "Praise"
+    },
+    {
+      "no": 16,
+      "word": "Bold",
+      "antonym": "Timid"
+    },
+    {
+      "no": 17,
+      "word": "Brave",
+      "antonym": "Cowardly"
+    },
+    {
+      "no": 18,
+      "word": "Brief",
+      "antonym": "Lengthy"
+    },
+    {
+      "no": 19,
+      "word": "Candid",
+      "antonym": "Deceitful"
+    },
+    {
+      "no": 20,
+      "word": "Cheap",
+      "antonym": "Expensive"
+    },
+    {
+      "no": 21,
+      "word": "Combine",
+      "antonym": "Separate"
+    },
+    {
+      "no": 22,
+      "word": "Complex",
+      "antonym": "Simple"
+    },
+    {
+      "no": 23,
+      "word": "Compulsory",
+      "antonym": "Optional"
+    },
+    {
+      "no": 24,
+      "word": "Conceal",
+      "antonym": "Reveal"
+    },
+    {
+      "no": 25,
+      "word": "Condemn",
+      "antonym": "Applaud"
+    },
+    {
+      "no": 26,
+      "word": "Constant",
+      "antonym": "Variable"
+    },
+    {
+      "no": 27,
+      "word": "Courage",
+      "antonym": "Cowardice"
+    },
+    {
+      "no": 28,
+      "word": "Cruel",
+      "antonym": "Kind"
+    },
+    {
+      "no": 29,
+      "word": "Defend",
+      "antonym": "Attack"
+    },
+    {
+      "no": 30,
+      "word": "Deliberate",
+      "antonym": "Accidental"
+    },
+    {
+      "no": 31,
+      "word": "Dense",
+      "antonym": "Sparse"
+    },
+    {
+      "no": 32,
+      "word": "Departure",
+      "antonym": "Arrival"
+    },
+    {
+      "no": 33,
+      "word": "Diligent",
+      "antonym": "Lazy"
+    },
+    {
+      "no": 34,
+      "word": "Domestic",
+      "antonym": "Foreign"
+    },
+    {
+      "no": 35,
+      "word": "Dull",
+      "antonym": "Sharp"
+    },
+    {
+      "no": 36,
+      "word": "Empty",
+      "antonym": "Full"
+    },
+    {
+      "no": 37,
+      "word": "Ephemeral",
+      "antonym": "Eternal"
+    },
+    {
+      "no": 38,
+      "word": "Evil",
+      "antonym": "Virtuous"
+    },
+    {
+      "no": 39,
+      "word": "Expand",
+      "antonym": "Contract"
+    },
+    {
+      "no": 40,
+      "word": "Exterior",
+      "antonym": "Interior"
+    },
+    {
+      "no": 41,
+      "word": "Fake",
+      "antonym": "Genuine"
+    },
+    {
+      "no": 42,
+      "word": "Fertile",
+      "antonym": "Barren"
+    },
+    {
+      "no": 43,
+      "word": "Fiction",
+      "antonym": "Fact"
+    },
+    {
+      "no": 44,
+      "word": "Frequent",
+      "antonym": "Rare"
+    },
+    {
+      "no": 45,
+      "word": "Gather",
+      "antonym": "Scatter"
+    },
+    {
+      "no": 46,
+      "word": "Generous",
+      "antonym": "Stingy"
+    },
+    {
+      "no": 47,
+      "word": "Gloomy",
+      "antonym": "Cheerful"
+    },
+    {
+      "no": 48,
+      "word": "Guilty",
+      "antonym": "Innocent"
+    },
+    {
+      "no": 49,
+      "word": "Harmony",
+      "antonym": "Discord"
+    },
+    {
+      "no": 50,
+      "word": "Hasty",
+      "antonym": "Leisurely"
+    },
+    {
+      "no": 51,
+      "word": "Hostile",
+      "antonym": "Friendly"
+    },
+    {
+      "no": 52,
+      "word": "Humble",
+      "antonym": "Arrogant"
+    },
+    {
+      "no": 53,
+      "word": "Idle",
+      "antonym": "Busy"
+    },
+    {
+      "no": 54,
+      "word": "Imprison",
+      "antonym": "Release"
+    },
+    {
+      "no": 55,
+      "word": "Include",
+      "antonym": "Exclude"
+    },
+    {
+      "no": 56,
+      "word": "Inferior",
+      "antonym": "Superior"
+    },
+    {
+      "no": 57,
+      "word": "Inflate",
+      "antonym": "Deflate"
+    },
+    {
+      "no": 58,
+      "word": "Joy",
+      "antonym": "Sorrow"
+    },
+    {
+      "no": 59,
+      "word": "Lenient",
+      "antonym": "Strict"
+    },
+    {
+      "no": 60,
+      "word": "Lofty",
+      "antonym": "Lowly"
+    },
+    {
+      "no": 61,
+      "word": "Majority",
+      "antonym": "Minority"
+    },
+    {
+      "no": 62,
+      "word": "Maximum",
+      "antonym": "Minimum"
+    },
+    {
+      "no": 63,
+      "word": "Mild",
+      "antonym": "Harsh"
+    },
+    {
+      "no": 64,
+      "word": "Mortal",
+      "antonym": "Immortal"
+    },
+    {
+      "no": 65,
+      "word": "Negligent",
+      "antonym": "Careful"
+    },
+    {
+      "no": 66,
+      "word": "Novice",
+      "antonym": "Expert"
+    },
+    {
+      "no": 67,
+      "word": "Obscure",
+      "antonym": "Clear"
+    },
+    {
+      "no": 68,
+      "word": "Often",
+      "antonym": "Seldom"
+    },
+    {
+      "no": 69,
+      "word": "Optimistic",
+      "antonym": "Pessimistic"
+    },
+    {
+      "no": 70,
+      "word": "Polite",
+      "antonym": "Rude"
+    },
+    {
+      "no": 71,
+      "word": "Prodigal",
+      "antonym": "Thrifty"
+    },
+    {
+      "no": 72,
+      "word": "Rapid",
+      "antonym": "Slow"
+    },
+    {
+      "no": 73,
+      "word": "Reluctant",
+      "antonym": "Eager"
+    },
+    {
+      "no": 74,
+      "word": "Rigid",
+      "antonym": "Flexible"
+    },
+    {
+      "no": 75,
+      "word": "Rural",
+      "antonym": "Urban"
+    },
+    {
+      "no": 76,
+      "word": "Sane",
+      "antonym": "Insane"
+    },
+    {
+      "no": 77,
+      "word": "Scarce",
+      "antonym": "Abundant"
+    },
+    {
+      "no": 78,
+      "word": "Strengthen",
+      "antonym": "Weaken"
+    },
+    {
+      "no": 79,
+      "word": "Sturdy",
+      "antonym": "Frail"
+    },
+    {
+      "no": 80,
+      "word": "Sweet",
+      "antonym": "Bitter"
+    },
+    {
+      "no": 81,
+      "word": "Temporary",
+      "antonym": "Permanent"
+    },
+    {
+      "no": 82,
+      "word": "Tranquil",
+      "antonym": "Turbulent"
+    },
+    {
+      "no": 83,
+      "word": "Transparent",
+      "antonym": "Opaque"
+    },
+    {
+      "no": 84,
+      "word": "Vague",
+      "antonym": "Precise"
+    },
+    {
+      "no": 85,
+      "word": "Valid",
+      "antonym": "Invalid"
+    },
+    {
+      "no": 86,
+      "word": "Vice",
+      "antonym": "Virtue"
+    },
+    {
+      "no": 87,
+      "word": "Victory",
+      "antonym": "Defeat"
+    },
+    {
+      "no": 88,
+      "word": "Wisdom",
+      "antonym": "Folly"
+    },
+    {
+      "no": 89,
+      "word": "Zeal",
+      "antonym": "Apathy"
+    },
+    {
+      "no": 90,
+      "word": "Zenith",
+      "antonym": "Nadir"
+    }
+  ],
+  "spelling75": [
+    {
+      "no": 1,
+      "word": "Accommodation",
+      "misspellings": "Accomodation   •   Acommodation   •   Accomadation"
+    },
+    {
+      "no": 2,
+      "word": "Achievement",
+      "misspellings": "Acheivement   •   Achievment   •   Achivement"
+    },
+    {
+      "no": 3,
+      "word": "Acquaintance",
+      "misspellings": "Aquaintance   •   Acquaintence   •   Acqaintance"
+    },
+    {
+      "no": 4,
+      "word": "Apparent",
+      "misspellings": "Apparant   •   Aparent   •   Apparrent"
+    },
+    {
+      "no": 5,
+      "word": "Assassination",
+      "misspellings": "Asassination   •   Assasination   •   Assassanation"
+    },
+    {
+      "no": 6,
+      "word": "Bureaucracy",
+      "misspellings": "Beaurocracy   •   Bureaucrasy   •   Buraucracy"
+    },
+    {
+      "no": 7,
+      "word": "Calendar",
+      "misspellings": "Calender   •   Calandar   •   Calendre"
+    },
+    {
+      "no": 8,
+      "word": "Category",
+      "misspellings": "Catagory   •   Cateogry   •   Categorey"
+    },
+    {
+      "no": 9,
+      "word": "Cemetery",
+      "misspellings": "Cemetary   •   Cematery   •   Cemmetery"
+    },
+    {
+      "no": 10,
+      "word": "Changeable",
+      "misspellings": "Changable   •   Changible   •   Chaingeable"
+    },
+    {
+      "no": 11,
+      "word": "Colleague",
+      "misspellings": "Collegue   •   Colleage   •   Collaegue"
+    },
+    {
+      "no": 12,
+      "word": "Commitment",
+      "misspellings": "Comittment   •   Commitmant   •   Commitement"
+    },
+    {
+      "no": 13,
+      "word": "Committee",
+      "misspellings": "Comittee   •   Commitee   •   Comittie"
+    },
+    {
+      "no": 14,
+      "word": "Competition",
+      "misspellings": "Competion   •   Compitition   •   Competetion"
+    },
+    {
+      "no": 15,
+      "word": "Conscience",
+      "misspellings": "Consience   •   Conscions   •   Concience"
+    },
+    {
+      "no": 16,
+      "word": "Conscientious",
+      "misspellings": "Consientious   •   Conscentious   •   Conscienscious"
+    },
+    {
+      "no": 17,
+      "word": "Conscious",
+      "misspellings": "Concious   •   Consious   •   Concsious"
+    },
+    {
+      "no": 18,
+      "word": "Criticism",
+      "misspellings": "Critisism   •   Critcism   •   Criticizm"
+    },
+    {
+      "no": 19,
+      "word": "Curiosity",
+      "misspellings": "Curiousity   •   Curiocity   •   Curosity"
+    },
+    {
+      "no": 20,
+      "word": "Definitely",
+      "misspellings": "Definately   •   Definitly   •   Defanitely"
+    },
+    {
+      "no": 21,
+      "word": "Disappoint",
+      "misspellings": "Dissappoint   •   Disapoint   •   Disappiont"
+    },
+    {
+      "no": 22,
+      "word": "Discipline",
+      "misspellings": "Disipline   •   Dicipline   •   Discepline"
+    },
+    {
+      "no": 23,
+      "word": "Embarrass",
+      "misspellings": "Embarass   •   Embarras   •   Embarrase"
+    },
+    {
+      "no": 24,
+      "word": "Environment",
+      "misspellings": "Enviroment   •   Environmant   •   Envirenment"
+    },
+    {
+      "no": 25,
+      "word": "Exaggerate",
+      "misspellings": "Exagerate   •   Exagerrate   •   Exaggarate"
+    },
+    {
+      "no": 26,
+      "word": "Existence",
+      "misspellings": "Existance   •   Existense   •   Exsistence"
+    },
+    {
+      "no": 27,
+      "word": "Familiar",
+      "misspellings": "Familar   •   Familier   •   Famillar"
+    },
+    {
+      "no": 28,
+      "word": "February",
+      "misspellings": "Febuary   •   Feburary   •   Februery"
+    },
+    {
+      "no": 29,
+      "word": "Foreign",
+      "misspellings": "Foriegn   •   Forein   •   Forreign"
+    },
+    {
+      "no": 30,
+      "word": "Government",
+      "misspellings": "Goverment   •   Govenment   •   Governmant"
+    },
+    {
+      "no": 31,
+      "word": "Grammar",
+      "misspellings": "Grammer   •   Gramar   •   Grammmar"
+    },
+    {
+      "no": 32,
+      "word": "Guarantee",
+      "misspellings": "Gaurantee   •   Garantee   •   Guarentee"
+    },
+    {
+      "no": 33,
+      "word": "Harass",
+      "misspellings": "Harrass   •   Haras   •   Harrasse"
+    },
+    {
+      "no": 34,
+      "word": "Height",
+      "misspellings": "Hieght   •   Heigth   •   Hight"
+    },
+    {
+      "no": 35,
+      "word": "Humorous",
+      "misspellings": "Humourous   •   Humorus   •   Humerous"
+    },
+    {
+      "no": 36,
+      "word": "Hygiene",
+      "misspellings": "Hygeine   •   Hygine   •   Higiene"
+    },
+    {
+      "no": 37,
+      "word": "Immediately",
+      "misspellings": "Imediately   •   Immediatly   •   Immidiately"
+    },
+    {
+      "no": 38,
+      "word": "Independent",
+      "misspellings": "Independant   •   Independint   •   Indipendent"
+    },
+    {
+      "no": 39,
+      "word": "Intelligence",
+      "misspellings": "Inteligence   •   Intelligance   •   Intellegence"
+    },
+    {
+      "no": 40,
+      "word": "Interrupt",
+      "misspellings": "Interupt   •   Interrept   •   Intterupt"
+    },
+    {
+      "no": 41,
+      "word": "Jewellery",
+      "misspellings": "Jewelery   •   Jwellery   •   Jewelary"
+    },
+    {
+      "no": 42,
+      "word": "Knowledge",
+      "misspellings": "Knowlege   •   Knowldge   •   Nowledge"
+    },
+    {
+      "no": 43,
+      "word": "Library",
+      "misspellings": "Libary   •   Liberary   •   Librery"
+    },
+    {
+      "no": 44,
+      "word": "Lightning",
+      "misspellings": "Lightnng   •   Lightining   •   Ligtning"
+    },
+    {
+      "no": 45,
+      "word": "Maintenance",
+      "misspellings": "Maintainance   •   Maintenence   •   Maintanance"
+    },
+    {
+      "no": 46,
+      "word": "Millennium",
+      "misspellings": "Millenium   •   Milennium   •   Millenum"
+    },
+    {
+      "no": 47,
+      "word": "Mischievous",
+      "misspellings": "Mischievious   •   Mischevous   •   Mischeivous"
+    },
+    {
+      "no": 48,
+      "word": "Necessary",
+      "misspellings": "Neccessary   •   Necesary   •   Neccesary"
+    },
+    {
+      "no": 49,
+      "word": "Neighbour",
+      "misspellings": "Nieghbour   •   Neigbour   •   Nighbour"
+    },
+    {
+      "no": 50,
+      "word": "Noticeable",
+      "misspellings": "Noticable   •   Noticible   •   Notiseable"
+    },
+    {
+      "no": 51,
+      "word": "Occasion",
+      "misspellings": "Ocassion   •   Occassion   •   Ocasion"
+    },
+    {
+      "no": 52,
+      "word": "Occurrence",
+      "misspellings": "Occurence   •   Ocurrence   •   Occurance"
+    },
+    {
+      "no": 53,
+      "word": "Opportunity",
+      "misspellings": "Oportunity   •   Opportunty   •   Oppurtunity"
+    },
+    {
+      "no": 54,
+      "word": "Parallel",
+      "misspellings": "Paralel   •   Parralel   •   Parellel"
+    },
+    {
+      "no": 55,
+      "word": "Parliament",
+      "misspellings": "Parliment   •   Parlament   •   Parliamant"
+    },
+    {
+      "no": 56,
+      "word": "Perseverance",
+      "misspellings": "Perseverence   •   Persaverance   •   Perserverance"
+    },
+    {
+      "no": 57,
+      "word": "Possession",
+      "misspellings": "Posession   •   Possesion   •   Possesssion"
+    },
+    {
+      "no": 58,
+      "word": "Prejudice",
+      "misspellings": "Predjudice   •   Prejudise   •   Prejuduce"
+    },
+    {
+      "no": 59,
+      "word": "Privilege",
+      "misspellings": "Priviledge   •   Privelege   •   Privilage"
+    },
+    {
+      "no": 60,
+      "word": "Pronunciation",
+      "misspellings": "Pronounciation   •   Pronunciaton   •   Pronuciation"
+    },
+    {
+      "no": 61,
+      "word": "Questionnaire",
+      "misspellings": "Questionaire   •   Quesstionnaire   •   Questionnare"
+    },
+    {
+      "no": 62,
+      "word": "Receive",
+      "misspellings": "Recieve   •   Receeve   •   Receve"
+    },
+    {
+      "no": 63,
+      "word": "Recommend",
+      "misspellings": "Reccomend   •   Recomend   •   Recomment"
+    },
+    {
+      "no": 64,
+      "word": "Reference",
+      "misspellings": "Refrence   •   Referance   •   Refference"
+    },
+    {
+      "no": 65,
+      "word": "Rendezvous",
+      "misspellings": "Rendezvouz   •   Rendevous   •   Rendezvus"
+    },
+    {
+      "no": 66,
+      "word": "Restaurant",
+      "misspellings": "Resturant   •   Restarant   •   Restraunt"
+    },
+    {
+      "no": 67,
+      "word": "Rhythm",
+      "misspellings": "Rythm   •   Rhythem   •   Rhytm"
+    },
+    {
+      "no": 68,
+      "word": "Schedule",
+      "misspellings": "Schedual   •   Shedule   •   Scedule"
+    },
+    {
+      "no": 69,
+      "word": "Secretary",
+      "misspellings": "Secratary   •   Secretery   •   Sekretary"
+    },
+    {
+      "no": 70,
+      "word": "Separate",
+      "misspellings": "Seperate   •   Separete   •   Sepparate"
+    },
+    {
+      "no": 71,
+      "word": "Succeed",
+      "misspellings": "Succede   •   Suceed   •   Sucseed"
+    },
+    {
+      "no": 72,
+      "word": "Supersede",
+      "misspellings": "Supercede   •   Superceed   •   Supersead"
+    },
+    {
+      "no": 73,
+      "word": "Tomorrow",
+      "misspellings": "Tommorow   •   Tomorow   •   Tommorrow"
+    },
+    {
+      "no": 74,
+      "word": "Wednesday",
+      "misspellings": "Wensday   •   Wedensday   •   Wenesday"
+    },
+    {
+      "no": 75,
+      "word": "Weird",
+      "misspellings": "Wierd   •   Weerd   •   Wierde"
+    }
+  ],
+  "terms6": [
+    {
+      "term": "Homographs",
+      "meaning": "Words spelt the same but pronounced differently, with different meanings.",
+      "examples": "lead"
+    },
+    {
+      "term": "Homonyms",
+      "meaning": "Words with the same spelling and the same pronunciation but different meanings.",
+      "examples": "bank, bark, fine, match, bat"
+    },
+    {
+      "term": "Homophones",
+      "meaning": "Words that sound alike but differ in spelling and meaning.",
+      "examples": "right – write; sun – son"
+    }
+  ],
+  "homonyms7": [
+    {
+      "no": 1,
+      "word": "bank",
+      "meanings": "a money institution; the edge of a river (the bank of a river)"
+    },
+    {
+      "no": 2,
+      "word": "bark",
+      "meanings": "the outer covering of a tree; the sound a dog makes"
+    },
+    {
+      "no": 3,
+      "word": "bat",
+      "meanings": "a cricket bat; a flying bat"
+    },
+    {
+      "no": 4,
+      "word": "fine",
+      "meanings": "a penalty; of good quality"
+    },
+    {
+      "no": 5,
+      "word": "match",
+      "meanings": "a game, such as a cricket match; a matchbox"
+    }
+  ],
+  "homophones8": [
+    {
+      "no": 1,
+      "word": "allowed",
+      "homophone": "aloud"
+    },
+    {
+      "no": 2,
+      "word": "ate",
+      "homophone": "eight"
+    },
+    {
+      "no": 3,
+      "word": "break",
+      "homophone": "brake"
+    },
+    {
+      "no": 4,
+      "word": "buy",
+      "homophone": "by"
+    },
+    {
+      "no": 5,
+      "word": "cell",
+      "homophone": "sell"
+    },
+    {
+      "no": 6,
+      "word": "check",
+      "homophone": "cheque (British usage)"
+    },
+    {
+      "no": 7,
+      "word": "dear",
+      "homophone": "deer"
+    },
+    {
+      "no": 8,
+      "word": "grate",
+      "homophone": "great"
+    },
+    {
+      "no": 9,
+      "word": "higher",
+      "homophone": "hire"
+    },
+    {
+      "no": 10,
+      "word": "idle",
+      "homophone": "idol"
+    },
+    {
+      "no": 11,
+      "word": "knight",
+      "homophone": "night"
+    },
+    {
+      "no": 12,
+      "word": "lessen",
+      "homophone": "lesson"
+    },
+    {
+      "no": 13,
+      "word": "meat",
+      "homophone": "meet"
+    },
+    {
+      "no": 14,
+      "word": "pair",
+      "homophone": "pear"
+    },
+    {
+      "no": 15,
+      "word": "plain",
+      "homophone": "plane"
+    },
+    {
+      "no": 16,
+      "word": "prey",
+      "homophone": "pray"
+    },
+    {
+      "no": 17,
+      "word": "right",
+      "homophone": "write"
+    },
+    {
+      "no": 18,
+      "word": "sail",
+      "homophone": "sale"
+    },
+    {
+      "no": 19,
+      "word": "serial",
+      "homophone": "cereal"
+    },
+    {
+      "no": 20,
+      "word": "sole",
+      "homophone": "soul"
+    },
+    {
+      "no": 21,
+      "word": "steal",
+      "homophone": "steel"
+    },
+    {
+      "no": 22,
+      "word": "sun",
+      "homophone": "son"
+    },
+    {
+      "no": 23,
+      "word": "sweet",
+      "homophone": "suite"
+    },
+    {
+      "no": 24,
+      "word": "tale",
+      "homophone": "tail"
+    },
+    {
+      "no": 25,
+      "word": "tide",
+      "homophone": "tied"
+    },
+    {
+      "no": 26,
+      "word": "vain",
+      "homophone": "vein"
+    },
+    {
+      "no": 27,
+      "word": "wait",
+      "homophone": "weight"
+    },
+    {
+      "no": 28,
+      "word": "wave",
+      "homophone": "waive"
+    },
+    {
+      "no": 29,
+      "word": "weak",
+      "homophone": "week"
+    },
+    {
+      "no": 30,
+      "word": "wood",
+      "homophone": "would"
+    }
+  ],
+  "keyWordSentences9": [
+    {
+      "no": 1,
+      "word": "ascent",
+      "sentence": "The ascent of the peak took five hours."
+    },
+    {
+      "no": 2,
+      "word": "assent",
+      "sentence": "He gave his assent to the proposal."
+    },
+    {
+      "no": 3,
+      "word": "bear",
+      "sentence": "He could not bear the heavy load."
+    },
+    {
+      "no": 4,
+      "word": "blew",
+      "sentence": "The wind blew the papers away."
+    },
+    {
+      "no": 5,
+      "word": "bored",
+      "sentence": "The lecture was so dull that he felt bored."
+    },
+    {
+      "no": 6,
+      "word": "compliment",
+      "sentence": "He paid her a compliment on her dress."
+    },
+    {
+      "no": 7,
+      "word": "council",
+      "sentence": "The city council meets every Monday."
+    },
+    {
+      "no": 8,
+      "word": "counsel",
+      "sentence": "The lawyer gave sound legal counsel."
+    },
+    {
+      "no": 9,
+      "word": "dissent",
+      "sentence": "There was strong dissent against the ruling."
+    },
+    {
+      "no": 10,
+      "word": "effect",
+      "sentence": "The medicine had a bad effect on him."
+    },
+    {
+      "no": 11,
+      "word": "flour",
+      "sentence": "Mother bought a kilo of flour."
+    },
+    {
+      "no": 12,
+      "word": "hair",
+      "sentence": "She has long black hair."
+    },
+    {
+      "no": 13,
+      "word": "heard",
+      "sentence": "I heard a strange noise last night."
+    },
+    {
+      "no": 14,
+      "word": "heir",
+      "sentence": "The prince is the heir to the throne."
+    },
+    {
+      "no": 15,
+      "word": "herd",
+      "sentence": "A herd of cattle crossed the road."
+    },
+    {
+      "no": 16,
+      "word": "illicit",
+      "sentence": "He was arrested for the illicit trade in drugs."
+    },
+    {
+      "no": 17,
+      "word": "knew",
+      "sentence": "I knew the answer already."
+    },
+    {
+      "no": 18,
+      "word": "mail",
+      "sentence": "The postman delivered a mail."
+    },
+    {
+      "no": 19,
+      "word": "piece",
+      "sentence": "May I have a piece of cake?"
+    },
+    {
+      "no": 20,
+      "word": "principal",
+      "sentence": "The principal of the college addressed the students."
+    },
+    {
+      "no": 21,
+      "word": "rain",
+      "sentence": "It began to rain heavily at noon."
+    },
+    {
+      "no": 22,
+      "word": "reign",
+      "sentence": "The king's reign lasted forty years."
+    },
+    {
+      "no": 23,
+      "word": "rein",
+      "sentence": "He pulled the rein to stop the horse."
+    },
+    {
+      "no": 24,
+      "word": "route",
+      "sentence": "The bus route was changed last month."
+    },
+    {
+      "no": 25,
+      "word": "sight",
+      "sentence": "The sight of the accident was horrifying."
+    },
+    {
+      "no": 26,
+      "word": "son",
+      "sentence": "He is the only son of the family."
+    },
+    {
+      "no": 27,
+      "word": "stationery",
+      "sentence": "She bought pens and paper from the stationery shop."
+    },
+    {
+      "no": 28,
+      "word": "sun",
+      "sentence": "The sun rises in the east."
+    },
+    {
+      "no": 29,
+      "word": "tail",
+      "sentence": "The dog wagged its tail."
+    },
+    {
+      "no": 30,
+      "word": "whether",
+      "sentence": "I do not know whether it will rain today."
+    },
+    {
+      "no": 31,
+      "word": "whole",
+      "sentence": "She ate the whole cake."
+    },
+    {
+      "no": 32,
+      "word": "wring",
+      "sentence": "Please wring the wet clothes before drying them."
+    }
+  ],
+  "context70": [
+    {
+      "no": 1,
+      "word": "adamant",
+      "sentence": "The shopkeeper was adamant and refused to reduce the price."
+    },
+    {
+      "no": 2,
+      "word": "affable",
+      "sentence": "Her affable nature made her popular among colleagues."
+    },
+    {
+      "no": 3,
+      "word": "agility",
+      "sentence": "The sprinter's agility made him the favourite."
+    },
+    {
+      "no": 4,
+      "word": "alleviate",
+      "sentence": "The new rule will alleviate the problem of overcrowding."
+    },
+    {
+      "no": 5,
+      "word": "blessing",
+      "sentence": "The rain was a blessing for the parched fields."
+    },
+    {
+      "no": 6,
+      "word": "brilliant",
+      "sentence": "The brilliant student topped the university."
+    },
+    {
+      "no": 7,
+      "word": "caustic",
+      "sentence": "His caustic remarks hurt everyone at the meeting."
+    },
+    {
+      "no": 8,
+      "word": "cavalier",
+      "sentence": "His cavalier attitude to work led to his dismissal."
+    },
+    {
+      "no": 9,
+      "word": "chaos",
+      "sentence": "The sudden power cut caused chaos in the office."
+    },
+    {
+      "no": 10,
+      "word": "circumspectly",
+      "sentence": "She spoke circumspectly, choosing every word carefully."
+    },
+    {
+      "no": 11,
+      "word": "clemency",
+      "sentence": "The judge showed clemency to the first-time offender."
+    },
+    {
+      "no": 12,
+      "word": "cogent",
+      "sentence": "The lawyer's argument was so cogent that the jury was convinced."
+    },
+    {
+      "no": 13,
+      "word": "corroborated",
+      "sentence": "The scientist's findings were corroborated by later experiments."
+    },
+    {
+      "no": 14,
+      "word": "crisis",
+      "sentence": "The company is facing a financial crisis."
+    },
+    {
+      "no": 15,
+      "word": "curt",
+      "sentence": "The interviewer was irritated by his curt replies."
+    },
+    {
+      "no": 16,
+      "word": "denounced",
+      "sentence": "The tax reform was denounced by the opposition as unjust."
+    },
+    {
+      "no": 17,
+      "word": "dilapidated",
+      "sentence": "The old building is in a dilapidated state and may collapse."
+    },
+    {
+      "no": 18,
+      "word": "discreet",
+      "sentence": "A good clerk must be discreet when handling confidential records."
+    },
+    {
+      "no": 19,
+      "word": "dumbfounded",
+      "sentence": "She was dumbfounded by the sudden news and could not speak."
+    },
+    {
+      "no": 20,
+      "word": "eluded",
+      "sentence": "The thief eluded the police by hiding in the forest."
+    },
+    {
+      "no": 21,
+      "word": "enforced",
+      "sentence": "The principal enforced the rule banning mobile phones."
+    },
+    {
+      "no": 22,
+      "word": "estranged",
+      "sentence": "The long-standing feud left the two families estranged."
+    },
+    {
+      "no": 23,
+      "word": "evasive",
+      "sentence": "He gave an evasive answer, avoiding a direct reply."
+    },
+    {
+      "no": 24,
+      "word": "exhausted",
+      "sentence": "The traveller was exhausted after the long journey."
+    },
+    {
+      "no": 25,
+      "word": "exhorted",
+      "sentence": "The teacher exhorted the students to work hard."
+    },
+    {
+      "no": 26,
+      "word": "expertise",
+      "sentence": "Her expertise in the subject made her the best choice for the panel."
+    },
+    {
+      "no": 27,
+      "word": "feasibility",
+      "sentence": "The feasibility of the government's plan was questioned by experts."
+    },
+    {
+      "no": 28,
+      "word": "flimsy",
+      "sentence": "His excuse was so flimsy that nobody believed it."
+    },
+    {
+      "no": 29,
+      "word": "frugality",
+      "sentence": "The manager was known for his frugality; he never wasted a rupee."
+    },
+    {
+      "no": 30,
+      "word": "futile",
+      "sentence": "He made a futile attempt to hide his nervousness."
+    },
+    {
+      "no": 31,
+      "word": "hazardous",
+      "sentence": "It is hazardous to cross a busy road without looking."
+    },
+    {
+      "no": 32,
+      "word": "headstrong",
+      "sentence": "He is so headstrong that he never listens to advice."
+    },
+    {
+      "no": 33,
+      "word": "hollow",
+      "sentence": "The mayor's speech was full of hollow promises that were never kept."
+    },
+    {
+      "no": 34,
+      "word": "ill at ease",
+      "sentence": "The new employee felt ill at ease among strangers."
+    },
+    {
+      "no": 35,
+      "word": "immense",
+      "sentence": "Despite his immense wealth, he lived simply."
+    },
+    {
+      "no": 36,
+      "word": "impeccable",
+      "sentence": "A man of impeccable character never compromises on honesty."
+    },
+    {
+      "no": 37,
+      "word": "inaugurated",
+      "sentence": "The minister inaugurated the scheme with great pomp."
+    },
+    {
+      "no": 38,
+      "word": "inclement",
+      "sentence": "The inclement weather ruined our picnic."
+    },
+    {
+      "no": 39,
+      "word": "incoherent",
+      "sentence": "The speech was so incoherent that no one could follow it."
+    },
+    {
+      "no": 40,
+      "word": "independence",
+      "sentence": "Her independence was evident when she refused every offer of help."
+    },
+    {
+      "no": 41,
+      "word": "ingenuity",
+      "sentence": "The scientist's ingenuity led to a major invention."
+    },
+    {
+      "no": 42,
+      "word": "jargon",
+      "sentence": "The report was full of jargon, making it hard to understand."
+    },
+    {
+      "no": 43,
+      "word": "magnanimous",
+      "sentence": "In a magnanimous gesture, he donated all his savings to the orphanage."
+    },
+    {
+      "no": 44,
+      "word": "merge",
+      "sentence": "The two companies decided to merge to cut costs."
+    },
+    {
+      "no": 45,
+      "word": "meticulous",
+      "sentence": "The auditor was meticulous about checking every figure."
+    },
+    {
+      "no": 46,
+      "word": "negligence",
+      "sentence": "The clerk was reprimanded for his negligence in submitting the file."
+    },
+    {
+      "no": 47,
+      "word": "overwhelmed",
+      "sentence": "He was overwhelmed with grief after losing his mother."
+    },
+    {
+      "no": 48,
+      "word": "penury",
+      "sentence": "The villagers lived in penury, with barely enough to eat."
+    },
+    {
+      "no": 49,
+      "word": "poignant",
+      "sentence": "The film was so poignant that many in the audience wept."
+    },
+    {
+      "no": 50,
+      "word": "protested",
+      "sentence": "The citizens protested against the unfair tax."
+    },
+    {
+      "no": 51,
+      "word": "proud",
+      "sentence": "He was too proud to admit his mistake."
+    },
+    {
+      "no": 52,
+      "word": "reassuring",
+      "sentence": "Her reassuring smile put the nervous candidates at ease."
+    },
+    {
+      "no": 53,
+      "word": "refractory",
+      "sentence": "The refractory child often broke rules and defied elders."
+    },
+    {
+      "no": 54,
+      "word": "refuted",
+      "sentence": "He refuted the rumour and called it baseless."
+    },
+    {
+      "no": 55,
+      "word": "replace",
+      "sentence": "The government plans to replace the old law with a new one."
+    },
+    {
+      "no": 56,
+      "word": "resorted",
+      "sentence": "Driven by poverty, he resorted to crime."
+    },
+    {
+      "no": 57,
+      "word": "respite",
+      "sentence": "The rain brought a welcome respite from the heat."
+    },
+    {
+      "no": 58,
+      "word": "revoked",
+      "sentence": "The office revoked the policy after many complaints."
+    },
+    {
+      "no": 59,
+      "word": "rewarded",
+      "sentence": "The company rewarded its staff with bonuses."
+    },
+    {
+      "no": 60,
+      "word": "scarce",
+      "sentence": "Because of the drought, food became scarce in the village."
+    },
+    {
+      "no": 61,
+      "word": "scorching",
+      "sentence": "The scorching heat of the sun made it hard to stay outside."
+    },
+    {
+      "no": 62,
+      "word": "secretive",
+      "sentence": "The chef is secretive about his recipes and never shares them."
+    },
+    {
+      "no": 63,
+      "word": "steadfast",
+      "sentence": "Despite the heavy rain, the crowd remained steadfast and refused to leave."
+    },
+    {
+      "no": 64,
+      "word": "stentorian",
+      "sentence": "His stentorian voice could be heard across the whole hall."
+    },
+    {
+      "no": 65,
+      "word": "stunned",
+      "sentence": "The sudden announcement stunned the audience into silence."
+    },
+    {
+      "no": 66,
+      "word": "subdued",
+      "sentence": "The rebels were subdued into submission by the army."
+    },
+    {
+      "no": 67,
+      "word": "tarnished",
+      "sentence": "The scandal tarnished the reputation of the party."
+    },
+    {
+      "no": 68,
+      "word": "tenderness",
+      "sentence": "The orphan was brought up with great tenderness by his uncle."
+    },
+    {
+      "no": 69,
+      "word": "unanimously",
+      "sentence": "The proposal was passed unanimously, with every member voting in favour."
+    },
+    {
+      "no": 70,
+      "word": "virulence",
+      "sentence": "The virulence of the disease alarmed the doctors."
+    }
+  ],
+  "idioms102": [
+    {
+      "no": 1,
+      "idiom": "Achilles' heel",
+      "meaning": "A person's weak point"
+    },
+    {
+      "no": 2,
+      "idiom": "Apple of one's eye",
+      "meaning": "A dearly loved person"
+    },
+    {
+      "no": 3,
+      "idiom": "At loggerheads",
+      "meaning": "In strong disagreement"
+    },
+    {
+      "no": 4,
+      "idiom": "At sixes and sevens",
+      "meaning": "In a state of confusion"
+    },
+    {
+      "no": 5,
+      "idiom": "Bad blood",
+      "meaning": "Ill feeling between people"
+    },
+    {
+      "no": 6,
+      "idiom": "Beat about the bush",
+      "meaning": "Avoid coming to the point"
+    },
+    {
+      "no": 7,
+      "idiom": "Bell the cat",
+      "meaning": "Undertake a risky task on behalf of others"
+    },
+    {
+      "no": 8,
+      "idiom": "Between the devil and the deep sea",
+      "meaning": "In a dilemma with two bad choices"
+    },
+    {
+      "no": 9,
+      "idiom": "Bite the bullet",
+      "meaning": "Face a painful situation bravely"
+    },
+    {
+      "no": 10,
+      "idiom": "A blessing in disguise",
+      "meaning": "Something that seems bad at first but turns out good"
+    },
+    {
+      "no": 11,
+      "idiom": "Blow one's own trumpet",
+      "meaning": "Boast about oneself"
+    },
+    {
+      "no": 12,
+      "idiom": "A bolt from the blue",
+      "meaning": "A sudden, completely unexpected event"
+    },
+    {
+      "no": 13,
+      "idiom": "Bread and butter",
+      "meaning": "One's livelihood"
+    },
+    {
+      "no": 14,
+      "idiom": "Break the ice",
+      "meaning": "Start a conversation in an awkward situation"
+    },
+    {
+      "no": 15,
+      "idiom": "Build castles in the air",
+      "meaning": "Indulge in daydreams"
+    },
+    {
+      "no": 16,
+      "idiom": "Burn the midnight oil",
+      "meaning": "Work or study late into the night"
+    },
+    {
+      "no": 17,
+      "idiom": "Bury the hatchet",
+      "meaning": "Make peace after a quarrel"
+    },
+    {
+      "no": 18,
+      "idiom": "By and large",
+      "meaning": "Generally; on the whole"
+    },
+    {
+      "no": 19,
+      "idiom": "By leaps and bounds",
+      "meaning": "Very rapidly"
+    },
+    {
+      "no": 20,
+      "idiom": "Call it a day",
+      "meaning": "Stop working for the day"
+    },
+    {
+      "no": 21,
+      "idiom": "Carry coals to Newcastle",
+      "meaning": "Do something unnecessary"
+    },
+    {
+      "no": 22,
+      "idiom": "Cock and bull story",
+      "meaning": "An unbelievable story"
+    },
+    {
+      "no": 23,
+      "idiom": "Cry over spilt milk",
+      "meaning": "Regret what cannot be undone"
+    },
+    {
+      "no": 24,
+      "idiom": "Cry wolf",
+      "meaning": "Raise a false alarm"
+    },
+    {
+      "no": 25,
+      "idiom": "Cut a sorry figure",
+      "meaning": "Make a poor impression"
+    },
+    {
+      "no": 26,
+      "idiom": "Dark horse",
+      "meaning": "A person with unknown abilities who surprises everyone"
+    },
+    {
+      "no": 27,
+      "idiom": "A drop in the ocean",
+      "meaning": "A very small amount compared with what is needed"
+    },
+    {
+      "no": 28,
+      "idiom": "Eat humble pie",
+      "meaning": "Apologise humbly"
+    },
+    {
+      "no": 29,
+      "idiom": "Face the music",
+      "meaning": "Accept the consequences or punishment"
+    },
+    {
+      "no": 30,
+      "idiom": "Fall flat",
+      "meaning": "Fail to produce the expected effect"
+    },
+    {
+      "no": 31,
+      "idiom": "Fish in troubled waters",
+      "meaning": "Take advantage of a confused situation"
+    },
+    {
+      "no": 32,
+      "idiom": "Flash in the pan",
+      "meaning": "A brief success that is not repeated"
+    },
+    {
+      "no": 33,
+      "idiom": "Fool's paradise",
+      "meaning": "A state of false happiness"
+    },
+    {
+      "no": 34,
+      "idiom": "From pillar to post",
+      "meaning": "From one place to another"
+    },
+    {
+      "no": 35,
+      "idiom": "Get cold feet",
+      "meaning": "Lose courage at the last moment"
+    },
+    {
+      "no": 36,
+      "idiom": "Give up the ghost",
+      "meaning": "Die"
+    },
+    {
+      "no": 37,
+      "idiom": "Go the extra mile",
+      "meaning": "Make an additional effort"
+    },
+    {
+      "no": 38,
+      "idiom": "Go to the dogs",
+      "meaning": "Be ruined"
+    },
+    {
+      "no": 39,
+      "idiom": "Hand in glove",
+      "meaning": "In close association"
+    },
+    {
+      "no": 40,
+      "idiom": "Hard and fast",
+      "meaning": "Fixed and strict"
+    },
+    {
+      "no": 41,
+      "idiom": "Have an axe to grind",
+      "meaning": "Have a selfish motive"
+    },
+    {
+      "no": 42,
+      "idiom": "High and dry",
+      "meaning": "Stranded and helpless"
+    },
+    {
+      "no": 43,
+      "idiom": "Hit the nail on the head",
+      "meaning": "Say exactly the right thing"
+    },
+    {
+      "no": 44,
+      "idiom": "Hold water",
+      "meaning": "Be logical and valid"
+    },
+    {
+      "no": 45,
+      "idiom": "A hot potato",
+      "meaning": "A controversial issue that is risky to handle"
+    },
+    {
+      "no": 46,
+      "idiom": "Hue and cry",
+      "meaning": "A loud public protest"
+    },
+    {
+      "no": 47,
+      "idiom": "In a nutshell",
+      "meaning": "In brief"
+    },
+    {
+      "no": 48,
+      "idiom": "In hot water",
+      "meaning": "In trouble"
+    },
+    {
+      "no": 49,
+      "idiom": "Keep one's fingers crossed",
+      "meaning": "Hope for good luck"
+    },
+    {
+      "no": 50,
+      "idiom": "Keep the wolf from the door",
+      "meaning": "Avoid starvation"
+    },
+    {
+      "no": 51,
+      "idiom": "Kill two birds with one stone",
+      "meaning": "Achieve two aims with one effort"
+    },
+    {
+      "no": 52,
+      "idiom": "The last straw",
+      "meaning": "The final thing that makes a situation unbearable"
+    },
+    {
+      "no": 53,
+      "idiom": "Leave no stone unturned",
+      "meaning": "Try every possible means"
+    },
+    {
+      "no": 54,
+      "idiom": "Lend a hand",
+      "meaning": "Help"
+    },
+    {
+      "no": 55,
+      "idiom": "Let the cat out of the bag",
+      "meaning": "Reveal a secret"
+    },
+    {
+      "no": 56,
+      "idiom": "The lion's share",
+      "meaning": "The largest part"
+    },
+    {
+      "no": 57,
+      "idiom": "Make hay while the sun shines",
+      "meaning": "Use an opportunity while it lasts"
+    },
+    {
+      "no": 58,
+      "idiom": "Man of straw",
+      "meaning": "A person of no substance"
+    },
+    {
+      "no": 59,
+      "idiom": "Method in madness",
+      "meaning": "Order beneath apparent craziness"
+    },
+    {
+      "no": 60,
+      "idiom": "Moot point",
+      "meaning": "A debatable question"
+    },
+    {
+      "no": 61,
+      "idiom": "Now and then",
+      "meaning": "Occasionally"
+    },
+    {
+      "no": 62,
+      "idiom": "Null and void",
+      "meaning": "Having no legal force"
+    },
+    {
+      "no": 63,
+      "idiom": "Odds and ends",
+      "meaning": "Miscellaneous small items"
+    },
+    {
+      "no": 64,
+      "idiom": "Once in a blue moon",
+      "meaning": "Very rarely"
+    },
+    {
+      "no": 65,
+      "idiom": "Out and out",
+      "meaning": "Completely"
+    },
+    {
+      "no": 66,
+      "idiom": "Out of the blue",
+      "meaning": "Unexpectedly"
+    },
+    {
+      "no": 67,
+      "idiom": "Over the moon",
+      "meaning": "Extremely happy"
+    },
+    {
+      "no": 68,
+      "idiom": "Part and parcel",
+      "meaning": "An essential part"
+    },
+    {
+      "no": 69,
+      "idiom": "Pay lip service",
+      "meaning": "Express support without acting on it"
+    },
+    {
+      "no": 70,
+      "idiom": "A piece of cake",
+      "meaning": "Something very easy"
+    },
+    {
+      "no": 71,
+      "idiom": "Play second fiddle",
+      "meaning": "Take a subordinate role"
+    },
+    {
+      "no": 72,
+      "idiom": "Pour oil on troubled waters",
+      "meaning": "Calm a quarrel"
+    },
+    {
+      "no": 73,
+      "idiom": "Pull someone's leg",
+      "meaning": "Tease or joke with someone"
+    },
+    {
+      "no": 74,
+      "idiom": "Raining cats and dogs",
+      "meaning": "Raining very heavily"
+    },
+    {
+      "no": 75,
+      "idiom": "Rank and file",
+      "meaning": "Ordinary members of a group"
+    },
+    {
+      "no": 76,
+      "idiom": "Read between the lines",
+      "meaning": "Understand the hidden meaning"
+    },
+    {
+      "no": 77,
+      "idiom": "A red-letter day",
+      "meaning": "A memorable, joyful day"
+    },
+    {
+      "no": 78,
+      "idiom": "Rest on one's laurels",
+      "meaning": "Be satisfied with past success"
+    },
+    {
+      "no": 79,
+      "idiom": "Rise to the occasion",
+      "meaning": "Show the ability to handle a situation"
+    },
+    {
+      "no": 80,
+      "idiom": "Rub shoulders with",
+      "meaning": "Mix with"
+    },
+    {
+      "no": 81,
+      "idiom": "Run of the mill",
+      "meaning": "Ordinary"
+    },
+    {
+      "no": 82,
+      "idiom": "Safe and sound",
+      "meaning": "Unharmed"
+    },
+    {
+      "no": 83,
+      "idiom": "See eye to eye",
+      "meaning": "Agree completely"
+    },
+    {
+      "no": 84,
+      "idiom": "Show the white feather",
+      "meaning": "Show cowardice"
+    },
+    {
+      "no": 85,
+      "idiom": "Smell a rat",
+      "meaning": "Suspect that something is wrong"
+    },
+    {
+      "no": 86,
+      "idiom": "Spick and span",
+      "meaning": "Clean and tidy"
+    },
+    {
+      "no": 87,
+      "idiom": "Spill the beans",
+      "meaning": "Reveal a secret"
+    },
+    {
+      "no": 88,
+      "idiom": "Split hairs",
+      "meaning": "Make petty distinctions"
+    },
+    {
+      "no": 89,
+      "idiom": "Stand on ceremony",
+      "meaning": "Behave in a formal way"
+    },
+    {
+      "no": 90,
+      "idiom": "Take the bull by the horns",
+      "meaning": "Face a difficulty boldly"
+    },
+    {
+      "no": 91,
+      "idiom": "Take to heart",
+      "meaning": "Feel something deeply"
+    },
+    {
+      "no": 92,
+      "idiom": "Throw in the towel",
+      "meaning": "Give up"
+    },
+    {
+      "no": 93,
+      "idiom": "Time and again",
+      "meaning": "Repeatedly"
+    },
+    {
+      "no": 94,
+      "idiom": "Tooth and nail",
+      "meaning": "With all one's strength"
+    },
+    {
+      "no": 95,
+      "idiom": "Turn a deaf ear",
+      "meaning": "Refuse to listen"
+    },
+    {
+      "no": 96,
+      "idiom": "Under the weather",
+      "meaning": "Slightly ill"
+    },
+    {
+      "no": 97,
+      "idiom": "Ups and downs",
+      "meaning": "Changes in fortune"
+    },
+    {
+      "no": 98,
+      "idiom": "Wash one's dirty linen in public",
+      "meaning": "Discuss private quarrels in public"
+    },
+    {
+      "no": 99,
+      "idiom": "A white elephant",
+      "meaning": "A costly possession that is useless"
+    },
+    {
+      "no": 100,
+      "idiom": "Wild goose chase",
+      "meaning": "A futile search"
+    },
+    {
+      "no": 101,
+      "idiom": "With flying colours",
+      "meaning": "With great success"
+    },
+    {
+      "no": 102,
+      "idiom": "Zero hour",
+      "meaning": "The critical moment"
+    }
+  ],
+  "phrasalVerbs40": [
+    {
+      "no": 1,
+      "phrase": "Back out",
+      "meaning": "Withdraw from a promise or agreement"
+    },
+    {
+      "no": 2,
+      "phrase": "Break down",
+      "meaning": "Stop working; collapse emotionally"
+    },
+    {
+      "no": 3,
+      "phrase": "Bring about",
+      "meaning": "Cause to happen"
+    },
+    {
+      "no": 4,
+      "phrase": "Bring up",
+      "meaning": "Raise a child; mention a topic"
+    },
+    {
+      "no": 5,
+      "phrase": "Call off",
+      "meaning": "Cancel"
+    },
+    {
+      "no": 6,
+      "phrase": "Call on",
+      "meaning": "Visit"
+    },
+    {
+      "no": 7,
+      "phrase": "Carry out",
+      "meaning": "Perform or complete"
+    },
+    {
+      "no": 8,
+      "phrase": "Come across",
+      "meaning": "Find by chance"
+    },
+    {
+      "no": 9,
+      "phrase": "Cut down",
+      "meaning": "Reduce"
+    },
+    {
+      "no": 10,
+      "phrase": "Draw up",
+      "meaning": "Prepare a document"
+    },
+    {
+      "no": 11,
+      "phrase": "Fall through",
+      "meaning": "Fail to happen"
+    },
+    {
+      "no": 12,
+      "phrase": "Get along",
+      "meaning": "Have a good relationship"
+    },
+    {
+      "no": 13,
+      "phrase": "Give in",
+      "meaning": "Surrender"
+    },
+    {
+      "no": 14,
+      "phrase": "Give up",
+      "meaning": "Quit; stop trying"
+    },
+    {
+      "no": 15,
+      "phrase": "Go through",
+      "meaning": "Examine; experience"
+    },
+    {
+      "no": 16,
+      "phrase": "Hold on",
+      "meaning": "Wait"
+    },
+    {
+      "no": 17,
+      "phrase": "Keep up",
+      "meaning": "Maintain the pace"
+    },
+    {
+      "no": 18,
+      "phrase": "Look after",
+      "meaning": "Take care of"
+    },
+    {
+      "no": 19,
+      "phrase": "Look down on",
+      "meaning": "Despise"
+    },
+    {
+      "no": 20,
+      "phrase": "Look into",
+      "meaning": "Investigate"
+    },
+    {
+      "no": 21,
+      "phrase": "Look up to",
+      "meaning": "Respect"
+    },
+    {
+      "no": 22,
+      "phrase": "Make out",
+      "meaning": "Understand or see with difficulty"
+    },
+    {
+      "no": 23,
+      "phrase": "Make up",
+      "meaning": "Invent; become friends again"
+    },
+    {
+      "no": 24,
+      "phrase": "Pass away",
+      "meaning": "Die"
+    },
+    {
+      "no": 25,
+      "phrase": "Point out",
+      "meaning": "Indicate"
+    },
+    {
+      "no": 26,
+      "phrase": "Pull through",
+      "meaning": "Recover from illness or difficulty"
+    },
+    {
+      "no": 27,
+      "phrase": "Put off",
+      "meaning": "Postpone"
+    },
+    {
+      "no": 28,
+      "phrase": "Put up with",
+      "meaning": "Tolerate"
+    },
+    {
+      "no": 29,
+      "phrase": "Run into",
+      "meaning": "Meet by chance"
+    },
+    {
+      "no": 30,
+      "phrase": "Run out of",
+      "meaning": "Use up the supply of"
+    },
+    {
+      "no": 31,
+      "phrase": "Set off",
+      "meaning": "Begin a journey"
+    },
+    {
+      "no": 32,
+      "phrase": "Set up",
+      "meaning": "Establish"
+    },
+    {
+      "no": 33,
+      "phrase": "Stand for",
+      "meaning": "Represent"
+    },
+    {
+      "no": 34,
+      "phrase": "Take after",
+      "meaning": "Resemble an elder family member"
+    },
+    {
+      "no": 35,
+      "phrase": "Take off",
+      "meaning": "Leave the ground; remove"
+    },
+    {
+      "no": 36,
+      "phrase": "Take over",
+      "meaning": "Assume control"
+    },
+    {
+      "no": 37,
+      "phrase": "Turn down",
+      "meaning": "Reject"
+    },
+    {
+      "no": 38,
+      "phrase": "Turn up",
+      "meaning": "Arrive or appear"
+    },
+    {
+      "no": 39,
+      "phrase": "Wipe out",
+      "meaning": "Destroy completely"
+    },
+    {
+      "no": 40,
+      "phrase": "Work out",
+      "meaning": "Solve; exercise"
+    }
+  ]
+}

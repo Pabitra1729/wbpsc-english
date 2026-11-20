@@ -1,0 +1,105 @@
+{
+  "id": "g19",
+  "title": "Question Tags",
+  "intro": "A question tag is a mini-question added to the end of a declarative or imperative sentence to seek confirmation or verification from the listener. In the WBPSC Clerkship examination, question tags are among the highest-scoring areas if candidates master the core rules: opposite polarity, negative adverbs triggering positive tags, special pronouns for indefinite antecedents, and the unique tag for 'I am'.",
+  "bengali": "Question Tag হলো কোনো সাধারণ বিবৃতিমূলক বা আদেশসূচক বাক্যের শেষে সমর্থন বা সম্মতি চাওয়ার জন্য যুক্ত সংক্ষিপ্ত প্রশ্ন (যেমন: 'You are coming, aren't you?')।\n\nWBPSC Clerkship পরীক্ষায় Question Tag-এর প্রধান নিয়মসমূহ:\n১. Polarity Rule (বিপরীত ধর্মী রূপ):\n   - বাক্যটি Positive (হ্যাঁ-বোধক) হলে Tag হবে Negative (না-বোধক)। যেমন: 'He is honest, isn't he?'\n   - বাক্যটি Negative (না-বোধক) হলে Tag হবে Positive (হ্যাঁ-বোধক)। যেমন: 'He is not honest, is he?'\n২. ছদ্ম-নেতিবাচক শব্দ (Semi-Negative Words):\n   বাক্যে Seldom, hardly, scarcely, barely, rarely, few, little, neither, none, nobody থাকলে বাক্যটি অর্থগতভাবে NEGATIVE হিসেবে গণ্য হয়, তাই এর Tag সর্বদা POSITIVE হবে। যেমন: 'Barking dogs seldom bite, do they?' (NOT: don't they), 'He hardly studies, does he?'\n৩. 'I am'-এর বিশেষ Tag:\n   'I am' এর Negative Tag কখনো 'amn't I' হয় না—সর্বদা 'aren't I?' হয় (বা 'am I not?')। যেমন: 'I am right, aren't I?'\n৪. 'Let's / Let us'-এর Tag:\n   প্রস্তাব বা পরামর্শ বোঝালে Tag সর্বদা 'shall we?' হয়। যেমন: 'Let's start our revision, shall we?'\n৫. Indefinite Pronouns (ব্যক্তি বনাম বস্তু):\n   - ব্যক্তি বোঝালে (Everybody, everyone, somebody, nobody, none): এদের পরিবর্তে Tag-এ 'THEY' বসে এবং Verb-ও Plural হয়। যেমন: 'Everybody attended the meeting, didn't they?', 'Nobody phoned, did they?'\n   - বস্তু বোঝালে (Everything, nothing, something): এদের পরিবর্তে Tag-এ 'IT' বসে। যেমন: 'Nothing happened, did it?'\n৬. Imperative Sentences (আদেশ/অনুরোধ): সাধারণত 'will you?' বা 'won't you?' বসে। যেমন: 'Open the gate, will you?'",
+  "rules": [
+    {
+      "rule": "THE OPPOSITE POLARITY RULE: A positive statement requires a negative tag; a negative statement requires a positive tag.",
+      "examples": [
+        "Positive Statement -> Negative Tag: 'The clerk verified the certificate, didn't he?'",
+        "Negative Statement -> Positive Tag: 'The clerk did not verify the certificate, did he?'",
+        "Positive: 'They are attending the meeting, aren't they?'",
+        "Negative: 'They have not submitted the file, have they?'"
+      ],
+      "exceptions": [
+        "Contractions are mandatory in negative tags: write 'didn't he', NEVER 'did not he'."
+      ]
+    },
+    {
+      "rule": "SEMI-NEGATIVE WORDS TRIGGER POSITIVE TAGS: Sentences containing Seldom, Hardly, Scarcely, Barely, Rarely, Few, Little, Neither, None, or Nobody are grammatically NEGATIVE and require POSITIVE tags.",
+      "examples": [
+        "A barking dog seldom bites, does it? (NOT: doesn't it).",
+        "He has little knowledge of accounting procedures, has he? ('Little' is negative).",
+        "Few candidates answered the question accurately, did they? ('Few' is negative).",
+        "She could hardly lift the heavy box, could she?"
+      ],
+      "exceptions": [
+        "Phrases with 'A few' or 'A little' are POSITIVE and take NEGATIVE tags: 'He has a little money left, hasn't he?'"
+      ]
+    },
+    {
+      "rule": "SPECIAL TAG FOR 'I AM': The negative tag for 'I am' is strictly 'AREN'T I?' (or formal 'AM I NOT?'). 'Amn't I' does not exist in standard English.",
+      "examples": [
+        "I am selected for the Clerkship verification, aren't I? (NOT: amn't I).",
+        "I am late for the departmental meeting, aren't I?"
+      ],
+      "exceptions": [
+        "If the statement is already negative ('I am not'), the positive tag is standard 'AM I?': 'I am not guilty of this misconduct, am I?'"
+      ]
+    },
+    {
+      "rule": "IMPERATIVE STATEMENTS and SUGGESTIONS with 'LET'S':",
+      "examples": [
+        "Suggestions with 'Let's / Let us' take 'SHALL WE?': 'Let's review the mock test, shall we?'",
+        "Orders / Commands take 'WILL YOU?': 'Shut the door, will you?'",
+        "Urgent invitations take 'WON'T YOU?': 'Have some more tea, won't you?'",
+        "Negative imperatives take 'WILL YOU?': 'Don't make noise in the examination hall, will you?'"
+      ],
+      "exceptions": [
+        "When 'Let' means 'allow' (Let him, let them), the tag is 'will you?': 'Let him speak, will you?'"
+      ]
+    },
+    {
+      "rule": "INDEFINITE PRONOUNS: Words denoting PERSONS take 'THEY' in the tag (with plural verb); words denoting THINGS take 'IT'.",
+      "examples": [
+        "Persons take THEY: 'Everybody was present in the auditorium, weren't they?' (Notice: was becomes weren't to agree with they).",
+        "Nobody called, did they? ('Nobody' is negative, takes positive tag 'did they').",
+        "Things take IT: 'Everything is in proper order, isn't it?'",
+        "Nothing was recovered from the site, was it? ('Nothing' is negative, takes positive tag 'was it')."
+      ],
+      "exceptions": [
+        "Observe the verb agreement shift: 'Everybody was...' -> 'weren't they?'; 'Everyone has...' -> 'haven't they?'."
+      ]
+    },
+    {
+      "rule": "INTRODUCTORY 'THERE' AS SUBJECT: When 'there' functions as the preparatory subject, it is repeated in the tag.",
+      "examples": [
+        "There is no vacancy in this department, is there? (NOT: isn't it).",
+        "There were several discrepancies in the audit, weren't there?",
+        "There will be a holiday on Monday, won't there?"
+      ],
+      "exceptions": [
+        "Never replace introductory 'there' with 'it' in question tags."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'I am right, amn't I?' instead of 'aren't I?'.",
+    "Writing 'Barking dogs seldom bite, don't they?' instead of 'do they?' (seldom is negative).",
+    "Writing 'Everybody was present, wasn't they?' instead of 'weren't they?' (they requires plural weren't).",
+    "Writing 'Let's go, will we?' instead of 'shall we?' (let's takes shall we).",
+    "Writing 'There is a book, isn't it?' instead of 'isn't there?' (there must be repeated)."
+  ],
+  "examTricks": [
+    "The 'Seldom/Hardly' Check: If you see seldom, hardly, scarcely, little, few -> Tag MUST be Positive.",
+    "The 'Everybody' Verb Agreement Shift: Was -> Weren't they? Has -> Haven't they? Is -> Aren't they?",
+    "The 'Let's' Shortcut: If it starts with 'Let's', the answer is ALWAYS 'shall we?'.",
+    "The 'I am' Rule: Positive 'I am' -> Tag is ALWAYS 'aren't I?'."
+  ],
+  "memoryTricks": [
+    "I AM becomes AREN'T I.",
+    "LET'S always takes SHALL WE.",
+    "EVERYBODY is singular in front, but THEY in the tag."
+  ],
+  "revision": [
+    "Positive sentence -> Negative tag; Negative sentence -> Positive tag.",
+    "I am -> aren't I?; I am not -> am I?.",
+    "Let's / Let us -> shall we?.",
+    "Seldom, hardly, scarcely, few, little, nobody -> Positive tag.",
+    "Everybody, someone, nobody -> they (weren't they / did they).",
+    "Everything, nothing, something -> it (isn't it / was it).",
+    "Imperative: Open the door, will you? / Don't go, will you?.",
+    "There is/are -> isn't there / aren't there."
+  ]
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g04-001",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: ___ apple is on the table.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 1,
+    "explanation": "Apple begins with a vowel sound, so an is used.",
+    "rule": "Use an before vowel sound",
+    "bengaliHint": "apple-এর উচ্চারণ vowel sound দিয়ে শুরু।"
+  },
+  {
+    "id": "g04-002",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: He bought ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "Umbrella begins with a vowel sound, so an is used.",
+    "rule": "Use an before vowel sound",
+    "bengaliHint": "umbrella vowel sound দিয়ে শুরু।"
+  },
+  {
+    "id": "g04-003",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: She has ___ one-year-old child.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "One-year-old begins with the consonant sound w, so a is used.",
+    "rule": "Article depends on sound",
+    "bengaliHint": "one-এর শুরুতে w sound।"
+  },
+  {
+    "id": "g04-004",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: ___ Ganges is a holy river.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "explanation": "The Ganges is a specific and uniquely identifiable river.",
+    "rule": "Use the for unique river names",
+    "bengaliHint": "নির্দিষ্ট নদীর নামের আগে the।"
+  },
+  {
+    "id": "g04-005",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: He studied ___ Bengali at school.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "No article is normally used before a language name.",
+    "rule": "No article before language names",
+    "bengaliHint": "language-এর সাধারণ নামের আগে article নয়।"
+  },
+  {
+    "id": "g04-006",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: We met ___ Monday.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "on"
+    ],
+    "answer": 3,
+    "explanation": "Monday is used with the preposition on, not an article.",
+    "rule": "Use on with weekdays",
+    "bengaliHint": "weekday-এর আগে on।"
+  },
+  {
+    "id": "g04-007",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: He wants ___ orange.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "Orange begins with a vowel sound and needs an.",
+    "rule": "Use an before vowel sound",
+    "bengaliHint": "orange vowel sound।"
+  },
+  {
+    "id": "g04-008",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: ___ Pacific is a large ocean.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "explanation": "The is used before the names of oceans.",
+    "rule": "Use the with oceans",
+    "bengaliHint": "ocean-এর নির্দিষ্ট নামের আগে the।"
+  },
+  {
+    "id": "g04-009",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: We saw ___ elephant and ___ zebra in the zoo.",
+    "options": [
+      "an / a",
+      "a / a",
+      "an / the",
+      "the / a"
+    ],
+    "answer": 0,
+    "explanation": "Elephant takes an; zebra takes a.",
+    "rule": "Choose articles by the first sound",
+    "bengaliHint": "elephant vowel, zebra consonant।"
+  },
+  {
+    "id": "g04-010",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: She wants to become ___ doctor.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "Doctor begins with a consonant sound and describes a profession.",
+    "rule": "Use a/an for singular professions",
+    "bengaliHint": "profession-এর আগে a/an।"
+  },
+  {
+    "id": "g04-011",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: ___ honesty is the best policy.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 3,
+    "explanation": "Honesty is an uncountable abstract noun used generally.",
+    "rule": "No article with general abstract nouns",
+    "bengaliHint": "abstract general noun-এর আগে article নয়।"
+  },
+  {
+    "id": "g04-012",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: He lives in ___ India.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "India is a singular country name that normally takes no article.",
+    "rule": "No article with most country names",
+    "bengaliHint": "country-এর সাধারণ নামের আগে the নয়।"
+  },
+  {
+    "id": "g04-013",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: Please open ___ window beside you.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 2,
+    "explanation": "The specific window beside the listener is meant.",
+    "rule": "Use the for a specific noun",
+    "bengaliHint": "কোন window—listener-এর পাশে তার—নির্দিষ্ট।"
+  },
+  {
+    "id": "g04-014",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: ___ sun gives us light.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "explanation": "Sun is unique in our solar system.",
+    "rule": "Use the with unique things",
+    "bengaliHint": "বিশ্বে unique—the sun।"
+  },
+  {
+    "id": "g04-015",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: It happened in ___ 2026.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "A year normally takes no article.",
+    "rule": "No article before a year",
+    "bengaliHint": "year-এর আগে article নয়।"
+  },
+  {
+    "id": "g04-016",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: He is ___ honest man.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "Honest begins with a silent h and has a vowel sound.",
+    "rule": "Article depends on spoken sound",
+    "bengaliHint": "honest-এর h silent; vowel sound।"
+  },
+  {
+    "id": "g04-017",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: She is ___ European student.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "European begins with a consonant sound, represented by y.",
+    "rule": "Use a before a consonant sound",
+    "bengaliHint": "European-এর শুরুতে y sound।"
+  },
+  {
+    "id": "g04-018",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: ___ Himalayas are in Asia.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "explanation": "Names of mountain ranges take the.",
+    "rule": "Use the with mountain ranges",
+    "bengaliHint": "mountain range-এর group name।"
+  },
+  {
+    "id": "g04-019",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: He was elected ___ president.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "A singular designation used after elected normally takes no article.",
+    "rule": "No article with a position used as designation",
+    "bengaliHint": "president পদবি হিসেবে—article নয়।"
+  },
+  {
+    "id": "g04-020",
+    "chapter": "g04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: ___ United Kingdom is a European country.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "explanation": "United Kingdom is a country name that conventionally uses the.",
+    "rule": "Use the with some country names",
+    "bengaliHint": "নির্দিষ্ট country name convention অনুযায়ী the।"
+  },
+  {
+    "id": "g04-021",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He plays ___ violin with great skill.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 2,
+    "explanation": "Musical instruments take the definite article 'the' when referred to as an instrument to play.",
+    "rule": "Definite article with musical instruments",
+    "bengaliHint": "বাদ্যযন্ত্র বাজানো অর্থে 'the' বসে।"
+  },
+  {
+    "id": "g04-022",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He is ___ honest public servant.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "'Honest' begins with a silent 'h' and a vowel sound /ɒ/, requiring 'an'.",
+    "rule": "Article 'an' before silent h",
+    "bengaliHint": "'Honest'-এর উচ্চারণ vowel sound দিয়ে শুরু হওয়ায় 'an' বসে।"
+  },
+  {
+    "id": "g04-023",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'She is ___ university lecturer.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "'University' begins with a consonant sound /ju:/, requiring indefinite article 'a'.",
+    "rule": "Article 'a' before /ju:/ sound",
+    "bengaliHint": "উচ্চারণ 'ইউ' দিয়ে শুরু হলে 'a' বসে।"
+  },
+  {
+    "id": "g04-024",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'Copper is ___ useful metal.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "'Useful' begins with the consonant phoneme /ju:/, taking 'a'.",
+    "rule": "Article 'a' before useful",
+    "bengaliHint": "উচ্চারণ 'ইউ' হওয়ায় 'a' হবে।"
+  },
+  {
+    "id": "g04-025",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He is ___ European citizen.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "'European' begins with the consonant sound /ju:/, taking 'a'.",
+    "rule": "Article 'a' before European",
+    "bengaliHint": "উচ্চারণ 'ইউ' হওয়ায় 'a' হবে।"
+  },
+  {
+    "id": "g04-026",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He reads ___ Statesman newspaper every morning.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 2,
+    "explanation": "Names of prominent newspapers take the definite article 'the'.",
+    "rule": "Definite article before newspapers",
+    "bengaliHint": "সংবাদপত্রের নামের আগে 'the' বসে।"
+  },
+  {
+    "id": "g04-027",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ Himalayas protect India from bitter northern winds.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "explanation": "Mountain ranges (chains) take 'the'.",
+    "rule": "Definite article with mountain ranges",
+    "bengaliHint": "পর্বতশ্রেণীর নামের পূর্বে 'the' বসে।"
+  },
+  {
+    "id": "g04-028",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ Mount Everest is the highest peak in the world.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 3,
+    "explanation": "Individual mountain peaks take NO article (unlike mountain ranges).",
+    "rule": "No article before single mountain peaks",
+    "bengaliHint": "একক শৃঙ্গের নামের পূর্বে কোনো article বসে না।"
+  },
+  {
+    "id": "g04-029",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ Pacific Ocean is the deepest ocean on Earth.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "Names of oceans, seas, and rivers take 'the'.",
+    "rule": "Definite article with oceans",
+    "bengaliHint": "মহাসাগরের নামের পূর্বে 'the' বসে।"
+  },
+  {
+    "id": "g04-030",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He was elected ___ secretary of the club.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "Nouns following verbs like 'elect', 'appoint', 'nominate' taking predicative roles omit the article.",
+    "rule": "Omission of article after elect/appoint",
+    "bengaliHint": "'Elect'-এর পর পদের নামের আগে article বসে না।"
+  },
+  {
+    "id": "g04-031",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ gold is a precious yellow metal.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 3,
+    "explanation": "Material nouns used in a general sense take no article.",
+    "rule": "No article before general material nouns",
+    "bengaliHint": "সাধারণ অর্থে ব্যবহৃত পদার্থবাচক Noun-এ article বসে না।"
+  },
+  {
+    "id": "g04-032",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ gold of Kolar is renowned for purity.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "Material nouns made specific by an 'of' phrase take 'the'.",
+    "rule": "Definite article for specific material nouns",
+    "bengaliHint": "নির্দিষ্ট জায়গার সোনা বোঝাতে 'the' বসে।"
+  },
+  {
+    "id": "g04-033",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ wisdom is the gift of heaven.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 3,
+    "explanation": "Abstract nouns used in a general sense take no article.",
+    "rule": "No article before abstract nouns in general",
+    "bengaliHint": "সাধারণ অর্থে গুণবাচক Noun-এ article বসে না।"
+  },
+  {
+    "id": "g04-034",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ wisdom of Solomon was famous throughout the ancient world.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "Abstract nouns qualified by a prepositional phrase take 'the'.",
+    "rule": "Definite article for specific abstract qualities",
+    "bengaliHint": "নির্দিষ্ট ব্যক্তির প্রজ্ঞা বোঝাতে 'the' বসে।"
+  },
+  {
+    "id": "g04-035",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He went to ___ hospital to visit an ailing relative.'",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "When institutions like hospital/school/church are visited for a secondary purpose, 'the' is used.",
+    "rule": "Definite article for secondary purpose of institutions",
+    "bengaliHint": "চিকিৎসার জন্য না গিয়ে কাউকে দেখতে গেলে 'the hospital' হয়।"
+  },
+  {
+    "id": "g04-036",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'The patient was admitted to ___ hospital yesterday.'",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "When hospital is visited for its primary purpose (treatment), no article is used.",
+    "rule": "No article for primary purpose of institutions",
+    "bengaliHint": "চিকিৎসার মূল উদ্দেশ্যে হাসপাতালে ভর্তি হলে article বসে না।"
+  },
+  {
+    "id": "g04-037",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'Kalidasa is often called ___ Shakespeare of India.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 2,
+    "explanation": "When a proper noun is used as a standard of comparison (common noun), it takes 'the'.",
+    "rule": "Definite article for proper noun used as standard",
+    "bengaliHint": "উপমা হিসেবে ব্যবহৃত Proper Noun-এর পূর্বে 'the' বসে।"
+  },
+  {
+    "id": "g04-038",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He is ___ honorary magistrate in the district court.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "'Honorary' begins with a silent 'h' and vowel sound /ɒ/, taking 'an'.",
+    "rule": "Article 'an' before honorary",
+    "bengaliHint": "'Honorary'-র শুরুতে vowel sound থাকায় 'an' বসে।"
+  },
+  {
+    "id": "g04-039",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'I bought ___ one-way train ticket to Siliguri.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "'One-way' begins with the consonant phoneme /w/ (Wa), taking 'a'.",
+    "rule": "Article 'a' before /w/ sound in 'one'",
+    "bengaliHint": "'One'-এর উচ্চারণ 'ওয়া' হওয়ায় 'a' বসে।"
+  },
+  {
+    "id": "g04-040",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He joined ___ Union of government employees.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "'Union' begins with consonant sound /ju:/, requiring indefinite article 'a'.",
+    "rule": "Article 'a' before union",
+    "bengaliHint": "উচ্চারণ 'ইউ' হওয়ায় 'a' বসে।"
+  },
+  {
+    "id": "g04-041",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ French defeated the Germans in the decisive battle.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "'The French' refers to the people/nation of France, taking 'the'.",
+    "rule": "Definite article for nationality/people",
+    "bengaliHint": "সমগ্র জাতিকে নির্দেশ করতে 'the' বসে।"
+  },
+  {
+    "id": "g04-042",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He speaks ___ French with native fluency.'",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "answer": 3,
+    "explanation": "Names of languages take no article.",
+    "rule": "No article before names of languages",
+    "bengaliHint": "ভাষার নামের পূর্বে কোনো article বসে না।"
+  },
+  {
+    "id": "g04-043",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: '___ richer you grow, the more restless you become.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "Parallel comparative structure requires 'The + comparative..., the + comparative...'.",
+    "rule": "Double comparative with 'the'",
+    "bengaliHint": "তুলনামূলক দ্বৈত গঠনে উভয় ক্ষেত্রে 'the' বসে।"
+  },
+  {
+    "id": "g04-044",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'She is ___ taller of the two sisters.'",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "answer": 0,
+    "explanation": "When comparing exactly two items with a comparative degree, 'the' is mandatory.",
+    "rule": "Definite article before comparative of two",
+    "bengaliHint": "দুজনের মধ্যে তুলনা বোঝালে comparative-এর আগে 'the' বসে।"
+  },
+  {
+    "id": "g04-045",
+    "chapter": "g04",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate article: 'He filed ___ FIR at the local police station.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "'FIR' is pronounced /ef-aye-ar/ and begins with vowel sound /e/, requiring 'an'.",
+    "rule": "Article 'an' with vowel-sound abbreviations",
+    "bengaliHint": "সংক্ষেপিত শব্দের উচ্চারণ vowel দিয়ে শুরু হলে 'an' বসে।"
+  }
+]

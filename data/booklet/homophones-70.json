@@ -1,0 +1,492 @@
+[
+  {
+    "num": 1,
+    "term": "Homographs",
+    "meaning": "Words spelt the same but pronounced differently, with different meanings. (e.g. lead)",
+    "bengali": "একই বানান কিন্তু ভিন্ন উচ্চারণ ও অর্থ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 2,
+    "term": "Homonyms",
+    "meaning": "Words with the same spelling and the same pronunciation but different meanings. (e.g. bank, bark, fine, match, bat)",
+    "bengali": "একই বানান ও উচ্চারণ কিন্তু ভিন্ন অর্থ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 3,
+    "term": "Homophones",
+    "meaning": "Words that sound alike but differ in spelling and meaning. (e.g. right – write; sun – son)",
+    "bengali": "একই উচ্চারণ কিন্তু ভিন্ন বানান ও অর্থ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 4,
+    "term": "bank",
+    "meaning": "Multiple Meanings: a money institution; the edge of a river (the bank of a river)",
+    "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 5,
+    "term": "bark",
+    "meaning": "Multiple Meanings: the outer covering of a tree; the sound a dog makes",
+    "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 6,
+    "term": "bat",
+    "meaning": "Multiple Meanings: a cricket bat; a flying bat",
+    "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 7,
+    "term": "fine",
+    "meaning": "Multiple Meanings: a penalty; of good quality",
+    "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 8,
+    "term": "match",
+    "meaning": "Multiple Meanings: a game, such as a cricket match; a matchbox",
+    "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 9,
+    "term": "allowed  /  aloud",
+    "meaning": "Homophone Pair: 'allowed' sounds identical to 'aloud'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (allowed ও aloud)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 10,
+    "term": "ate  /  eight",
+    "meaning": "Homophone Pair: 'ate' sounds identical to 'eight'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (ate ও eight)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 11,
+    "term": "break  /  brake",
+    "meaning": "Homophone Pair: 'break' sounds identical to 'brake'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (break ও brake)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 12,
+    "term": "buy  /  by",
+    "meaning": "Homophone Pair: 'buy' sounds identical to 'by'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (buy ও by)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 13,
+    "term": "cell  /  sell",
+    "meaning": "Homophone Pair: 'cell' sounds identical to 'sell'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (cell ও sell)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 14,
+    "term": "check  /  cheque (British usage)",
+    "meaning": "Homophone Pair: 'check' sounds identical to 'cheque (British usage)'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (check ও cheque (British usage))",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 15,
+    "term": "dear  /  deer",
+    "meaning": "Homophone Pair: 'dear' sounds identical to 'deer'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (dear ও deer)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 16,
+    "term": "grate  /  great",
+    "meaning": "Homophone Pair: 'grate' sounds identical to 'great'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (grate ও great)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 17,
+    "term": "higher  /  hire",
+    "meaning": "Homophone Pair: 'higher' sounds identical to 'hire'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (higher ও hire)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 18,
+    "term": "idle  /  idol",
+    "meaning": "Homophone Pair: 'idle' sounds identical to 'idol'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (idle ও idol)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 19,
+    "term": "knight  /  night",
+    "meaning": "Homophone Pair: 'knight' sounds identical to 'night'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (knight ও night)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 20,
+    "term": "lessen  /  lesson",
+    "meaning": "Homophone Pair: 'lessen' sounds identical to 'lesson'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (lessen ও lesson)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 21,
+    "term": "meat  /  meet",
+    "meaning": "Homophone Pair: 'meat' sounds identical to 'meet'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (meat ও meet)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 22,
+    "term": "pair  /  pear",
+    "meaning": "Homophone Pair: 'pair' sounds identical to 'pear'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (pair ও pear)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 23,
+    "term": "plain  /  plane",
+    "meaning": "Homophone Pair: 'plain' sounds identical to 'plane'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (plain ও plane)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 24,
+    "term": "prey  /  pray",
+    "meaning": "Homophone Pair: 'prey' sounds identical to 'pray'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (prey ও pray)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 25,
+    "term": "right  /  write",
+    "meaning": "Homophone Pair: 'right' sounds identical to 'write'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (right ও write)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 26,
+    "term": "sail  /  sale",
+    "meaning": "Homophone Pair: 'sail' sounds identical to 'sale'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (sail ও sale)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 27,
+    "term": "serial  /  cereal",
+    "meaning": "Homophone Pair: 'serial' sounds identical to 'cereal'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (serial ও cereal)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 28,
+    "term": "sole  /  soul",
+    "meaning": "Homophone Pair: 'sole' sounds identical to 'soul'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (sole ও soul)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 29,
+    "term": "steal  /  steel",
+    "meaning": "Homophone Pair: 'steal' sounds identical to 'steel'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (steal ও steel)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 30,
+    "term": "sun  /  son",
+    "meaning": "Homophone Pair: 'sun' sounds identical to 'son'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (sun ও son)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 31,
+    "term": "sweet  /  suite",
+    "meaning": "Homophone Pair: 'sweet' sounds identical to 'suite'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (sweet ও suite)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 32,
+    "term": "tale  /  tail",
+    "meaning": "Homophone Pair: 'tale' sounds identical to 'tail'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (tale ও tail)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 33,
+    "term": "tide  /  tied",
+    "meaning": "Homophone Pair: 'tide' sounds identical to 'tied'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (tide ও tied)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 34,
+    "term": "vain  /  vein",
+    "meaning": "Homophone Pair: 'vain' sounds identical to 'vein'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (vain ও vein)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 35,
+    "term": "wait  /  weight",
+    "meaning": "Homophone Pair: 'wait' sounds identical to 'weight'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (wait ও weight)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 36,
+    "term": "wave  /  waive",
+    "meaning": "Homophone Pair: 'wave' sounds identical to 'waive'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (wave ও waive)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 37,
+    "term": "weak  /  week",
+    "meaning": "Homophone Pair: 'weak' sounds identical to 'week'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (weak ও week)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 38,
+    "term": "wood  /  would",
+    "meaning": "Homophone Pair: 'wood' sounds identical to 'would'",
+    "bengali": "সমোচ্চারিত শব্দযুগল (wood ও would)",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 39,
+    "term": "ascent",
+    "meaning": "Context Example: The ascent of the peak took five hours.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 40,
+    "term": "assent",
+    "meaning": "Context Example: He gave his assent to the proposal.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 41,
+    "term": "bear",
+    "meaning": "Context Example: He could not bear the heavy load.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 42,
+    "term": "blew",
+    "meaning": "Context Example: The wind blew the papers away.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 43,
+    "term": "bored",
+    "meaning": "Context Example: The lecture was so dull that he felt bored.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 44,
+    "term": "compliment",
+    "meaning": "Context Example: He paid her a compliment on her dress.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 45,
+    "term": "council",
+    "meaning": "Context Example: The city council meets every Monday.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 46,
+    "term": "counsel",
+    "meaning": "Context Example: The lawyer gave sound legal counsel.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 47,
+    "term": "dissent",
+    "meaning": "Context Example: There was strong dissent against the ruling.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 48,
+    "term": "effect",
+    "meaning": "Context Example: The medicine had a bad effect on him.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 49,
+    "term": "flour",
+    "meaning": "Context Example: Mother bought a kilo of flour.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 50,
+    "term": "hair",
+    "meaning": "Context Example: She has long black hair.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 51,
+    "term": "heard",
+    "meaning": "Context Example: I heard a strange noise last night.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 52,
+    "term": "heir",
+    "meaning": "Context Example: The prince is the heir to the throne.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 53,
+    "term": "herd",
+    "meaning": "Context Example: A herd of cattle crossed the road.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 54,
+    "term": "illicit",
+    "meaning": "Context Example: He was arrested for the illicit trade in drugs.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 55,
+    "term": "knew",
+    "meaning": "Context Example: I knew the answer already.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 56,
+    "term": "mail",
+    "meaning": "Context Example: The postman delivered a mail.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 57,
+    "term": "piece",
+    "meaning": "Context Example: May I have a piece of cake?",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 58,
+    "term": "principal",
+    "meaning": "Context Example: The principal of the college addressed the students.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 59,
+    "term": "rain",
+    "meaning": "Context Example: It began to rain heavily at noon.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 60,
+    "term": "reign",
+    "meaning": "Context Example: The king's reign lasted forty years.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 61,
+    "term": "rein",
+    "meaning": "Context Example: He pulled the rein to stop the horse.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 62,
+    "term": "route",
+    "meaning": "Context Example: The bus route was changed last month.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 63,
+    "term": "sight",
+    "meaning": "Context Example: The sight of the accident was horrifying.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 64,
+    "term": "son",
+    "meaning": "Context Example: He is the only son of the family.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 65,
+    "term": "stationery",
+    "meaning": "Context Example: She bought pens and paper from the stationery shop.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 66,
+    "term": "sun",
+    "meaning": "Context Example: The sun rises in the east.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 67,
+    "term": "tail",
+    "meaning": "Context Example: The dog wagged its tail.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 68,
+    "term": "whether",
+    "meaning": "Context Example: I do not know whether it will rain today.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 69,
+    "term": "whole",
+    "meaning": "Context Example: She ate the whole cake.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  },
+  {
+    "num": 70,
+    "term": "wring",
+    "meaning": "Context Example: Please wring the wet clothes before drying them.",
+    "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার",
+    "category": "Homophones & Homonyms"
+  }
+]

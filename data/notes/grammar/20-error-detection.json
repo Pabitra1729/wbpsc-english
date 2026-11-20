@@ -1,0 +1,94 @@
+{
+  "id": "g20",
+  "title": "Error Detection & Spotting the Error",
+  "intro": "Error detection evaluates a candidate's holistic command over English grammar, syntax, concord, and diction by asking them to locate the incorrect segment in a partitioned sentence (A, B, C, D / No Error). In the WBPSC Clerkship examination, recurring error patterns follow predictable linguistic archetypes that can be swiftly pinpointed through a structured 5-pass scanning methodology.",
+  "bengali": "Spotting the Error / Error Detection হলো সরকারি চাকরির ইংরেজি পরীক্ষার সবচেয়ে গুরুত্বপূর্ণ অংশ। এখানে একটি বাক্যকে চার বা পাঁচটি অংশে ভাগ করে দেওয়া হয় (A, B, C, D / No Error) এবং কোন অংশে ভুল আছে তা চিহ্নিত করতে হয়।\n\nWBPSC Clerkship পরীক্ষায় বারবার আসা প্রধান ১০টি ভুলের ধরন:\n১. Subject-Verb Agreement-এর ফাঁদ: Subject ও Verb-এর মাঝের Prepositional phrase দেখে বিভ্রান্ত না হয়ে আসল Subject অনুযায়ী Verb বসানো।\n২. সময়সূচক শব্দ ও Tense-এর অমিল: বাক্যে 'yesterday', 'ago', 'in 1947' থাকলে Present Perfect (has/have) ব্যবহার করা সম্পূর্ণ ভুল (Simple Past V2 হবে)।\n৩. Uncountable Noun-এর সাথে 's' যোগ: Furnitures, informations, sceneries, advices ইত্যাদি লেখা ভুল।\n৪. Prepositional Traps: Senior/Junior-এর পরে 'than' লেখা (হবে 'to'); Discuss/Enter/Order-এর পরে অনাবশ্যক Preposition বসানো।\n৫. Correlative Conjunction-এর জোড়া ভাঙা: Hardly-র সাথে 'than' লেখা (হবে 'when'); No sooner-এর সাথে 'when' লেখা (হবে 'than')।\n৬. Redundant Words (অতিরিক্ত অনাবশ্যক শব্দ): 'Return back' (হবে শুধু 'return'); 'Revert back' (হবে 'revert'); 'Cousin brother/sister' (হবে শুধু 'cousin')।\n৭. Conditional Clauses-এ 'Will/Would': If-ক্লজে কখনো 'will' বা 'would have' বসবে না।",
+  "rules": [
+    {
+      "rule": "THE 5-PASS SCANNING METHODOLOGY for WBPSC Error Detection:",
+      "examples": [
+        "Pass 1 - Subject-Verb Concord: Check every finite verb against its genuine grammatical subject.",
+        "Pass 2 - Tense & Timeline: Check if past time adverbs (yesterday, ago) match V2, and verify conditional sequences.",
+        "Pass 3 - Pronoun Cases & Agreement: Check nominative vs objective cases after prepositions/than, and pronoun antecedents.",
+        "Pass 4 - Prepositions & Conjunctions: Check fixed prepositions (senior to, prevent from) and correlative pairs (hardly... when).",
+        "Pass 5 - Nouns & Modifiers: Check uncountable nouns (furniture, advice), misplaced modifiers, and dangling participles."
+      ],
+      "exceptions": [
+        "If all 5 passes verify as grammatically sound and idiomatic, choose option 'No Error'."
+      ]
+    },
+    {
+      "rule": "SUPERFLUOUS / REDUNDANT EXPRESSIONS (Tautology): Words that duplicate meaning must be omitted.",
+      "examples": [
+        "Incorrect: Return back -> Correct: Return (return already means come back).",
+        "Incorrect: Revert back -> Correct: Revert.",
+        "Incorrect: Cousin brother / Cousin sister -> Correct: Cousin.",
+        "Incorrect: Enter into the room -> Correct: Enter the room.",
+        "Incorrect: Sufficient enough -> Correct: Sufficient / Enough.",
+        "Incorrect: Supposing if you fail -> Correct: Supposing you fail / If you fail."
+      ],
+      "exceptions": [
+        "'Enter into' is correct for figurative agreements or treaties."
+      ]
+    },
+    {
+      "rule": "MISPLACED MODIFIER ERRORS: An adverb or limiting modifier must be situated immediately adjacent to the word it qualifies.",
+      "examples": [
+        "Incorrect: He only died yesterday (Implies he did nothing else yesterday except die).",
+        "Correct: He died only yesterday (Qualifies 'yesterday').",
+        "Incorrect: She almost washed all the clothes.",
+        "Correct: She washed almost all the clothes."
+      ],
+      "exceptions": [
+        "Position of 'ONLY' changes the sentence meaning drastically—verify which constituent it is intended to modify."
+      ]
+    },
+    {
+      "rule": "DOUBLE COMPARATIVES AND DOUBLE SUPERLATIVES are grammatically incorrect in standard examination English.",
+      "examples": [
+        "Incorrect: He is more taller than his brother. -> Correct: He is taller than his brother.",
+        "Incorrect: This is the most best solution. -> Correct: This is the best solution.",
+        "Incorrect: She is more wiser than her sister. -> Correct: She is wiser than her sister."
+      ],
+      "exceptions": [
+        "Never pair '-er' with 'more' or '-est' with 'most'."
+      ]
+    },
+    {
+      "rule": "ONE OF THE + PLURAL NOUN + SINGULAR VERB (unless preceded by a relative pronoun):",
+      "examples": [
+        "Standard: 'One of the candidates has cleared the typing test' (Noun is plural 'candidates'; Verb is singular 'has').",
+        "With Relative Pronoun: 'He is one of those officers who HAVE performed outstandingly' (Verb agrees with antecedent 'officers', plural)."
+      ],
+      "exceptions": [
+        "If preceded by 'THE ONLY ONE OF...', the verb reverts to SINGULAR: 'He is the only one of the officers who HAS performed outstandingly'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'She is my cousin sister' instead of 'She is my cousin' (tautology error).",
+    "Writing 'Kindly revert back to my email' instead of 'revert to my email' (redundant back).",
+    "Writing 'He is more senior than me' instead of 'He is senior to me' (double comparative + wrong preposition).",
+    "Writing 'One of my friend is a doctor' instead of 'One of my friends is a doctor' (one of takes plural noun).",
+    "Saying 'Supposing if it rains, what will we do?' instead of 'Supposing it rains' (supposing and if cannot coexist)."
+  ],
+  "examTricks": [
+    "The Redundancy Blacklist: Return back, Revert back, Cousin sister/brother, Repeat again, Supposing if -> INSTANT ERROR.",
+    "The 'One of the' Rule: One of the + PLURAL Noun + SINGULAR Verb.",
+    "The 'One of those who' Inversion: One of those who + PLURAL Verb; but 'The only one of those who' + SINGULAR Verb.",
+    "The 'No Error' Confidence: If passes 1 through 5 check out clean, don't invent errors—select 'No Error'."
+  ],
+  "memoryTricks": [
+    "RE- means BACK, so don't write BACK after RE-turn.",
+    "COUSIN has NO GENDER suffix."
+  ],
+  "revision": [
+    "Check Subject-Verb agreement first (singular subject = singular verb).",
+    "Yesterday, ago -> Simple Past (V2), not has/have.",
+    "No redundant words: return back, cousin brother, revert back.",
+    "One of the + Plural noun + Singular verb.",
+    "No double comparatives: more taller, more better (strictly wrong).",
+    "Misplaced 'only': Place 'only' directly before the word it limits.",
+    "Senior to, prevent from, agree with/to."
+  ]
+}

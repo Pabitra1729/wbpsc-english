@@ -1,0 +1,432 @@
+{
+  "id": "v09",
+  "title": "Vocabulary in Context & Sentence Completion",
+  "intro": "Vocabulary in Context evaluates a candidate's ability to deduce the precise meaning of an underlined word or to insert the single most logically appropriate word into a contextual sentence. In the WBPSC Clerkship examination, questions demand attention to tone (positive vs negative), collocation (habitual word partnerships), and contrast clues marked by transition signals (although, despite, whereas).",
+  "bengali": "Vocabulary in Context (প্রেক্ষাপটভিত্তিক শব্দার্থ ও বাক্য পূরণ): ইংরেজি পরীক্ষায় এটি অত্যন্ত গুরুত্বপূর্ণ একটি অংশ, যেখানে কোনো শব্দ একা না থেকে একটি পূর্ণাঙ্গ বাক্যের প্রেক্ষাপটে ব্যবহৃত হয় এবং তার অন্তর্নিহিত অর্থ বা শূন্যস্থান পূরণে সবচেয়ে মানানসই শব্দটি বেছে নিতে হয়।\n\nWBPSC Clerkship পরীক্ষায় সফল হওয়ার ৪টি প্রধান কৌশল:\n১. Context Clues (প্রেক্ষাপটের সূত্র খোঁজা):\n   বাক্যে দেওয়া অন্যান্য শব্দগুলোই আসল অর্থের ইঙ্গিত বহন করে:\n   - Contrast Clues: 'Although', 'Despite', 'In spite of', 'However', 'Whereas', 'On the other hand' থাকলে বাক্যের দুই অংশের অর্থ পরস্পরের বিপরীত হবে। যেমন: 'Although he was wealthy, his lifestyle was remarkably frugal' (ধনী হওয়া সত্ত্বেও তার জীবনযাত্রা ছিল মিতব্যয়ী)।\n   - Cause & Effect Clues: 'Because', 'Since', 'Consequently', 'Therefore' থাকলে একটি অংশের কারণ অনুযায়ী অন্য অংশে ফলাফলবাচক শব্দ বসবে।\n২. Collocation (শব্দের স্বাভাবিক ও প্রচলিত জুটি):\n   সব শব্দ সব শব্দের সাথে বসে না। কিছু শব্দ নির্দিষ্ট শব্দের সাথে প্রাকৃতিকভাবে জোড়া বাঁধে:\n   - 'Heavy rain' (NOT: strong rain), কিন্তু 'Strong wind' (NOT: heavy wind)।\n   - 'Make a mistake' (NOT: do a mistake)।\n   - 'Take an examination' (NOT: give an exam; বাংলায় 'পরীক্ষা দেওয়া' হলেও ইংরেজিতে পরীক্ষার্থী 'takes an exam', আর শিক্ষক 'gives an exam')।\n   - 'Sound sleep' (গভীর ঘুম), 'Bitter enemy' (চিরশত্রু), 'Blunder' (বড় ভুল, তাই 'big blunder' ভুল)।\n৩. Tone Analysis (ইতিবাচক না নেতিবাচক সুর):\n   বাক্যের সুর ইতিবাচক হলে কোনো প্রশংসনীয় শব্দ বসবে; আর বাক্যে হতাশা বা সমালোচনার সুর থাকলে নেতিবাচক শব্দ বসবে।",
+  "rules": [
+    {
+      "rule": "CONTRAST TRANSITION SIGNALS (Although, Despite, However, But, Whereas, While): Words separated by these conjunctions MUST express opposing semantic polarity.",
+      "examples": [
+        "Although the allegations were serious, the minister remained completely PLACID and composed (Negative situation <-> Positive calm demeanor).",
+        "Despite his AFFABLE exterior, the investigator was known for his unyielding firmness.",
+        "While traditional manufacturing is DECLINING, software services are FLOURISHING."
+      ],
+      "exceptions": [
+        "If the sentence uses 'And', 'Moreover', or 'Furthermore', both halves share the identical positive or negative tone."
+      ]
+    },
+    {
+      "rule": "COLLOCATION ACCURACY: Selecting words that naturally and idiomatically pair together in standard formal English.",
+      "examples": [
+        "Candidates TAKE an examination (Teacher GIVES the exam).",
+        "Commit a crime / Make a blunder (NOT: do a mistake).",
+        "Heavy traffic, heavy rain, heavy fine (NOT: strong traffic).",
+        "Strong wind, strong coffee, strong accent (NOT: heavy wind)."
+      ],
+      "exceptions": [
+        "Translating literally from Bengali ('আমি পরীক্ষা দেব' -> 'I will give exam') is one of the most common student errors in WBPSC."
+      ]
+    },
+    {
+      "rule": "SECONDARY AND FIGURATIVE MEANINGS: Words with familiar concrete meanings often carry elevated figurative senses in civil service examinations.",
+      "examples": [
+        "HARBOR: Literally a port; Figuratively to entertain or maintain a feeling: 'He harbored deep resentment against his superiors.'",
+        "WEATHER: Literally atmospheric condition; Figuratively to endure a crisis: 'The municipal board weathered the financial storm.'",
+        "CHAMPION: Literally an athletic winner; Figuratively to vigorously advocate a cause: 'Raja Ram Mohan Roy championed women's education.'"
+      ],
+      "exceptions": [
+        "Never assume the most common, elementary meaning is the only intended sense in advanced questions."
+      ]
+    },
+    {
+      "rule": "SUBTLE DEGREE AND REGISTER DISTINCTION: Distinguishing between near-synonyms based on intensity and formal administrative context.",
+      "examples": [
+        "Famous (well known in general) vs Renowned / Illustrious (celebrated for high achievement) vs Notorious (infamous for villainy).",
+        "Frugal (virtuously economical) vs Parsimonious / Miserly (contemptibly stingy).",
+        "Stubborn (childish obstinacy) vs Resolute / Tenacious (noble perseverance)."
+      ],
+      "exceptions": [
+        "Analyze whether the sentence conveys praise or condemnation to pick the correct register."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'I am giving an examination' instead of 'taking an examination'.",
+    "Writing 'He did a big blunder' instead of 'He made a blunder' (blunder is already big; use made).",
+    "Selecting a negative word when the contrast signal demands a positive word.",
+    "Using 'strong rain' instead of 'heavy rain' (collocation error).",
+    "Confusing 'notorious' (famous for bad things) with 'famous' in positive praise sentences."
+  ],
+  "examTricks": [
+    "The Exam Collocation Rule: Students TAKE an exam; Teachers/Commission GIVE an exam.",
+    "The Blunder Rule: Blunder = Big mistake. Never say 'Big blunder' (redundant) or 'did a blunder' (made a blunder).",
+    "The Polarity Bridge: Circle words like 'Although', 'Despite', 'Yet'. If part A is (-), part B MUST be (+).",
+    "The Literal vs Figurative Check: If 'weather' or 'harbor' is a verb, think endurance or inner emotion."
+  ],
+  "memoryTricks": [
+    "Students TAKE, Teachers GIVE (exams).",
+    "HEAVY for rain, STRONG for wind."
+  ],
+  "revision": [
+    "Candidates take examinations (not give).",
+    "Make a mistake / make a blunder (not do).",
+    "Although / Despite create opposite contrast.",
+    "Collocations: Heavy rain, strong coffee, sound sleep, bitter enemy.",
+    "Notorious = famous for bad deeds (infamous).",
+    "Frugal = wise spender; Miserly = greedy hoarder.",
+    "Harbor a thought = cherish inwardly; Weather a storm = endure successfully."
+  ],
+  "bookletTitle": "WBPSC Clerkship 70 Vocabulary in Context Sentences Directory",
+  "bookletList": [
+    {
+      "term": "adamant",
+      "meaning": "The shopkeeper was adamant and refused to reduce the price.",
+      "bengali": "বাক্য প্রয়োগ: 'adamant'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "affable",
+      "meaning": "Her affable nature made her popular among colleagues.",
+      "bengali": "বাক্য প্রয়োগ: 'affable'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "agility",
+      "meaning": "The sprinter's agility made him the favourite.",
+      "bengali": "বাক্য প্রয়োগ: 'agility'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "alleviate",
+      "meaning": "The new rule will alleviate the problem of overcrowding.",
+      "bengali": "বাক্য প্রয়োগ: 'alleviate'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "blessing",
+      "meaning": "The rain was a blessing for the parched fields.",
+      "bengali": "বাক্য প্রয়োগ: 'blessing'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "brilliant",
+      "meaning": "The brilliant student topped the university.",
+      "bengali": "বাক্য প্রয়োগ: 'brilliant'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "caustic",
+      "meaning": "His caustic remarks hurt everyone at the meeting.",
+      "bengali": "বাক্য প্রয়োগ: 'caustic'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "cavalier",
+      "meaning": "His cavalier attitude to work led to his dismissal.",
+      "bengali": "বাক্য প্রয়োগ: 'cavalier'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "chaos",
+      "meaning": "The sudden power cut caused chaos in the office.",
+      "bengali": "বাক্য প্রয়োগ: 'chaos'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "circumspectly",
+      "meaning": "She spoke circumspectly, choosing every word carefully.",
+      "bengali": "বাক্য প্রয়োগ: 'circumspectly'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "clemency",
+      "meaning": "The judge showed clemency to the first-time offender.",
+      "bengali": "বাক্য প্রয়োগ: 'clemency'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "cogent",
+      "meaning": "The lawyer's argument was so cogent that the jury was convinced.",
+      "bengali": "বাক্য প্রয়োগ: 'cogent'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "corroborated",
+      "meaning": "The scientist's findings were corroborated by later experiments.",
+      "bengali": "বাক্য প্রয়োগ: 'corroborated'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "crisis",
+      "meaning": "The company is facing a financial crisis.",
+      "bengali": "বাক্য প্রয়োগ: 'crisis'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "curt",
+      "meaning": "The interviewer was irritated by his curt replies.",
+      "bengali": "বাক্য প্রয়োগ: 'curt'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "denounced",
+      "meaning": "The tax reform was denounced by the opposition as unjust.",
+      "bengali": "বাক্য প্রয়োগ: 'denounced'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "dilapidated",
+      "meaning": "The old building is in a dilapidated state and may collapse.",
+      "bengali": "বাক্য প্রয়োগ: 'dilapidated'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "discreet",
+      "meaning": "A good clerk must be discreet when handling confidential records.",
+      "bengali": "বাক্য প্রয়োগ: 'discreet'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "dumbfounded",
+      "meaning": "She was dumbfounded by the sudden news and could not speak.",
+      "bengali": "বাক্য প্রয়োগ: 'dumbfounded'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "eluded",
+      "meaning": "The thief eluded the police by hiding in the forest.",
+      "bengali": "বাক্য প্রয়োগ: 'eluded'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "enforced",
+      "meaning": "The principal enforced the rule banning mobile phones.",
+      "bengali": "বাক্য প্রয়োগ: 'enforced'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "estranged",
+      "meaning": "The long-standing feud left the two families estranged.",
+      "bengali": "বাক্য প্রয়োগ: 'estranged'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "evasive",
+      "meaning": "He gave an evasive answer, avoiding a direct reply.",
+      "bengali": "বাক্য প্রয়োগ: 'evasive'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "exhausted",
+      "meaning": "The traveller was exhausted after the long journey.",
+      "bengali": "বাক্য প্রয়োগ: 'exhausted'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "exhorted",
+      "meaning": "The teacher exhorted the students to work hard.",
+      "bengali": "বাক্য প্রয়োগ: 'exhorted'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "expertise",
+      "meaning": "Her expertise in the subject made her the best choice for the panel.",
+      "bengali": "বাক্য প্রয়োগ: 'expertise'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "feasibility",
+      "meaning": "The feasibility of the government's plan was questioned by experts.",
+      "bengali": "বাক্য প্রয়োগ: 'feasibility'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "flimsy",
+      "meaning": "His excuse was so flimsy that nobody believed it.",
+      "bengali": "বাক্য প্রয়োগ: 'flimsy'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "frugality",
+      "meaning": "The manager was known for his frugality; he never wasted a rupee.",
+      "bengali": "বাক্য প্রয়োগ: 'frugality'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "futile",
+      "meaning": "He made a futile attempt to hide his nervousness.",
+      "bengali": "বাক্য প্রয়োগ: 'futile'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "hazardous",
+      "meaning": "It is hazardous to cross a busy road without looking.",
+      "bengali": "বাক্য প্রয়োগ: 'hazardous'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "headstrong",
+      "meaning": "He is so headstrong that he never listens to advice.",
+      "bengali": "বাক্য প্রয়োগ: 'headstrong'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "hollow",
+      "meaning": "The mayor's speech was full of hollow promises that were never kept.",
+      "bengali": "বাক্য প্রয়োগ: 'hollow'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "ill at ease",
+      "meaning": "The new employee felt ill at ease among strangers.",
+      "bengali": "বাক্য প্রয়োগ: 'ill at ease'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "immense",
+      "meaning": "Despite his immense wealth, he lived simply.",
+      "bengali": "বাক্য প্রয়োগ: 'immense'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "impeccable",
+      "meaning": "A man of impeccable character never compromises on honesty.",
+      "bengali": "বাক্য প্রয়োগ: 'impeccable'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "inaugurated",
+      "meaning": "The minister inaugurated the scheme with great pomp.",
+      "bengali": "বাক্য প্রয়োগ: 'inaugurated'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "inclement",
+      "meaning": "The inclement weather ruined our picnic.",
+      "bengali": "বাক্য প্রয়োগ: 'inclement'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "incoherent",
+      "meaning": "The speech was so incoherent that no one could follow it.",
+      "bengali": "বাক্য প্রয়োগ: 'incoherent'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "independence",
+      "meaning": "Her independence was evident when she refused every offer of help.",
+      "bengali": "বাক্য প্রয়োগ: 'independence'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "ingenuity",
+      "meaning": "The scientist's ingenuity led to a major invention.",
+      "bengali": "বাক্য প্রয়োগ: 'ingenuity'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "jargon",
+      "meaning": "The report was full of jargon, making it hard to understand.",
+      "bengali": "বাক্য প্রয়োগ: 'jargon'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "magnanimous",
+      "meaning": "In a magnanimous gesture, he donated all his savings to the orphanage.",
+      "bengali": "বাক্য প্রয়োগ: 'magnanimous'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "merge",
+      "meaning": "The two companies decided to merge to cut costs.",
+      "bengali": "বাক্য প্রয়োগ: 'merge'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "meticulous",
+      "meaning": "The auditor was meticulous about checking every figure.",
+      "bengali": "বাক্য প্রয়োগ: 'meticulous'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "negligence",
+      "meaning": "The clerk was reprimanded for his negligence in submitting the file.",
+      "bengali": "বাক্য প্রয়োগ: 'negligence'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "overwhelmed",
+      "meaning": "He was overwhelmed with grief after losing his mother.",
+      "bengali": "বাক্য প্রয়োগ: 'overwhelmed'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "penury",
+      "meaning": "The villagers lived in penury, with barely enough to eat.",
+      "bengali": "বাক্য প্রয়োগ: 'penury'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "poignant",
+      "meaning": "The film was so poignant that many in the audience wept.",
+      "bengali": "বাক্য প্রয়োগ: 'poignant'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "protested",
+      "meaning": "The citizens protested against the unfair tax.",
+      "bengali": "বাক্য প্রয়োগ: 'protested'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "proud",
+      "meaning": "He was too proud to admit his mistake.",
+      "bengali": "বাক্য প্রয়োগ: 'proud'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "reassuring",
+      "meaning": "Her reassuring smile put the nervous candidates at ease.",
+      "bengali": "বাক্য প্রয়োগ: 'reassuring'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "refractory",
+      "meaning": "The refractory child often broke rules and defied elders.",
+      "bengali": "বাক্য প্রয়োগ: 'refractory'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "refuted",
+      "meaning": "He refuted the rumour and called it baseless.",
+      "bengali": "বাক্য প্রয়োগ: 'refuted'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "replace",
+      "meaning": "The government plans to replace the old law with a new one.",
+      "bengali": "বাক্য প্রয়োগ: 'replace'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "resorted",
+      "meaning": "Driven by poverty, he resorted to crime.",
+      "bengali": "বাক্য প্রয়োগ: 'resorted'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "respite",
+      "meaning": "The rain brought a welcome respite from the heat.",
+      "bengali": "বাক্য প্রয়োগ: 'respite'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "revoked",
+      "meaning": "The office revoked the policy after many complaints.",
+      "bengali": "বাক্য প্রয়োগ: 'revoked'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "rewarded",
+      "meaning": "The company rewarded its staff with bonuses.",
+      "bengali": "বাক্য প্রয়োগ: 'rewarded'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "scarce",
+      "meaning": "Because of the drought, food became scarce in the village.",
+      "bengali": "বাক্য প্রয়োগ: 'scarce'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "scorching",
+      "meaning": "The scorching heat of the sun made it hard to stay outside.",
+      "bengali": "বাক্য প্রয়োগ: 'scorching'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "secretive",
+      "meaning": "The chef is secretive about his recipes and never shares them.",
+      "bengali": "বাক্য প্রয়োগ: 'secretive'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "steadfast",
+      "meaning": "Despite the heavy rain, the crowd remained steadfast and refused to leave.",
+      "bengali": "বাক্য প্রয়োগ: 'steadfast'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "stentorian",
+      "meaning": "His stentorian voice could be heard across the whole hall.",
+      "bengali": "বাক্য প্রয়োগ: 'stentorian'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "stunned",
+      "meaning": "The sudden announcement stunned the audience into silence.",
+      "bengali": "বাক্য প্রয়োগ: 'stunned'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "subdued",
+      "meaning": "The rebels were subdued into submission by the army.",
+      "bengali": "বাক্য প্রয়োগ: 'subdued'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "tarnished",
+      "meaning": "The scandal tarnished the reputation of the party.",
+      "bengali": "বাক্য প্রয়োগ: 'tarnished'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "tenderness",
+      "meaning": "The orphan was brought up with great tenderness by his uncle.",
+      "bengali": "বাক্য প্রয়োগ: 'tenderness'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "unanimously",
+      "meaning": "The proposal was passed unanimously, with every member voting in favour.",
+      "bengali": "বাক্য প্রয়োগ: 'unanimously'-এর প্রাসঙ্গিক ব্যবহার"
+    },
+    {
+      "term": "virulence",
+      "meaning": "The virulence of the disease alarmed the doctors.",
+      "bengali": "বাক্য প্রয়োগ: 'virulence'-এর প্রাসঙ্গিক ব্যবহার"
+    }
+  ]
+}

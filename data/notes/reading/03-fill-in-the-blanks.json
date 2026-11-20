@@ -1,0 +1,66 @@
+{
+  "id": "r03",
+  "title": "Fill in the Blanks (Grammar & Collocations)",
+  "intro": "Fill in the Blanks evaluates precision in grammar, vocabulary, idioms, and sentence completion. Questions in the WBPSC Clerkship examination test phrasal verbs, appropriate prepositions, tense harmony, modal nuances, and common collocations.",
+  "bengali": "Fill in the Blanks (শূন্যস্থান পূরণ): এই বিভাগে একটি বাক্যের নির্দিষ্ট শূন্যস্থানে সবচেয়ে নির্ভুল শব্দ বা শব্দগুচ্ছ বসাতে হয়।\n\nWBPSC Clerkship পরীক্ষায় শূন্যস্থান পূরণের প্রধান ৪টি স্তম্ভ:\n১. Phrasal Verbs-এর সঠিক অর্থ:\n   - Call off (বাতিল করা) বনাম Call on (কারও সাথে দেখা করা)।\n   - Put out (আগুন নেভানো) বনাম Put off (স্থগিত করা) বনাম Put up with (সহ্য করা)।\n   - Look into (তদন্ত করা) বনাম Look after (যত্ন নেওয়া)।\n২. Appropriate Prepositions:\n   - Accused of, Senior to, Suffer from, Good at, Congratulate on, Abstain from।\n৩. Subject-Verb Agreement ও Tense:\n   - 'Neither of the applicants ___ present' -> 'was' (were নয়)।\n   - 'The quality of these mangoes ___ exceptional' -> 'is' (are নয়)।\n৪. Collocations (স্বাভাবিক শব্দযুগল):\n   - 'Make a mistake' (do নয়), 'Take an exam' (give নয়), 'Heavy rain' (strong নয়)।",
+  "rules": [
+    {
+      "rule": "PHRASAL VERB PRECISION: The particle (preposition/adverb) following the root verb completely shifts its semantic meaning.",
+      "examples": [
+        "Call off: The strike was called off after negotiations (Cancelled).",
+        "Put out: Firefighters put out the raging flames (Extinguished).",
+        "Put off: The meeting was put off until Monday (Postponed).",
+        "Look after: The nurse looked after the ailing patient (Cared for).",
+        "Look into: The magistrate ordered the police to look into the scam (Investigate)."
+      ],
+      "exceptions": [
+        "Do not guess phrasal verbs based on literal meanings of the verb."
+      ]
+    },
+    {
+      "rule": "APPROPRIATE PREPOSITION COMBINATIONS: Verbs, adjectives, and nouns require exact customary prepositions.",
+      "examples": [
+        "He was accused OF murder but acquitted OF all charges.",
+        "She is proficient IN English and good AT arithmetic.",
+        "We congratulated him ON his promotion to head clerk.",
+        "He abstains FROM alcohol and refrains FROM smoking."
+      ],
+      "exceptions": [
+        "Senior, junior, superior, inferior, and prefer always take 'TO', never 'than'."
+      ]
+    },
+    {
+      "rule": "DOUBLE BLANK SENTENCE COMPLETION: The word selected for Blank 1 must harmonize grammatically and semantically with Blank 2.",
+      "examples": [
+        "Example: 'Although he was ___ in his youth, he led a ___ life in his old age.' -> Options must form a contrast (e.g., 'extravagant ... frugal')."
+      ],
+      "exceptions": [
+        "Test both blanks simultaneously; if an option fits Blank 1 perfectly but fails at Blank 2, eliminate the entire option immediately."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Using 'put off' (postpone) when the sentence means extinguish fire (use 'put out').",
+    "Using 'called on' (visited) when the sentence means cancel (use 'called off').",
+    "Writing 'congratulate for' instead of 'congratulate on'.",
+    "Writing 'good in mathematics' instead of 'good at mathematics'."
+  ],
+  "examTricks": [
+    "The 'Fire' Phrasal Verb: Extinguish = PUT OUT. Postpone = PUT OFF. Endure = PUT UP WITH.",
+    "The 'Cancel' Phrasal Verb: Cancel = CALL OFF. Visit = CALL ON.",
+    "The Math Rule: Good AT mathematics; Proficient IN languages.",
+    "The Double Blank Strategy: Start with the blank that has the clearest grammatical constraint (often a preposition clue)."
+  ],
+  "memoryTricks": [
+    "PUT OUT the light, PUT OFF the fight.",
+    "CALL OFF the strike, CALL ON who you like."
+  ],
+  "revision": [
+    "Call off = cancel; Call on = visit.",
+    "Put out = extinguish; Put off = postpone; Put up with = tolerate.",
+    "Look into = investigate; Look after = take care of.",
+    "Good at maths; Proficient in English.",
+    "Congratulate on; Accused of; Senior to.",
+    "Abstain from + V-ing; Prevent from + V-ing."
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "num": 1,
+    "term": "Back out",
+    "meaning": "Withdraw from a promise or agreement",
+    "bengali": "প্রতিশ্রুতি থেকে পিছিয়ে আসা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 2,
+    "term": "Break down",
+    "meaning": "Stop working; collapse emotionally",
+    "bengali": "অকেজো হওয়া / কান্নায় ভেঙে পড়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 3,
+    "term": "Bring about",
+    "meaning": "Cause to happen",
+    "bengali": "ঘটন ঘটানো / কারণে পরিণত হওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 4,
+    "term": "Bring up",
+    "meaning": "Raise a child; mention a topic",
+    "bengali": "স্থগিত বা বাতিল করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 5,
+    "term": "Call off",
+    "meaning": "Cancel",
+    "bengali": "চালিয়ে যাওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 6,
+    "term": "Call on",
+    "meaning": "Visit",
+    "bengali": "তাল মিলিয়ে সমান হওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 7,
+    "term": "Carry out",
+    "meaning": "Perform or complete",
+    "bengali": "পরিষ্কার করা / সমাধান করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 8,
+    "term": "Come across",
+    "meaning": "Find by chance",
+    "bengali": "হঠাৎ দেখা পাওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 9,
+    "term": "Cut down",
+    "meaning": "Reduce",
+    "bengali": "ছাঁটাই করা বা কমানো",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 10,
+    "term": "Draw up",
+    "meaning": "Prepare a document",
+    "bengali": "বিলোপ সাধন করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 11,
+    "term": "Fall through",
+    "meaning": "Fail to happen",
+    "bengali": "অপ্রত্যাশিতভাবে বেড়াতে আসা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 12,
+    "term": "Get along",
+    "meaning": "Have a good relationship",
+    "bengali": "ঝগড়া বা বিবাদ করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 13,
+    "term": "Give in",
+    "meaning": "Surrender",
+    "bengali": "বোঝা বা সমাধান করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 14,
+    "term": "Give up",
+    "meaning": "Quit; stop trying",
+    "bengali": "কারও সাথে মিলেমিশে থাকা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 15,
+    "term": "Go through",
+    "meaning": "Examine; experience",
+    "bengali": "নতি স্বীকার করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 16,
+    "term": "Hold on",
+    "meaning": "Wait",
+    "bengali": "অপেক্ষা করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 17,
+    "term": "Keep up",
+    "meaning": "Maintain the pace",
+    "bengali": "তাল বজায় রাখা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 18,
+    "term": "Look after",
+    "meaning": "Take care of",
+    "bengali": "দেখাশোনা বা যত্ন নেওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 19,
+    "term": "Look down on",
+    "meaning": "Despise",
+    "bengali": "উদ্ধার করা বা বুঝতে পারা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 20,
+    "term": "Look into",
+    "meaning": "Investigate",
+    "bengali": "মারা যাওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 21,
+    "term": "Look up to",
+    "meaning": "Respect",
+    "bengali": "স্থগিত রাখা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 22,
+    "term": "Make out",
+    "meaning": "Understand or see with difficulty",
+    "bengali": "সহ্য করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 23,
+    "term": "Make up",
+    "meaning": "Invent; become friends again",
+    "bengali": "হঠাৎ মুখোমুখি হওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 24,
+    "term": "Pass away",
+    "meaning": "Die",
+    "bengali": "স্থাপন বা প্রতিষ্ঠা করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 25,
+    "term": "Point out",
+    "meaning": "Indicate",
+    "bengali": "পিতামাতার সদৃশ হওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 26,
+    "term": "Pull through",
+    "meaning": "Recover from illness or difficulty",
+    "bengali": "প্রত্যাখ্যান করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 27,
+    "term": "Put off",
+    "meaning": "Postpone",
+    "bengali": "সমাধান করা বা ব্যায়াম করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 28,
+    "term": "Put up with",
+    "meaning": "Tolerate",
+    "bengali": "অনুরোধ করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 29,
+    "term": "Run into",
+    "meaning": "Meet by chance",
+    "bengali": "ভেঙে প্রবেশ করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 30,
+    "term": "Run out of",
+    "meaning": "Use up the supply of",
+    "bengali": "ঘটে যাওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 31,
+    "term": "Set off",
+    "meaning": "Begin a journey",
+    "bengali": "অনুসন্ধান করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 32,
+    "term": "Set up",
+    "meaning": "Establish",
+    "bengali": "বিদায় জানানো",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 33,
+    "term": "Stand for",
+    "meaning": "Represent",
+    "bengali": "প্রকাশ করা / তৈরি করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 34,
+    "term": "Take after",
+    "meaning": "Resemble an elder family member",
+    "bengali": "শেষ হওয়া বা ফুরিয়ে যাওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 35,
+    "term": "Take off",
+    "meaning": "Leave the ground; remove",
+    "bengali": "আশ্রয় নেওয়া",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 36,
+    "term": "Take over",
+    "meaning": "Assume control",
+    "bengali": "চালু করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 37,
+    "term": "Turn down",
+    "meaning": "Reject",
+    "bengali": "বন্ধ করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 38,
+    "term": "Turn up",
+    "meaning": "Arrive or appear",
+    "bengali": "দায়িত্ব গ্রহণ করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 39,
+    "term": "Wipe out",
+    "meaning": "Destroy completely",
+    "bengali": "পালন পোষণ করা",
+    "category": "Phrasal Verb"
+  },
+  {
+    "num": 40,
+    "term": "Work out",
+    "meaning": "Solve; exercise",
+    "bengali": "ব্যায়াম করা / সফল সমাধান পাওয়া",
+    "category": "Phrasal Verb"
+  }
+]

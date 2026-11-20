@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cloze-01",
+    "title": "The Habit of Punctuality in Public Administration",
+    "bengaliSummary": "জনপ্রশাসনে সময়ানুবর্তিতার গুরুত্ব অপরিসীম। এটি কেবল ব্যক্তিগত শৃঙ্খলা তৈরি করে না, বরং নাগরিকদের বিশ্বাস ও প্রশাসনিক দক্ষতার মূল ভিত্তি গড়ে তোলে।",
+    "template": "Punctuality is not merely an ornamental virtue; in public administration, it serves as the [1] foundation of efficiency and trust. An administrator who values time invariably [2] respect from colleagues and citizens alike. When public servants arrive in their offices on time, pending files are cleared systematically, ensuring that citizens do not suffer unnecessary [3]. Conversely, habitual procrastination breeds corruption and public resentment. Therefore, fostering an uncompromising adherence [4] fixed working hours is essential to [5] confidence in democratic governance.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": ["fragile", "very", "superficial", "doubtful"],
+        "answer": 1,
+        "explanation": "'The very foundation' is an emphatic idiom denoting the actual or true basis of something.",
+        "rule": "Emphatic use of 'very' as an adjective modifying a noun",
+        "bengaliHint": "কোনো বিষয়ের আসল বা প্রকৃত ভিত্তি বোঝাতে 'the very foundation' বলা হয়।"
+      },
+      {
+        "index": 2,
+        "options": ["commands", "demands", "begs", "snatches"],
+        "answer": 0,
+        "explanation": "'Commands respect' is the standard, dignified collocation meaning to earn respect through merit and character.",
+        "rule": "Collocation: command respect",
+        "bengaliHint": "যোগ্যতা দ্বারা শ্রদ্ধা অর্জন করা বোঝাতে 'command respect' বসে।"
+      },
+      {
+        "index": 3,
+        "options": ["harassment", "joy", "promotion", "entertainment"],
+        "answer": 0,
+        "explanation": "If work is done on time, citizens do not suffer 'harassment' or undue hardship.",
+        "rule": "Contextual tone and logic",
+        "bengaliHint": "নাগরিকদের অযথা ভোগান্তি বা হেনস্থা না হওয়া বোঝাতে 'harassment' প্রযোজ্য।"
+      },
+      {
+        "index": 4,
+        "options": ["to", "with", "for", "against"],
+        "answer": 0,
+        "explanation": "The noun 'adherence' takes the preposition 'to' (adherence to rules/schedule).",
+        "rule": "Appropriate preposition: adherence to",
+        "bengaliHint": "'Adherence'-এর পর নির্ধারিত preposition 'to' বসে।"
+      },
+      {
+        "index": 5,
+        "options": ["restore", "ruin", "demolish", "weaken"],
+        "answer": 0,
+        "explanation": "The objective of punctual governance is to 'restore' (bring back/re-establish) public confidence.",
+        "rule": "Contextual verb precision",
+        "bengaliHint": "জনগণের আস্থা পুনঃপ্রতিষ্ঠা করা অর্থে 'restore' ব্যবহৃত হবে।"
+      }
+    ]
+  }
+]

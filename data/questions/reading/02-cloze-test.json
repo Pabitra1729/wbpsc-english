@@ -1,0 +1,812 @@
+[
+  {
+    "id": "r02-001",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank 1: 'Punctuality is a virtue that cultivates self-discipline and ___ respect from others.' Choose the most appropriate word:",
+    "options": [
+      "demands",
+      "commands",
+      "begs",
+      "pleads"
+    ],
+    "answer": 1,
+    "explanation": "In English idiom, one 'commands respect' through exemplary conduct, whereas 'demands' implies an arrogant, coercive demand.",
+    "rule": "Collocation with 'respect'",
+    "bengaliHint": "শ্রদ্ধা বা সম্মান অর্জন করার ক্ষেত্রে 'command respect' একটি প্রচলিত collocation।"
+  },
+  {
+    "id": "r02-002",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank 2: 'A person who values time is rarely caught ___ guard when emergencies arise.' Choose the correct preposition:",
+    "options": [
+      "off",
+      "under",
+      "above",
+      "without"
+    ],
+    "answer": 0,
+    "explanation": "The standard English idiom is 'caught off guard', meaning unprepared or taken by surprise.",
+    "rule": "Idiomatic collocation 'caught off guard'",
+    "bengaliHint": "অপ্রস্তুত অবস্থায় থাকা বোঝাতে 'caught off guard' প্রবাদটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": "r02-003",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank 3: 'In the modern corporate world, delay is considered not just an inconvenience ___ a sign of unreliability.' Choose the correct conjunction:",
+    "options": [
+      "and",
+      "but",
+      "so",
+      "or"
+    ],
+    "answer": 1,
+    "explanation": "Correlative structure: 'not just / not only... but (also)'.",
+    "rule": "Correlative conjunction pair",
+    "bengaliHint": "'Not just... but...' জোড় লক্ষ্য করুন।"
+  },
+  {
+    "id": "r02-004",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank 4: 'Therefore, cultivating the habit of timeliness is essential for anyone aspiring ___ professional success.' Choose the correct preposition:",
+    "options": [
+      "for",
+      "to",
+      "towards",
+      "after"
+    ],
+    "answer": 1,
+    "explanation": "The verb 'aspire' is traditionally followed by the preposition 'to' (e.g., aspire to success / greatness).",
+    "rule": "Appropriate preposition after 'aspire'",
+    "bengaliHint": "'Aspire'-এর পর সাধারণত 'to' preposition বসে।"
+  },
+  {
+    "id": "r02-005",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank 5: 'Those who master time management invariably find that stress is significantly ___.' Choose the most accurate participle:",
+    "options": [
+      "diminished",
+      "degraded",
+      "discontinued",
+      "deprived"
+    ],
+    "answer": 0,
+    "explanation": "'Diminished' properly denotes reduced in degree, size, or intensity. Stress is diminished, not degraded or deprived.",
+    "rule": "Contextual precision of vocabulary",
+    "bengaliHint": "মানসিক চাপ হ্রাস পাওয়া বোঝাতে 'diminished' শব্দটি সর্বাধিক উপযুক্ত।"
+  },
+  {
+    "id": "r02-006",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Clean drinking water is indispensable ___ sustaining human life in rural districts.' Choose the correct preposition:",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "against"
+    ],
+    "answer": 1,
+    "explanation": "'Indispensable for' (or 'indispensable to') denotes essential for a purpose.",
+    "rule": "Preposition with indispensable: indispensable for / to",
+    "bengaliHint": "'Indispensable'-র সাথে উদ্দেশ্য বোঝাতে 'for' বা 'to' বসে।"
+  },
+  {
+    "id": "r02-007",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Without equitable water management, agricultural communities will inevitably ___ severe economic hardship.' Choose the correct verb:",
+    "options": [
+      "encounter",
+      "inflict",
+      "evade",
+      "remedy"
+    ],
+    "answer": 0,
+    "explanation": "'Encounter' (or experience/face) appropriately collocates with facing hardship.",
+    "rule": "Contextual verb: encounter hardship",
+    "bengaliHint": "সংকটের সম্মুখীন হওয়া অর্থে 'encounter' বসে।"
+  },
+  {
+    "id": "r02-008",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Rapid industrialization must be balanced with ecological safeguards, ___ future generations will inherit a barren planet.' Choose the linking word:",
+    "options": [
+      "lest",
+      "otherwise",
+      "although",
+      "whereas"
+    ],
+    "answer": 1,
+    "explanation": "'Otherwise' expresses the negative consequence if the stated condition is not fulfilled.",
+    "rule": "Conditional connector: otherwise",
+    "bengaliHint": "'নতুবা' বা 'তা না হলে' বোঝাতে 'otherwise' বসে।"
+  },
+  {
+    "id": "r02-009",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Local self-governments must be empowered to ___ rainwater harvesting systems in every gram panchayat.' Choose the most appropriate verb:",
+    "options": [
+      "implement",
+      "neglect",
+      "prohibit",
+      "surrender"
+    ],
+    "answer": 0,
+    "explanation": "'Implement' means to put a decision, plan, or system into effect.",
+    "rule": "Collocation: implement a scheme / system",
+    "bengaliHint": "কোনো পরিকল্পনা বা ব্যবস্থা কার্যকর করা অর্থে 'implement' বসে।"
+  },
+  {
+    "id": "r02-010",
+    "chapter": "r02",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Only through collective public participation can environmental conservation become truly ___.' Choose the appropriate adjective:",
+    "options": [
+      "sustainable",
+      "temporary",
+      "hazardous",
+      "negligible"
+    ],
+    "answer": 0,
+    "explanation": "'Sustainable' describes an effort or system that can be maintained over the long term.",
+    "rule": "Contextual adjective: sustainable conservation",
+    "bengaliHint": "দীর্ঘমেয়াদী ও টেকসই সংরক্ষণ বোঝাতে 'sustainable' বসে।"
+  },
+  {
+    "id": "r02-011",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-012",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-013",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-014",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-015",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  },
+  {
+    "id": "r02-016",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-017",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-018",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-019",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-020",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  },
+  {
+    "id": "r02-021",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-022",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-023",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-024",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-025",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  },
+  {
+    "id": "r02-026",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-027",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-028",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-029",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-030",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  },
+  {
+    "id": "r02-031",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-032",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-033",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-034",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-035",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  },
+  {
+    "id": "r02-036",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-037",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-038",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-039",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-040",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  },
+  {
+    "id": "r02-041",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'The government has launched a campaign to ___ awareness regarding dengue prevention.' Choose the appropriate verb:",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "lift"
+    ],
+    "answer": 0,
+    "explanation": "Collocation: one 'raises awareness' (transitive verb with direct object 'awareness').",
+    "rule": "Collocation: raise awareness",
+    "bengaliHint": "সচেতনতা বৃদ্ধি করা বোঝাতে 'raise awareness' বসে।"
+  },
+  {
+    "id": "r02-042",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Stagnant water must not be allowed to ___ around residential localities.'",
+    "options": [
+      "accumulate",
+      "accelerate",
+      "accommodate",
+      "alleviate"
+    ],
+    "answer": 0,
+    "explanation": "'Accumulate' means to gather or collect in quantity over time.",
+    "rule": "Contextual vocabulary: accumulate",
+    "bengaliHint": "জল জমে থাকা বা জমা হওয়া অর্থে 'accumulate' বসে।"
+  },
+  {
+    "id": "r02-043",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Citizens are advised to cooperate ___ local health inspectors during surveys.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Cooperate' governs the preposition 'with' when referring to persons.",
+    "rule": "Fixed preposition: cooperate with",
+    "bengaliHint": "'Cooperate'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r02-044",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Negligence in sanitation can ___ disastrous consequences for the community.'",
+    "options": [
+      "lead to",
+      "result into",
+      "cause of",
+      "bring up"
+    ],
+    "answer": 0,
+    "explanation": "'Lead to' means to cause or culminate in a result.",
+    "rule": "Phrasal verb / idiom: lead to",
+    "bengaliHint": "কোনো পরিণতির দিকে পরিচালিত করা বোঝাতে 'lead to' বসে।"
+  },
+  {
+    "id": "r02-045",
+    "chapter": "r02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cloze Blank: 'Early diagnosis is ___ in preventing complications from tropical fevers.'",
+    "options": [
+      "crucial",
+      "optional",
+      "harmful",
+      "redundant"
+    ],
+    "answer": 0,
+    "explanation": "'Crucial' means extremely important, vital, or decisive in a medical context.",
+    "rule": "Contextual adjective: crucial",
+    "bengaliHint": "অত্যন্ত গুরুত্বপূর্ণ বা অপরিহার্য বোঝাতে 'crucial' বসে।"
+  }
+]

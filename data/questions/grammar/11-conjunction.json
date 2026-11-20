@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g11-001",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the conjunction: 'Rina and Mina came.'",
+    "options": [
+      "Rina",
+      "and",
+      "Mina",
+      "came"
+    ],
+    "answer": 1,
+    "explanation": "And joins Rina and Mina.",
+    "rule": "Coordinating conjunction",
+    "bengaliHint": "দুটি noun যোগ করছে."
+  },
+  {
+    "id": "g11-002",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: We stayed ___ it rained.",
+    "options": [
+      "because",
+      "although",
+      "but",
+      "and"
+    ],
+    "answer": 0,
+    "explanation": "Because introduces the reason.",
+    "rule": "Subordinating conjunction",
+    "bengaliHint": "কারণ বোঝাচ্ছে."
+  },
+  {
+    "id": "g11-003",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: ___ he called, I answered.",
+    "options": [
+      "Before",
+      "Despite",
+      "Of",
+      "At"
+    ],
+    "answer": 0,
+    "explanation": "Before introduces a time-dependent clause.",
+    "rule": "Subordinating conjunction",
+    "bengaliHint": "আগে কল না পেলেই?"
+  },
+  {
+    "id": "g11-004",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the balanced correlative pair.",
+    "options": [
+      "either...nor",
+      "neither...or",
+      "not only...but also",
+      "both...although"
+    ],
+    "answer": 2,
+    "explanation": "Not only is correctly paired with but also.",
+    "rule": "Correlative conjunction",
+    "bengaliHint": "জোড়া pair।"
+  },
+  {
+    "id": "g11-005",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: ___ tired, he finished the work.",
+    "options": [
+      "Although",
+      "Because",
+      "If",
+      "Since"
+    ],
+    "answer": 0,
+    "explanation": "Although introduces a contrast.",
+    "rule": "Contrast conjunction",
+    "bengaliHint": "থাকলেও—although."
+  },
+  {
+    "id": "g11-006",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He came but, saw me.",
+      "He came, but saw me.",
+      "He came but saw me.",
+      "He came but he saw."
+    ],
+    "answer": 2,
+    "explanation": "But joins two verbs or ideas; no unnecessary comma is needed here.",
+    "rule": "Coordinate linking",
+    "bengaliHint": "but দিয়ে দুটি কাজ যোগ."
+  },
+  {
+    "id": "g11-007",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct correlative conjunction pair: 'Neither the teacher ___ the students were present.'",
+    "options": [
+      "or",
+      "nor",
+      "and",
+      "but"
+    ],
+    "answer": 1,
+    "explanation": "'Neither' is strictly paired with 'nor' (Neither... nor).",
+    "rule": "Correlative pair: Neither... nor",
+    "bengaliHint": "'Neither'-এর সাথে 'nor' বসে।"
+  },
+  {
+    "id": "g11-008",
+    "chapter": "g11",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Find the error: (A) Walk carefully (B) lest you (C) should not stumble (D) No error",
+    "options": [
+      "Walk carefully",
+      "lest you",
+      "should not stumble",
+      "No error"
+    ],
+    "answer": 2,
+    "explanation": "'Lest' itself has a negative meaning ('for fear that'). It is paired with 'should', and 'not' must NEVER be used with lest.",
+    "rule": "'Lest' takes 'should' and never 'not'",
+    "bengaliHint": "'Lest'-এর সাথে 'not' বসে না কারণ এটি নিজেই নেতিবাচক।"
+  },
+  {
+    "id": "g11-009",
+    "chapter": "g11",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "No sooner had the train stopped ___ the crowd rushed forward.",
+    "options": [
+      "when",
+      "then",
+      "than",
+      "before"
+    ],
+    "answer": 2,
+    "explanation": "'No sooner' has comparative form 'sooner' and must always be paired with 'than'.",
+    "rule": "Correlative pair: No sooner... than",
+    "bengaliHint": "'No sooner'-এর সাথে সর্বদা 'than' বসে।"
+  },
+  {
+    "id": "g11-010",
+    "chapter": "g11",
+    "type": "correction",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'He not only lost his ticket but also his luggage.'",
+    "options": [
+      "He lost not only his ticket but also his luggage.",
+      "Not only he lost his ticket but also his luggage.",
+      "He lost his ticket not only but also his luggage.",
+      "He not only had lost his ticket but also his luggage."
+    ],
+    "answer": 0,
+    "explanation": "Parallel structure: 'not only' and 'but also' must be placed before parallel parts of speech (before noun phrases: 'not only his ticket but also his luggage').",
+    "rule": "Parallelism with 'not only... but also'",
+    "bengaliHint": "'Not only' ও 'but also' একই জাতীয় শব্দের পূর্বে বসবে।"
+  },
+  {
+    "id": "g11-011",
+    "chapter": "g11",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Although he is poor, ___ he is deeply respected for his integrity.",
+    "options": [
+      "but",
+      "yet",
+      "still",
+      "so"
+    ],
+    "answer": 1,
+    "explanation": "'Although / Even though' is paired with 'yet' or a comma, never with 'but'.",
+    "rule": "Correlative pair: Although... yet",
+    "bengaliHint": "'Although'-এর সাথে 'yet' বসে, 'but' বসে না।"
+  },
+  {
+    "id": "g11-012",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "You cannot succeed in the exam ___ you study systematically.",
+    "options": [
+      "if",
+      "unless",
+      "until",
+      "whether"
+    ],
+    "answer": 1,
+    "explanation": "'Unless' introduces a condition meaning 'if not'. 'Until' refers to time.",
+    "rule": "Unless (condition: if not) vs Until (time: up to)",
+    "bengaliHint": "শর্ত বোঝাতে 'unless' (যদি না) বসে; সময় বোঝাতে 'until' বসে।"
+  },
+  {
+    "id": "g11-013",
+    "chapter": "g11",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The reason why he failed the test was ___ he was ill.",
+    "options": [
+      "because",
+      "that",
+      "since",
+      "due to"
+    ],
+    "answer": 1,
+    "explanation": "'The reason why' is already an expression of cause; it must be followed by 'that', not 'because' (which would cause redundancy).",
+    "rule": "'The reason why' takes 'that', not 'because'",
+    "bengaliHint": "'The reason why'-এর পর 'because' নয়, 'that' বসে।"
+  },
+  {
+    "id": "g11-014",
+    "chapter": "g11",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: (A) Both Ravi as well as (B) his brother (C) were invited (D) No error",
+    "options": [
+      "Both Ravi as well as",
+      "his brother",
+      "were invited",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Both' is paired with 'and', never 'as well as'. It should be 'Both Ravi and his brother'.",
+    "rule": "Correlative pair: Both... and",
+    "bengaliHint": "'Both'-এর সাথে 'and' বসে, 'as well as' নয়।"
+  },
+  {
+    "id": "g11-015",
+    "chapter": "g11",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Wait here ___ I return from the post office.",
+    "options": [
+      "until",
+      "unless",
+      "lest",
+      "because"
+    ],
+    "answer": 0,
+    "explanation": "'Until' indicates a point in time up to which an action continues.",
+    "rule": "'Until' as conjunction of time",
+    "bengaliHint": "ফিরে আসার সময় পর্যন্ত অপেক্ষা বোঝাতে 'until' বসে।"
+  },
+  {
+    "id": "g11-016",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He had scarcely left the house ___ the thunderstorm erupted.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "before"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely had... when' is the correct correlative conjunction pair.",
+    "rule": "Correlative: Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g11-017",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "No sooner did the train arrive ___ the passengers rushed aboard.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "answer": 0,
+    "explanation": "'No sooner' has a comparative element and strictly pairs with 'than'.",
+    "rule": "Correlative: No sooner... than",
+    "bengaliHint": "'No sooner'-এর সাথে 'than' বসে।"
+  },
+  {
+    "id": "g11-018",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Take heed ___ you fall.",
+    "options": [
+      "lest",
+      "unless",
+      "until",
+      "otherwise"
+    ],
+    "answer": 0,
+    "explanation": "'Lest' means for fear that, followed by subjunctive or 'should'.",
+    "rule": "Conjunction 'lest'",
+    "bengaliHint": "পাছে কিছু ঘটে সেই ভয়ে বোঝাতে 'lest' বসে।"
+  },
+  {
+    "id": "g11-019",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Work hard ___ you should fail in the preliminary test.",
+    "options": [
+      "lest",
+      "unless",
+      "until",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'Lest' pairs with 'should' to indicate negative purpose.",
+    "rule": "Lest... should",
+    "bengaliHint": "'Should' থাকায় 'lest' বসবে।"
+  },
+  {
+    "id": "g11-020",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is both a scholar ___ a sportsman.",
+    "options": [
+      "and",
+      "as well as",
+      "or",
+      "also"
+    ],
+    "answer": 0,
+    "explanation": "'Both' is paired with 'and' (Both... and).",
+    "rule": "Correlative: Both... and",
+    "bengaliHint": "'Both'-এর সাথে 'and' বসে।"
+  },
+  {
+    "id": "g11-021",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He was not only fined ___ imprisoned.",
+    "options": [
+      "but also",
+      "and also",
+      "as well as",
+      "along with"
+    ],
+    "answer": 0,
+    "explanation": "'Not only' is paired with 'but also'.",
+    "rule": "Correlative: Not only... but also",
+    "bengaliHint": "'Not only'-র সাথে 'but also' বসে।"
+  },
+  {
+    "id": "g11-022",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Wait here ___ I return.",
+    "options": [
+      "until",
+      "unless",
+      "lest",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "'Until' denotes a point in time up to which.",
+    "rule": "Conjunction of time: until",
+    "bengaliHint": "ফিরে আসার সময় পর্যন্ত বোঝাতে 'until' বসে।"
+  },
+  {
+    "id": "g11-023",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You cannot enter the hall ___ you show your admit card.",
+    "options": [
+      "unless",
+      "until",
+      "lest",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' introduces a condition (if not).",
+    "rule": "Conjunction of condition: unless",
+    "bengaliHint": "শর্ত বোঝাতে 'unless' বসে।"
+  },
+  {
+    "id": "g11-024",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Although he is rich, ___ he is humble.",
+    "options": [
+      "yet",
+      "but",
+      "so",
+      "and"
+    ],
+    "answer": 0,
+    "explanation": "'Although' pairs with 'yet' or a comma, never with 'but'.",
+    "rule": "Correlative: Although... yet",
+    "bengaliHint": "'Although'-এর সাথে 'yet' বসে।"
+  },
+  {
+    "id": "g11-025",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I doubt ___ he will pass the physical efficiency test.",
+    "options": [
+      "whether",
+      "that",
+      "as",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "Affirmative sentences expressing doubt take 'whether' or 'if', not 'that'.",
+    "rule": "Doubt takes whether/if in affirmative",
+    "bengaliHint": "সন্দেহ প্রকাশে 'whether' বসে।"
+  },
+  {
+    "id": "g11-026",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He had scarcely left the house ___ the thunderstorm erupted.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "before"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely had... when' is the correct correlative conjunction pair.",
+    "rule": "Correlative: Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g11-027",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "No sooner did the train arrive ___ the passengers rushed aboard.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "answer": 0,
+    "explanation": "'No sooner' has a comparative element and strictly pairs with 'than'.",
+    "rule": "Correlative: No sooner... than",
+    "bengaliHint": "'No sooner'-এর সাথে 'than' বসে।"
+  },
+  {
+    "id": "g11-028",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Take heed ___ you fall.",
+    "options": [
+      "lest",
+      "unless",
+      "until",
+      "otherwise"
+    ],
+    "answer": 0,
+    "explanation": "'Lest' means for fear that, followed by subjunctive or 'should'.",
+    "rule": "Conjunction 'lest'",
+    "bengaliHint": "পাছে কিছু ঘটে সেই ভয়ে বোঝাতে 'lest' বসে।"
+  },
+  {
+    "id": "g11-029",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Work hard ___ you should fail in the preliminary test.",
+    "options": [
+      "lest",
+      "unless",
+      "until",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'Lest' pairs with 'should' to indicate negative purpose.",
+    "rule": "Lest... should",
+    "bengaliHint": "'Should' থাকায় 'lest' বসবে।"
+  },
+  {
+    "id": "g11-030",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is both a scholar ___ a sportsman.",
+    "options": [
+      "and",
+      "as well as",
+      "or",
+      "also"
+    ],
+    "answer": 0,
+    "explanation": "'Both' is paired with 'and' (Both... and).",
+    "rule": "Correlative: Both... and",
+    "bengaliHint": "'Both'-এর সাথে 'and' বসে।"
+  },
+  {
+    "id": "g11-031",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He was not only fined ___ imprisoned.",
+    "options": [
+      "but also",
+      "and also",
+      "as well as",
+      "along with"
+    ],
+    "answer": 0,
+    "explanation": "'Not only' is paired with 'but also'.",
+    "rule": "Correlative: Not only... but also",
+    "bengaliHint": "'Not only'-র সাথে 'but also' বসে।"
+  },
+  {
+    "id": "g11-032",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Wait here ___ I return.",
+    "options": [
+      "until",
+      "unless",
+      "lest",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "'Until' denotes a point in time up to which.",
+    "rule": "Conjunction of time: until",
+    "bengaliHint": "ফিরে আসার সময় পর্যন্ত বোঝাতে 'until' বসে।"
+  },
+  {
+    "id": "g11-033",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You cannot enter the hall ___ you show your admit card.",
+    "options": [
+      "unless",
+      "until",
+      "lest",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' introduces a condition (if not).",
+    "rule": "Conjunction of condition: unless",
+    "bengaliHint": "শর্ত বোঝাতে 'unless' বসে।"
+  },
+  {
+    "id": "g11-034",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Although he is rich, ___ he is humble.",
+    "options": [
+      "yet",
+      "but",
+      "so",
+      "and"
+    ],
+    "answer": 0,
+    "explanation": "'Although' pairs with 'yet' or a comma, never with 'but'.",
+    "rule": "Correlative: Although... yet",
+    "bengaliHint": "'Although'-এর সাথে 'yet' বসে।"
+  },
+  {
+    "id": "g11-035",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I doubt ___ he will pass the physical efficiency test.",
+    "options": [
+      "whether",
+      "that",
+      "as",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "Affirmative sentences expressing doubt take 'whether' or 'if', not 'that'.",
+    "rule": "Doubt takes whether/if in affirmative",
+    "bengaliHint": "সন্দেহ প্রকাশে 'whether' বসে।"
+  },
+  {
+    "id": "g11-036",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He had scarcely left the house ___ the thunderstorm erupted.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "before"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely had... when' is the correct correlative conjunction pair.",
+    "rule": "Correlative: Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g11-037",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "No sooner did the train arrive ___ the passengers rushed aboard.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "answer": 0,
+    "explanation": "'No sooner' has a comparative element and strictly pairs with 'than'.",
+    "rule": "Correlative: No sooner... than",
+    "bengaliHint": "'No sooner'-এর সাথে 'than' বসে।"
+  },
+  {
+    "id": "g11-038",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Take heed ___ you fall.",
+    "options": [
+      "lest",
+      "unless",
+      "until",
+      "otherwise"
+    ],
+    "answer": 0,
+    "explanation": "'Lest' means for fear that, followed by subjunctive or 'should'.",
+    "rule": "Conjunction 'lest'",
+    "bengaliHint": "পাছে কিছু ঘটে সেই ভয়ে বোঝাতে 'lest' বসে।"
+  },
+  {
+    "id": "g11-039",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Work hard ___ you should fail in the preliminary test.",
+    "options": [
+      "lest",
+      "unless",
+      "until",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'Lest' pairs with 'should' to indicate negative purpose.",
+    "rule": "Lest... should",
+    "bengaliHint": "'Should' থাকায় 'lest' বসবে।"
+  },
+  {
+    "id": "g11-040",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is both a scholar ___ a sportsman.",
+    "options": [
+      "and",
+      "as well as",
+      "or",
+      "also"
+    ],
+    "answer": 0,
+    "explanation": "'Both' is paired with 'and' (Both... and).",
+    "rule": "Correlative: Both... and",
+    "bengaliHint": "'Both'-এর সাথে 'and' বসে।"
+  },
+  {
+    "id": "g11-041",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He was not only fined ___ imprisoned.",
+    "options": [
+      "but also",
+      "and also",
+      "as well as",
+      "along with"
+    ],
+    "answer": 0,
+    "explanation": "'Not only' is paired with 'but also'.",
+    "rule": "Correlative: Not only... but also",
+    "bengaliHint": "'Not only'-র সাথে 'but also' বসে।"
+  },
+  {
+    "id": "g11-042",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Wait here ___ I return.",
+    "options": [
+      "until",
+      "unless",
+      "lest",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "'Until' denotes a point in time up to which.",
+    "rule": "Conjunction of time: until",
+    "bengaliHint": "ফিরে আসার সময় পর্যন্ত বোঝাতে 'until' বসে।"
+  },
+  {
+    "id": "g11-043",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "You cannot enter the hall ___ you show your admit card.",
+    "options": [
+      "unless",
+      "until",
+      "lest",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' introduces a condition (if not).",
+    "rule": "Conjunction of condition: unless",
+    "bengaliHint": "শর্ত বোঝাতে 'unless' বসে।"
+  },
+  {
+    "id": "g11-044",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Although he is rich, ___ he is humble.",
+    "options": [
+      "yet",
+      "but",
+      "so",
+      "and"
+    ],
+    "answer": 0,
+    "explanation": "'Although' pairs with 'yet' or a comma, never with 'but'.",
+    "rule": "Correlative: Although... yet",
+    "bengaliHint": "'Although'-এর সাথে 'yet' বসে।"
+  },
+  {
+    "id": "g11-045",
+    "chapter": "g11",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "I doubt ___ he will pass the physical efficiency test.",
+    "options": [
+      "whether",
+      "that",
+      "as",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "Affirmative sentences expressing doubt take 'whether' or 'if', not 'that'.",
+    "rule": "Doubt takes whether/if in affirmative",
+    "bengaliHint": "সন্দেহ প্রকাশে 'whether' বসে।"
+  }
+]

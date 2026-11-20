@@ -1,0 +1,100 @@
+{
+  "id": "g08",
+  "title": "Verbs, Causatives & Inversion",
+  "intro": "Verbs represent the operational engine of every clause, expressing action, state, or occurrence. In the WBPSC Clerkship examination, questions demand mastery over confusing verb pairs (Lie/Lay, Rise/Raise), causative verb constructions (make, let, have, get), negative inversion structures, and stative verbs that forbid continuous aspect.",
+  "bengali": "Verb হলো বাক্যের প্রাণ, যা কোনো কাজ করা, হওয়া বা থাকা নির্দেশ করে।\n\nWBPSC Clerkship পরীক্ষায় Verb অধ্যায়ের সবচেয়ে গুরুত্বপূর্ণ অংশগুলো:\n১. বিভ্রান্তিকর Verb জোড়া (Confusing Verb Pairs):\n   - Lie (বিশ্রাম নেওয়া/শুয়ে থাকা - Intransitive): Lie -> Lay -> Lain (V-ing: lying)। যেমন: 'He lay down under the shade.'\n   - Lay (কোনো কিছু রাখা/ডিম পাড়া - Transitive, Object লাগে): Lay -> Laid -> Laid (V-ing: laying)। যেমন: 'The hen laid an egg.'\n   - Rise (ওঠা - Intransitive): Rise -> Rose -> Risen। যেমন: 'The sun rose.'\n   - Raise (উত্তোলন করা/বাড়ানো - Transitive): Raise -> Raised -> Raised। যেমন: 'Raise your hand.'\n২. Causative Verbs (প্রযোজক ক্রিয়া): কাউকে দিয়ে কোনো কাজ করানো বোঝাতে Make, Let, Have, Get ব্যবহৃত হয়।\n   - Make / Let + Person + Bare Infinitive (V1, no 'to'): 'The teacher made the boy stand' (NOT: to stand).\n   - Get + Person + to + V1: 'He got his brother to write the letter.'\n   - Have / Get + Object (বস্তু) + Past Participle (V3): 'I had my watch repaired' (NOT: repair).\n৩. Negative Inversion (বাক্যের জোর দেওয়া): বাক্য যদি 'Hardly', 'Scarcely', 'No sooner', 'Seldom', 'Never' দিয়ে শুরু হয়, তবে Subject-এর আগে Auxiliary Verb বসে। যেমন: 'Hardly had he arrived when the bell rang' (NOT: Hardly he had arrived).",
+  "rules": [
+    {
+      "rule": "Distinction between 'LIE' (recline, intransitive) and 'LAY' (place something, transitive requiring an object):",
+      "examples": [
+        "Lie (recline): Base = Lie; Past = Lay; Past Participle = Lain; Present Participle = Lying.",
+        "Lay (place down): Base = Lay; Past = Laid; Past Participle = Laid; Present Participle = Laying.",
+        "Correct: He lay down on the sofa to rest (Past of Lie).",
+        "Correct: Please lay the documents on the table (Present of Lay + Object 'documents')."
+      ],
+      "exceptions": [
+        "'Lie' meaning to tell an untruth follows a regular conjugation: Lie -> Lied -> Lied."
+      ]
+    },
+    {
+      "rule": "Distinction between 'RISE' (ascend, intransitive) and 'RAISE' (lift up, transitive requiring an object):",
+      "examples": [
+        "Rise (no object): Rise -> Rose -> Risen. 'The sun rises in the east.'",
+        "Raise (takes object): Raise -> Raised -> Raised. 'The candidate raised an objection during the interview.'"
+      ],
+      "exceptions": [
+        "Prices 'rise' (intransitive), but shopkeepers 'raise' prices (transitive)."
+      ]
+    },
+    {
+      "rule": "Causative Verbs with Active Agents: 'MAKE' and 'LET' are followed by a BARE INFINITIVE (V1 without 'to').",
+      "examples": [
+        "The police made the suspect confess his crime (NOT: to confess).",
+        "Let the candidate enter the examination hall (NOT: to enter).",
+        "The strict officer made the staff work overtime."
+      ],
+      "exceptions": [
+        "When 'Make' is converted into the PASSIVE VOICE, 'to' is restored: 'The suspect was made to confess his crime'."
+      ]
+    },
+    {
+      "rule": "Causative Verbs with Passive Objects: 'HAVE' and 'GET' followed by a thing/service take the PAST PARTICIPLE (V3).",
+      "examples": [
+        "I had my car serviced yesterday (NOT: service).",
+        "She got her hair trimmed at the salon.",
+        "We must get the voter list updated before the election."
+      ],
+      "exceptions": [
+        "With an active person agent, 'Get' takes 'to + V1': 'I got the mechanic to fix my car'."
+      ]
+    },
+    {
+      "rule": "Negative Adverbial Inversion: Sentences beginning with negative or restrictive adverbs (Hardly, Scarcely, Seldom, Rarely, Never, No sooner) require INVERSION (Auxiliary Verb before Subject).",
+      "examples": [
+        "Hardly had I stepped outside when the rain began (NOT: Hardly I had stepped).",
+        "No sooner did the bell ring than the students left the classroom.",
+        "Seldom have I seen such dedication in a junior clerk."
+      ],
+      "exceptions": [
+        "If the negative adverb appears in its normal mid-sentence position, no inversion occurs: 'I have seldom seen such dedication'."
+      ]
+    },
+    {
+      "rule": "Stative Verbs expressing mental states, emotions, senses, or possession NEVER take continuous (-ing) forms in standard exam grammar.",
+      "examples": [
+        "I understand your administrative difficulty (NOT: I am understanding).",
+        "The museum contains rare manuscripts (NOT: is containing).",
+        "He resembles his maternal uncle (NOT: is resembling)."
+      ],
+      "exceptions": [
+        "When dynamic physical actions are intended, continuous is allowed: 'The doctor is feeling the patient's pulse'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'He laid in bed for three hours' instead of 'He lay in bed for three hours' (Past of recline is 'lay').",
+    "Writing 'The teacher made him to apologize' instead of 'The teacher made him apologize' (make takes bare infinitive).",
+    "Writing 'Hardly he had arrived when the phone rang' instead of 'Hardly had he arrived' (inversion required).",
+    "Writing 'I got my house paint' instead of 'I got my house painted' (causative takes V3 for completed service).",
+    "Saying 'The river has overflown its banks' instead of 'overflowed' (Fly -> Flown; Overflow -> Overflowed)."
+  ],
+  "examTricks": [
+    "The 'Lie / Lay' Table: Reclining = Lie -> Lay -> Lain; Placing = Lay -> Laid -> Laid.",
+    "The 'Make' Active vs Passive: Active = Make + V1 (no 'to'). Passive = Was made + TO + V1.",
+    "The 'Hardly / Scarcely' Pair: Always paired with WHEN (Hardly had + Subject + V3... when).",
+    "The 'No Sooner' Pair: Always paired with THAN (No sooner did/had... than)."
+  ],
+  "memoryTricks": [
+    "Hens LAY eggs (Laid); People LIE down (Lay).",
+    "NO SOONER loves THAN; HARDLY loves WHEN."
+  ],
+  "revision": [
+    "Lie -> Lay -> Lain (recline); Lay -> Laid -> Laid (place object).",
+    "Rise -> Rose -> Risen (intransitive); Raise -> Raised -> Raised (transitive).",
+    "Make + Person + V1 (Bare infinitive without to).",
+    "Have/Get + Object + V3 (Causative past participle).",
+    "Hardly/Scarcely + had + Subject + V3 ... WHEN.",
+    "No sooner + did/had + Subject ... THAN.",
+    "Stative verbs: Understand, believe, belong, resemble (no continuous form)."
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "g03",
+  "title": "Subject–Verb Agreement",
+  "intro": "Subject–verb agreement requires that a finite verb agree with its real grammatical subject in number (singular/plural) and person (1st/2nd/3rd). The key to WBPSC questions is ignoring intervening prepositional modifiers and identifying the true grammatical head.",
+  "bengali": "Subject এবং Verb-এর মধ্যে বচন (Number) ও পুরুষ (Person)-এর সামঞ্জস্য বজায় রাখাই হলো Subject-Verb Agreement। বাক্যের আসল Subject-কে চেনা জরুরি, কারণ Subject ও Verb-এর মাঝের অতিরিক্ত শব্দগুচ্ছ (prepositional phrase) কখনোই Verb-কে প্রভাবিত করে না।\n\nWBPSC পরীক্ষায় সবচেয়ে বেশি আসা নিয়মসমূহ:\n১. Proximity Trap: Subject ও Verb-এর মাঝে 'of', 'in', 'with' ইত্যাদি থাকলে শেষ শব্দটি দেখে Verb ঠিক করবেন না। যেমন: 'The quality of these mangoes is good' (এখানে Subject হলো 'quality', তাই 'is' হবে; 'mangoes'-এর জন্য 'are' হবে না)।\n২. 'As well as', 'along with', 'together with': দুটি Subject যুক্ত হলে Verb সর্বদা প্রথম Subject অনুযায়ী হয়। যেমন: 'The teacher, as well as the students, was present.'\n৩. 'Either...or', 'Neither...nor': এক্ষেত্রে Verb সর্বদা নিকটবর্তী Subject (দ্বিতীয় Subject) অনুযায়ী হয়।\n৪. 'Each', 'Every', 'Neither of', 'Either of': এগুলির পরে Noun প্লুরাল হলেও Verb সর্বদা SINGULAR হয়। যেমন: 'Neither of the boys was present.'\n৫. 'A number of' (Plural verb) বনাম 'The number of' (Singular verb)।",
+  "rules": [
+    {
+      "rule": "Intervening prepositional phrases do not affect the verb: The head subject alone controls the verb number.",
+      "examples": [
+        "The quality of these apples is exceptional (Subject = 'quality', singular).",
+        "A bouquet of red roses was presented to the chief guest.",
+        "The causes of this widespread disease are being investigated."
+      ],
+      "exceptions": [
+        "Fractions, percentages, and expressions of quantity ('most of', 'some of', 'half of') take singular verbs with uncountable nouns and plural verbs with countable plural nouns."
+      ]
+    },
+    {
+      "rule": "When two subjects are joined by 'as well as', 'along with', 'together with', 'in addition to', 'accompanied by', 'like', 'unlike', the verb agrees strictly with the FIRST SUBJECT.",
+      "examples": [
+        "The captain, along with his crew members, was awarded medals.",
+        "The players, as well as the head coach, were felicitated by the governor.",
+        "I, like my brother, am interested in civil services."
+      ],
+      "exceptions": [
+        "Never look at the second subject near the verb when these connectors are present."
+      ]
+    },
+    {
+      "rule": "When subjects are joined by 'either...or', 'neither...nor', or 'not only...but also', the verb agrees with the NEAREST subject (proximity rule).",
+      "examples": [
+        "Neither the principal nor the teachers were present in the staff room.",
+        "Neither the teachers nor the principal was present in the staff room.",
+        "Not only the clerk but also the officers have agreed to the revised terms."
+      ],
+      "exceptions": [
+        "In interrogative questions, the verb agrees with the subject immediately following it: 'Was neither the manager nor his assistants informed?'"
+      ]
+    },
+    {
+      "rule": "'Each', 'Every', 'Everyone', 'Somebody', 'Nobody', 'Either of', 'Neither of' take a strictly SINGULAR verb.",
+      "examples": [
+        "Each of the candidates has submitted his certificate.",
+        "Neither of the two roads leads to the railway station.",
+        "Everyone in the auditorium was astonished by the presentation."
+      ],
+      "exceptions": [
+        "When 'each' appears directly AFTER a plural subject, it takes a plural verb: 'The boys each have a distinct duty'."
+      ]
+    },
+    {
+      "rule": "'A number of + plural noun' takes a PLURAL verb; 'The number of + plural noun' takes a SINGULAR verb.",
+      "examples": [
+        "A number of applicants have appeared for the screening test (denotes 'many').",
+        "The number of candidates appearing is twenty-five thousand (denotes a single statistical figure)."
+      ],
+      "exceptions": [
+        "'A number' = Many (Plural verb); 'The number' = A fixed count (Singular verb)."
+      ]
+    },
+    {
+      "rule": "'More than one + singular noun' takes a SINGULAR verb; 'More than two/three' or 'More + plural noun + than one' takes a PLURAL verb.",
+      "examples": [
+        "More than one employee was dismissed for misconduct.",
+        "More employees than one were dismissed for misconduct.",
+        "More than two persons were eyewitnesses to the accident."
+      ],
+      "exceptions": [
+        "Pay close attention to noun word order: 'More than one candidate was' vs 'More candidates than one were'."
+      ]
+    },
+    {
+      "rule": "'Many a + singular noun' takes a SINGULAR verb and singular possessive pronoun; 'A great many + plural noun' takes a PLURAL verb.",
+      "examples": [
+        "Many a soldier has laid down his life for the nation.",
+        "A great many tourists have visited Darjeeling this season."
+      ],
+      "exceptions": [
+        "Do not be confused by the word 'Many' in 'Many a'—the noun following 'a' is singular, so the verb must be singular."
+      ]
+    },
+    {
+      "rule": "Nouns denoting fixed sums of money, periods of time, weights, or distances regarded as a single unified unit take a SINGULAR verb.",
+      "examples": [
+        "Ten miles is a substantial distance to walk on foot.",
+        "Fifty thousand rupees is the total admission fee.",
+        "Five years is a sufficient tenure for executing this urban project."
+      ],
+      "exceptions": [
+        "When the amount or units are distributed, spent individually, or divided among entities, use a plural verb: 'Fifty thousand rupees were distributed among the victims'."
+      ]
+    },
+    {
+      "rule": "Collective nouns (committee, jury, team, council, family, crew) take a SINGULAR verb when acting as a unit, but a PLURAL verb when members act individually or disagree.",
+      "examples": [
+        "The jury has delivered its unanimous verdict (acting as one unit).",
+        "The jury are divided in their opinions (members in disagreement).",
+        "The committee has approved the budgetary proposal."
+      ],
+      "exceptions": [
+        "In WBPSC, check pronouns: 'its' signals singular verb, while 'their' signals plural verb."
+      ]
+    },
+    {
+      "rule": "Nouns that are plural in form but singular in meaning (Mathematics, Physics, Politics, News, Innings, Measles, Rickets) take a SINGULAR verb.",
+      "examples": [
+        "Mathematics is an engaging subject for analytical minds.",
+        "The news from the border was reassuring.",
+        "Politics is his chosen sphere of public activity."
+      ],
+      "exceptions": [
+        "When preceded by a possessive pronoun or 'the' denoting practical abilities or views, words like 'mathematics' or 'politics' take plural verbs: 'His mathematics are weak'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Neither of the two books are useful' instead of 'Neither of the two books is useful' (Neither takes singular verb).",
+    "Writing 'The teacher as well as the students were felicitated' instead of 'The teacher as well as the students was felicitated' (as well as agrees with Subject 1).",
+    "Using a plural verb after 'The quality of the products are...' instead of 'The quality... is...' (head noun controls verb).",
+    "Writing 'A number of students was absent' instead of 'A number of students were absent' (A number takes plural).",
+    "Writing 'Many a men have failed' instead of 'Many a man has failed' (Many a takes singular noun and singular verb)."
+  ],
+  "examTricks": [
+    "The Preposition Filter: Cross out everything between 'of' and the verb to find the real subject.",
+    "'As well as / Along with' Formula: Verb = Subject 1.",
+    "'Either..or / Neither..nor' Formula: Verb = Subject 2 (Nearest).",
+    "'A number of' = PLURAL; 'The number of' = SINGULAR."
+  ],
+  "memoryTricks": [
+    "FIRST for As-well-as; NEAREST for Neither-nor.",
+    "A number are MANY; THE number is ONE."
+  ],
+  "revision": [
+    "Head subject controls the verb; ignore 'of + noun'.",
+    "As well as / along with / together with -> agrees with Subject 1.",
+    "Either...or / neither...nor -> agrees with nearest subject.",
+    "Each, every, everyone, neither of, either of -> Singular verb.",
+    "A number of + plural verb; The number of + singular verb.",
+    "Many a + singular noun + singular verb.",
+    "Ten miles is (distance as a unit); Fifty thousand rupees is (sum as a unit).",
+    "Mathematics, News, Innings -> Singular verb."
+  ]
+}

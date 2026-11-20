@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g07-001",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the personal pronoun.",
+    "options": [
+      "mine",
+      "she",
+      "those",
+      "any"
+    ],
+    "answer": 1,
+    "explanation": "She is a personal subject pronoun.",
+    "rule": "Personal pronoun",
+    "bengaliHint": "Subject pronoun."
+  },
+  {
+    "id": "g07-002",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: I saw ___ yesterday.",
+    "options": [
+      "her",
+      "she",
+      "hers",
+      "herself"
+    ],
+    "answer": 0,
+    "explanation": "Her is the object pronoun after saw.",
+    "rule": "Object pronoun",
+    "bengaliHint": "verb-এর object।"
+  },
+  {
+    "id": "g07-003",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: The bag is ___.",
+    "options": [
+      "my",
+      "mine",
+      "me",
+      "I"
+    ],
+    "answer": 1,
+    "explanation": "Mine stands alone as a possessive pronoun.",
+    "rule": "Possessive pronoun",
+    "bengaliHint": "Noun-এর আগে নয়।"
+  },
+  {
+    "id": "g07-004",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the reflexive pronoun.",
+    "options": [
+      "him",
+      "his",
+      "himself",
+      "he"
+    ],
+    "answer": 2,
+    "explanation": "Himself refers back to a male subject.",
+    "rule": "Reflexive pronoun",
+    "bengaliHint": "Subject-কে ফেরত নির্দেশ।"
+  },
+  {
+    "id": "g07-005",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: The boy ___ won is missing.",
+    "options": [
+      "which",
+      "who",
+      "where",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "Who introduces a clause referring to a person.",
+    "rule": "Relative pronoun",
+    "bengaliHint": "Person-এর আগে who."
+  },
+  {
+    "id": "g07-006",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which sentence is correct?",
+    "options": [
+      "Me and Rina left.",
+      "Rina and me left.",
+      "Rina and I left.",
+      "Him and I left."
+    ],
+    "answer": 2,
+    "explanation": "I is the subject pronoun in a compound subject.",
+    "rule": "Subject pronoun",
+    "bengaliHint": "বাক্যের subject হিসেবে I."
+  },
+  {
+    "id": "g07-007",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Arrange the pronouns correctly for a positive statement: (A) I, you and he (B) You, he and I (C) He, you and I (D) You, I and he",
+    "options": [
+      "I, you and he were invited.",
+      "You, he and I were invited.",
+      "He, you and I were invited.",
+      "You, I and he were invited."
+    ],
+    "answer": 1,
+    "explanation": "For polite or normal statements, personal pronouns follow the 2nd -> 3rd -> 1st person order (231 rule).",
+    "rule": "Pronoun etiquette: 2-3-1 for normal sentences",
+    "bengaliHint": "সাধারণ বাক্যে 2nd -> 3rd -> 1st person (You, he and I) বসে।"
+  },
+  {
+    "id": "g07-008",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Arrange the pronouns correctly when confessing a fault or mistake: (A) You, he and I (B) I, you and he (C) He, you and I (D) You, I and he",
+    "options": [
+      "You, he and I are to blame.",
+      "I, you and he are to blame.",
+      "He, you and I are to blame.",
+      "You, I and he are to blame."
+    ],
+    "answer": 1,
+    "explanation": "When admitting guilt, blame, or a negative circumstance, the sequence shifts to 1st -> 2nd -> 3rd person (123 rule).",
+    "rule": "Pronoun etiquette: 1-2-3 for guilt or confession",
+    "bengaliHint": "দোষ স্বীকারের ক্ষেত্রে 1st -> 2nd -> 3rd person (I, you and he) বসে।"
+  },
+  {
+    "id": "g07-009",
+    "chapter": "g07",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Between you and ___, the headmaster made the final decision.",
+    "options": [
+      "I",
+      "me",
+      "he",
+      "we"
+    ],
+    "answer": 1,
+    "explanation": "Prepositions ('between') are strictly followed by objective case pronouns ('me').",
+    "rule": "Preposition governs objective case pronoun",
+    "bengaliHint": "Preposition 'between'-এর পর objective form 'me' বসে।"
+  },
+  {
+    "id": "g07-010",
+    "chapter": "g07",
+    "type": "correction",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'One must do his duty diligently.'",
+    "options": [
+      "One must do his duty diligently.",
+      "One must do one's duty diligently.",
+      "One must do their duty diligently.",
+      "One must do its duty diligently."
+    ],
+    "answer": 1,
+    "explanation": "The indefinite pronoun 'one' must be followed by 'one's' throughout the sentence, never 'his' or 'their'.",
+    "rule": "'One' is followed by 'one's'",
+    "bengaliHint": "'One' দিয়ে শুরু হওয়া বাক্যে pronoun হিসেবে 'one's' বসে।"
+  },
+  {
+    "id": "g07-011",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Each of the two brothers helped ___ in times of distress.",
+    "options": [
+      "one another",
+      "each other",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 1,
+    "explanation": "'Each other' is used for exactly two persons, whereas 'one another' is used for more than two.",
+    "rule": "Reciprocal pronouns: Each other (2) vs One another (>2)",
+    "bengaliHint": "দুজনের ক্ষেত্রে 'each other' এবং দুয়ের বেশির ক্ষেত্রে 'one another' বসে।"
+  },
+  {
+    "id": "g07-012",
+    "chapter": "g07",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is the only man ___ can solve this complex algebraic puzzle.",
+    "options": [
+      "who",
+      "which",
+      "that",
+      "whom"
+    ],
+    "answer": 2,
+    "explanation": "After 'the only', 'the same', 'all', and superlative adjectives, the relative pronoun 'that' is preferred.",
+    "rule": "Relative pronoun 'that' after 'the only'",
+    "bengaliHint": "'The only' থাকলে relative pronoun হিসেবে 'that' বসে।"
+  },
+  {
+    "id": "g07-013",
+    "chapter": "g07",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: (A) Let you and I (B) solve this dispute (C) without outside help (D) No error",
+    "options": [
+      "Let you and I",
+      "solve this dispute",
+      "without outside help",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Let' takes an objective case pronoun. It should be 'Let you and me solve this dispute'.",
+    "rule": "'Let' is followed by objective pronouns",
+    "bengaliHint": "'Let'-এর পর 'I' নয়, 'me' হবে।"
+  },
+  {
+    "id": "g07-014",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'She hurt herself while cutting vegetables', 'herself' functions as a:",
+    "options": [
+      "Relative pronoun",
+      "Reflexive pronoun",
+      "Emphatic pronoun",
+      "Demonstrative pronoun"
+    ],
+    "answer": 1,
+    "explanation": "When the action of the verb turns back upon the subject itself, the pronoun is reflexive.",
+    "rule": "Reflexive pronoun indicates action reflecting on subject",
+    "bengaliHint": "কর্তার কাজ নিজের ওপরেই ফিরে এলে তা Reflexive Pronoun।"
+  },
+  {
+    "id": "g07-015",
+    "chapter": "g07",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "It was ___ who knocked on the door late last night.",
+    "options": [
+      "him",
+      "he",
+      "his",
+      "himself"
+    ],
+    "answer": 1,
+    "explanation": "A pronoun following a linking verb (is, was, were) takes the subjective/nominative case ('he').",
+    "rule": "Subject complement after verb to be takes subjective case",
+    "bengaliHint": "'It was'-এর পর nominative case (he) বসে।"
+  },
+  {
+    "id": "g07-016",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is a student ___ everyone expects will top the list.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "'Who' functions as the subject of the clause 'will top the list' (everyone expects is parenthetical).",
+    "rule": "Relative pronoun subject: who",
+    "bengaliHint": "ক্লজের subject হিসেবে 'who' বসে।"
+  },
+  {
+    "id": "g07-017",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "This is the boy ___ the headmaster punished.",
+    "options": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "'Whom' functions as the object of the transitive verb 'punished'.",
+    "rule": "Relative pronoun object: whom",
+    "bengaliHint": "Verb-এর object হিসেবে 'whom' বসে।"
+  },
+  {
+    "id": "g07-018",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Nobody should boast of ___ own success.",
+    "options": [
+      "one's",
+      "his",
+      "their",
+      "her"
+    ],
+    "answer": 1,
+    "explanation": "'Nobody' is masculine singular in formal standard grammar and takes 'his'.",
+    "rule": "Indefinite pronoun agreement: nobody -> his",
+    "bengaliHint": "'Nobody'-র ক্ষেত্রে pronoun হিসেবে 'his' বসে।"
+  },
+  {
+    "id": "g07-019",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "You and ___ are invited to the dinner.",
+    "options": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
+    "answer": 0,
+    "explanation": "The pronoun is part of the compound subject, requiring the subjective case 'I'.",
+    "rule": "Subject pronoun case: You and I",
+    "bengaliHint": "Subject হিসেবে 'I' বসে।"
+  },
+  {
+    "id": "g07-020",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He availed ___ of the opportunity.",
+    "options": [
+      "himself",
+      "him",
+      "his",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'Avail' takes a reflexive pronoun followed by 'of': 'availed himself of'.",
+    "rule": "Transitive verb taking reflexive: avail oneself of",
+    "bengaliHint": "'Avail'-এর পর reflexive pronoun বসে।"
+  },
+  {
+    "id": "g07-021",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Neither of the two roads ___ to the railway station.",
+    "options": [
+      "leads",
+      "lead",
+      "leading",
+      "have led"
+    ],
+    "answer": 0,
+    "explanation": "'Neither of' refers to two items taken individually and requires a singular verb 'leads'.",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular হয়।"
+  },
+  {
+    "id": "g07-022",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "These two girls help ___ during difficult times.",
+    "options": [
+      "each other",
+      "one another",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'Each other' is used when two persons are referred to.",
+    "rule": "Reciprocal pronoun for two: each other",
+    "bengaliHint": "দুজনের ক্ষেত্রে 'each other' বসে।"
+  },
+  {
+    "id": "g07-023",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The three sisters love ___ dearly.",
+    "options": [
+      "one another",
+      "each other",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'One another' is used for more than two persons.",
+    "rule": "Reciprocal pronoun for >2: one another",
+    "bengaliHint": "দুয়ের বেশির ক্ষেত্রে 'one another' বসে।"
+  },
+  {
+    "id": "g07-024",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Let ___ who is without fault throw the first stone.",
+    "options": [
+      "him",
+      "he",
+      "his",
+      "himself"
+    ],
+    "answer": 0,
+    "explanation": "'Let' takes the objective case pronoun 'him'.",
+    "rule": "'Let' takes objective case pronoun",
+    "bengaliHint": "'Let'-এর পর 'him' বসে।"
+  },
+  {
+    "id": "g07-025",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "This pen is superior to ___.",
+    "options": [
+      "that of mine",
+      "mine",
+      "me",
+      "my"
+    ],
+    "answer": 1,
+    "explanation": "Possessive pronoun 'mine' properly substitutes for 'my pen'.",
+    "rule": "Possessive pronoun as object of comparison",
+    "bengaliHint": "'My pen'-এর পরিবর্তে 'mine' বসে।"
+  },
+  {
+    "id": "g07-026",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is a student ___ everyone expects will top the list.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "'Who' functions as the subject of the clause 'will top the list' (everyone expects is parenthetical).",
+    "rule": "Relative pronoun subject: who",
+    "bengaliHint": "ক্লজের subject হিসেবে 'who' বসে।"
+  },
+  {
+    "id": "g07-027",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "This is the boy ___ the headmaster punished.",
+    "options": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "'Whom' functions as the object of the transitive verb 'punished'.",
+    "rule": "Relative pronoun object: whom",
+    "bengaliHint": "Verb-এর object হিসেবে 'whom' বসে।"
+  },
+  {
+    "id": "g07-028",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Nobody should boast of ___ own success.",
+    "options": [
+      "one's",
+      "his",
+      "their",
+      "her"
+    ],
+    "answer": 1,
+    "explanation": "'Nobody' is masculine singular in formal standard grammar and takes 'his'.",
+    "rule": "Indefinite pronoun agreement: nobody -> his",
+    "bengaliHint": "'Nobody'-র ক্ষেত্রে pronoun হিসেবে 'his' বসে।"
+  },
+  {
+    "id": "g07-029",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You and ___ are invited to the dinner.",
+    "options": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
+    "answer": 0,
+    "explanation": "The pronoun is part of the compound subject, requiring the subjective case 'I'.",
+    "rule": "Subject pronoun case: You and I",
+    "bengaliHint": "Subject হিসেবে 'I' বসে।"
+  },
+  {
+    "id": "g07-030",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He availed ___ of the opportunity.",
+    "options": [
+      "himself",
+      "him",
+      "his",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'Avail' takes a reflexive pronoun followed by 'of': 'availed himself of'.",
+    "rule": "Transitive verb taking reflexive: avail oneself of",
+    "bengaliHint": "'Avail'-এর পর reflexive pronoun বসে।"
+  },
+  {
+    "id": "g07-031",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Neither of the two roads ___ to the railway station.",
+    "options": [
+      "leads",
+      "lead",
+      "leading",
+      "have led"
+    ],
+    "answer": 0,
+    "explanation": "'Neither of' refers to two items taken individually and requires a singular verb 'leads'.",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular হয়।"
+  },
+  {
+    "id": "g07-032",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "These two girls help ___ during difficult times.",
+    "options": [
+      "each other",
+      "one another",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'Each other' is used when two persons are referred to.",
+    "rule": "Reciprocal pronoun for two: each other",
+    "bengaliHint": "দুজনের ক্ষেত্রে 'each other' বসে।"
+  },
+  {
+    "id": "g07-033",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The three sisters love ___ dearly.",
+    "options": [
+      "one another",
+      "each other",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'One another' is used for more than two persons.",
+    "rule": "Reciprocal pronoun for >2: one another",
+    "bengaliHint": "দুয়ের বেশির ক্ষেত্রে 'one another' বসে।"
+  },
+  {
+    "id": "g07-034",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Let ___ who is without fault throw the first stone.",
+    "options": [
+      "him",
+      "he",
+      "his",
+      "himself"
+    ],
+    "answer": 0,
+    "explanation": "'Let' takes the objective case pronoun 'him'.",
+    "rule": "'Let' takes objective case pronoun",
+    "bengaliHint": "'Let'-এর পর 'him' বসে।"
+  },
+  {
+    "id": "g07-035",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "This pen is superior to ___.",
+    "options": [
+      "that of mine",
+      "mine",
+      "me",
+      "my"
+    ],
+    "answer": 1,
+    "explanation": "Possessive pronoun 'mine' properly substitutes for 'my pen'.",
+    "rule": "Possessive pronoun as object of comparison",
+    "bengaliHint": "'My pen'-এর পরিবর্তে 'mine' বসে।"
+  },
+  {
+    "id": "g07-036",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is a student ___ everyone expects will top the list.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "'Who' functions as the subject of the clause 'will top the list' (everyone expects is parenthetical).",
+    "rule": "Relative pronoun subject: who",
+    "bengaliHint": "ক্লজের subject হিসেবে 'who' বসে।"
+  },
+  {
+    "id": "g07-037",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "This is the boy ___ the headmaster punished.",
+    "options": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "'Whom' functions as the object of the transitive verb 'punished'.",
+    "rule": "Relative pronoun object: whom",
+    "bengaliHint": "Verb-এর object হিসেবে 'whom' বসে।"
+  },
+  {
+    "id": "g07-038",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Nobody should boast of ___ own success.",
+    "options": [
+      "one's",
+      "his",
+      "their",
+      "her"
+    ],
+    "answer": 1,
+    "explanation": "'Nobody' is masculine singular in formal standard grammar and takes 'his'.",
+    "rule": "Indefinite pronoun agreement: nobody -> his",
+    "bengaliHint": "'Nobody'-র ক্ষেত্রে pronoun হিসেবে 'his' বসে।"
+  },
+  {
+    "id": "g07-039",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You and ___ are invited to the dinner.",
+    "options": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
+    "answer": 0,
+    "explanation": "The pronoun is part of the compound subject, requiring the subjective case 'I'.",
+    "rule": "Subject pronoun case: You and I",
+    "bengaliHint": "Subject হিসেবে 'I' বসে।"
+  },
+  {
+    "id": "g07-040",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He availed ___ of the opportunity.",
+    "options": [
+      "himself",
+      "him",
+      "his",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'Avail' takes a reflexive pronoun followed by 'of': 'availed himself of'.",
+    "rule": "Transitive verb taking reflexive: avail oneself of",
+    "bengaliHint": "'Avail'-এর পর reflexive pronoun বসে।"
+  },
+  {
+    "id": "g07-041",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Neither of the two roads ___ to the railway station.",
+    "options": [
+      "leads",
+      "lead",
+      "leading",
+      "have led"
+    ],
+    "answer": 0,
+    "explanation": "'Neither of' refers to two items taken individually and requires a singular verb 'leads'.",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular হয়।"
+  },
+  {
+    "id": "g07-042",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "These two girls help ___ during difficult times.",
+    "options": [
+      "each other",
+      "one another",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'Each other' is used when two persons are referred to.",
+    "rule": "Reciprocal pronoun for two: each other",
+    "bengaliHint": "দুজনের ক্ষেত্রে 'each other' বসে।"
+  },
+  {
+    "id": "g07-043",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The three sisters love ___ dearly.",
+    "options": [
+      "one another",
+      "each other",
+      "themselves",
+      "oneself"
+    ],
+    "answer": 0,
+    "explanation": "'One another' is used for more than two persons.",
+    "rule": "Reciprocal pronoun for >2: one another",
+    "bengaliHint": "দুয়ের বেশির ক্ষেত্রে 'one another' বসে।"
+  },
+  {
+    "id": "g07-044",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Let ___ who is without fault throw the first stone.",
+    "options": [
+      "him",
+      "he",
+      "his",
+      "himself"
+    ],
+    "answer": 0,
+    "explanation": "'Let' takes the objective case pronoun 'him'.",
+    "rule": "'Let' takes objective case pronoun",
+    "bengaliHint": "'Let'-এর পর 'him' বসে।"
+  },
+  {
+    "id": "g07-045",
+    "chapter": "g07",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "This pen is superior to ___.",
+    "options": [
+      "that of mine",
+      "mine",
+      "me",
+      "my"
+    ],
+    "answer": 1,
+    "explanation": "Possessive pronoun 'mine' properly substitutes for 'my pen'.",
+    "rule": "Possessive pronoun as object of comparison",
+    "bengaliHint": "'My pen'-এর পরিবর্তে 'mine' বসে।"
+  }
+]

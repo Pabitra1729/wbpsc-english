@@ -1,0 +1,80 @@
+[
+  {
+    "id": "rc-01",
+    "title": "The Ecological Shield of Southern Bengal",
+    "bengaliSummary": "সুন্দরবনের শ্বাসমূলীয় বনাঞ্চল দক্ষিণবঙ্গের একটি প্রাকৃতিক বর্ম যা ঘূর্ণিঝড় ও জলোচ্ছ্বাস প্রতিরোধ করে। তবে মানব হস্তক্ষেপ ও সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির কারণে এই বনাঞ্চল আজ হুমকির মুখে।",
+    "passage": "The Sundarbans, spanning across the lower delta of West Bengal and Bangladesh, constitutes the largest mangrove ecosystem on Earth. Interlaced by a labyrinth of tidal waterways, mudflats, and salt-tolerant halophytic trees, it provides a vital sanctuary for the endangered Royal Bengal Tiger. Beyond its extraordinary biodiversity, the Sundarbans acts as a colossal biophysical shock absorber for the dense hinterland, blunting the brutal fury of Bay of Bengal cyclones. During ferocious super-cyclones such as Sidr, Aila, and Amphan, the dense root networks and lush canopies dissipated enormous wave energy, significantly curtailing human casualties inland.\n\nYet, this indispensable barrier faces existential perils. Global climate change has accelerated sea-level rise in the delta at nearly twice the global average, submerging low-lying islands and salinizing agricultural embankments. Concurrently, reckless developmental pressures, poaching, and upstream freshwater diversion have degraded soil quality and altered floral composition. Preserving the Sundarbans demands an urgent synthesis of scientific coastal management, international cooperation, and empowerment of local fishing communities who have coexisted with this wilderness for centuries.",
+    "questions": [
+      {
+        "id": "rc01-q1",
+        "question": "What is the primary ecological service of the Sundarbans highlighted in the first paragraph?",
+        "options": [
+          "Supplying commercial timber to major industrial cities",
+          "Absorbing wave energy and buffering the hinterland from cyclones",
+          "Generating hydroelectric power through tidal waterways",
+          "Serving exclusively as an agricultural zone"
+        ],
+        "answer": 1,
+        "explanation": "The text highlights that the Sundarbans acts as a 'colossal biophysical shock absorber... blunting the brutal fury of Bay of Bengal cyclones.'",
+        "rule": "Direct factual extraction",
+        "bengaliHint": "প্রথম অনুচ্ছেদে 'shock absorber' এবং 'cyclone' সম্পর্কিত বাক্যটি লক্ষ্য করুন।"
+      },
+      {
+        "id": "rc01-q2",
+        "question": "In the passage, the word 'dissipated' is closest in meaning to:",
+        "options": [
+          "Increased",
+          "Dispersed and weakened",
+          "Concentrated",
+          "Ignored"
+        ],
+        "answer": 1,
+        "explanation": "'Dissipated' means scattered or dispersed so that its destructive force was weakened.",
+        "rule": "Vocabulary in context",
+        "bengaliHint": "ঝড় ও ঢেউয়ের তীব্রতা ছড়িয়ে দিয়ে কমিয়ে দেওয়া অর্থে 'dissipated' শব্দটি ব্যবহৃত হয়েছে।"
+      },
+      {
+        "id": "rc01-q3",
+        "question": "According to the author, sea-level rise in the delta is concerning because it is:",
+        "options": [
+          "Lower than the worldwide average rate",
+          "Nearly twice the global average rate",
+          "Unrelated to climate change",
+          "Preventing cyclones from forming"
+        ],
+        "answer": 1,
+        "explanation": "The second paragraph clearly states that sea-level rise in the delta has accelerated at 'nearly twice the global average'.",
+        "rule": "Factual recall",
+        "bengaliHint": "দ্বিতীয় অনুচ্ছেদের শুরুতে 'nearly twice the global average' উল্লেখ করা আছে।"
+      },
+      {
+        "id": "rc01-q4",
+        "question": "Which of the following is NOT mentioned as a threat to the Sundarbans?",
+        "options": [
+          "Upstream freshwater diversion",
+          "Excessive industrial snowfall",
+          "Poaching and developmental pressures",
+          "Salinization of agricultural embankments"
+        ],
+        "answer": 1,
+        "explanation": "Industrial snowfall is neither mentioned nor relevant to a tropical mangrove delta; all the others are explicitly stated.",
+        "rule": "Negative factual identification",
+        "bengaliHint": "বিকল্পগুলোর মধ্যে কোনটি ক্রান্তীয় বদ্বীপে ঘটা অসম্ভব তা বিবেচনা করুন।"
+      },
+      {
+        "id": "rc01-q5",
+        "question": "The author's overall tone towards the future preservation of the Sundarbans can best be described as:",
+        "options": [
+          "Indifferent and cynical",
+          "Urgent and constructive",
+          "Pessimistic and resigned",
+          "Humorous and dismissive"
+        ],
+        "answer": 1,
+        "explanation": "The author urges immediate synthesis of scientific management, international cooperation, and community empowerment ('demands an urgent synthesis...'), which is urgent and constructive.",
+        "rule": "Author tone and intent",
+        "bengaliHint": "শেষ বাক্যে 'urgent synthesis', 'scientific management' ইত্যাদির মাধ্যমে ইতিবাচক তাগিদ দেওয়া হয়েছে।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g17-001",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which is a complete sentence?",
+    "options": [
+      "Because it rained",
+      "The rain stopped.",
+      "Very slowly under",
+      "When the train"
+    ],
+    "answer": 1,
+    "explanation": "The rain stopped has a subject and finite verb.",
+    "rule": "Complete clause",
+    "bengaliHint": "subject + verb."
+  },
+  {
+    "id": "g17-002",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the subject: 'The clerk checked the file.'",
+    "options": [
+      "The clerk",
+      "checked",
+      "the file",
+      "the"
+    ],
+    "answer": 0,
+    "explanation": "The clerk performs the action.",
+    "rule": "Subject",
+    "bengaliHint": "কাজটি করে কে?"
+  },
+  {
+    "id": "g17-003",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which is an independent clause?",
+    "options": [
+      "Although he tried",
+      "We reached early.",
+      "If the door opens",
+      "Because it was cold"
+    ],
+    "answer": 1,
+    "explanation": "We reached early can stand alone as a complete thought.",
+    "rule": "Independent clause",
+    "bengaliHint": "এটি alone চলে."
+  },
+  {
+    "id": "g17-004",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which uses correct comma structure?",
+    "options": [
+      "It rained, we stayed.",
+      "Although it rained we stayed.",
+      "Although it rained, we stayed.",
+      "Because, it rained."
+    ],
+    "answer": 2,
+    "explanation": "A comma follows an introductory dependent clause.",
+    "rule": "Dependent clause punctuation",
+    "bengaliHint": "Although clause-এর পর comma."
+  },
+  {
+    "id": "g17-005",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which corrects 'It rained heavily, we stayed inside.'?",
+    "options": [
+      "It rained heavily, and we stayed inside.",
+      "It rained heavily and, we stayed inside.",
+      "It rained heavily; stayed inside.",
+      "It rained, heavily we stayed."
+    ],
+    "answer": 0,
+    "explanation": "A coordinating conjunction joins the two independent clauses.",
+    "rule": "Compound sentence",
+    "bengaliHint": "and দিয়ে two clauses."
+  },
+  {
+    "id": "g17-006",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "'Although it was raining, we went for our morning walk.' What type of sentence is this?",
+    "options": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-Complex sentence"
+    ],
+    "answer": 2,
+    "explanation": "A sentence consisting of one independent clause ('we went for our morning walk') and one dependent clause ('Although it was raining') is a Complex sentence.",
+    "rule": "Complex sentence: 1 independent + 1 or more dependent clauses",
+    "bengaliHint": "একটি প্রধান ও একটি অধীন ক্লজ থাকলে তা Complex sentence (জটিল বাক্য)।"
+  },
+  {
+    "id": "g17-007",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "'He worked hard, and he passed the examination.' What type of sentence is this?",
+    "options": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Interrogative sentence"
+    ],
+    "answer": 1,
+    "explanation": "Two independent clauses joined by a coordinating conjunction ('and') form a Compound sentence.",
+    "rule": "Compound sentence: 2 independent clauses joined by coordinating conjunction",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'and' দিয়ে যুক্ত হলে তা Compound sentence (যৌগিক বাক্য)।"
+  },
+  {
+    "id": "g17-008",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "'Hearing the noise, the child woke up.' What type of sentence is this?",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "A sentence with only one finite verb ('woke') and no subordinate clause is a Simple sentence ('Hearing' is a non-finite participle).",
+    "rule": "Simple sentence contains exactly one finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া (Finite Verb) থাকলে তা Simple sentence (সরল বাক্য)।"
+  },
+  {
+    "id": "g17-009",
+    "chapter": "g17",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the subordinating conjunction that indicates contrast: '___ he is wealthy, he lives modestly.'",
+    "options": [
+      "Because",
+      "Although",
+      "Since",
+      "Therefore"
+    ],
+    "answer": 1,
+    "explanation": "'Although' is a subordinating conjunction indicating concession or contrast.",
+    "rule": "Subordinating conjunction of contrast: although / though",
+    "bengaliHint": "বিপরীত ভাব প্রকাশে 'Although' বসে।"
+  },
+  {
+    "id": "g17-010",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which of the following contains an Adjective Clause?",
+    "options": [
+      "I know where he lives.",
+      "This is the house that Jack built.",
+      "He ran so fast that he fell.",
+      "When the bell rang, we entered."
+    ],
+    "answer": 1,
+    "explanation": "'that Jack built' qualifies the noun 'house', functioning as an Adjective Clause (Relative Clause).",
+    "rule": "Adjective Clause modifies an antecedent noun",
+    "bengaliHint": "'that Jack built' অংশটি 'house' noun-টিকে qualify করায় এটি Adjective Clause।"
+  },
+  {
+    "id": "g17-011",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-012",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-013",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-014",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-015",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-016",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-017",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-018",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-019",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-020",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-021",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-022",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-023",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-024",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-025",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-026",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-027",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-028",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-029",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-030",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-031",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-032",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-033",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-034",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-035",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-036",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-037",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-038",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-039",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-040",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-041",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'He worked day and night, yet he failed.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Negative sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two independent clauses joined by coordinating conjunction 'yet' form a Compound sentence.",
+    "rule": "Compound sentence with 'yet'",
+    "bengaliHint": "দুটি স্বাধীন বাক্য 'yet' দিয়ে যুক্ত হওয়ায় Compound।"
+  },
+  {
+    "id": "g17-042",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'I know the place where he was born.'",
+    "options": [
+      "Complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "One independent clause with a subordinate adjective clause ('where he was born') forms a Complex sentence.",
+    "rule": "Complex sentence with relative adverb clause",
+    "bengaliHint": "প্রধান ও অধীন ক্লজ থাকায় Complex sentence।"
+  },
+  {
+    "id": "g17-043",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Tell me what you desire', the clause 'what you desire' is a/an:",
+    "options": [
+      "Noun clause",
+      "Adjective clause",
+      "Adverb clause",
+      "Coordinating clause"
+    ],
+    "answer": 0,
+    "explanation": "'what you desire' functions as the direct object of the verb 'Tell', making it a Noun Clause.",
+    "rule": "Noun clause as object of verb",
+    "bengaliHint": "Verb-এর object হিসেবে কাজ করায় এটি Noun Clause।"
+  },
+  {
+    "id": "g17-044",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He left before the sunrise', the sentence is:",
+    "options": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex"
+    ],
+    "answer": 0,
+    "explanation": "There is only one finite verb ('left'); 'before the sunrise' is a prepositional phrase.",
+    "rule": "Simple sentence with single finite verb",
+    "bengaliHint": "একটিমাত্র সমাপিকা ক্রিয়া থাকায় Simple sentence।"
+  },
+  {
+    "id": "g17-045",
+    "chapter": "g17",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the sentence type: 'Do or die.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Assertive sentence"
+    ],
+    "answer": 0,
+    "explanation": "Two imperative independent clauses connected by coordinating conjunction 'or'.",
+    "rule": "Compound sentence with coordinating 'or'",
+    "bengaliHint": "'Or' দিয়ে দুটি আদেশসূচক বাক্য যুক্ত হওয়ায় Compound।"
+  }
+]

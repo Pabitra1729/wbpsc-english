@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g03-001",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The boy ___ a blue bag.",
+    "options": [
+      "carry",
+      "carries",
+      "carrys",
+      "are carrying"
+    ],
+    "answer": 1,
+    "explanation": "Boy is singular, so the present singular verb carries is correct.",
+    "rule": "Singular subject takes singular verb",
+    "bengaliHint": "boy singular; verb-এ -s হবে।"
+  },
+  {
+    "id": "g03-002",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The girls ___ ready.",
+    "options": [
+      "is",
+      "be",
+      "are",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "Girls is plural and takes are.",
+    "rule": "Plural subject takes plural verb",
+    "bengaliHint": "girls plural; are বসবে।"
+  },
+  {
+    "id": "g03-003",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: Neither of the answers ___ correct.",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "Neither is singular in formal use.",
+    "rule": "Neither is singular",
+    "bengaliHint": "Neither-এর পর singular verb।"
+  },
+  {
+    "id": "g03-004",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: Each of the players ___ present.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "Each remains singular even when followed by a plural noun in of-phrase.",
+    "rule": "Each takes singular verb",
+    "bengaliHint": "Each singular।"
+  },
+  {
+    "id": "g03-005",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: Everyone ___ the instructions.",
+    "options": [
+      "know",
+      "knows",
+      "knowed",
+      "are knowing"
+    ],
+    "answer": 1,
+    "explanation": "Everyone is a singular indefinite pronoun.",
+    "rule": "Everyone takes singular verb",
+    "bengaliHint": "Everyone-র সঙ্গে knows."
+  },
+  {
+    "id": "g03-006",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The committee ___ its decision.",
+    "options": [
+      "announce",
+      "announces",
+      "announcees",
+      "are announce"
+    ],
+    "answer": 1,
+    "explanation": "The committee acts as one unit, so it uses a singular verb.",
+    "rule": "Collective noun may take singular verb",
+    "bengaliHint": "committee একটি unit হিসেবে কাজ করেছে।"
+  },
+  {
+    "id": "g03-007",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: Tea and coffee ___ available.",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "has"
+    ],
+    "answer": 1,
+    "explanation": "Two different items joined by and form a plural subject.",
+    "rule": "And joins subjects in the plural",
+    "bengaliHint": "Tea ও coffee—দুটি বিষয়।"
+  },
+  {
+    "id": "g03-008",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: Bread and butter ___ served daily.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "Bread and butter is a fixed single dish or item here.",
+    "rule": "Paired set phrase can be singular",
+    "bengaliHint": "এখানে একটি combined item ধরা হয়েছে।"
+  },
+  {
+    "id": "g03-009",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: A number of students ___ absent.",
+    "options": [
+      "is",
+      "has been",
+      "are",
+      "was"
+    ],
+    "answer": 2,
+    "explanation": "A number of means many and takes a plural verb.",
+    "rule": "A number of takes plural verb",
+    "bengaliHint": "A number of = several।"
+  },
+  {
+    "id": "g03-010",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: The number of students ___ small.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "The number of identifies the quantity as a singular amount.",
+    "rule": "The number of takes singular verb",
+    "bengaliHint": "The number of = মোট সংখ্যা; singular."
+  },
+  {
+    "id": "g03-011",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: Neither the teacher nor the students ___ late.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "The nearer subject students is plural, so are agrees with it.",
+    "rule": "With nor, agree with nearer subject",
+    "bengaliHint": "nor-এর পর nearest subject plural।"
+  },
+  {
+    "id": "g03-012",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: Either the boys or their captain ___ the papers.",
+    "options": [
+      "bring",
+      "brings",
+      "have bring",
+      "are bringing"
+    ],
+    "answer": 1,
+    "explanation": "Captain is the nearer subject and is singular.",
+    "rule": "With or, agree with nearer subject",
+    "bengaliHint": "or-এর শেষ অংশ captain singular।"
+  },
+  {
+    "id": "g03-013",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: The list of names ___ on the desk.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "List is the subject; names is inside a prepositional phrase.",
+    "rule": "Ignore words after of in subject identification",
+    "bengaliHint": "মূল subject list, names নয়।"
+  },
+  {
+    "id": "g03-014",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: There ___ three bags near the door.",
+    "options": [
+      "is",
+      "has",
+      "are",
+      "was"
+    ],
+    "answer": 2,
+    "explanation": "Three bags is the real subject after there and is plural.",
+    "rule": "There does not become the subject",
+    "bengaliHint": "bags plural—are।"
+  },
+  {
+    "id": "g03-015",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: One of the offices ___ closed today.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "One is the subject and is singular.",
+    "rule": "Main subject is one",
+    "bengaliHint": "of the offices-এর আগে one।"
+  },
+  {
+    "id": "g03-016",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: Neither of the clerks ___ been informed.",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "Neither is singular, so the present perfect form is has been.",
+    "rule": "Neither takes singular verb",
+    "bengaliHint": "Neither singular; has been."
+  },
+  {
+    "id": "g03-017",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: The pair of shoes ___ under the chair.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "Pair is the singular head noun; shoes is inside a phrase.",
+    "rule": "Subject is the head noun before of",
+    "bengaliHint": "pair singular।"
+  },
+  {
+    "id": "g03-018",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: The team ___ arguing among themselves.",
+    "options": [
+      "is",
+      "has",
+      "are",
+      "was"
+    ],
+    "answer": 2,
+    "explanation": "Are is suitable because members are acting separately.",
+    "rule": "Collective noun: singular or plural by meaning",
+    "bengaliHint": "Members পৃথকভাবে কাজ করছে—plural।"
+  },
+  {
+    "id": "g03-019",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: None of the water ___ safe to drink.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "Water is an uncountable noun, so the meaning is singular.",
+    "rule": "None follows the following noun",
+    "bengaliHint": "water uncountable—singular।"
+  },
+  {
+    "id": "g03-020",
+    "chapter": "g03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: Not only the clerk but also the officers ___ delayed.",
+    "options": [
+      "was",
+      "is",
+      "are",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "When subjects are joined positively, the compound subject is plural.",
+    "rule": "Not only...but also takes plural verb",
+    "bengaliHint": "both clerk and officers—plural."
+  },
+  {
+    "id": "g03-021",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The quality of the mangoes ___ not satisfactory.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "The subject is the singular abstract noun 'quality', not the plural 'mangoes'.",
+    "rule": "Subject separated by prepositional phrase",
+    "bengaliHint": "আসল Subject হলো 'quality' (singular)।"
+  },
+  {
+    "id": "g03-022",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Bread and butter ___ his favourite breakfast.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "Two nouns expressing a compound idea regarded as a single unit take a singular verb.",
+    "rule": "Compound noun as single unit",
+    "bengaliHint": "দুটি শব্দ মিলে একটি সামগ্রিক ভাব প্রকাশ করায় Singular verb বসে।"
+  },
+  {
+    "id": "g03-023",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The horse and carriage ___ at the main entrance.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "Horse and carriage together form a single conveyance unit, taking a singular verb.",
+    "rule": "Paired unit subject",
+    "bengaliHint": "একত্রিত বাহন বোঝাতে Singular verb বসে।"
+  },
+  {
+    "id": "g03-024",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Slow and steady ___ the race.'",
+    "options": [
+      "wins",
+      "win",
+      "winning",
+      "are winning"
+    ],
+    "answer": 0,
+    "explanation": "Famous proverb viewing 'slow and steady' as a unified virtue taking singular verb 'wins'.",
+    "rule": "Singular paired subject",
+    "bengaliHint": "একত্রে একটি গুণ বোঝাতে 'wins' বসে।"
+  },
+  {
+    "id": "g03-025",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The minister, accompanied by his secretaries, ___ arrived.'",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "When joined by 'accompanied by', the verb agrees strictly with the first subject ('minister').",
+    "rule": "Accompanied by governs first subject",
+    "bengaliHint": "'Accompanied by' থাকলে প্রথম Subject অনুযায়ী Verb বসে।"
+  },
+  {
+    "id": "g03-026",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The captain, as well as the players, ___ praised.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "With 'as well as', the verb agrees with the first subject ('captain').",
+    "rule": "As well as agrees with Subject 1",
+    "bengaliHint": "'As well as' থাকলে প্রথম Subject (captain) অনুযায়ী Verb বসে।"
+  },
+  {
+    "id": "g03-027",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Neither praise nor blame ___ to affect him.'",
+    "options": [
+      "seems",
+      "seem",
+      "are seeming",
+      "were seeming"
+    ],
+    "answer": 0,
+    "explanation": "Both singular subjects connected by 'nor' take a singular verb ('seems').",
+    "rule": "Neither... nor with singular subjects",
+    "bengaliHint": "উভয় subject একবচন হলে Verb-ও একবচন হয়।"
+  },
+  {
+    "id": "g03-028",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Either you or he ___ to blame.'",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "Connected by 'or', the verb agrees with the nearer subject ('he' -> 'is').",
+    "rule": "Proximity rule with either... or",
+    "bengaliHint": "'He'-র পাশে বসায় 'is' হবে।"
+  },
+  {
+    "id": "g03-029",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Neither the headmaster nor the assistant teachers ___ present.'",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "Connected by 'nor', the verb agrees with the nearer subject ('assistant teachers' -> 'were').",
+    "rule": "Proximity rule with neither... nor",
+    "bengaliHint": "নিকটবর্তী বহুবচন Subject অনুযায়ী 'were' বসে।"
+  },
+  {
+    "id": "g03-030",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Each of these suspected men ___ questioned by the inspector.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "'Each of' is followed by a plural noun but strictly requires a singular verb.",
+    "rule": "Each of + plural noun + singular verb",
+    "bengaliHint": "'Each of'-এর পর সর্বদা Singular verb বসে।"
+  },
+  {
+    "id": "g03-031",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Every boy and girl ___ awarded a certificate.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "Nouns qualified by 'every' take a singular verb, even when connected by 'and'.",
+    "rule": "Every + singular noun takes singular verb",
+    "bengaliHint": "'Every' যুক্ত একাধিক noun 'and' দিয়ে যুক্ত হলেও verb singular হয়।"
+  },
+  {
+    "id": "g03-032",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Many a passenger ___ stranded at the railway station.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "'Many a' is followed by a singular noun and a strictly singular verb.",
+    "rule": "Many a + singular noun + singular verb",
+    "bengaliHint": "'Many a'-র পর Singular noun ও Singular verb বসে।"
+  },
+  {
+    "id": "g03-033",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'A great many candidates ___ rejected for improper documentation.'",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "'A great many' is followed by a plural noun and takes a plural verb.",
+    "rule": "A great many takes plural verb",
+    "bengaliHint": "'A great many'-র পর Plural verb বসে।"
+  },
+  {
+    "id": "g03-034",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The number of road accidents ___ decreased this year.'",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "'The number of' denotes a specific count and takes a singular verb ('has').",
+    "rule": "The number of takes singular verb",
+    "bengaliHint": "'The number of' সর্বদা Singular verb গ্রহণ করে।"
+  },
+  {
+    "id": "g03-035",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'A number of passengers ___ injured in the derailment.'",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "'A number of' denotes many and takes a plural verb ('were').",
+    "rule": "A number of takes plural verb",
+    "bengaliHint": "'A number of' বহুবচন বোঝায়, তাই Plural verb বসে।"
+  },
+  {
+    "id": "g03-036",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Mathematics ___ considered an intriguing subject by scholars.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "Names of subjects ending in -s (Mathematics, Physics, Politics) take a singular verb.",
+    "rule": "Academic subjects in -s take singular verb",
+    "bengaliHint": "বিষয়ের নামে 's' থাকলেও তা Singular verb গ্রহণ করে।"
+  },
+  {
+    "id": "g03-037",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'His mathematics ___ remarkably weak.'",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "When preceded by a possessive pronoun ('his'), mathematics refers to calculating abilities and takes a plural verb.",
+    "rule": "Possessive + academic subject takes plural verb",
+    "bengaliHint": "ব্যক্তিগত হিসেব করার দক্ষতা বোঝাতে Plural verb বসে।"
+  },
+  {
+    "id": "g03-038",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Fifty thousand rupees ___ an adequate sum for the project.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "Amounts of money regarded as a whole unit take a singular verb.",
+    "rule": "Unit amount of money takes singular verb",
+    "bengaliHint": "টাকার পরিমাণ সামগ্রিক একক হিসেবে Singular হয়।"
+  },
+  {
+    "id": "g03-039",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'Ten kilometres ___ a strenuous distance to cover on foot.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "Distances regarded as a single unit take a singular verb.",
+    "rule": "Unit distance takes singular verb",
+    "bengaliHint": "দূরত্ব একটি একক হিসেবে Singular verb গ্রহণ করে।"
+  },
+  {
+    "id": "g03-040",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The committee ___ unanimous in its decision.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "A collective noun acting as a single cohesive unit takes a singular verb ('was').",
+    "rule": "Collective noun as single unit",
+    "bengaliHint": "কমিটি একমত হলে Singular verb বসে।"
+  },
+  {
+    "id": "g03-041",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'The committee ___ divided on the disputed proposal.'",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "A collective noun acting with division of opinions takes a plural verb ('were').",
+    "rule": "Noun of multitude takes plural verb",
+    "bengaliHint": "সদস্যদের মধ্যে মতবিরোধ থাকলে Plural verb বসে।"
+  },
+  {
+    "id": "g03-042",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'More than one candidate ___ scored full marks.'",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "'More than one' is followed by a singular noun and a singular verb.",
+    "rule": "More than one takes singular verb",
+    "bengaliHint": "'More than one'-এর পর Singular verb বসে।"
+  },
+  {
+    "id": "g03-043",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'More candidates than one ___ qualified for the interview.'",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": "'More + plural noun + than one' takes a plural verb.",
+    "rule": "More + plural noun + than one takes plural verb",
+    "bengaliHint": "Noun-টি বহুবচনে থাকলে Verb Plural হবে।"
+  },
+  {
+    "id": "g03-044",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'One of my closest friends ___ an administrative officer.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "'One of + plural noun' has 'One' as the grammatical subject, requiring a singular verb.",
+    "rule": "One of + plural noun takes singular verb",
+    "bengaliHint": "আসল Subject হলো 'One', তাই Singular verb বসে।"
+  },
+  {
+    "id": "g03-045",
+    "chapter": "g03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the correct verb: 'He is one of those men who ___ always ready to assist.'",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "Relative pronoun 'who' refers to the antecedent plural noun 'men', requiring a plural verb ('are').",
+    "rule": "Relative pronoun agrees with plural antecedent",
+    "bengaliHint": "'Who'-এর পূর্ববর্তী antecedent 'men' (plural), তাই verb plural হবে।"
+  }
+]

@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "v08-001",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the word for 'a small amount of metal used as money'.",
+    "options": [
+      "sell",
+      "coin",
+      "cane",
+      "gain"
+    ],
+    "answer": 1,
+    "explanation": "Coin means a piece of metal used as money.",
+    "rule": "Homophone in context",
+    "bengaliHint": "ধাতব মুদ্রা."
+  },
+  {
+    "id": "v08-002",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: We sat beside the ___ of the river.",
+    "options": [
+      "bank",
+      "bake",
+      "banc",
+      "bang"
+    ],
+    "answer": 0,
+    "explanation": "Bank means the land beside a river.",
+    "rule": "Homonym context",
+    "bengaliHint": "নদীর ধারে."
+  },
+  {
+    "id": "v08-003",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: You should write with your ___ hand.",
+    "options": [
+      "rite",
+      "right",
+      "wright",
+      "write"
+    ],
+    "answer": 1,
+    "explanation": "Right means the hand opposite the left hand.",
+    "rule": "Homophone spelling",
+    "bengaliHint": "ডান হাত."
+  },
+  {
+    "id": "v08-004",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which is the financial meaning of 'bank'?",
+    "options": [
+      "river edge",
+      "place to store money",
+      "bench",
+      "slope"
+    ],
+    "answer": 1,
+    "explanation": "A bank can be a financial institution.",
+    "rule": "Homonym meaning",
+    "bengaliHint": "ব্যাংক institution."
+  },
+  {
+    "id": "v08-005",
+    "chapter": "v08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The train ___ from Howrah to Asansol is quite affordable.",
+    "options": [
+      "fair",
+      "fare",
+      "fear",
+      "flare"
+    ],
+    "answer": 1,
+    "explanation": "'Fare' denotes the price of passage in a bus, train, or airplane. 'Fair' means just, light-colored, or an exhibition.",
+    "rule": "Fare (travel ticket price) vs Fair (just / exhibition)",
+    "bengaliHint": "যানবাহনের ভাড়া বোঝাতে 'fare' বসে।"
+  },
+  {
+    "id": "v08-006",
+    "chapter": "v08",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The physician told the patient that his wound would soon ___ completely.",
+    "options": [
+      "heel",
+      "heal",
+      "he'll",
+      "hill"
+    ],
+    "answer": 1,
+    "explanation": "'Heal' means to become sound or healthy again. 'Heel' is the back part of the foot.",
+    "rule": "Heal (cure) vs Heel (part of foot)",
+    "bengaliHint": "ক্ষত নিরাময় হওয়া বা সেরে ওঠা অর্থে 'heal' বসে।"
+  },
+  {
+    "id": "v08-007",
+    "chapter": "v08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Before leaving for work, ensure you ___ the kitchen gas cylinder.",
+    "options": [
+      "check",
+      "cheque",
+      "chick",
+      "choke"
+    ],
+    "answer": 0,
+    "explanation": "'Check' means to examine or verify. 'Cheque' is a written banking order to pay money.",
+    "rule": "Check (verify) vs Cheque (bank instrument)",
+    "bengaliHint": "পরীক্ষা বা যাচাই করা বোঝাতে 'check' বসে।"
+  },
+  {
+    "id": "v08-008",
+    "chapter": "v08",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The municipal workers placed a temporary road sign to ___ traffic around the flooded street.",
+    "options": [
+      "alter",
+      "altar",
+      "alert",
+      "altor"
+    ],
+    "answer": 0,
+    "explanation": "'Alter' is a verb meaning to change or modify. 'Altar' is a sacred raised platform in a place of worship.",
+    "rule": "Alter (modify) vs Altar (sacred platform)",
+    "bengaliHint": "পরিবর্তন করা (Verb) অর্থে 'alter' বসে; পূজাবেদি হলো 'altar'।"
+  },
+  {
+    "id": "v08-009",
+    "chapter": "v08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sudden ___ of the vehicle avoided a dangerous highway collision.",
+    "options": [
+      "break",
+      "brake",
+      "broke",
+      "brook"
+    ],
+    "answer": 1,
+    "explanation": "'Brake' is the mechanical device for slowing or stopping a vehicle. 'Break' means to fracture or shatter.",
+    "rule": "Brake (stopping mechanism) vs Break (fracture)",
+    "bengaliHint": "গাড়ির গতি থামানোর যন্ত্র বোঝাতে 'brake' বসে।"
+  },
+  {
+    "id": "v08-010",
+    "chapter": "v08",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The bride walked gracefully down the central ___ of the hall.",
+    "options": [
+      "aisle",
+      "isle",
+      "isle's",
+      "all"
+    ],
+    "answer": 0,
+    "explanation": "'Aisle' is a passage between rows of seats in a church, theater, or train. 'Isle' means an island.",
+    "rule": "Aisle (walkway) vs Isle (island)",
+    "bengaliHint": "আসনসারির মধ্যবর্তী হাঁটার পথকে 'aisle' বলে।"
+  },
+  {
+    "id": "v08-011",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-012",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-013",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-014",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-015",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-016",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-017",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-018",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-019",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-020",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-021",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-022",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-023",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-024",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-025",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-026",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-027",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-028",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-029",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-030",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-031",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-032",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-033",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-034",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-035",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-036",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-037",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-038",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-039",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-040",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-041",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Can you ___ an authoritative reference from the constitution?",
+    "options": [
+      "cite",
+      "site",
+      "sight",
+      "slight"
+    ],
+    "answer": 0,
+    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
+    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
+    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
+  },
+  {
+    "id": "v08-042",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The proposed building ___ was inspected by the civil engineer.",
+    "options": [
+      "site",
+      "cite",
+      "sight",
+      "side"
+    ],
+    "answer": 0,
+    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
+    "rule": "Site means construction location",
+    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
+  },
+  {
+    "id": "v08-043",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sunset over the river was a glorious ___.",
+    "options": [
+      "sight",
+      "site",
+      "cite",
+      "cite's"
+    ],
+    "answer": 0,
+    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
+    "rule": "Sight means spectacle/view",
+    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
+  },
+  {
+    "id": "v08-044",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The lawyer gave his client prudent legal ___.",
+    "options": [
+      "counsel",
+      "council",
+      "councillor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
+    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
+    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
+  },
+  {
+    "id": "v08-045",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The municipal ___ held a debate on urban sanitation.",
+    "options": [
+      "council",
+      "counsel",
+      "counsellor",
+      "consul"
+    ],
+    "answer": 0,
+    "explanation": "'Council' is an elected administrative or legislative body.",
+    "rule": "Council means administrative body",
+    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
+  },
+  {
+    "id": "v08-046",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He paid her a ___ on her dress.",
+    "options": [
+      "complement",
+      "compliment",
+      "complaint",
+      "compliant"
+    ],
+    "answer": 1,
+    "explanation": "'compliment' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: compliment",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'compliment'।"
+  },
+  {
+    "id": "v08-047",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ of the college addressed the students.",
+    "options": [
+      "principle",
+      "principal",
+      "principel",
+      "principale"
+    ],
+    "answer": 1,
+    "explanation": "'principal' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: principal",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'principal'।"
+  },
+  {
+    "id": "v08-048",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She bought pens and paper from the ___ shop.",
+    "options": [
+      "stationary",
+      "stationery",
+      "stationry",
+      "stationairy"
+    ],
+    "answer": 1,
+    "explanation": "'stationery' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: stationery",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'stationery'।"
+  },
+  {
+    "id": "v08-049",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The medicine had a bad ___ on him.",
+    "options": [
+      "affect",
+      "effect",
+      "effet",
+      "afect"
+    ],
+    "answer": 1,
+    "explanation": "'effect' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: effect",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'effect'।"
+  },
+  {
+    "id": "v08-050",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The city ___ meets every Monday.",
+    "options": [
+      "council",
+      "counsel",
+      "consul",
+      "conceal"
+    ],
+    "answer": 0,
+    "explanation": "'council' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: council",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'council'।"
+  },
+  {
+    "id": "v08-051",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The lawyer gave sound legal ___.",
+    "options": [
+      "council",
+      "counsel",
+      "consul",
+      "counsil"
+    ],
+    "answer": 1,
+    "explanation": "'counsel' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: counsel",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'counsel'।"
+  },
+  {
+    "id": "v08-052",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "There was strong ___ against the ruling.",
+    "options": [
+      "descent",
+      "dissent",
+      "decent",
+      "desert"
+    ],
+    "answer": 1,
+    "explanation": "'dissent' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: dissent",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'dissent'।"
+  },
+  {
+    "id": "v08-053",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He was arrested for the ___ trade in drugs.",
+    "options": [
+      "elicit",
+      "illicit",
+      "eligible",
+      "illegible"
+    ],
+    "answer": 1,
+    "explanation": "'illicit' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: illicit",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'illicit'।"
+  },
+  {
+    "id": "v08-054",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ of the accident was horrifying.",
+    "options": [
+      "site",
+      "sight",
+      "cite",
+      "sit"
+    ],
+    "answer": 1,
+    "explanation": "'sight' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: sight",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'sight'।"
+  },
+  {
+    "id": "v08-055",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He could not ___ the heavy load.",
+    "options": [
+      "bare",
+      "bear",
+      "beer",
+      "bier"
+    ],
+    "answer": 1,
+    "explanation": "'bear' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: bear",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'bear'।"
+  },
+  {
+    "id": "v08-056",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Mother bought a kilo of ___.",
+    "options": [
+      "flower",
+      "flour",
+      "floor",
+      "flaw"
+    ],
+    "answer": 1,
+    "explanation": "'flour' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: flour",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'flour'।"
+  },
+  {
+    "id": "v08-057",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The lecture was so dull that he felt ___.",
+    "options": [
+      "board",
+      "bored",
+      "bord",
+      "boared"
+    ],
+    "answer": 1,
+    "explanation": "'bored' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: bored",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'bored'।"
+  },
+  {
+    "id": "v08-058",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "May I have a ___ of cake?",
+    "options": [
+      "peace",
+      "piece",
+      "pies",
+      "pace"
+    ],
+    "answer": 1,
+    "explanation": "'piece' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: piece",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'piece'।"
+  },
+  {
+    "id": "v08-059",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I do not know ___ it will rain today.",
+    "options": [
+      "weather",
+      "whether",
+      "wether",
+      "wheather"
+    ],
+    "answer": 1,
+    "explanation": "'whether' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: whether",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'whether'।"
+  },
+  {
+    "id": "v08-060",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She ate the ___ cake.",
+    "options": [
+      "hole",
+      "whole",
+      "hoal",
+      "holl"
+    ],
+    "answer": 1,
+    "explanation": "'whole' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: whole",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'whole'।"
+  },
+  {
+    "id": "v08-061",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Words with the same spelling and pronunciation but different meanings (e.g. 'bank') are called.",
+    "options": [
+      "Homophones",
+      "Homonyms",
+      "Synonyms",
+      "Antonyms"
+    ],
+    "answer": 1,
+    "explanation": "'Homonyms' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homonyms",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
+  },
+  {
+    "id": "v08-062",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Words that sound alike but differ in spelling and meaning are called.",
+    "options": [
+      "Homophones",
+      "Homonyms",
+      "Homographs",
+      "Synonyms"
+    ],
+    "answer": 0,
+    "explanation": "'Homophones' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homophones",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homophones'।"
+  },
+  {
+    "id": "v08-063",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which pair is a homophone pair?",
+    "options": [
+      "Right – Write",
+      "Lead – Led",
+      "Bank – Bank",
+      "Cool – Chill"
+    ],
+    "answer": 0,
+    "explanation": "'Right – Write' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Right – Write",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Right – Write'।"
+  },
+  {
+    "id": "v08-064",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'knight'.",
+    "options": [
+      "Night",
+      "Knit",
+      "Kite",
+      "Nite"
+    ],
+    "answer": 0,
+    "explanation": "'Night' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Night",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Night'।"
+  },
+  {
+    "id": "v08-065",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'serial'.",
+    "options": [
+      "Cereal",
+      "Series",
+      "Sorrel",
+      "Surreal"
+    ],
+    "answer": 0,
+    "explanation": "'Cereal' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Cereal",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Cereal'।"
+  },
+  {
+    "id": "v08-066",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The bus ___ was changed last month.",
+    "options": [
+      "root",
+      "route",
+      "rote",
+      "rout"
+    ],
+    "answer": 1,
+    "explanation": "'route' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: route",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'route'।"
+  },
+  {
+    "id": "v08-067",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The king's ___ lasted forty years.",
+    "options": [
+      "rain",
+      "rein",
+      "reign",
+      "reine"
+    ],
+    "answer": 2,
+    "explanation": "'reign' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: reign",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'reign'।"
+  },
+  {
+    "id": "v08-068",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "It began to ___ heavily at noon.",
+    "options": [
+      "reign",
+      "rain",
+      "rein",
+      "ran"
+    ],
+    "answer": 1,
+    "explanation": "'rain' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: rain",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'rain'।"
+  },
+  {
+    "id": "v08-069",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He pulled the ___ to stop the horse.",
+    "options": [
+      "rain",
+      "reign",
+      "rane",
+      "rein"
+    ],
+    "answer": 3,
+    "explanation": "'rein' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: rein",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'rein'।"
+  },
+  {
+    "id": "v08-070",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ rises in the east.",
+    "options": [
+      "sun",
+      "son",
+      "soon",
+      "sin"
+    ],
+    "answer": 0,
+    "explanation": "'sun' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: sun",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'sun'।"
+  },
+  {
+    "id": "v08-071",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is the only ___ of the family.",
+    "options": [
+      "sun",
+      "son",
+      "soon",
+      "sin"
+    ],
+    "answer": 1,
+    "explanation": "'son' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: son",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'son'।"
+  },
+  {
+    "id": "v08-072",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I ___ a strange noise last night.",
+    "options": [
+      "herd",
+      "hurd",
+      "heard",
+      "hared"
+    ],
+    "answer": 2,
+    "explanation": "'heard' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: heard",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'heard'।"
+  },
+  {
+    "id": "v08-073",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A ___ of cattle crossed the road.",
+    "options": [
+      "heard",
+      "herd",
+      "hurd",
+      "hard"
+    ],
+    "answer": 1,
+    "explanation": "'herd' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: herd",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'herd'।"
+  },
+  {
+    "id": "v08-074",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Please ___ the wet clothes before drying them.",
+    "options": [
+      "ring",
+      "wrinkle",
+      "rink",
+      "wring"
+    ],
+    "answer": 3,
+    "explanation": "'wring' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: wring",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'wring'।"
+  },
+  {
+    "id": "v08-075",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He gave his ___ to the proposal.",
+    "options": [
+      "assent",
+      "ascent",
+      "accent",
+      "ascend"
+    ],
+    "answer": 0,
+    "explanation": "'assent' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: assent",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'assent'।"
+  },
+  {
+    "id": "v08-076",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ of the peak took five hours.",
+    "options": [
+      "assent",
+      "ascent",
+      "accent",
+      "descent"
+    ],
+    "answer": 1,
+    "explanation": "'ascent' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: ascent",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'ascent'।"
+  },
+  {
+    "id": "v08-077",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The prince is the ___ to the throne.",
+    "options": [
+      "hair",
+      "here",
+      "heir",
+      "hare"
+    ],
+    "answer": 2,
+    "explanation": "'heir' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: heir",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'heir'।"
+  },
+  {
+    "id": "v08-078",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She has long black ___.",
+    "options": [
+      "heir",
+      "hair",
+      "hare",
+      "hear"
+    ],
+    "answer": 1,
+    "explanation": "'hair' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: hair",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'hair'।"
+  },
+  {
+    "id": "v08-079",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The wind ___ the papers away.",
+    "options": [
+      "blue",
+      "blow",
+      "blu",
+      "blew"
+    ],
+    "answer": 3,
+    "explanation": "'blew' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: blew",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'blew'।"
+  },
+  {
+    "id": "v08-080",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I ___ the answer already.",
+    "options": [
+      "new",
+      "knew",
+      "gnu",
+      "nue"
+    ],
+    "answer": 1,
+    "explanation": "'knew' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: knew",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'knew'।"
+  },
+  {
+    "id": "v08-081",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The postman delivered a ___.",
+    "options": [
+      "male",
+      "maul",
+      "mail",
+      "mael"
+    ],
+    "answer": 2,
+    "explanation": "'mail' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: mail",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'mail'।"
+  },
+  {
+    "id": "v08-082",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'meat'.",
+    "options": [
+      "Mat",
+      "Mate",
+      "Melt",
+      "Meet"
+    ],
+    "answer": 3,
+    "explanation": "'Meet' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Meet",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Meet'।"
+  },
+  {
+    "id": "v08-083",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'tale'.",
+    "options": [
+      "Tail",
+      "Tall",
+      "Tile",
+      "Till"
+    ],
+    "answer": 0,
+    "explanation": "'Tail' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Tail",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Tail'।"
+  },
+  {
+    "id": "v08-084",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'sail'.",
+    "options": [
+      "Soil",
+      "Seal",
+      "Sale",
+      "Sell"
+    ],
+    "answer": 2,
+    "explanation": "'Sale' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Sale",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Sale'।"
+  },
+  {
+    "id": "v08-085",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'steal'.",
+    "options": [
+      "Stale",
+      "Steel",
+      "Still",
+      "Stall"
+    ],
+    "answer": 1,
+    "explanation": "'Steel' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Steel",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Steel'।"
+  },
+  {
+    "id": "v08-086",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'wait'.",
+    "options": [
+      "Wet",
+      "Weight",
+      "Wheat",
+      "White"
+    ],
+    "answer": 1,
+    "explanation": "'Weight' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Weight",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Weight'।"
+  },
+  {
+    "id": "v08-087",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'weak'.",
+    "options": [
+      "Wick",
+      "Wake",
+      "Woke",
+      "Week"
+    ],
+    "answer": 3,
+    "explanation": "'Week' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Week",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Week'।"
+  },
+  {
+    "id": "v08-088",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'dear'.",
+    "options": [
+      "Dare",
+      "Dire",
+      "Deer",
+      "Door"
+    ],
+    "answer": 2,
+    "explanation": "'Deer' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Deer",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Deer'।"
+  },
+  {
+    "id": "v08-089",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'higher'.",
+    "options": [
+      "Hire",
+      "Hair",
+      "Hare",
+      "Hero"
+    ],
+    "answer": 0,
+    "explanation": "'Hire' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Hire",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Hire'।"
+  },
+  {
+    "id": "v08-090",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'pair'.",
+    "options": [
+      "Pier",
+      "Pure",
+      "Poor",
+      "Pear"
+    ],
+    "answer": 3,
+    "explanation": "'Pear' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Pear",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Pear'।"
+  },
+  {
+    "id": "v08-091",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'sweet'.",
+    "options": [
+      "Sweat",
+      "Suite",
+      "Swept",
+      "Sheet"
+    ],
+    "answer": 1,
+    "explanation": "'Suite' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Suite",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Suite'।"
+  },
+  {
+    "id": "v08-092",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'break'.",
+    "options": [
+      "Bark",
+      "Brick",
+      "Brake",
+      "Brook"
+    ],
+    "answer": 2,
+    "explanation": "'Brake' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Brake",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Brake'।"
+  },
+  {
+    "id": "v08-093",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'wood'.",
+    "options": [
+      "Wound",
+      "Would",
+      "Word",
+      "Weed"
+    ],
+    "answer": 1,
+    "explanation": "'Would' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Would",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Would'।"
+  },
+  {
+    "id": "v08-094",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'buy'.",
+    "options": [
+      "Bay",
+      "Boy",
+      "Bee",
+      "By"
+    ],
+    "answer": 3,
+    "explanation": "'By' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: By",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'By'।"
+  },
+  {
+    "id": "v08-095",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'plain'.",
+    "options": [
+      "Plan",
+      "Plane",
+      "Plait",
+      "Plant"
+    ],
+    "answer": 1,
+    "explanation": "'Plane' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Plane",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Plane'।"
+  },
+  {
+    "id": "v08-096",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'cell'.",
+    "options": [
+      "Call",
+      "Cull",
+      "Sell",
+      "Seal"
+    ],
+    "answer": 2,
+    "explanation": "'Sell' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Sell",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Sell'।"
+  },
+  {
+    "id": "v08-097",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'ate'.",
+    "options": [
+      "Eat",
+      "At",
+      "Ale",
+      "Eight"
+    ],
+    "answer": 3,
+    "explanation": "'Eight' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Eight",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Eight'।"
+  },
+  {
+    "id": "v08-098",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'sole'.",
+    "options": [
+      "Soul",
+      "Sale",
+      "Sold",
+      "Solo"
+    ],
+    "answer": 0,
+    "explanation": "'Soul' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Soul",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Soul'।"
+  },
+  {
+    "id": "v08-099",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'grate'.",
+    "options": [
+      "Grape",
+      "Great",
+      "Grant",
+      "Greet"
+    ],
+    "answer": 1,
+    "explanation": "'Great' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Great",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Great'।"
+  },
+  {
+    "id": "v08-100",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'idle'.",
+    "options": [
+      "Ideal",
+      "Isle",
+      "Idol",
+      "Island"
+    ],
+    "answer": 2,
+    "explanation": "'Idol' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Idol",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Idol'।"
+  },
+  {
+    "id": "v08-101",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'lessen'.",
+    "options": [
+      "Lesson",
+      "Listen",
+      "Lesion",
+      "Lessee"
+    ],
+    "answer": 0,
+    "explanation": "'Lesson' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Lesson",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Lesson'।"
+  },
+  {
+    "id": "v08-102",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'prey'.",
+    "options": [
+      "Play",
+      "Prize",
+      "Pry",
+      "Pray"
+    ],
+    "answer": 3,
+    "explanation": "'Pray' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Pray",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Pray'।"
+  },
+  {
+    "id": "v08-103",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'tide'.",
+    "options": [
+      "Tidy",
+      "Tied",
+      "Tire",
+      "Told"
+    ],
+    "answer": 1,
+    "explanation": "'Tied' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Tied",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Tied'।"
+  },
+  {
+    "id": "v08-104",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'wave'.",
+    "options": [
+      "Wove",
+      "Wage",
+      "Waive",
+      "Wake"
+    ],
+    "answer": 2,
+    "explanation": "'Waive' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Waive",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Waive'।"
+  },
+  {
+    "id": "v08-105",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Homophone of 'vain'.",
+    "options": [
+      "Vine",
+      "Vein",
+      "Van",
+      "Vend"
+    ],
+    "answer": 1,
+    "explanation": "'Vein' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Vein",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Vein'।"
+  },
+  {
+    "id": "v08-106",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Homophone of 'allowed'.",
+    "options": [
+      "Alert",
+      "Allied",
+      "Alloy",
+      "Aloud"
+    ],
+    "answer": 3,
+    "explanation": "'Aloud' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Aloud",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Aloud'।"
+  },
+  {
+    "id": "v08-107",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Homophone of 'check' (British usage).",
+    "options": [
+      "Cheque",
+      "Chick",
+      "Chuck",
+      "Chalk"
+    ],
+    "answer": 0,
+    "explanation": "'Cheque' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Cheque",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Cheque'।"
+  },
+  {
+    "id": "v08-108",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "'Bank' in 'the bank of a river' means.",
+    "options": [
+      "Money institution",
+      "Edge of a river",
+      "Row",
+      "Tilt"
+    ],
+    "answer": 1,
+    "explanation": "'Edge of a river' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Edge of a river",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Edge of a river'।"
+  },
+  {
+    "id": "v08-109",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The word 'bark' (of a tree / of a dog) is an example of.",
+    "options": [
+      "Homophones",
+      "Synonyms",
+      "Homonyms",
+      "Antonyms"
+    ],
+    "answer": 2,
+    "explanation": "'Homonyms' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homonyms",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
+  },
+  {
+    "id": "v08-110",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "'Fine' (a penalty / of good quality) is an example of.",
+    "options": [
+      "Antonyms",
+      "Homonyms",
+      "Synonyms",
+      "Homophones"
+    ],
+    "answer": 1,
+    "explanation": "'Homonyms' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homonyms",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
+  },
+  {
+    "id": "v08-111",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "'Match' (a cricket match / a matchbox) are.",
+    "options": [
+      "Homonyms",
+      "Antonyms",
+      "Homophones",
+      "Synonyms"
+    ],
+    "answer": 0,
+    "explanation": "'Homonyms' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homonyms",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
+  },
+  {
+    "id": "v08-112",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "'Bat' (cricket bat / flying bat) are.",
+    "options": [
+      "Synonyms",
+      "Homophones",
+      "Antonyms",
+      "Homonyms"
+    ],
+    "answer": 3,
+    "explanation": "'Homonyms' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homonyms",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
+  },
+  {
+    "id": "v08-113",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which pair are homophones?",
+    "options": [
+      "Cat – Cut",
+      "Hat – Hot",
+      "Sun – Son",
+      "Big – Bag"
+    ],
+    "answer": 2,
+    "explanation": "'Sun – Son' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Sun – Son",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Sun – Son'।"
+  },
+  {
+    "id": "v08-114",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Words spelt the same but pronounced differently, with different meanings (e.g. 'lead'), are.",
+    "options": [
+      "Homographs",
+      "Homophones",
+      "Synonyms",
+      "Acronyms"
+    ],
+    "answer": 0,
+    "explanation": "'Homographs' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: Homographs",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homographs'।"
+  },
+  {
+    "id": "v08-115",
+    "chapter": "v08",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The dog wagged its ___.",
+    "options": [
+      "tale",
+      "tail",
+      "tile",
+      "till"
+    ],
+    "answer": 1,
+    "explanation": "'tail' is the correct choice here according to the sentence meaning and usage.",
+    "rule": "Homophones & Homonyms: tail",
+    "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'tail'।"
+  }
+]

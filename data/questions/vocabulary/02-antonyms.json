@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "v02-001",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'generous'.",
+    "options": [
+      "kind",
+      "stingy",
+      "brave",
+      "calm"
+    ],
+    "answer": 1,
+    "explanation": "Stingy is a direct opposite of generous in the sense of giving.",
+    "rule": "Direct antonym",
+    "bengaliHint": "কৃপণ।"
+  },
+  {
+    "id": "v02-002",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'accept'.",
+    "options": [
+      "allow",
+      "refuse",
+      "receive",
+      "approve"
+    ],
+    "answer": 1,
+    "explanation": "Refuse is a direct opposite of accept.",
+    "rule": "Verb antonym",
+    "bengaliHint": "গ্রহণ না করা।"
+  },
+  {
+    "id": "v02-003",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'scarce'.",
+    "options": [
+      "rare",
+      "plentiful",
+      "little",
+      "absent"
+    ],
+    "answer": 1,
+    "explanation": "Scarce means in short supply; plentiful means available in large supply.",
+    "rule": "Quantity antonym",
+    "bengaliHint": "প্রচুর।"
+  },
+  {
+    "id": "v02-004",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'meagre'.",
+    "options": [
+      "small",
+      "insufficient",
+      "ample",
+      "weak"
+    ],
+    "answer": 2,
+    "explanation": "Meagre means lacking in quantity; ample means enough or abundant.",
+    "rule": "Degree antonym",
+    "bengaliHint": "প্রচুর বা যথেষ্ট।"
+  },
+  {
+    "id": "v02-005",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'OPTIMISTIC':",
+    "options": [
+      "Pessimistic",
+      "Cheerful",
+      "Carefree",
+      "Hopeful"
+    ],
+    "answer": 0,
+    "explanation": "'Optimistic' means expecting good outcomes; its exact opposite is 'pessimistic' (expecting the worst).",
+    "rule": "Antonym of optimistic = pessimistic",
+    "bengaliHint": "আশাবাদীর (Optimistic) বিপরীত হলো হতাশাবাদী (Pessimistic)।"
+  },
+  {
+    "id": "v02-006",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'EPHEMERAL':",
+    "options": [
+      "Transitory",
+      "Eternal / permanent",
+      "Brief",
+      "Fragile"
+    ],
+    "answer": 1,
+    "explanation": "'Ephemeral' means lasting for a very short time (transitory); its opposite is 'eternal' or 'permanent'.",
+    "rule": "Antonym of ephemeral = eternal / permanent",
+    "bengaliHint": "ক্ষণস্থায়ীর (Ephemeral) বিপরীত হলো চিরন্তন বা স্থায়ী (Permanent)।"
+  },
+  {
+    "id": "v02-007",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GENUINE':",
+    "options": [
+      "Authentic",
+      "Spurious / counterfeit",
+      "Honest",
+      "Pure"
+    ],
+    "answer": 1,
+    "explanation": "'Genuine' means real and authentic; its direct opposite is 'spurious' (fake/counterfeit).",
+    "rule": "Antonym of genuine = spurious / counterfeit",
+    "bengaliHint": "খাঁটির (Genuine) বিপরীত হলো জাল বা কৃত্রিম (Spurious)।"
+  },
+  {
+    "id": "v02-008",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'RIGID':",
+    "options": [
+      "Inflexible",
+      "Flexible / pliable",
+      "Strict",
+      "Hard"
+    ],
+    "answer": 1,
+    "explanation": "'Rigid' means unable to bend or unchangeable; its antonym is 'flexible' (pliable).",
+    "rule": "Antonym of rigid = flexible / adaptable",
+    "bengaliHint": "অনমনীয়র (Rigid) বিপরীত হলো নমনীয় (Flexible)।"
+  },
+  {
+    "id": "v02-009",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'HOSTILE':",
+    "options": [
+      "Aggressive",
+      "Antagonistic",
+      "Cordial / friendly",
+      "Belligerent"
+    ],
+    "answer": 2,
+    "explanation": "'Hostile' means showing or feeling active opposition; its opposite is 'cordial' (warm and friendly).",
+    "rule": "Antonym of hostile = cordial / amicable",
+    "bengaliHint": "শত্রুভাবাপন্নর (Hostile) বিপরীত হলো হৃদ্যতাপূর্ণ (Cordial)।"
+  },
+  {
+    "id": "v02-010",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ABUNDANT':",
+    "options": [
+      "Plentiful",
+      "Scarce / meager",
+      "Copious",
+      "Ample"
+    ],
+    "answer": 1,
+    "explanation": "'Abundant' means existing in large quantities; its antonym is 'scarce' (insufficient/meager).",
+    "rule": "Antonym of abundant = scarce / deficient",
+    "bengaliHint": "প্রচুরের (Abundant) বিপরীত হলো অপ্রতুল বা দুর্লভ (Scarce)।"
+  },
+  {
+    "id": "v02-011",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-012",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-013",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-014",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-015",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-016",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-017",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-018",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-019",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-020",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-021",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-022",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-023",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-024",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-025",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-026",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-027",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-028",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-029",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-030",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-031",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-032",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-033",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-034",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-035",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-036",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-037",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-038",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-039",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-040",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-041",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'ZENITH':",
+    "options": [
+      "Nadir / lowest point",
+      "Pinnacle",
+      "Apex",
+      "Peak"
+    ],
+    "answer": 0,
+    "explanation": "'Zenith' is the highest point; its exact antonym is 'nadir' (the lowest point).",
+    "rule": "Antonym: Zenith vs Nadir",
+    "bengaliHint": "শীর্ষবিন্দুর বিপরীত হলো সর্বনিম্ন বিন্দু (Nadir)।"
+  },
+  {
+    "id": "v02-042",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AUGMENT':",
+    "options": [
+      "Diminish / decrease",
+      "Enlarge",
+      "Multiply",
+      "Expand"
+    ],
+    "answer": 0,
+    "explanation": "'Augment' means to increase or enlarge; its opposite is 'diminish' or decrease.",
+    "rule": "Antonym: Augment vs Diminish",
+    "bengaliHint": "বৃদ্ধি করার বিপরীত হলো হ্রাস করা (Diminish)।"
+  },
+  {
+    "id": "v02-043",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'PLACID':",
+    "options": [
+      "Turbulent / agitated",
+      "Calm",
+      "Peaceful",
+      "Serene"
+    ],
+    "answer": 0,
+    "explanation": "'Placid' means calm and peaceful; its opposite is 'turbulent' or agitated.",
+    "rule": "Antonym: Placid vs Turbulent",
+    "bengaliHint": "শান্ত-র বিপরীত হলো অশান্ত বা বিক্ষুব্ধ (Turbulent)।"
+  },
+  {
+    "id": "v02-044",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'AFFLUENT':",
+    "options": [
+      "Impoverished / poor",
+      "Wealthy",
+      "Prosperous",
+      "Opulent"
+    ],
+    "answer": 0,
+    "explanation": "'Affluent' means wealthy and having great money; its opposite is 'impoverished'.",
+    "rule": "Antonym: Affluent vs Impoverished",
+    "bengaliHint": "ধনী বা সমৃদ্ধের বিপরীত হলো দরিদ্র (Impoverished)।"
+  },
+  {
+    "id": "v02-045",
+    "chapter": "v02",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Introverted / solitary",
+      "Sociable",
+      "Outgoing",
+      "Friendly"
+    ],
+    "answer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable; its opposite is 'solitary' or introverted.",
+    "rule": "Antonym: Gregarious vs Solitary",
+    "bengaliHint": "মিশুকের বিপরীত হলো নিঃসঙ্গপ্রিয় বা একাকী (Solitary)।"
+  },
+  {
+    "id": "v02-046",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Ancient'?",
+    "options": [
+      "Old",
+      "Modern",
+      "Historic",
+      "Archaic"
+    ],
+    "answer": 1,
+    "explanation": "'Modern' is opposite in meaning to 'Ancient'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Ancient'-এর বিপরীত শব্দ হলো 'Modern'।"
+  },
+  {
+    "id": "v02-047",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Bold'?",
+    "options": [
+      "Brave",
+      "Daring",
+      "Timid",
+      "Fearless"
+    ],
+    "answer": 2,
+    "explanation": "'Timid' is opposite in meaning to 'Bold'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Bold'-এর বিপরীত শব্দ হলো 'Timid'।"
+  },
+  {
+    "id": "v02-048",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Brief'?",
+    "options": [
+      "Short",
+      "Lengthy",
+      "Concise",
+      "Quick"
+    ],
+    "answer": 1,
+    "explanation": "'Lengthy' is opposite in meaning to 'Brief'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Brief'-এর বিপরীত শব্দ হলো 'Lengthy'।"
+  },
+  {
+    "id": "v02-049",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Courage'?",
+    "options": [
+      "Bravery",
+      "Valour",
+      "Cowardice",
+      "Boldness"
+    ],
+    "answer": 2,
+    "explanation": "'Cowardice' is opposite in meaning to 'Courage'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Courage'-এর বিপরীত শব্দ হলো 'Cowardice'।"
+  },
+  {
+    "id": "v02-050",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Expand'?",
+    "options": [
+      "Contract",
+      "Grow",
+      "Spread",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Contract' is opposite in meaning to 'Expand'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Expand'-এর বিপরীত শব্দ হলো 'Contract'।"
+  },
+  {
+    "id": "v02-051",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Generous'?",
+    "options": [
+      "Liberal",
+      "Kind",
+      "Stingy",
+      "Noble"
+    ],
+    "answer": 2,
+    "explanation": "'Stingy' is opposite in meaning to 'Generous'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Generous'-এর বিপরীত শব্দ হলো 'Stingy'।"
+  },
+  {
+    "id": "v02-052",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Hostile'?",
+    "options": [
+      "Friendly",
+      "Rude",
+      "Angry",
+      "Fierce"
+    ],
+    "answer": 0,
+    "explanation": "'Friendly' is opposite in meaning to 'Hostile'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Hostile'-এর বিপরীত শব্দ হলো 'Friendly'।"
+  },
+  {
+    "id": "v02-053",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Humble'?",
+    "options": [
+      "Meek",
+      "Modest",
+      "Polite",
+      "Arrogant"
+    ],
+    "answer": 3,
+    "explanation": "'Arrogant' is opposite in meaning to 'Humble'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Humble'-এর বিপরীত শব্দ হলো 'Arrogant'।"
+  },
+  {
+    "id": "v02-054",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Optimistic'?",
+    "options": [
+      "Hopeful",
+      "Pessimistic",
+      "Cheerful",
+      "Positive"
+    ],
+    "answer": 1,
+    "explanation": "'Pessimistic' is opposite in meaning to 'Optimistic'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Optimistic'-এর বিপরীত শব্দ হলো 'Pessimistic'।"
+  },
+  {
+    "id": "v02-055",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Rigid'?",
+    "options": [
+      "Stiff",
+      "Firm",
+      "Flexible",
+      "Strict"
+    ],
+    "answer": 2,
+    "explanation": "'Flexible' is opposite in meaning to 'Rigid'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Rigid'-এর বিপরীত শব্দ হলো 'Flexible'।"
+  },
+  {
+    "id": "v02-056",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Scarce'?",
+    "options": [
+      "Rare",
+      "Abundant",
+      "Few",
+      "Limited"
+    ],
+    "answer": 1,
+    "explanation": "'Abundant' is opposite in meaning to 'Scarce'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Scarce'-এর বিপরীত শব্দ হলো 'Abundant'।"
+  },
+  {
+    "id": "v02-057",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Transparent'?",
+    "options": [
+      "Clear",
+      "Opaque",
+      "Thin",
+      "Visible"
+    ],
+    "answer": 1,
+    "explanation": "'Opaque' is opposite in meaning to 'Transparent'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Transparent'-এর বিপরীত শব্দ হলো 'Opaque'।"
+  },
+  {
+    "id": "v02-058",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Temporary'?",
+    "options": [
+      "Brief",
+      "Short-lived",
+      "Passing",
+      "Permanent"
+    ],
+    "answer": 3,
+    "explanation": "'Permanent' is opposite in meaning to 'Temporary'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Temporary'-এর বিপরীত শব্দ হলো 'Permanent'।"
+  },
+  {
+    "id": "v02-059",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Vague'?",
+    "options": [
+      "Obscure",
+      "Hazy",
+      "Precise",
+      "Unclear"
+    ],
+    "answer": 2,
+    "explanation": "'Precise' is opposite in meaning to 'Vague'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Vague'-এর বিপরীত শব্দ হলো 'Precise'।"
+  },
+  {
+    "id": "v02-060",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Zenith'?",
+    "options": [
+      "Peak",
+      "Summit",
+      "Apex",
+      "Nadir"
+    ],
+    "answer": 3,
+    "explanation": "'Nadir' is opposite in meaning to 'Zenith'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Zenith'-এর বিপরীত শব্দ হলো 'Nadir'।"
+  },
+  {
+    "id": "v02-061",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Ascend'?",
+    "options": [
+      "Climb",
+      "Rise",
+      "Descend",
+      "Mount"
+    ],
+    "answer": 2,
+    "explanation": "'Descend' is opposite in meaning to 'Ascend'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Ascend'-এর বিপরীত শব্দ হলো 'Descend'।"
+  },
+  {
+    "id": "v02-062",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Benevolent'?",
+    "options": [
+      "Kind",
+      "Malevolent",
+      "Generous",
+      "Charitable"
+    ],
+    "answer": 1,
+    "explanation": "'Malevolent' is opposite in meaning to 'Benevolent'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Benevolent'-এর বিপরীত শব্দ হলো 'Malevolent'।"
+  },
+  {
+    "id": "v02-063",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Diligent'?",
+    "options": [
+      "Industrious",
+      "Lazy",
+      "Hardworking",
+      "Active"
+    ],
+    "answer": 1,
+    "explanation": "'Lazy' is opposite in meaning to 'Diligent'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Diligent'-এর বিপরীত শব্দ হলো 'Lazy'।"
+  },
+  {
+    "id": "v02-064",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Fertile'?",
+    "options": [
+      "Barren",
+      "Rich",
+      "Fruitful",
+      "Productive"
+    ],
+    "answer": 0,
+    "explanation": "'Barren' is opposite in meaning to 'Fertile'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Fertile'-এর বিপরীত শব্দ হলো 'Barren'।"
+  },
+  {
+    "id": "v02-065",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Gloomy'?",
+    "options": [
+      "Dark",
+      "Sad",
+      "Cheerful",
+      "Dull"
+    ],
+    "answer": 2,
+    "explanation": "'Cheerful' is opposite in meaning to 'Gloomy'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Gloomy'-এর বিপরীত শব্দ হলো 'Cheerful'।"
+  },
+  {
+    "id": "v02-066",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Harmony'?",
+    "options": [
+      "Unity",
+      "Peace",
+      "Accord",
+      "Discord"
+    ],
+    "answer": 3,
+    "explanation": "'Discord' is opposite in meaning to 'Harmony'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Harmony'-এর বিপরীত শব্দ হলো 'Discord'।"
+  },
+  {
+    "id": "v02-067",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Inferior'?",
+    "options": [
+      "Lower",
+      "Superior",
+      "Minor",
+      "Poor"
+    ],
+    "answer": 1,
+    "explanation": "'Superior' is opposite in meaning to 'Inferior'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Inferior'-এর বিপরীত শব্দ হলো 'Superior'।"
+  },
+  {
+    "id": "v02-068",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Lenient'?",
+    "options": [
+      "Merciful",
+      "Strict",
+      "Mild",
+      "Tolerant"
+    ],
+    "answer": 1,
+    "explanation": "'Strict' is opposite in meaning to 'Lenient'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Lenient'-এর বিপরীত শব্দ হলো 'Strict'।"
+  },
+  {
+    "id": "v02-069",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Novice'?",
+    "options": [
+      "Beginner",
+      "Amateur",
+      "Expert",
+      "Learner"
+    ],
+    "answer": 2,
+    "explanation": "'Expert' is opposite in meaning to 'Novice'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Novice'-এর বিপরীত শব্দ হলো 'Expert'।"
+  },
+  {
+    "id": "v02-070",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Obscure'?",
+    "options": [
+      "Vague",
+      "Hidden",
+      "Clear",
+      "Dim"
+    ],
+    "answer": 2,
+    "explanation": "'Clear' is opposite in meaning to 'Obscure'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Obscure'-এর বিপরীত শব্দ হলো 'Clear'।"
+  },
+  {
+    "id": "v02-071",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Prodigal'?",
+    "options": [
+      "Wasteful",
+      "Extravagant",
+      "Lavish",
+      "Thrifty"
+    ],
+    "answer": 3,
+    "explanation": "'Thrifty' is opposite in meaning to 'Prodigal'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Prodigal'-এর বিপরীত শব্দ হলো 'Thrifty'।"
+  },
+  {
+    "id": "v02-072",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Reluctant'?",
+    "options": [
+      "Unwilling",
+      "Eager",
+      "Hesitant",
+      "Loath"
+    ],
+    "answer": 1,
+    "explanation": "'Eager' is opposite in meaning to 'Reluctant'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Reluctant'-এর বিপরীত শব্দ হলো 'Eager'।"
+  },
+  {
+    "id": "v02-073",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Tranquil'?",
+    "options": [
+      "Calm",
+      "Peaceful",
+      "Turbulent",
+      "Quiet"
+    ],
+    "answer": 2,
+    "explanation": "'Turbulent' is opposite in meaning to 'Tranquil'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Tranquil'-এর বিপরীত শব্দ হলো 'Turbulent'।"
+  },
+  {
+    "id": "v02-074",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Valid'?",
+    "options": [
+      "Legal",
+      "Sound",
+      "Genuine",
+      "Invalid"
+    ],
+    "answer": 3,
+    "explanation": "'Invalid' is opposite in meaning to 'Valid'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Valid'-এর বিপরীত শব্দ হলো 'Invalid'।"
+  },
+  {
+    "id": "v02-075",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Wisdom'?",
+    "options": [
+      "Folly",
+      "Knowledge",
+      "Sense",
+      "Insight"
+    ],
+    "answer": 0,
+    "explanation": "'Folly' is opposite in meaning to 'Wisdom'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Wisdom'-এর বিপরীত শব্দ হলো 'Folly'।"
+  },
+  {
+    "id": "v02-076",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Frequent'?",
+    "options": [
+      "Common",
+      "Rare",
+      "Regular",
+      "Usual"
+    ],
+    "answer": 1,
+    "explanation": "'Rare' is opposite in meaning to 'Frequent'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Frequent'-এর বিপরীত শব্দ হলো 'Rare'।"
+  },
+  {
+    "id": "v02-077",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Accept'?",
+    "options": [
+      "Reject",
+      "Receive",
+      "Take",
+      "Agree"
+    ],
+    "answer": 0,
+    "explanation": "'Reject' is opposite in meaning to 'Accept'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Accept'-এর বিপরীত শব্দ হলো 'Reject'।"
+  },
+  {
+    "id": "v02-078",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Victory'?",
+    "options": [
+      "Triumph",
+      "Success",
+      "Defeat",
+      "Win"
+    ],
+    "answer": 2,
+    "explanation": "'Defeat' is opposite in meaning to 'Victory'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Victory'-এর বিপরীত শব্দ হলো 'Defeat'।"
+  },
+  {
+    "id": "v02-079",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Conceal'?",
+    "options": [
+      "Hide",
+      "Reveal",
+      "Cover",
+      "Bury"
+    ],
+    "answer": 1,
+    "explanation": "'Reveal' is opposite in meaning to 'Conceal'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Conceal'-এর বিপরীত শব্দ হলো 'Reveal'।"
+  },
+  {
+    "id": "v02-080",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Inflate'?",
+    "options": [
+      "Expand",
+      "Swell",
+      "Deflate",
+      "Enlarge"
+    ],
+    "answer": 2,
+    "explanation": "'Deflate' is opposite in meaning to 'Inflate'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Inflate'-এর বিপরীত শব্দ হলো 'Deflate'।"
+  },
+  {
+    "id": "v02-081",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Abundant'?",
+    "options": [
+      "Plentiful",
+      "Scanty",
+      "Ample",
+      "Rich"
+    ],
+    "answer": 1,
+    "explanation": "'Scanty' is opposite in meaning to 'Abundant'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Abundant'-এর বিপরীত শব্দ হলো 'Scanty'।"
+  },
+  {
+    "id": "v02-082",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Ephemeral'?",
+    "options": [
+      "Brief",
+      "Fleeting",
+      "Eternal",
+      "Momentary"
+    ],
+    "answer": 2,
+    "explanation": "'Eternal' is opposite in meaning to 'Ephemeral'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Ephemeral'-এর বিপরীত শব্দ হলো 'Eternal'।"
+  },
+  {
+    "id": "v02-083",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Candid'?",
+    "options": [
+      "Frank",
+      "Open",
+      "Honest",
+      "Deceitful"
+    ],
+    "answer": 3,
+    "explanation": "'Deceitful' is opposite in meaning to 'Candid'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Candid'-এর বিপরীত শব্দ হলো 'Deceitful'।"
+  },
+  {
+    "id": "v02-084",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Arrogant'?",
+    "options": [
+      "Proud",
+      "Haughty",
+      "Modest",
+      "Vain"
+    ],
+    "answer": 2,
+    "explanation": "'Modest' is opposite in meaning to 'Arrogant'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Arrogant'-এর বিপরীত শব্দ হলো 'Modest'।"
+  },
+  {
+    "id": "v02-085",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Sane'?",
+    "options": [
+      "Rational",
+      "Insane",
+      "Sensible",
+      "Normal"
+    ],
+    "answer": 1,
+    "explanation": "'Insane' is opposite in meaning to 'Sane'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Sane'-এর বিপরীত শব্দ হলো 'Insane'।"
+  },
+  {
+    "id": "v02-086",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Absent'?",
+    "options": [
+      "Missing",
+      "Away",
+      "Present",
+      "Gone"
+    ],
+    "answer": 2,
+    "explanation": "'Present' is opposite in meaning to 'Absent'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Absent'-এর বিপরীত শব্দ হলো 'Present'।"
+  },
+  {
+    "id": "v02-087",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Admire'?",
+    "options": [
+      "Respect",
+      "Praise",
+      "Despise",
+      "Honour"
+    ],
+    "answer": 2,
+    "explanation": "'Despise' is opposite in meaning to 'Admire'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Admire'-এর বিপরীত শব্দ হলো 'Despise'।"
+  },
+  {
+    "id": "v02-088",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Adversity'?",
+    "options": [
+      "Hardship",
+      "Prosperity",
+      "Trouble",
+      "Misery"
+    ],
+    "answer": 1,
+    "explanation": "'Prosperity' is opposite in meaning to 'Adversity'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Adversity'-এর বিপরীত শব্দ হলো 'Prosperity'।"
+  },
+  {
+    "id": "v02-089",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Affluence'?",
+    "options": [
+      "Wealth",
+      "Riches",
+      "Abundance",
+      "Poverty"
+    ],
+    "answer": 3,
+    "explanation": "'Poverty' is opposite in meaning to 'Affluence'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Affluence'-এর বিপরীত শব্দ হলো 'Poverty'।"
+  },
+  {
+    "id": "v02-090",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Amateur'?",
+    "options": [
+      "Beginner",
+      "Novice",
+      "Professional",
+      "Learner"
+    ],
+    "answer": 2,
+    "explanation": "'Professional' is opposite in meaning to 'Amateur'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Amateur'-এর বিপরীত শব্দ হলো 'Professional'।"
+  },
+  {
+    "id": "v02-091",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Approve'?",
+    "options": [
+      "Disapprove",
+      "Permit",
+      "Allow",
+      "Accept"
+    ],
+    "answer": 0,
+    "explanation": "'Disapprove' is opposite in meaning to 'Approve'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Approve'-এর বিপরীত শব্দ হলো 'Disapprove'।"
+  },
+  {
+    "id": "v02-092",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Artificial'?",
+    "options": [
+      "Fake",
+      "Natural",
+      "Synthetic",
+      "False"
+    ],
+    "answer": 1,
+    "explanation": "'Natural' is opposite in meaning to 'Artificial'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Artificial'-এর বিপরীত শব্দ হলো 'Natural'।"
+  },
+  {
+    "id": "v02-093",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Attract'?",
+    "options": [
+      "Draw",
+      "Pull",
+      "Repel",
+      "Invite"
+    ],
+    "answer": 2,
+    "explanation": "'Repel' is opposite in meaning to 'Attract'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Attract'-এর বিপরীত শব্দ হলো 'Repel'।"
+  },
+  {
+    "id": "v02-094",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Blame'?",
+    "options": [
+      "Accuse",
+      "Condemn",
+      "Criticise",
+      "Praise"
+    ],
+    "answer": 3,
+    "explanation": "'Praise' is opposite in meaning to 'Blame'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Blame'-এর বিপরীত শব্দ হলো 'Praise'।"
+  },
+  {
+    "id": "v02-095",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Brave'?",
+    "options": [
+      "Cowardly",
+      "Bold",
+      "Daring",
+      "Heroic"
+    ],
+    "answer": 0,
+    "explanation": "'Cowardly' is opposite in meaning to 'Brave'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Brave'-এর বিপরীত শব্দ হলো 'Cowardly'।"
+  },
+  {
+    "id": "v02-096",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Cheap'?",
+    "options": [
+      "Low",
+      "Expensive",
+      "Affordable",
+      "Economical"
+    ],
+    "answer": 1,
+    "explanation": "'Expensive' is opposite in meaning to 'Cheap'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Cheap'-এর বিপরীত শব্দ হলো 'Expensive'।"
+  },
+  {
+    "id": "v02-097",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Combine'?",
+    "options": [
+      "Join",
+      "Unite",
+      "Separate",
+      "Merge"
+    ],
+    "answer": 2,
+    "explanation": "'Separate' is opposite in meaning to 'Combine'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Combine'-এর বিপরীত শব্দ হলো 'Separate'।"
+  },
+  {
+    "id": "v02-098",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Complex'?",
+    "options": [
+      "Complicated",
+      "Simple",
+      "Intricate",
+      "Tangled"
+    ],
+    "answer": 1,
+    "explanation": "'Simple' is opposite in meaning to 'Complex'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Complex'-এর বিপরীত শব্দ হলো 'Simple'।"
+  },
+  {
+    "id": "v02-099",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Compulsory'?",
+    "options": [
+      "Mandatory",
+      "Obligatory",
+      "Required",
+      "Optional"
+    ],
+    "answer": 3,
+    "explanation": "'Optional' is opposite in meaning to 'Compulsory'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Compulsory'-এর বিপরীত শব্দ হলো 'Optional'।"
+  },
+  {
+    "id": "v02-100",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Condemn'?",
+    "options": [
+      "Applaud",
+      "Blame",
+      "Censure",
+      "Denounce"
+    ],
+    "answer": 0,
+    "explanation": "'Applaud' is opposite in meaning to 'Condemn'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Condemn'-এর বিপরীত শব্দ হলো 'Applaud'।"
+  },
+  {
+    "id": "v02-101",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Constant'?",
+    "options": [
+      "Steady",
+      "Fixed",
+      "Variable",
+      "Stable"
+    ],
+    "answer": 2,
+    "explanation": "'Variable' is opposite in meaning to 'Constant'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Constant'-এর বিপরীত শব্দ হলো 'Variable'।"
+  },
+  {
+    "id": "v02-102",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Cruel'?",
+    "options": [
+      "Brutal",
+      "Kind",
+      "Harsh",
+      "Savage"
+    ],
+    "answer": 1,
+    "explanation": "'Kind' is opposite in meaning to 'Cruel'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Cruel'-এর বিপরীত শব্দ হলো 'Kind'।"
+  },
+  {
+    "id": "v02-103",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Defend'?",
+    "options": [
+      "Protect",
+      "Guard",
+      "Shield",
+      "Attack"
+    ],
+    "answer": 3,
+    "explanation": "'Attack' is opposite in meaning to 'Defend'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Defend'-এর বিপরীত শব্দ হলো 'Attack'।"
+  },
+  {
+    "id": "v02-104",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Deliberate'?",
+    "options": [
+      "Intentional",
+      "Accidental",
+      "Planned",
+      "Purposeful"
+    ],
+    "answer": 1,
+    "explanation": "'Accidental' is opposite in meaning to 'Deliberate'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Deliberate'-এর বিপরীত শব্দ হলো 'Accidental'।"
+  },
+  {
+    "id": "v02-105",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Dense'?",
+    "options": [
+      "Thick",
+      "Compact",
+      "Sparse",
+      "Packed"
+    ],
+    "answer": 2,
+    "explanation": "'Sparse' is opposite in meaning to 'Dense'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Dense'-এর বিপরীত শব্দ হলো 'Sparse'।"
+  },
+  {
+    "id": "v02-106",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Departure'?",
+    "options": [
+      "Exit",
+      "Arrival",
+      "Leaving",
+      "Going"
+    ],
+    "answer": 1,
+    "explanation": "'Arrival' is opposite in meaning to 'Departure'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Departure'-এর বিপরীত শব্দ হলো 'Arrival'।"
+  },
+  {
+    "id": "v02-107",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Domestic'?",
+    "options": [
+      "Foreign",
+      "Local",
+      "Native",
+      "Household"
+    ],
+    "answer": 0,
+    "explanation": "'Foreign' is opposite in meaning to 'Domestic'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Domestic'-এর বিপরীত শব্দ হলো 'Foreign'।"
+  },
+  {
+    "id": "v02-108",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Dull'?",
+    "options": [
+      "Blunt",
+      "Boring",
+      "Sharp",
+      "Slow"
+    ],
+    "answer": 2,
+    "explanation": "'Sharp' is opposite in meaning to 'Dull'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Dull'-এর বিপরীত শব্দ হলো 'Sharp'।"
+  },
+  {
+    "id": "v02-109",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Empty'?",
+    "options": [
+      "Vacant",
+      "Hollow",
+      "Blank",
+      "Full"
+    ],
+    "answer": 3,
+    "explanation": "'Full' is opposite in meaning to 'Empty'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Empty'-এর বিপরীত শব্দ হলো 'Full'।"
+  },
+  {
+    "id": "v02-110",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Evil'?",
+    "options": [
+      "Wicked",
+      "Virtuous",
+      "Sinful",
+      "Vile"
+    ],
+    "answer": 1,
+    "explanation": "'Virtuous' is opposite in meaning to 'Evil'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Evil'-এর বিপরীত শব্দ হলো 'Virtuous'।"
+  },
+  {
+    "id": "v02-111",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Exterior'?",
+    "options": [
+      "Outside",
+      "Outer",
+      "External",
+      "Interior"
+    ],
+    "answer": 3,
+    "explanation": "'Interior' is opposite in meaning to 'Exterior'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Exterior'-এর বিপরীত শব্দ হলো 'Interior'।"
+  },
+  {
+    "id": "v02-112",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Fake'?",
+    "options": [
+      "Genuine",
+      "False",
+      "Bogus",
+      "Sham"
+    ],
+    "answer": 0,
+    "explanation": "'Genuine' is opposite in meaning to 'Fake'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Fake'-এর বিপরীত শব্দ হলো 'Genuine'।"
+  },
+  {
+    "id": "v02-113",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Fiction'?",
+    "options": [
+      "Story",
+      "Myth",
+      "Fact",
+      "Legend"
+    ],
+    "answer": 2,
+    "explanation": "'Fact' is opposite in meaning to 'Fiction'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Fiction'-এর বিপরীত শব্দ হলো 'Fact'।"
+  },
+  {
+    "id": "v02-114",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Guilty'?",
+    "options": [
+      "Innocent",
+      "Culpable",
+      "Blameworthy",
+      "Criminal"
+    ],
+    "answer": 0,
+    "explanation": "'Innocent' is opposite in meaning to 'Guilty'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Guilty'-এর বিপরীত শব্দ হলো 'Innocent'।"
+  },
+  {
+    "id": "v02-115",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Hasty'?",
+    "options": [
+      "Quick",
+      "Leisurely",
+      "Rapid",
+      "Rushed"
+    ],
+    "answer": 1,
+    "explanation": "'Leisurely' is opposite in meaning to 'Hasty'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Hasty'-এর বিপরীত শব্দ হলো 'Leisurely'।"
+  },
+  {
+    "id": "v02-116",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Idle'?",
+    "options": [
+      "Lazy",
+      "Inactive",
+      "Busy",
+      "Sluggish"
+    ],
+    "answer": 2,
+    "explanation": "'Busy' is opposite in meaning to 'Idle'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Idle'-এর বিপরীত শব্দ হলো 'Busy'।"
+  },
+  {
+    "id": "v02-117",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Imprison'?",
+    "options": [
+      "Jail",
+      "Confine",
+      "Release",
+      "Detain"
+    ],
+    "answer": 2,
+    "explanation": "'Release' is opposite in meaning to 'Imprison'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Imprison'-এর বিপরীত শব্দ হলো 'Release'।"
+  },
+  {
+    "id": "v02-118",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Include'?",
+    "options": [
+      "Contain",
+      "Add",
+      "Embrace",
+      "Exclude"
+    ],
+    "answer": 3,
+    "explanation": "'Exclude' is opposite in meaning to 'Include'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Include'-এর বিপরীত শব্দ হলো 'Exclude'।"
+  },
+  {
+    "id": "v02-119",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Joy'?",
+    "options": [
+      "Delight",
+      "Sorrow",
+      "Pleasure",
+      "Glee"
+    ],
+    "answer": 1,
+    "explanation": "'Sorrow' is opposite in meaning to 'Joy'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Joy'-এর বিপরীত শব্দ হলো 'Sorrow'।"
+  },
+  {
+    "id": "v02-120",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Lofty'?",
+    "options": [
+      "Tall",
+      "Lowly",
+      "High",
+      "Elevated"
+    ],
+    "answer": 1,
+    "explanation": "'Lowly' is opposite in meaning to 'Lofty'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Lofty'-এর বিপরীত শব্দ হলো 'Lowly'।"
+  },
+  {
+    "id": "v02-121",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Majority'?",
+    "options": [
+      "Most",
+      "Bulk",
+      "Minority",
+      "Mass"
+    ],
+    "answer": 2,
+    "explanation": "'Minority' is opposite in meaning to 'Majority'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Majority'-এর বিপরীত শব্দ হলো 'Minority'।"
+  },
+  {
+    "id": "v02-122",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Maximum'?",
+    "options": [
+      "Highest",
+      "Greatest",
+      "Utmost",
+      "Minimum"
+    ],
+    "answer": 3,
+    "explanation": "'Minimum' is opposite in meaning to 'Maximum'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Maximum'-এর বিপরীত শব্দ হলো 'Minimum'।"
+  },
+  {
+    "id": "v02-123",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Mild'?",
+    "options": [
+      "Gentle",
+      "Harsh",
+      "Soft",
+      "Tender"
+    ],
+    "answer": 1,
+    "explanation": "'Harsh' is opposite in meaning to 'Mild'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Mild'-এর বিপরীত শব্দ হলো 'Harsh'।"
+  },
+  {
+    "id": "v02-124",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Mortal'?",
+    "options": [
+      "Human",
+      "Fatal",
+      "Immortal",
+      "Deadly"
+    ],
+    "answer": 2,
+    "explanation": "'Immortal' is opposite in meaning to 'Mortal'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Mortal'-এর বিপরীত শব্দ হলো 'Immortal'।"
+  },
+  {
+    "id": "v02-125",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Negligent'?",
+    "options": [
+      "Careless",
+      "Careful",
+      "Lax",
+      "Remiss"
+    ],
+    "answer": 1,
+    "explanation": "'Careful' is opposite in meaning to 'Negligent'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Negligent'-এর বিপরীত শব্দ হলো 'Careful'।"
+  },
+  {
+    "id": "v02-126",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Often'?",
+    "options": [
+      "Seldom",
+      "Frequently",
+      "Usually",
+      "Regularly"
+    ],
+    "answer": 0,
+    "explanation": "'Seldom' is opposite in meaning to 'Often'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Often'-এর বিপরীত শব্দ হলো 'Seldom'।"
+  },
+  {
+    "id": "v02-127",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Polite'?",
+    "options": [
+      "Courteous",
+      "Civil",
+      "Gracious",
+      "Rude"
+    ],
+    "answer": 3,
+    "explanation": "'Rude' is opposite in meaning to 'Polite'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Polite'-এর বিপরীত শব্দ হলো 'Rude'।"
+  },
+  {
+    "id": "v02-128",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Rapid'?",
+    "options": [
+      "Swift",
+      "Quick",
+      "Slow",
+      "Fast"
+    ],
+    "answer": 2,
+    "explanation": "'Slow' is opposite in meaning to 'Rapid'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Rapid'-এর বিপরীত শব্দ হলো 'Slow'।"
+  },
+  {
+    "id": "v02-129",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Rural'?",
+    "options": [
+      "Urban",
+      "Rustic",
+      "Pastoral",
+      "Country"
+    ],
+    "answer": 0,
+    "explanation": "'Urban' is opposite in meaning to 'Rural'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Rural'-এর বিপরীত শব্দ হলো 'Urban'।"
+  },
+  {
+    "id": "v02-130",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Strengthen'?",
+    "options": [
+      "Reinforce",
+      "Weaken",
+      "Fortify",
+      "Harden"
+    ],
+    "answer": 1,
+    "explanation": "'Weaken' is opposite in meaning to 'Strengthen'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Strengthen'-এর বিপরীত শব্দ হলো 'Weaken'।"
+  },
+  {
+    "id": "v02-131",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Sturdy'?",
+    "options": [
+      "Strong",
+      "Robust",
+      "Firm",
+      "Frail"
+    ],
+    "answer": 3,
+    "explanation": "'Frail' is opposite in meaning to 'Sturdy'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Sturdy'-এর বিপরীত শব্দ হলো 'Frail'।"
+  },
+  {
+    "id": "v02-132",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Sweet'?",
+    "options": [
+      "Sugary",
+      "Bitter",
+      "Pleasant",
+      "Honeyed"
+    ],
+    "answer": 1,
+    "explanation": "'Bitter' is opposite in meaning to 'Sweet'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Sweet'-এর বিপরীত শব্দ হলো 'Bitter'।"
+  },
+  {
+    "id": "v02-133",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Zeal'?",
+    "options": [
+      "Passion",
+      "Ardour",
+      "Apathy",
+      "Eagerness"
+    ],
+    "answer": 2,
+    "explanation": "'Apathy' is opposite in meaning to 'Zeal'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Zeal'-এর বিপরীত শব্দ হলো 'Apathy'।"
+  },
+  {
+    "id": "v02-134",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Vice'?",
+    "options": [
+      "Sin",
+      "Evil",
+      "Wickedness",
+      "Virtue"
+    ],
+    "answer": 3,
+    "explanation": "'Virtue' is opposite in meaning to 'Vice'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Vice'-এর বিপরীত শব্দ হলো 'Virtue'।"
+  },
+  {
+    "id": "v02-135",
+    "chapter": "v02",
+    "type": "antonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the antonym of 'Gather'?",
+    "options": [
+      "Collect",
+      "Scatter",
+      "Assemble",
+      "Amass"
+    ],
+    "answer": 1,
+    "explanation": "'Scatter' is opposite in meaning to 'Gather'.",
+    "rule": "Antonyms & Contrast Clues",
+    "bengaliHint": "'Gather'-এর বিপরীত শব্দ হলো 'Scatter'।"
+  }
+]

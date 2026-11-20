@@ -1,0 +1,128 @@
+const fs = require('fs');
+
+const rawData = [
+  { q: "Synonym of: Abandon", opts: ["Forsake", "Retain", "Cherish", "Adopt"], ans: "a" },
+  { q: "Synonym of: Abate", opts: ["Increase", "Subside", "Provoke", "Begin"], ans: "b" },
+  { q: "Synonym of: Candid", opts: ["Frank", "Secretive", "Shy", "Rude"], ans: "a" },
+  { q: "Synonym of: Diligent", opts: ["Careless", "Idle", "Industrious", "Dull"], ans: "c" },
+  { q: "Synonym of: Eminent", opts: ["Obscure", "Distinguished", "Ordinary", "Immediate"], ans: "b" },
+  { q: "Synonym of: Feeble", opts: ["Strong", "Sturdy", "Weak", "Brave"], ans: "c" },
+  { q: "Synonym of: Gratify", opts: ["Annoy", "Satisfy", "Refuse", "Delay"], ans: "b" },
+  { q: "Synonym of: Hostile", opts: ["Antagonistic", "Amiable", "Gentle", "Loyal"], ans: "a" },
+  { q: "Synonym of: Innocuous", opts: ["Poisonous", "Harmful", "Harmless", "Loud"], ans: "c" },
+  { q: "Synonym of: Jovial", opts: ["Gloomy", "Cheerful", "Angry", "Serious"], ans: "b" },
+  { q: "Synonym of: Keen", opts: ["Dull", "Eager", "Lazy", "Slow"], ans: "b" },
+  { q: "Synonym of: Lucid", opts: ["Confusing", "Dark", "Clear", "Heavy"], ans: "c" },
+  { q: "Synonym of: Meagre", opts: ["Scanty", "Ample", "Rich", "Plentiful"], ans: "a" },
+  { q: "Synonym of: Novel", opts: ["Old", "Ancient", "Usual", "New"], ans: "d" },
+  { q: "Synonym of: Obstinate", opts: ["Flexible", "Stubborn", "Docile", "Willing"], ans: "b" },
+  { q: "Synonym of: Pragmatic", opts: ["Idealistic", "Practical", "Theoretical", "Dreamy"], ans: "b" },
+  { q: "Synonym of: Quell", opts: ["Encourage", "Ignite", "Suppress", "Spread"], ans: "c" },
+  { q: "Synonym of: Reluctant", opts: ["Eager", "Willing", "Keen", "Unwilling"], ans: "d" },
+  { q: "Synonym of: Scrutinize", opts: ["Examine", "Ignore", "Glance", "Admire"], ans: "a" },
+  { q: "Synonym of: Tenacious", opts: ["Weak", "Persistent", "Fickle", "Lazy"], ans: "b" },
+  { q: "Synonym of: Ubiquitous", opts: ["Rare", "Omnipresent", "Unique", "Hidden"], ans: "b" },
+  { q: "Synonym of: Vigilant", opts: ["Careless", "Sleepy", "Watchful", "Calm"], ans: "c" },
+  { q: "Synonym of: Wary", opts: ["Reckless", "Cautious", "Bold", "Careless"], ans: "b" },
+  { q: "Synonym of: Ameliorate", opts: ["Worsen", "Improve", "Ignore", "Destroy"], ans: "b" },
+  { q: "Synonym of: Benevolent", opts: ["Cruel", "Kind", "Selfish", "Mean"], ans: "b" },
+  { q: "Synonym of: Concur", opts: ["Disagree", "Oppose", "Agree", "Argue"], ans: "c" },
+  { q: "Synonym of: Dubious", opts: ["Certain", "Doubtful", "Sure", "Clear"], ans: "b" },
+  { q: "Synonym of: Elated", opts: ["Depressed", "Overjoyed", "Tired", "Angry"], ans: "b" },
+  { q: "Synonym of: Frugal", opts: ["Wasteful", "Extravagant", "Thrifty", "Generous"], ans: "c" },
+  { q: "Synonym of: Garrulous", opts: ["Silent", "Talkative", "Shy", "Rude"], ans: "b" },
+  { q: "Synonym of: Haughty", opts: ["Humble", "Arrogant", "Polite", "Meek"], ans: "b" },
+  { q: "Synonym of: Impetuous", opts: ["Careful", "Cautious", "Hasty", "Patient"], ans: "c" },
+  { q: "Synonym of: Lethargic", opts: ["Energetic", "Sluggish", "Lively", "Quick"], ans: "b" },
+  { q: "Synonym of: Mundane", opts: ["Extraordinary", "Ordinary", "Thrilling", "Rare"], ans: "b" },
+  { q: "Synonym of: Nefarious", opts: ["Virtuous", "Noble", "Wicked", "Pleasant"], ans: "c" },
+  { q: "Synonym of: Oblivious", opts: ["Aware", "Unaware", "Alert", "Mindful"], ans: "b" },
+  { q: "Synonym of: Placid", opts: ["Calm", "Violent", "Noisy", "Furious"], ans: "a" },
+  { q: "Synonym of: Rebuke", opts: ["Praise", "Reward", "Reprimand", "Encourage"], ans: "c" },
+  { q: "Synonym of: Serene", opts: ["Peaceful", "Stormy", "Chaotic", "Rough"], ans: "a" },
+  { q: "Synonym of: Trivial", opts: ["Important", "Petty", "Crucial", "Serious"], ans: "b" },
+  { q: "Synonym of: Verbose", opts: ["Brief", "Concise", "Wordy", "Silent"], ans: "c" },
+  { q: "Synonym of: Abundant", opts: ["Scarce", "Plentiful", "Rare", "Limited"], ans: "b" },
+  { q: "Synonym of: Adversity", opts: ["Prosperity", "Hardship", "Luck", "Ease"], ans: "b" },
+  { q: "Synonym of: Conceal", opts: ["Reveal", "Expose", "Hide", "Display"], ans: "c" },
+  { q: "Synonym of: Eloquent", opts: ["Fluent", "Mute", "Clumsy", "Hesitant"], ans: "a" },
+  { q: "Synonym of: Acumen", opts: ["Ignorance", "Folly", "Keenness", "Delay"], ans: "c" },
+  { q: "Synonym of: Adept", opts: ["Clumsy", "Skilful", "Slow", "Rude"], ans: "b" },
+  { q: "Synonym of: Allay", opts: ["Aggravate", "Provoke", "Stir", "Soothe"], ans: "d" },
+  { q: "Synonym of: Amiable", opts: ["Hostile", "Sullen", "Friendly", "Bitter"], ans: "c" },
+  { q: "Synonym of: Anguish", opts: ["Joy", "Agony", "Relief", "Calm"], ans: "b" },
+  { q: "Synonym of: Apathy", opts: ["Enthusiasm", "Passion", "Zeal", "Indifference"], ans: "d" },
+  { q: "Synonym of: Arduous", opts: ["Easy", "Simple", "Difficult", "Pleasant"], ans: "c" },
+  { q: "Synonym of: Audacious", opts: ["Timid", "Bold", "Shy", "Fearful"], ans: "b" },
+  { q: "Synonym of: Austere", opts: ["Luxurious", "Indulgent", "Stern", "Lenient"], ans: "c" },
+  { q: "Synonym of: Baffle", opts: ["Explain", "Puzzle", "Clarify", "Solve"], ans: "b" },
+  { q: "Synonym of: Blunder", opts: ["Success", "Triumph", "Mistake", "Skill"], ans: "c" },
+  { q: "Synonym of: Brisk", opts: ["Slow", "Quick", "Lazy", "Dull"], ans: "b" },
+  { q: "Synonym of: Callous", opts: ["Kind", "Heartless", "Gentle", "Tender"], ans: "b" },
+  { q: "Synonym of: Cease", opts: ["Begin", "Continue", "Stop", "Start"], ans: "c" },
+  { q: "Synonym of: Coerce", opts: ["Invite", "Allow", "Request", "Force"], ans: "d" },
+  { q: "Synonym of: Condone", opts: ["Punish", "Forgive", "Condemn", "Blame"], ans: "b" },
+  { q: "Synonym of: Contempt", opts: ["Respect", "Admiration", "Scorn", "Praise"], ans: "c" },
+  { q: "Synonym of: Copious", opts: ["Scanty", "Plentiful", "Rare", "Few"], ans: "b" },
+  { q: "Synonym of: Cunning", opts: ["Honest", "Crafty", "Simple", "Naive"], ans: "b" },
+  { q: "Synonym of: Deter", opts: ["Encourage", "Prompt", "Urge", "Discourage"], ans: "d" },
+  { q: "Synonym of: Devout", opts: ["Pious", "Wicked", "Careless", "Atheistic"], ans: "a" },
+  { q: "Synonym of: Dilemma", opts: ["Solution", "Predicament", "Answer", "Plan"], ans: "b" },
+  { q: "Synonym of: Elude", opts: ["Catch", "Evade", "Face", "Seize"], ans: "b" },
+  { q: "Synonym of: Emancipate", opts: ["Imprison", "Enslave", "Liberate", "Bind"], ans: "c" },
+  { q: "Synonym of: Endeavour", opts: ["Neglect", "Attempt", "Avoid", "Ignore"], ans: "b" },
+  { q: "Synonym of: Stagnant", opts: ["Flowing", "Active", "Rushing", "Motionless"], ans: "d" },
+  { q: "Synonym of: Fabricate", opts: ["Destroy", "Invent", "Discover", "Repair"], ans: "b" },
+  { q: "Synonym of: Fervent", opts: ["Cold", "Indifferent", "Passionate", "Mild"], ans: "c" },
+  { q: "Synonym of: Futile", opts: ["Useful", "Fruitful", "Effective", "Useless"], ans: "d" },
+  { q: "Synonym of: Gaudy", opts: ["Plain", "Showy", "Dull", "Subtle"], ans: "b" },
+  { q: "Synonym of: Hamper", opts: ["Help", "Hinder", "Assist", "Speed"], ans: "b" },
+  { q: "Synonym of: Humble", opts: ["Proud", "Arrogant", "Modest", "Vain"], ans: "c" },
+  { q: "Synonym of: Illustrious", opts: ["Unknown", "Famous", "Obscure", "Humble"], ans: "b" },
+  { q: "Synonym of: Immense", opts: ["Tiny", "Small", "Huge", "Narrow"], ans: "c" },
+  { q: "Synonym of: Inept", opts: ["Skilled", "Clumsy", "Clever", "Expert"], ans: "b" },
+  { q: "Synonym of: Jeopardy", opts: ["Safety", "Security", "Danger", "Shelter"], ans: "c" },
+  { q: "Synonym of: Lament", opts: ["Rejoice", "Celebrate", "Mourn", "Praise"], ans: "c" },
+  { q: "Synonym of: Lavish", opts: ["Extravagant", "Meagre", "Poor", "Plain"], ans: "a" },
+  { q: "Synonym of: Meticulous", opts: ["Careless", "Sloppy", "Hasty", "Painstaking"], ans: "d" },
+  { q: "Synonym of: Notorious", opts: ["Admired", "Infamous", "Unknown", "Revered"], ans: "b" },
+  { q: "Synonym of: Opulent", opts: ["Poor", "Wealthy", "Needy", "Bare"], ans: "b" },
+  { q: "Synonym of: Pacify", opts: ["Anger", "Provoke", "Appease", "Irritate"], ans: "c" },
+  { q: "Synonym of: Perilous", opts: ["Safe", "Secure", "Harmless", "Hazardous"], ans: "d" },
+  { q: "Synonym of: Prudent", opts: ["Foolish", "Wise", "Reckless", "Rash"], ans: "b" },
+  { q: "Synonym of: Ruthless", opts: ["Merciful", "Gentle", "Merciless", "Kind"], ans: "c" },
+  { q: "Synonym of: Sagacious", opts: ["Foolish", "Shrewd", "Dull", "Naive"], ans: "b" },
+  { q: "Synonym of: Tedious", opts: ["Exciting", "Thrilling", "Boring", "Lively"], ans: "c" },
+  { q: "Synonym of: Vanish", opts: ["Appear", "Emerge", "Arrive", "Disappear"], ans: "d" },
+  { q: "Synonym of: Vacant", opts: ["Full", "Empty", "Crowded", "Busy"], ans: "b" },
+  { q: "Synonym of: Wrath", opts: ["Calm", "Joy", "Peace", "Anger"], ans: "d" }
+];
+
+const letterMap = { a: 0, b: 1, c: 2, d: 3 };
+const filePath = 'data/questions/vocabulary/01-synonyms.json';
+const existing = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+
+let startId = 46;
+const newQuestions = rawData.map((item, idx) => {
+  const ansIdx = letterMap[item.ans];
+  const correctWord = item.opts[ansIdx];
+  const targetWord = item.q.replace("Synonym of: ", "").trim();
+  const qNum = String(startId + idx).padStart(3, '0');
+  return {
+    id: `v01-${qNum}`,
+    chapter: "v01",
+    type: "synonym",
+    difficulty: (idx % 3 === 0) ? "easy" : (idx % 3 === 1) ? "medium" : "hard",
+    isPYQ: false,
+    question: `What is the synonym of '${targetWord}'?`,
+    options: item.opts,
+    answer: ansIdx,
+    explanation: `'${correctWord}' is closest in meaning to '${targetWord}'.`,
+    rule: "Synonyms & Contextual Equivalents",
+    bengaliHint: `'${targetWord}'-এর সমার্থক শব্দ হলো '${correctWord}'।`
+  };
+});
+
+const updated = existing.concat(newQuestions);
+fs.writeFileSync(filePath, JSON.stringify(updated, null, 2), 'utf8');
+console.log(`v01: successfully added ${newQuestions.length} questions. Total now: ${updated.length}`);

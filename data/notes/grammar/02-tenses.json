@@ -1,0 +1,120 @@
+{
+  "id": "g02",
+  "title": "Tenses & Timeline Mastery",
+  "intro": "Tenses indicate the time and aspect of an action or state of being. In the WBPSC Clerkship examination, direct questions on basic tense identification are rare. The examination intensely tests tense concordance (conditional sequences, reported speech adjustments, perfect aspect with 'since/for', and the distinction between Past Simple and Past Perfect in sequential narratives).",
+  "bengali": "ইংরেজি ব্যাকরণে Tense কেবল সময় (Time) বোঝায় না, বরং কাজটি কোন অবস্থায় সম্পন্ন হয়েছে (Aspect) তাও নির্দেশ করে। Tense মূলত তিন প্রকার: Present, Past ও Future—প্রতিটির চারটি করে রূপ রয়েছে (Simple, Continuous, Perfect, Perfect Continuous)।\n\nWBPSC পরীক্ষায় সবচেয়ে বেশি আসে যেসব জায়গা থেকে:\n১. Past Indefinite বনাম Past Perfect: অতীতে দুটি কাজ পরপর সম্পন্ন হলে যে কাজটি অপেক্ষাকৃত আগে ঘটেছিল তা Past Perfect (had + V3) হয়, এবং পরের কাজটি Past Indefinite (V2) হয়। যেমন: 'The patient had died before the doctor came.'\n২. 'Since' ও 'For'-এর ব্যবহার: অতীতে শুরু হয়ে বর্তমানেও চলছে এমন কাজ নির্দেশ করতে Present Perfect বা Present Perfect Continuous বসে। যেমন: 'He has lived here since 2015' (নির্দিষ্ট বিন্দু), 'for five years' (সময়সীমা)।\n৩. শর্তাধীন বাক্য (Conditional Sentences): 'If'-যুক্ত বাক্যে দুটি Future Tense কখনো একসাথে বসে না। যেমন: 'If it rains, we will stay home' (NOT: If it will rain).\n৪. সময়বাচক শব্দ (Time Adverbs): বাক্যে 'yesterday', 'ago', 'last year', 'in 1947' থাকলে সর্বদা Past Indefinite (V2) বসে, কখনোই Present Perfect বসে না।",
+  "rules": [
+    {
+      "rule": "Past time markers (yesterday, ago, last night, in 1947, the other day) strictly require the PAST INDEFINITE (Simple Past V2), NEVER the Present Perfect.",
+      "examples": [
+        "India became independent in 1947 (NOT: India has become independent).",
+        "I met him yesterday evening (NOT: I have met him yesterday).",
+        "The committee submitted its report two days ago."
+      ],
+      "exceptions": [
+        "If the sentence connects the past event directly to the present with 'since', Present Perfect applies: 'He has not visited us since last month'."
+      ]
+    },
+    {
+      "rule": "When two actions happened in the past, the EARLIER action takes the PAST PERFECT (had + V3), and the LATER action takes the SIMPLE PAST (V2).",
+      "examples": [
+        "The train had already departed before we reached the platform.",
+        "She had completed her assignment when her father arrived.",
+        "By the time the fire brigade reached, the villagers had extinguished the blaze."
+      ],
+      "exceptions": [
+        "If two actions occur almost simultaneously without causal dependency, both take Simple Past: 'When she opened the door, the cat jumped out'."
+      ]
+    },
+    {
+      "rule": "Conditional and Temporal clauses (starting with if, when, as soon as, until, unless, before) NEVER take 'will' or 'shall'. Use Present Simple for future meaning.",
+      "examples": [
+        "If it rains tomorrow, we will postpone the match (NOT: If it will rain).",
+        "As soon as the minister arrives, the ceremony will begin.",
+        "We shall wait until he finishes his dinner."
+      ],
+      "exceptions": [
+        "In indirect questions asking about future events, 'will' is permitted: 'I wonder if he will come'."
+      ]
+    },
+    {
+      "rule": "'Since' denotes a specific STARTING POINT (clock time, day, year, life event); 'For' denotes an entire DURATION or period of time.",
+      "examples": [
+        "Point of Time: Since Monday, since 6:00 AM, since 1999, since childhood, since his arrival.",
+        "Period of Time: For three hours, for two days, for ten years, for a long time.",
+        "He has been suffering from fever since yesterday (NOT: for yesterday)."
+      ],
+      "exceptions": [
+        "In simple past or future, 'from' is used instead of 'since' for starting points: 'The new office hours will start from Monday'."
+      ]
+    },
+    {
+      "rule": "'By the time' + Present Simple requires FUTURE PERFECT (will have + V3) in the main clause; 'By the time' + Past Simple requires PAST PERFECT (had + V3).",
+      "examples": [
+        "By the time you reach the station, the train will have left.",
+        "By the time the police arrived, the thieves had escaped."
+      ],
+      "exceptions": [
+        "Observe the tense in the 'by the time' clause to determine the corresponding perfect tense."
+      ]
+    },
+    {
+      "rule": "Stative verbs (know, believe, understand, belong, own, seem, prefer, remember) are NOT used in continuous forms in standard exam English.",
+      "examples": [
+        "I know the answer thoroughly (NOT: I am knowing the answer).",
+        "This book belongs to my brother (NOT: is belonging to).",
+        "He seems exhausted after the long walk."
+      ],
+      "exceptions": [
+        "When words like 'taste', 'smell', or 'think' denote intentional deliberate actions, continuous is allowed: 'The chef is tasting the soup'."
+      ]
+    },
+    {
+      "rule": "Universal truths, scientific facts, and habitual actions are expressed strictly in the PRESENT SIMPLE, even in indirect speech.",
+      "examples": [
+        "The teacher said that the earth revolves around the sun (NOT: revolved).",
+        "Water boils at 100 degrees Celsius.",
+        "He walks for five kilometers every morning."
+      ],
+      "exceptions": [
+        "Historic past events retain past tense: 'The teacher said that Ashoka renounced war'."
+      ]
+    },
+    {
+      "rule": "'It is time / It is high time / It is about time' followed by a subject requires the PAST SIMPLE (V2) expressing urgent present necessity.",
+      "examples": [
+        "It is high time we started our preparation for the Clerkship exam (NOT: start or should start).",
+        "It is time the government took decisive steps to combat pollution."
+      ],
+      "exceptions": [
+        "If no subject follows, use infinitive 'to + V1': 'It is time to start our preparation'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'I have seen him yesterday' instead of 'I saw him yesterday' (yesterday demands Simple Past V2).",
+    "Writing 'If you will work hard, you will succeed' instead of 'If you work hard, you will succeed' (no double future).",
+    "Using 'It is high time we start studying' instead of 'It is high time we started studying' (demands V2).",
+    "Saying 'I am living here since five years' instead of 'I have been living here for five years' (duration requires 'for').",
+    "Writing 'The patient died before the doctor had arrived' (inverted past perfect trap; earlier action takes 'had died')."
+  ],
+  "examTricks": [
+    "The 'Yesterday' rule: Cross out 'have/has' whenever you see yesterday, ago, last year, or in [year].",
+    "The 'Had + V3' rule: Whichever action happened FIRST in the past gets 'had + V3'.",
+    "The 'High Time' formula: It is high time + Subject + Verb in Past Form (V2).",
+    "The 'If' clause check: Never allow 'will/shall/would' inside an 'if' or 'when' clause."
+  ],
+  "memoryTricks": [
+    "SINCE specifies the SPOT; FOR measures the LOT.",
+    "HIGH TIME needs PAST TIME (It is high time + V2)."
+  ],
+  "revision": [
+    "Present Simple: Habits, universal truths, scheduled timetables.",
+    "Present Perfect: Completed actions with present relevance; never with past time adverbs.",
+    "Past Simple: Past actions completed at a definite past time (yesterday, ago, last week).",
+    "Past Perfect: Earlier of two past events (had + V3).",
+    "It is high time + Subject + V2.",
+    "Since + Point of time (Monday, 2010); For + Period of time (3 days, 5 years).",
+    "If + Present Simple, will + V1."
+  ]
+}

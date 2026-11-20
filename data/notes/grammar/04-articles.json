@@ -1,0 +1,133 @@
+{
+  "id": "g04",
+  "title": "Articles (A, An, The & Zero Article)",
+  "intro": "Articles function as demonstrative determiners before nouns. 'A' and 'An' are indefinite articles indicating non-specific singular countable items, while 'The' is the definite article indicating specific or previously mentioned entities. The WBPSC Clerkship examination focuses heavily on sound-based article selection (vowel phonemes vs consonant phonemes), fixed geographic conventions, double comparatives, and the omission of articles (zero article).",
+  "bengali": "Article প্রধানত দুই প্রকার: Indefinite (A, An) এবং Definite (The)।\n\nWBPSC পরীক্ষায় শিক্ষার্থীদের বিভ্রান্ত করার জন্য যেসব আর্টিকেলের নিয়ম সবচেয়ে বেশি আসে:\n১. Sound Rule: 'A' এবং 'An'-এর নির্বাচন বানানের প্রথম অক্ষরের ওপর নয়, বরং প্রথম উচ্চারিত ধ্বনির (Sound) ওপর নির্ভর করে। কোনো শব্দ স্বরধ্বনি (Vowel sound: অ, আ, এ, ও) দিয়ে শুরু হলে তার আগে 'An' বসে। যেমন: An honest man, an hour, an heir, an MLA, an MP, an FIR, an SDO (সবকটির শুরুতে /e/ বা /a/ ধ্বনি উচ্চারিত হয়)।\n২. Vowel অক্ষর সত্ত্বেও Consonant ধ্বনি: কোনো শব্দ যদি 'U' বা 'E' দিয়ে শুরু হয় কিন্তু উচ্চারণ যদি 'ইউ' (/ju:/) বা 'ওয়া' (/wa/) এর মতো হয়, তবে তার আগে 'A' বসে। যেমন: A university, a European, a unique book, a one-rupee note, a useful animal।\n৩. Zero Article (আর্টিকেল বর্জন): সাধারণ অর্থে ব্যবহৃত Abstract Noun, Material Noun, ভাষার নাম, খাবারের নাম (breakfast, dinner), খেলাধুলার নামের আগে কোনো Article বসে না। যেমন: 'Gold is precious', 'He plays football', 'She speaks English'। তবে নির্দিষ্ট করে বোঝালে 'The' বসে: 'The gold of this ring' বা 'The dinner we had yesterday'।\n৪. Primary vs Secondary Purpose: স্কুল, কলেজ, হাসপাতাল, জেলখানা, মন্দিরে যদি তার মূল উদ্দেশ্যে যাওয়া হয় (যেমন ছাত্র স্কুলে গেল বা রোগী হাসপাতালে গেল), তবে কোনো Article বসে না। কিন্তু অন্য উদ্দেশ্যে (যেমন অভিভাবক প্রধান শিক্ষকের সাথে দেখা করতে স্কুলে গেলেন) গেলে 'The' বসে।",
+  "rules": [
+    {
+      "rule": "Article selection between 'A' and 'An' is determined exclusively by PHONETIC SOUND, never by orthographic spelling.",
+      "examples": [
+        "An honest officer (silent 'h', begins with vowel sound /ɒ/).",
+        "An hour, an heir, an honorable guest.",
+        "A European tourist (begins with consonant sound /ju:/).",
+        "A university campus, a unique opportunity, a utensil, a union."
+      ],
+      "exceptions": [
+        "Abbreviations: Words like MLA, MP, FIR, SDO, SP, NCC cadet begin with consonant letters but start with the vowel phoneme /e/, requiring 'AN' (an MLA, an FIR, an SP)."
+      ]
+    },
+    {
+      "rule": "Words beginning with 'O' that produce the consonant 'Wa' sound (/w/) take 'A', NOT 'An'.",
+      "examples": [
+        "A one-rupee coin (pronounced /wʌn/).",
+        "A one-eyed beggar.",
+        "A one-way street."
+      ],
+      "exceptions": [
+        "Words where 'O' produces a vowel sound take 'An': An orange, an owl, an onion."
+      ]
+    },
+    {
+      "rule": "'The' is mandatory before mountain ranges, oceans, seas, rivers, gulfs, groups of islands, sacred books, and unique natural entities.",
+      "examples": [
+        "The Himalayas, the Indian Ocean, the Arabian Sea, the Ganges, the Persian Gulf.",
+        "The Gita, the Quran, the Bible, the Sun, the Equator."
+      ],
+      "exceptions": [
+        "Individual mountain peaks (Mount Everest, Kanchenjunga) and individual islands (Sri Lanka, Java) take NO article: 'Mount Everest is the highest peak' (NOT: The Mount Everest)."
+      ]
+    },
+    {
+      "rule": "Double comparative structures expressing proportionate increase or decrease require 'The' before BOTH comparatives.",
+      "examples": [
+        "The higher you climb, the colder it gets.",
+        "The more you practice, the more confident you become.",
+        "The sooner you complete the file, the better for the department."
+      ],
+      "exceptions": [
+        "Both clauses must maintain symmetrical comparative phrasing with 'The'."
+      ]
+    },
+    {
+      "rule": "When selecting between two specific persons or objects, the comparative degree takes 'The' + comparative + 'of the two'.",
+      "examples": [
+        "He is the taller of the two brothers.",
+        "This is the more interesting of the two novels.",
+        "She is the wiser of the two candidates."
+      ],
+      "exceptions": [
+        "Superlative degree ('the tallest') is used only when comparing three or more entities."
+      ]
+    },
+    {
+      "rule": "Zero Article (No Article) with institutions (School, College, Hospital, Prison, Temple, Church, Bed, Market) when visited for their PRIMARY PURPOSE.",
+      "examples": [
+        "He goes to school at 9:00 AM (as a student = primary purpose, no article).",
+        "The patient was admitted to hospital (for medical treatment = no article).",
+        "The criminal was sent to prison."
+      ],
+      "exceptions": [
+        "When visited for a SECONDARY or incidental purpose, use 'The': 'His father went to the school to collect the mark sheet', 'I went to the hospital to visit my ailing friend'."
+      ]
+    },
+    {
+      "rule": "Zero Article before names of languages, games, meals, abstract nouns, and materials in general statements.",
+      "examples": [
+        "Bengali is my mother tongue (NOT: The Bengali).",
+        "They play cricket every Sunday (NOT: the cricket).",
+        "Honesty is the best policy (NOT: The honesty).",
+        "Gold is a valuable metal."
+      ],
+      "exceptions": [
+        "When qualified or made specific by an 'of' phrase, 'The' is required: 'The honesty of the clerk was appreciated', 'The gold of Kolar is famous'."
+      ]
+    },
+    {
+      "rule": "'The' before names of countries that are plural in form or contain words like 'Republic', 'Kingdom', 'States'.",
+      "examples": [
+        "The United Kingdom (UK), the United States of America (USA), the Republic of Ireland.",
+        "The Netherlands, the Philippines, the Maldives."
+      ],
+      "exceptions": [
+        "Single individual country names take NO article: India, Bangladesh, France, Japan (NOT: The India)."
+      ]
+    },
+    {
+      "rule": "'The' before musical instruments; 'A/An' before professions and occupations.",
+      "examples": [
+        "She plays the piano exquisitely (Musical instrument = The).",
+        "He is a software engineer; she is an IAS officer (Profession = A/An)."
+      ],
+      "exceptions": [
+        "If referring to the physical instrument as an object, use A/An: 'He bought a new piano'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'an university' or 'an European' by mistaking the vowel letters for vowel sounds (use 'a').",
+    "Writing 'a MP' or 'a FIR' (pronounced /em-pee/ and /ef-aye-ar/, requiring 'an').",
+    "Writing 'The Mount Everest is the highest mountain' (individual peaks take no article).",
+    "Writing 'He is taller of the two brothers' instead of 'He is the taller of the two brothers' (needs 'the').",
+    "Writing 'He went to the hospital as a patient' instead of 'He went to hospital' (primary purpose takes zero article)."
+  ],
+  "examTricks": [
+    "The Sound Test: Say the word in Bengali—if the initial sound is অ, আ, এ, ও, use 'An'. If it starts with 'ইউ' (Yu) or 'ওয়া' (Wa), use 'A'.",
+    "Abbreviation Cheat Sheet: A, E, F, H, I, L, M, N, O, R, S, X all start with vowel sounds -> take 'AN' (an FIR, an SDO, an MP).",
+    "The 'Of the two' rule: When comparing exactly two items, use 'THE + comparative' (the better of the two).",
+    "Mountain Trap: The Himalayas (range = The); Mount Everest (single peak = No article)."
+  ],
+  "memoryTricks": [
+    "Listen to the EAR, not the LETTER.",
+    "THE for the RANGE; NO ARTICLE for the PEAK."
+  ],
+  "revision": [
+    "A European, a university, a union, a unique, a one-rupee coin.",
+    "An honest man, an hour, an heir, an MLA, an MP, an FIR, an SP, an SDO.",
+    "The Himalayas, the Ganges, the Pacific, the Gita, the Sun.",
+    "Mount Everest, Kanchenjunga (single peaks = zero article).",
+    "The higher..., the colder... (double comparative).",
+    "The taller of the two brothers.",
+    "Primary purpose: Go to school/hospital/prison (no article).",
+    "Secondary purpose: Go to the school/the hospital (use 'the')."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "g18",
+  "title": "Sentence Transformation (Form & Degree)",
+  "intro": "Sentence transformation requires changing the grammatical form of a sentence from one structure to another without altering its core underlying meaning. In the WBPSC Clerkship examination, questions frequently test Affirmative to Negative transformations, removal of 'too...to', interchange of degrees of comparison, and conversion between Simple, Compound, and Complex sentences.",
+  "bengali": "Sentence Transformation (অর্থ অপরিবর্তিত রেখে বাক্যের রূপান্তর): ব্যাকরণের এমন একটি গুরুত্বপূর্ণ অধ্যায় যেখানে বাক্যের অর্থ ঠিক রেখে কেবল তার ব্যাকরণগত গঠন পরিবর্তন করতে হয়।\n\nWBPSC Clerkship পরীক্ষায় সবচেয়ে বেশি আসা রূপান্তরসমূহ:\n১. Affirmative to Negative (ইতিবাচক থেকে নেতিবাচক রূপান্তর):\n   - 'Only' বা 'Alone' থাকলে ব্যক্তি বোঝালে 'None but', বস্তু বোঝালে 'Nothing but' এবং বয়স বা সংখ্যা বোঝালে 'Not more than' বসে। যেমন: 'Only the brave deserve the fair' -> 'None but the brave deserve the fair.'\n   - 'As soon as' থাকলে Negative-এ 'No sooner had... than' বা 'No sooner did... than' বসে।\n   - বিপরীত শব্দ (Antonym) ও 'not' ব্যবহার করে: 'He is an honest man' -> 'He is not a dishonest man.'\n২. Removal of 'Too...to' (Too...to পরিহার):\n   - 'Too'-এর জায়গায় 'so' বসে, 'to'-এর জায়গায় 'that + Subject + cannot / could not + V1' বসে। যেমন: 'The luggage is too heavy for him to lift' -> 'The luggage is so heavy that he cannot lift it.'\n৩. Interchange of Degrees of Comparison (তুলনার ডিগ্রির রূপান্তর):\n   - Superlative: 'Akbar was the greatest Mughal emperor.'\n   - Comparative: 'Akbar was greater than any other Mughal emperor.'\n   - Positive: 'No other Mughal emperor was as great as Akbar.'\n৪. Simple, Compound, Complex রূপান্তর:\n   - Simple: 'In spite of his poverty, he is honest.'\n   - Compound: 'He is poor, but he is honest.'\n   - Complex: 'Though he is poor, he is honest.'",
+  "rules": [
+    {
+      "rule": "Transforming 'ONLY' / 'ALONE' into NEGATIVE without changing meaning:",
+      "examples": [
+        "For Persons: Replace 'Only' with 'NONE BUT'. Affirmative: 'Only graduates are eligible for this clerkship post.' -> Negative: 'None but graduates are eligible for this clerkship post.'",
+        "For Things: Replace 'Only' with 'NOTHING BUT'. Affirmative: 'He desires only money.' -> Negative: 'He desires nothing but money.'",
+        "For Age / Numbers: Replace 'Only' with 'NOT MORE THAN' or 'NOT LESS THAN'. Affirmative: 'He is only twenty-four years old.' -> Negative: 'He is not more than twenty-four years old.'"
+      ],
+      "exceptions": [
+        "Never write 'No one but' when referring to inanimate objects or money."
+      ]
+    },
+    {
+      "rule": "Transforming 'AS SOON AS' into NEGATIVE using 'NO SOONER... THAN':",
+      "examples": [
+        "Affirmative: 'As soon as the bell rang, the candidates commenced writing.'",
+        "Negative: 'No sooner did the bell ring than the candidates commenced writing.' (or: 'No sooner had the bell rung than...')",
+        "Affirmative: 'As soon as the thief saw the police, he fled.' -> Negative: 'No sooner did the thief see the police than he fled.'"
+      ],
+      "exceptions": [
+        "Always ensure 'THAN' connects the clauses, never 'when' or 'then'."
+      ]
+    },
+    {
+      "rule": "REMOVAL OF 'TOO... TO': Replace 'too' with 'SO' and 'to' with 'THAT + Subject + CANNOT / COULD NOT + V1'.",
+      "examples": [
+        "Present Tense: 'He is too weak to walk alone.' -> 'He is so weak that he cannot walk alone.'",
+        "Past Tense: 'The official was too honest to accept a bribe.' -> 'The official was so honest that he could not accept a bribe.'",
+        "With 'for + person': 'The puzzle is too difficult for me to solve.' -> 'The puzzle is so difficult that I cannot solve it.'"
+      ],
+      "exceptions": [
+        "If the main verb is in the past tense (was/were), use 'could not', not 'cannot'."
+      ]
+    },
+    {
+      "rule": "INTERCHANGE OF DEGREES OF COMPARISON across Superlative, Comparative, and Positive:",
+      "examples": [
+        "Superlative: 'Shakespeare is the greatest of all English dramatists.'",
+        "Comparative: 'Shakespeare is greater than any other English dramatist.'",
+        "Positive: 'No other English dramatist is as great as Shakespeare.'",
+        "Superlative with 'One of the': 'Kolkata is one of the largest cities in India.' -> Comparative: 'Kolkata is larger than most other cities in India.' -> Positive: 'Very few cities in India are as large as Kolkata.'"
+      ],
+      "exceptions": [
+        "When converting 'one of the + superlative', Positive degree must begin with 'VERY FEW', and Comparative must use 'THAN MOST OTHER'."
+      ]
+    },
+    {
+      "rule": "CONVERTING SIMPLE, COMPOUND, AND COMPLEX using Contrast and Concession:",
+      "examples": [
+        "Simple: 'In spite of / Despite working hard, he failed the typing test.'",
+        "Compound: 'He worked hard, but he failed the typing test.'",
+        "Complex: 'Although / Though he worked hard, he failed the typing test.'"
+      ],
+      "exceptions": [
+        "'Despite' never takes 'of': write 'Despite working', NOT 'Despite of working'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Despite of his illness' instead of 'Despite his illness' or 'In spite of his illness'.",
+    "Using 'No sooner did he arrive when...' instead of 'than...' in negative transformations.",
+    "Writing 'He was so tired that he cannot walk' (tense mismatch: use 'could not' with 'was').",
+    "Forgetting 'any other' in comparative transformations (e.g., 'greater than any poet').",
+    "Confusing 'None but' (persons) with 'Nothing but' (things)."
+  ],
+  "examTricks": [
+    "The 'Only' Replacement: Person -> None but; Object -> Nothing but; Number -> Not more than.",
+    "The 'Too...to' Tense Matcher: IS too -> CANNOT; WAS too -> COULD NOT.",
+    "The 'One of the' Rule: Superlative 'one of the' -> Positive MUST start with 'VERY FEW'.",
+    "The 'Despite' Warning: Despite = NO 'of'. In spite = MUST have 'of'."
+  ],
+  "memoryTricks": [
+    "NONE BUT for people; NOTHING BUT for things.",
+    "DESPITE stands ALONE (no 'of')."
+  ],
+  "revision": [
+    "Only (person) -> None but; Only (thing) -> Nothing but.",
+    "As soon as -> No sooner did... than.",
+    "Too...to -> So...that cannot/could not.",
+    "No other... as [adj] as (Positive) = More [adj] than any other (Comparative) = The most [adj] (Superlative).",
+    "One of the -> Very few (Positive) / Than most other (Comparative).",
+    "Despite + Noun (no of) = In spite of = Although + Clause."
+  ]
+}

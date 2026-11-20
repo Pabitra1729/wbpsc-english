@@ -1,0 +1,75 @@
+{
+  "id": "r01",
+  "title": "Reading Comprehension Mastery",
+  "intro": "Reading Comprehension (RC) in WBPSC Clerkship tests a candidate's ability to decode unseen narrative, administrative, or expository prose under strict time limits. Questions evaluate factual recall, central theme deduction, authorial tone identification, contextual vocabulary inference, and logical extrapolation.",
+  "bengali": "Reading Comprehension (বোধপরীক্ষণ): ক্লার্কশিপ পরীক্ষায় একটি সম্পূর্ণ অপরিচিত প্যাসেজ (Unseen Passage) দেওয়া হয় এবং তার ওপর ভিত্তি করে ৫টি প্রশ্ন করা হয়।\n\nWBPSC Clerkship-এ পুরো নম্বর পাওয়ার ৪টি কার্যকর কৌশল:\n১. Skimming বনাম Scanning:\n   - Skimming: পুরো প্যাসেজটির মূল ভাবার্থ (Main Idea) বোঝার জন্য দ্রুত চোখ বুলিয়ে নেওয়া (প্রথম প্যারাগ্রাফের প্রথম ২ লাইন এবং শেষ প্যারাগ্রাফের শেষ ২ লাইন সবচেয়ে গুরুত্বপূর্ণ)।\n   - Scanning: প্রশ্নে উল্লিখিত নির্দিষ্ট তথ্য (যেমন: সাল, তারিখ, স্থান, নাম বা বিশেষ শব্দ) খুঁজে বের করার জন্য প্যাসেজের ভেতর নজর চালানো।\n২. 'প্রশ্ন আগে, প্যাসেজ পরে' কৌশল (Question-First Strategy):\n   প্যাসেজটি পড়ার আগে প্রশ্নগুলো ও তাদের মূল Keyword-গুলো এক ঝলক দেখে নিন। এতে প্যাসেজ পড়ার সময় মনের মধ্যে একটি লক্ষ্য তৈরি হবে এবং উত্তর দেখতে পাওয়া মাত্রই চিহ্নিত করা যাবে।\n৩. নিজের ব্যক্তিগত মতামত পরিহার:\n   প্রশ্নের উত্তর দেওয়ার সময় নিজের ব্যক্তিগত জ্ঞান বা বিশ্বাস প্রয়োগ করবেন না। উত্তরটি সম্পূর্ণভাবে প্যাসেজে যা লেখা আছে, তার ওপর ভিত্তি করেই হতে হবে।\n৪. লেখকের মনোভাব বা সুর (Author's Tone) চেনা:\n   প্যাসেজে ব্যবহৃত বিশেষণ (adjectives) লক্ষ্য করুন। লেখক কি ঘটনার প্রশংসা করছেন (Laudatory / Appreciative), নিরপেক্ষভাবে জানাচ্ছেন (Objective / Informative), নাকি কোনো বিষয়ের ত্রুটি বা ভুল তুলে ধরছেন (Critical / Sarcastic)?",
+  "rules": [
+    {
+      "rule": "THE QUESTION-FIRST STRATEGY: Read question stems before reading the full passage to prime your subconscious mind with search keywords.",
+      "examples": [
+        "Scan question 1 for keywords (e.g., 'mangrove forest', 'cyclone', 'economic impact').",
+        "When reading the passage, underline or mentally flag paragraphs where these keywords appear.",
+        "Answer direct factual questions immediately upon spotting their textual evidence."
+      ],
+      "exceptions": [
+        "Do not read the four multiple-choice options before reading the text—options contain deliberately confusing distractors."
+      ]
+    },
+    {
+      "rule": "THE TOPIC SENTENCE LOCATOR: The central theme and thesis statement of an English passage almost invariably reside in the opening two sentences of Paragraph 1 or the concluding synthesis of the final paragraph.",
+      "examples": [
+        "Paragraph 1 opens with: 'Renewable energy transition is no longer a luxury for developing nations; it is an urgent economic imperative.' -> Central theme = urgent necessity of renewable energy.",
+        "Final paragraph concludes with: 'Thus, sustainable urban mobility must integrate walking and public transit.' -> Summary thesis."
+      ],
+      "exceptions": [
+        "In purely narrative literary stories, the central moral or theme unfolds gradually toward the climax."
+      ]
+    },
+    {
+      "rule": "TONE IDENTIFICATION TAXONOMY: Determine whether the author's linguistic stance is Objective, Critical, Laudatory, Cynical, or Didactic.",
+      "examples": [
+        "Objective / Informative: Factual exposition without subjective emotional coloring.",
+        "Critical / Disapproving: Highlights systemic shortcomings, errors, or policy failures.",
+        "Laudatory / Commendatory: Praises achievements, heroic perseverance, or scientific milestones.",
+        "Didactic / Advisory: Aims to instruct morally or suggest constructive policy solutions."
+      ],
+      "exceptions": [
+        "Tone must be evaluated across the entire piece, not based on an isolated emotional quote spoken by an eyewitness or character."
+      ]
+    },
+    {
+      "rule": "CONTEXTUAL VOCABULARY INFERENCE: When asked what an underlined word means 'in the passage', rely on surrounding context clues rather than abstract dictionary definitions.",
+      "examples": [
+        "In 'The port was a safe harbor for battered ships', harbor = literal shelter.",
+        "In 'He harbored dangerous ambitions', harbor = secretly maintained / entertained.",
+        "In 'The administration weathered the storm', weathered = successfully survived and overcame."
+      ],
+      "exceptions": [
+        "The question almost always presents the word's common primary meaning as a tempting incorrect distractor."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Importing personal external knowledge instead of restricting answers strictly to the passage.",
+    "Reading the passage at a slow word-by-word pace and running out of exam time.",
+    "Falling for absolute extreme option traps containing words like 'always', 'never', 'all', 'completely' (the correct option is usually nuanced with 'often', 'partially', 'may').",
+    "Confusing the author's personal voice with the viewpoint of a quoted adversary in the text."
+  ],
+  "examTricks": [
+    "The 'Extreme Word' Red Flag: Options containing 'NEVER', 'ALWAYS', 'EVERY', 'IMPOSSIBLE' are wrong 90% of the time.",
+    "The First & Last Sentence Hack: For 'Main Idea' questions, reread Sentence 1 and the Last Sentence—they contain the answer 80% of the time.",
+    "The Evidence Rule: For factual MCQs, point your finger directly at the line in the passage that confirms the answer before bubbling the sheet."
+  ],
+  "memoryTricks": [
+    "SCAN for words, SKIM for ideas.",
+    "Extreme words (Always/Never) are exam traps."
+  ],
+  "revision": [
+    "Read question keywords before passage.",
+    "Central theme sits in the opening or closing sentences.",
+    "Base answers 100% on passage facts, not personal opinion.",
+    "Avoid extreme options (Always, Never, All).",
+    "Contextual meaning depends on the sentence, not isolated dictionary definition.",
+    "Manage time: ~5 to 6 minutes maximum for a 5-question passage."
+  ]
+}

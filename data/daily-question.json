@@ -1,0 +1,7 @@
+{
+  "question":"Choose the correct sentence:",
+  "options":["I have seen him yesterday.","I saw him yesterday.","I am seeing him yesterday.","I seen him yesterday."],
+  "answer":1,
+  "explanation":"Yesterday indicates a completed past action, so simple past is correct.",
+  "rule":"Tense: simple past"
+}

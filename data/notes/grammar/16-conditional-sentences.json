@@ -1,0 +1,88 @@
+{
+  "id": "g16",
+  "title": "Conditional Sentences & Unreal Past",
+  "intro": "Conditional sentences express that the realization of one action depends upon the occurrence of another condition. The WBPSC Clerkship examination relentlessly tests the three standard conditional formulas (First, Second, Third), conditional inversion without 'if' ('Had I known...'), and the unreal subjunctive mood ('I wish I were...').",
+  "bengali": "Conditional Sentences (শর্তমূলক বাক্য): যে বাক্যে একটি কাজের ঘটা অন্য একটি কাজের শর্তের ওপর নির্ভর করে, তাকে Conditional Sentence বলে।\n\nWBPSC Clerkship পরীক্ষায় Conditional Sentences থেকে প্রতি বছর প্রশ্ন আসে। প্রধান চারটি নিয়ম নিচে দেওয়া হলো:\n১. Zero Conditional (চিরন্তন সত্য / বৈজ্ঞানিক নিয়ম):\n   - গঠন: If + Simple Present, Simple Present.\n   - উদাহরণ: 'If you heat ice, it melts.'\n২. Type 1 Conditional (সম্ভাব্য ভবিষ্যৎ - Open / Probable Condition):\n   - গঠন: If + Simple Present (V1), Future Simple (will/shall/can/may + V1).\n   - উদাহরণ: 'If you work hard, you will succeed.'\n   - মনে রাখবেন: If-ক্লজে কখনো 'will' বা 'shall' বসে না (NOT: If you will work hard).\n৩. Type 2 Conditional (অবাস্তব বর্তমান বা ভবিষ্যৎ - Hypothetical Condition):\n   - গঠন: If + Simple Past (V2), would/could/might + V1.\n   - বিশেষ নিয়ম: 'Be' verb থাকলে Subject যাই হোক না কেন সর্বদা 'WERE' বসে (was কখনো নয়)। যেমন: 'If I were a bird, I would fly in the sky' (NOT: If I was a bird).\n৪. Type 3 Conditional (অতীতের অপূর্ণ বা অসম্ভব শর্ত - Unfulfilled Past):\n   - গঠন: If + Past Perfect (had + V3), would have / could have / might have + V3.\n   - উদাহরণ: 'If he had studied diligently, he would have cleared the Clerkship exam.'\n   - Inversion (If ছাড়া গঠন): 'Had he studied diligently, he would have cleared the exam.' (WBPSC-র সবচেয়ে প্রিয় পরীক্ষার প্রশ্ন!)",
+  "rules": [
+    {
+      "rule": "TYPE 1 CONDITIONAL (Probable / Realistic Future): If + Present Simple (V1), Main Clause: will / can / shall / may + V1.",
+      "examples": [
+        "If the candidate scores above the cutoff, he will be summoned for document verification.",
+        "If it rains tomorrow, we will postpone the outdoor sports event.",
+        "Unless you study systematically, you cannot qualify for the merit list."
+      ],
+      "exceptions": [
+        "NEVER use 'will' or 'shall' in the 'If' conditional clause: 'If you will come' is completely INCORRECT."
+      ]
+    },
+    {
+      "rule": "TYPE 2 CONDITIONAL (Hypothetical / Unreal Present or Future): If + Past Simple (V2), Main Clause: would / could / might + V1.",
+      "examples": [
+        "If I knew his contact details, I would inform him immediately.",
+        "If he worked conscientiously, he would achieve better results in the office.",
+        "What would you do if you won the first prize in the lottery?"
+      ],
+      "exceptions": [
+        "When the verb is 'TO BE', use 'WERE' for ALL persons (singular and plural): 'If I were you, I would accept the appointment letter'."
+      ]
+    },
+    {
+      "rule": "TYPE 3 CONDITIONAL (Unfulfilled Past Condition): If + Past Perfect (had + V3), Main Clause: would have / could have / might have + V3.",
+      "examples": [
+        "If the ambulance had arrived on time, the patient would have been saved.",
+        "If you had informed the station master earlier, the accident could have been averted.",
+        "She would have cleared the examination if she had practiced previous year questions."
+      ],
+      "exceptions": [
+        "Never write 'would have' in the 'If' clause: 'If you would have told me' is a fatal exam mistake; write 'If you had told me'."
+      ]
+    },
+    {
+      "rule": "CONDITIONAL INVERSION (Omitting 'IF'): Type 3 conditionals frequently replace 'If' by inverting 'HAD' to the beginning of the sentence.",
+      "examples": [
+        "Standard: 'If I had known about the vacancy, I would have applied.'",
+        "Inverted: 'Had I known about the vacancy, I would have applied.'",
+        "Inverted: 'Had the government taken timely measures, the inflation would not have escalated.'"
+      ],
+      "exceptions": [
+        "The main clause retains its standard structure ('would have + V3') unchanged."
+      ]
+    },
+    {
+      "rule": "UNREAL WISHES and HYPOTHETICAL SUBJUNCTIVES with 'WISH', 'AS IF', 'WOULD THAT':",
+      "examples": [
+        "I wish I were the chief minister of the state (unreal present wish, use 'were').",
+        "I wish I had accepted that government job offer five years ago (unreal past regret, use 'had + V3').",
+        "Would that he were alive today to witness his son's success!"
+      ],
+      "exceptions": [
+        "Never say 'I wish I was'; the subjunctive mood exclusively requires 'were'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'If you will help me, I will help you' instead of 'If you help me' (no will in if-clause).",
+    "Writing 'If I was a king, I would help the poor' instead of 'If I were a king' (subjunctive requires were).",
+    "Writing 'If he would have worked hard, he would have passed' instead of 'If he had worked hard' (had + V3 in if-clause).",
+    "Writing 'Had I known it, I would inform you' instead of 'I would have informed you' (main clause needs would have + V3).",
+    "Writing 'I wish I was taller' instead of 'I wish I were taller' (wish takes were)."
+  ],
+  "examTricks": [
+    "The 'If Clause' Sanity Check: If clause NEVER takes will, would, shall, or would have.",
+    "The 'Had' Inversion Formula: HAD + Subject + V3 ..., Subject + WOULD HAVE + V3.",
+    "The 'Type 2 Were' Rule: If I were, If he were, If she were, I wish I were (always WERE).",
+    "The 'Type 3 Matchmaker': Had + V3 on one side MUST match with WOULD HAVE + V3 on the other."
+  ],
+  "memoryTricks": [
+    "HAD + V3 on the left, WOULD HAVE + V3 on the right.",
+    "WISH always wears a WERE."
+  ],
+  "revision": [
+    "Type 1: If + Present Simple, will + V1.",
+    "Type 2: If + Past Simple (were), would + V1.",
+    "Type 3: If + had + V3, would have + V3.",
+    "Inversion: Had + Subject + V3 ..., would have + V3.",
+    "I wish I were / If I were you (subjunctive were).",
+    "No 'will' or 'would' inside an If-clause."
+  ]
+}

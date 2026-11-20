@@ -1,0 +1,99 @@
+{
+  "id": "g10",
+  "title": "Adverbs & Inversion",
+  "intro": "An adverb modifies a verb, an adjective, or another adverb, indicating manner, time, place, degree, or frequency. In WBPSC examinations, questions test the correct positioning of adverbs (especially 'enough', 'only', and frequency adverbs), the distinction between 'too' and 'very', and mandatory subject-verb inversion following restrictive or negative adverbs.",
+  "bengali": "Adverb বা ক্রিয়াবিশেষণ হলো এমন শব্দ যা কোনো Verb, Adjective অথবা অন্য কোনো Adverb-কে বিশেষায়িত করে (কাজটি কীভাবে, কখন, কোথায় বা কতবার ঘটছে তা বোঝায়)।\n\nWBPSC Clerkship পরীক্ষায় Adverb থেকে যেসব প্রশ্ন বারবার আসে:\n১. Adverb of Frequency-এর অবস্থান: Always, never, seldom, often, rarely, usually ইত্যাদি Adverb-গুলো সাধারণত Main Verb-এর ঠিক আগে বসে, কিন্তু Auxiliary Verb (be verb)-এর পরে বসে। যেমন: 'He always speaks the truth', কিন্তু 'He is always punctual'।\n২. 'Too...to' বনাম 'So...that': 'Too' শব্দটি একটি নেতিবাচক মাত্রা প্রকাশ করে। যেমন: 'He is too weak to walk' = 'He is so weak that he cannot walk'। পরীক্ষায় রূপান্তরের প্রশ্ন এখান থেকে প্রচুর আসে।\n৩. 'Very' বনাম 'Much':\n   - Very: Positive ডিগ্রির Adjective এবং Present Participle (V-ing)-এর আগে বসে। যেমন: Very good, very interesting book।\n   - Much: Comparative ডিগ্রির Adjective এবং Past Participle (V3)-এর আগে বসে। যেমন: Much better, much surprised, much interested।\n৪. Hard বনাম Hardly: 'Hard' মানে কঠোরভাবে (e.g., 'He works hard'); কিন্তু 'Hardly' হলো একটি নেতিবাচক শব্দ, যার অর্থ 'কদাচিৎ' বা 'প্রায় না' (e.g., 'He hardly works' = সে প্রায় কাজ করেই না)।\n৫. নেতিবাচক Inversion: বাক্য যদি Hardly, Scarcely, Seldom, Never দিয়ে শুরু হয়, তবে জোর দেওয়ার জন্য Subject-এর আগে Verb চলে আসে: 'Seldom have I seen such dedication'.",
+  "rules": [
+    {
+      "rule": "Adverbs of Frequency (always, never, seldom, often, rarely, frequently, usually) precede the MAIN VERB, but follow the AUXILIARY VERB (Be verbs).",
+      "examples": [
+        "He always attends office on time (Precedes main verb 'attends').",
+        "He is always punctual in official submissions (Follows auxiliary 'is').",
+        "They have never violated service regulations (Between auxiliary 'have' and main verb 'violated')."
+      ],
+      "exceptions": [
+        "When emphasizing an auxiliary verb, the adverb may precede it: 'I never have liked his administrative approach'."
+      ]
+    },
+    {
+      "rule": "Inversion with Initial Negative / Restrictive Adverbs: When a sentence begins with Seldom, Rarely, Never, Hardly, Scarcely, Barely, or Little, the AUXILIARY VERB MUST PRECEDE THE SUBJECT.",
+      "examples": [
+        "Seldom have I witnessed such administrative efficiency (NOT: Seldom I have witnessed).",
+        "Hardly had the meeting commenced when the power failed.",
+        "Little did the manager know about the impending inspection."
+      ],
+      "exceptions": [
+        "If the adverb appears in its normal middle position inside the sentence, standard subject-verb order is maintained: 'I have seldom witnessed such efficiency'."
+      ]
+    },
+    {
+      "rule": "'VERY' modifies Positive Degree adjectives and Present Participles (-ing); 'MUCH' modifies Comparative Degree adjectives and Past Participles (V3).",
+      "examples": [
+        "Very good, very brave, very intelligent (Positive degree).",
+        "Very interesting, very entertaining, very shocking (Present participle).",
+        "Much better, much taller, much wiser (Comparative degree).",
+        "Much admired, much surprised, much delighted (Past participle)."
+      ],
+      "exceptions": [
+        "Certain common past participles take 'very' by idiomatic convention: very tired, very pleased, very limited."
+      ]
+    },
+    {
+      "rule": "Distinction between 'HARD' (laborious, intensive) and 'HARDLY' (scarcely, almost not at all):",
+      "examples": [
+        "He worked hard to clear the Clerkship exam (Hard = with great effort).",
+        "He hardly studied for the exam and consequently failed (Hardly = scarcely / almost none)."
+      ],
+      "exceptions": [
+        "Because 'hardly' is already negative, NEVER pair it with 'not' or 'no': 'He could hardly speak' (NOT: could not hardly)."
+      ]
+    },
+    {
+      "rule": "'TOO' implies excess beyond desirability with an inherent NEGATIVE consequence; 'VERY' merely intensifies quality without negative implication.",
+      "examples": [
+        "He is too weak to walk (Negative: He is so weak that he cannot walk).",
+        "The coffee is very hot (Intense, but still drinkable).",
+        "The coffee is too hot to drink (Excessive, cannot drink)."
+      ],
+      "exceptions": [
+        "Do not say 'I am too happy to meet you' in positive contexts; say 'I am very happy / extremely happy'."
+      ]
+    },
+    {
+      "rule": "'FAIRLY' is paired with FAVORABLE adjectives; 'RATHER' is paired with UNFAVORABLE adjectives.",
+      "examples": [
+        "The weather today is fairly pleasant (favorable attribute).",
+        "The journey was rather tedious and exhausting (unfavorable attribute)."
+      ],
+      "exceptions": [
+        "'Rather' can be used with comparatives and before nouns: 'rather a nuisance', 'rather better'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'I am too happy today' instead of 'I am very happy today' (too implies negative excess).",
+    "Writing 'Seldom I have seen such courage' instead of 'Seldom have I seen' (inversion required).",
+    "Writing 'He works hardly' instead of 'He works hard' (hardly means almost not at all).",
+    "Writing 'She is very better now' instead of 'She is much better now' (comparative takes much).",
+    "Writing 'He does not hardly know anyone' instead of 'He hardly knows anyone' (double negative error)."
+  ],
+  "examTricks": [
+    "The 'Hard / Hardly' Switch: If it means 'কঠোর পরিশ্রম', use HARD. If it means 'কদাচিৎ / প্রায় না', use HARDLY.",
+    "The 'Very vs Much' Rule: Positive degree / -ing -> VERY. Comparative degree / V3 -> MUCH.",
+    "The 'Negative Opener' Inversion: Whenever a sentence starts with Seldom/Hardly/Never/Little, place Auxiliary Verb before Subject.",
+    "The 'Too...to' Equivalent: Subject + is/are/was + SO + adj + THAT + cannot/could not."
+  ],
+  "memoryTricks": [
+    "HARD is TOUGH; HARDLY is NOT ENOUGH.",
+    "VERY for Present (-ing); MUCH for Past (-ed)."
+  ],
+  "revision": [
+    "Adverb of frequency precedes main verb, follows be-verb.",
+    "Seldom / Never / Hardly at sentence start -> Inversion (Auxiliary + Subject).",
+    "Very + Positive Degree; Much + Comparative Degree.",
+    "Very + Present Participle (-ing); Much + Past Participle (V3).",
+    "Hard = diligently; Hardly = scarcely (negative, no 'not').",
+    "Too...to = So...that cannot.",
+    "Fairly = Pleasant; Rather = Unpleasant."
+  ]
+}

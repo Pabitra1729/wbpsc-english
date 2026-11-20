@@ -1,0 +1,86 @@
+{
+  "id": "g17",
+  "title": "Sentence Structure & Clause Analysis",
+  "intro": "A sentence is a group of words containing a subject and a predicate that expresses a complete thought. In the WBPSC Clerkship examination, questions test sentence classification (Simple, Compound, Complex), clause identification (Noun, Adjective, Adverb clauses), and the elimination of common structural errors such as comma splices, sentence fragments, and faulty parallelisms.",
+  "bengali": "Sentence Structure (বাক্যের গঠন ও ক্লজ বিশ্লেষণ): ভাব প্রকাশের দিক থেকে বাক্য তিন প্রকার—Simple (সরল), Compound (যৌগিক) এবং Complex (জটিল)।\n\nWBPSC Clerkship পরীক্ষায় বাক্য গঠনের যেসব নিয়ম থেকে সবচেয়ে বেশি প্রশ্ন আসে:\n১. Simple Sentence (সরল বাক্য): একটি মাত্র Subject এবং একটি মাত্র Finite Verb (সমাপিকা ক্রিয়া) থাকে। কোনো Subordinate Clause থাকে না। যেমন: 'Hearing the noise, the boy woke up.'\n২. Compound Sentence (যৌগিক বাক্য): দুই বা ততোধিক Independent Clause থাকে, যা Coordinating Conjunction (FANBOYS: For, And, Nor, But, Or, Yet, So) দ্বারা যুক্ত হয়। যেমন: 'The boy heard the noise, and he woke up.'\n৩. Complex Sentence (জটিল বাক্য): একটি Principal Clause এবং এক বা একাধিক Subordinate Clause থাকে, যা Subordinating Conjunction (because, although, if, when, which, that) দ্বারা যুক্ত হয়। যেমন: 'When the boy heard the noise, he woke up.'\n৪. Clauses-এর প্রকারভেদ:\n   - Noun Clause: বাক্যে Noun-এর কাজ করে (e.g., 'I know that he is honest' - কি জানি? that he is honest)।\n   - Adjective / Relative Clause: Noun-কে বিশেষায়িত করে (e.g., 'The man who came yesterday is my uncle')।\n   - Adverbial Clause: সময়, কারণ, শর্ত ইত্যাদি নির্দেশ করে (e.g., 'He could not come because he was ill')।",
+  "rules": [
+    {
+      "rule": "A SIMPLE SENTENCE contains exactly ONE independent finite clause with a single subject-predicate core.",
+      "examples": [
+        "The administrative committee submitted its annual audit report on time (One Subject 'committee', One Finite Verb 'submitted').",
+        "Despite facing financial constraints, the student cleared the competitive exam.",
+        "Walking swiftly down the street, he reached the railway station."
+      ],
+      "exceptions": [
+        "Non-finite verbs (infinitives, gerunds, participles) and compound subjects/verbs do not create additional clauses: 'Ram and Shyam sang and danced' is still a Simple sentence."
+      ]
+    },
+    {
+      "rule": "A COMPOUND SENTENCE joins two or more independent clauses of equal grammatical rank using COORDINATING CONJUNCTIONS (FANBOYS: For, And, Nor, But, Or, Yet, So) or semicolons.",
+      "examples": [
+        "The weather was stormy, yet the relief volunteers continued their work.",
+        "He must complete the verification today, or he will face disciplinary action.",
+        "The candidate worked hard; therefore, he secured top merit rank."
+      ],
+      "exceptions": [
+        "Never link two independent sentences with only a comma—this creates a severe grammatical error known as a 'COMMA SPLICE'."
+      ]
+    },
+    {
+      "rule": "A COMPLEX SENTENCE contains ONE principal independent clause and at least ONE dependent (subordinate) clause introduced by subordinating conjunctions.",
+      "examples": [
+        "Although the clerkship syllabus is vast, consistent revision ensures success.",
+        "The inspector who arrived from the headquarters inspected all election records.",
+        "We shall proceed with the meeting as soon as the chairman arrives."
+      ],
+      "exceptions": [
+        "A subordinate clause cannot stand alone as a sentence; writing it alone creates a 'SENTENCE FRAGMENT'."
+      ]
+    },
+    {
+      "rule": "CLAUSE CLASSIFICATION: Noun clauses answer 'WHAT'; Adjective clauses qualify an antecedent NOUN; Adverb clauses denote TIME, CAUSE, PURPOSE, or CONDITION.",
+      "examples": [
+        "Noun Clause: 'I believe that honesty pays in the long run' (Answers: What do I believe?).",
+        "Adjective Clause: 'The applicant who secured the highest marks was selected' (Qualifies: applicant).",
+        "Adverb Clause: 'The train had left before we reached the platform' (Answers: When?)."
+      ],
+      "exceptions": [
+        "To test for an Adjective clause, ensure there is an immediate antecedent noun directly before the relative pronoun (who, which, that)."
+      ]
+    },
+    {
+      "rule": "PARALLEL STRUCTURE: Sentence components joined by conjunctions or appearing in lists must share identical grammatical form.",
+      "examples": [
+        "Faulty: He likes drafting letters, verifying certificates, and to compile data.",
+        "Parallel: He likes drafting letters, verifying certificates, and compiling data (All gerunds).",
+        "Parallel: The scheme is beneficial, practical, and economical (All adjectives)."
+      ],
+      "exceptions": [
+        "Mixing infinitives, gerunds, and clauses in a single series violates parallelism and is a major question type in WBPSC error detection."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Creating comma splices: 'The bell rang, the students entered' (correct with 'and' or a semicolon).",
+    "Confusing Compound with Complex: thinking 'and/but' make complex sentences (they make Compound).",
+    "Faulty parallelism in lists: mixing nouns, adjectives, and verbs in one sentence.",
+    "Sentence fragments: writing 'Because he was late' without a main clause."
+  ],
+  "examTricks": [
+    "The FANBOYS Mnemonic for Compound sentences: For, And, Nor, But, Or, Yet, So.",
+    "The Noun Clause Test: Replace the entire clause with 'IT' or 'SOMETHING'. If the sentence still makes sense, it's a Noun Clause ('I know [that he is honest]' -> 'I know IT').",
+    "The Parallelism Audit: Check every list connected by 'and/or'—ensure all items end in the same form (e.g., all -ing or all adjectives)."
+  ],
+  "memoryTricks": [
+    "F-A-N-B-O-Y-S make COMPOUND joy.",
+    "SUBORDINATE clauses cannot stand on their own feet."
+  ],
+  "revision": [
+    "Simple: 1 Finite Verb; Compound: 2 Independent Clauses + FANBOYS.",
+    "Complex: 1 Principal Clause + 1+ Subordinate Clauses.",
+    "FANBOYS: For, And, Nor, But, Or, Yet, So.",
+    "Noun Clause answers 'What?'; Adjective Clause qualifies a Noun.",
+    "Parallel structure: Balance verbs, nouns, and modifiers in lists.",
+    "Avoid comma splices and sentence fragments."
+  ]
+}

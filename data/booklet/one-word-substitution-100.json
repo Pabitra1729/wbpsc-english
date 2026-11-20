@@ -1,0 +1,702 @@
+[
+  {
+    "num": 1,
+    "term": "Acrophobia",
+    "meaning": "Fear of heights",
+    "bengali": "উচ্চতাভীতি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 2,
+    "term": "Agoraphobia",
+    "meaning": "Fear of open spaces",
+    "bengali": "উন্মুক্ত বা জনাকীর্ণ স্থানের ভীতি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 3,
+    "term": "Altruist",
+    "meaning": "One who works selflessly for the welfare of others",
+    "bengali": "পরোপকারী ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 4,
+    "term": "Amateur",
+    "meaning": "One who does something for pleasure, not as a profession",
+    "bengali": "উভমুখী স্বভাবের ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 5,
+    "term": "Ambidextrous",
+    "meaning": "One who can use both hands equally well",
+    "bengali": "নৈরাজ্যবাদী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 6,
+    "term": "Anarchy",
+    "meaning": "Absence of government or law",
+    "bengali": "নৃতত্ত্ববিদ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 7,
+    "term": "Anthropology",
+    "meaning": "Study of human origin and development",
+    "bengali": "প্রত্নতত্ত্ব সংগ্রাহক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 8,
+    "term": "Antidote",
+    "meaning": "A remedy that counters poison",
+    "bengali": "জলচর প্রাণীর কৃত্রিম জলাশয়",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 9,
+    "term": "Archaeology",
+    "meaning": "Study of ancient remains",
+    "bengali": "সালিশকারী / মধ্যস্থতাকারী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 10,
+    "term": "Archives",
+    "meaning": "A place where public records are kept",
+    "bengali": "অস্ত্রাগার",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 11,
+    "term": "Astronomy",
+    "meaning": "Study of heavenly bodies",
+    "bengali": "কৃচ্ছ্রসাধনকারী / তপস্বী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 12,
+    "term": "Atheist",
+    "meaning": "One who does not believe in God",
+    "bengali": "নাস্তিক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 13,
+    "term": "Auditor",
+    "meaning": "An official who examines accounts",
+    "bengali": "আত্মজীবনী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 14,
+    "term": "Autobiography",
+    "meaning": "Life story of a person written by himself",
+    "bengali": "স্বৈরতন্ত্র",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 15,
+    "term": "Autocracy",
+    "meaning": "Government by one person with absolute power",
+    "bengali": "বইপ্রেমী / গ্রন্থকীট",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 16,
+    "term": "Aviary",
+    "meaning": "A place where birds are kept",
+    "bengali": "দ্বিভাষিক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 17,
+    "term": "Bibliophile",
+    "meaning": "A lover of books",
+    "bengali": "জীবনী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 18,
+    "term": "Biennial",
+    "meaning": "Happening every two years",
+    "bengali": "সুদৃশ্য রাজপথ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 19,
+    "term": "Bilingual",
+    "meaning": "A person who can speak two languages",
+    "bengali": "সুন্দর হস্তলিপিবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 20,
+    "term": "Bureaucracy",
+    "meaning": "Government by officials",
+    "bengali": "নরমাংসভোজী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 21,
+    "term": "Calligraphy",
+    "meaning": "Art of beautiful handwriting",
+    "bengali": "মাংসাশী প্রাণী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 22,
+    "term": "Cartography",
+    "meaning": "Science or art of making maps",
+    "bengali": "শতবর্ষজীবী ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 23,
+    "term": "Choir",
+    "meaning": "A group of singers",
+    "bengali": "ব্যক্তিগত গাড়িচালক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 24,
+    "term": "Claustrophobia",
+    "meaning": "Fear of closed places",
+    "bengali": "আবদ্ধ স্থানের ভীতি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 25,
+    "term": "Connoisseur",
+    "meaning": "An expert judge in matters of art or taste",
+    "bengali": "সমসাময়িক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 26,
+    "term": "Democracy",
+    "meaning": "Government by the people",
+    "bengali": "রোগমুক্তির পথে থাকা ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 27,
+    "term": "Edible",
+    "meaning": "That which can be eaten",
+    "bengali": "বিশ্বনাগরিক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 28,
+    "term": "Egoist",
+    "meaning": "One who thinks only of himself",
+    "bengali": "মানবচরিত্রের সততায় অবিশ্বাসী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 29,
+    "term": "Elegy",
+    "meaning": "A poem of lament for the dead",
+    "bengali": "গণতন্ত্র",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 30,
+    "term": "Emigrant",
+    "meaning": "A person who leaves his own country to settle in another",
+    "bengali": "চর্মরোগবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 31,
+    "term": "Entomology",
+    "meaning": "Study of insects",
+    "bengali": "শৌখিন অপেশাদার ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 32,
+    "term": "Ephemeral",
+    "meaning": "Lasting for a very short time",
+    "bengali": "বাস্তুবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 33,
+    "term": "Epic",
+    "meaning": "A long narrative poem about heroic deeds",
+    "bengali": "আত্মকেন্দ্রিক ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 34,
+    "term": "Epigram",
+    "meaning": "A short witty saying",
+    "bengali": "যোগ্য বা উপযুক্ত",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 35,
+    "term": "Epilogue",
+    "meaning": "The concluding part of a play",
+    "bengali": "দেশত্যাগী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 36,
+    "term": "Epitaph",
+    "meaning": "Inscription on a tomb",
+    "bengali": "কীটপতঙ্গবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 37,
+    "term": "Etymology",
+    "meaning": "Study of the origin of words",
+    "bengali": "ক্ষণস্থায়ী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 38,
+    "term": "Extempore",
+    "meaning": "A speech delivered without preparation",
+    "bengali": "সমাধিলিপি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 39,
+    "term": "Fleet",
+    "meaning": "A group of ships",
+    "bengali": "ঘোড়াসদৃশ / অশ্বসংক্রান্ত",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 40,
+    "term": "Fragile",
+    "meaning": "That which can be easily broken",
+    "bengali": "শব্দব্যুৎপত্তিবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 41,
+    "term": "Fratricide",
+    "meaning": "Murder of one's brother",
+    "bengali": "উচ্চ প্রশংসামূলক রচনা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 42,
+    "term": "Genocide",
+    "meaning": "Mass killing of a whole race or group",
+    "bengali": "দোষমুক্ত করা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 43,
+    "term": "Gourmet",
+    "meaning": "A person with refined taste in food",
+    "bengali": "তাৎক্ষণিক প্রস্তুতিহীন বক্তৃতা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 44,
+    "term": "Hermit",
+    "meaning": "One who lives alone, away from society",
+    "bengali": "খুঁতখুঁতে",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 45,
+    "term": "Hydrophobia",
+    "meaning": "Fear of water",
+    "bengali": "অদৃষ্টবাদী / নিয়তিবাদী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 46,
+    "term": "Illegible",
+    "meaning": "That which cannot be read",
+    "bengali": "প্রাণিকুল",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 47,
+    "term": "Immigrant",
+    "meaning": "A person who enters a foreign country to settle there",
+    "bengali": "উদ্ভিদকুল",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 48,
+    "term": "Immortal",
+    "meaning": "That which can never die",
+    "bengali": "পলাতক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 49,
+    "term": "Inaudible",
+    "meaning": "That which cannot be heard",
+    "bengali": "বংশবৃত্তান্তবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 50,
+    "term": "Incorrigible",
+    "meaning": "One who cannot be corrected",
+    "bengali": "অতিভোজী / পেটুক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 51,
+    "term": "Inevitable",
+    "meaning": "That which cannot be avoided",
+    "bengali": "দলবদ্ধভাবে বসবাসকারী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 52,
+    "term": "Infanticide",
+    "meaning": "Killing of an infant",
+    "bengali": "তৃণভোজী প্রাণী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 53,
+    "term": "Inimitable",
+    "meaning": "That which cannot be imitated",
+    "bengali": "বিজাতীয় / অসমসত্ত্ব",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 54,
+    "term": "Insatiable",
+    "meaning": "That which cannot be satisfied",
+    "bengali": "ষড়ভুজ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 55,
+    "term": "Insolvent",
+    "meaning": "One who is unable to pay his debts",
+    "bengali": "সমজাতীয়",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 56,
+    "term": "Invincible",
+    "meaning": "That which cannot be defeated",
+    "bengali": "জলাতঙ্ক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 57,
+    "term": "Invisible",
+    "meaning": "That which cannot be seen",
+    "bengali": "ভণ্ড বা কপট ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 58,
+    "term": "Matricide",
+    "meaning": "Murder of one's mother",
+    "bengali": "প্রচলিত প্রথা ভঙ্গকারী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 59,
+    "term": "Misanthrope",
+    "meaning": "One who hates mankind",
+    "bengali": "অপাঠ্য",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 60,
+    "term": "Miser",
+    "meaning": "One who hoards money greedily",
+    "bengali": "নিরক্ষর",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 61,
+    "term": "Monarchy",
+    "meaning": "Rule by a king or queen",
+    "bengali": "অভিবাসী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 62,
+    "term": "Nomad",
+    "meaning": "One who wanders from place to place",
+    "bengali": "অশ্রাব্য",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 63,
+    "term": "Novice",
+    "meaning": "A person new to an activity",
+    "bengali": "অশোধনীয়",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 64,
+    "term": "Numismatics",
+    "meaning": "Study of coins",
+    "bengali": "অমোচনীয় / অমলিন",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 65,
+    "term": "Obsolete",
+    "meaning": "That which is no longer in use",
+    "bengali": "অভ্রান্ত",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 66,
+    "term": "Oligarchy",
+    "meaning": "Government by a few",
+    "bengali": "শিশুহত্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 67,
+    "term": "Omnipresent",
+    "meaning": "One who is present everywhere",
+    "bengali": "দেউলিয়া",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 68,
+    "term": "Omniscient",
+    "meaning": "One who knows everything",
+    "bengali": "অনিদ্রা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 69,
+    "term": "Optimist",
+    "meaning": "One who always looks on the bright side",
+    "bengali": "অপরাজয়",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 70,
+    "term": "Orator",
+    "meaning": "A person skilled in public speaking",
+    "bengali": "অদৃশ্য",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 71,
+    "term": "Ornithology",
+    "meaning": "Study of birds",
+    "bengali": "অভেদ্য / অক্ষত",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 72,
+    "term": "Paediatrician",
+    "meaning": "A doctor who treats children",
+    "bengali": "অপরিবর্তনীয়",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 73,
+    "term": "Panacea",
+    "meaning": "A remedy for all diseases",
+    "bengali": "চুরির মানসিক ব্যাধি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 74,
+    "term": "Parasite",
+    "meaning": "One who lives at the expense of others",
+    "bengali": "ভাষাবিদ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 75,
+    "term": "Patricide",
+    "meaning": "Murder of one's father",
+    "bengali": "সুস্পষ্ট / প্রাঞ্জল",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 76,
+    "term": "Patriot",
+    "meaning": "One who loves his country",
+    "bengali": "প্রথম বক্তৃতা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 77,
+    "term": "Patron",
+    "meaning": "One who gives financial support to an artist",
+    "bengali": "শহীদ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 78,
+    "term": "Pauper",
+    "meaning": "A very poor person",
+    "bengali": "মানববিদ্বেষী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 79,
+    "term": "Perennial",
+    "meaning": "Lasting through many years",
+    "bengali": "নারীবিদ্বেষী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 80,
+    "term": "Pessimist",
+    "meaning": "One who always expects the worst",
+    "bengali": "রাজতন্ত্র",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 81,
+    "term": "Philanthropist",
+    "meaning": "One who loves mankind",
+    "bengali": "একবিবাহ প্রথা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 82,
+    "term": "Philatelist",
+    "meaning": "Collector of postage stamps",
+    "bengali": "মর্গ / শবগার",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 83,
+    "term": "Pilgrim",
+    "meaning": "A person who travels to a holy place",
+    "bengali": "শিক্ষানবিস / অনভিজ্ঞ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 84,
+    "term": "Plutocracy",
+    "meaning": "Government by the rich",
+    "bengali": "মুদ্রাতত্ত্ববিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 85,
+    "term": "Polyglot",
+    "meaning": "One who knows many languages",
+    "bengali": "শোকসংবাদ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 86,
+    "term": "Prologue",
+    "meaning": "The introductory part of a play",
+    "bengali": "সর্বশক্তিমান",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 87,
+    "term": "Psychology",
+    "meaning": "Study of the human mind and behaviour",
+    "bengali": "সর্বব্যাপী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 88,
+    "term": "Ransom",
+    "meaning": "Money paid for the release of a captive",
+    "bengali": "সর্বজ্ঞ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 89,
+    "term": "Regicide",
+    "meaning": "Killing of a king",
+    "bengali": "অস্বচ্ছ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 90,
+    "term": "Sacrilege",
+    "meaning": "Violation of something sacred",
+    "bengali": "আশাবাদী ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 91,
+    "term": "Sociology",
+    "meaning": "Study of society",
+    "bengali": "পক্ষীবিদ্যা",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 92,
+    "term": "Soliloquy",
+    "meaning": "A speech spoken by a character to himself in a play",
+    "bengali": "সর্বরোগহর মহৌষধ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 93,
+    "term": "Somnambulist",
+    "meaning": "A person who walks in sleep",
+    "bengali": "হতাশাবাদী ব্যক্তি",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 94,
+    "term": "Spendthrift",
+    "meaning": "One who spends money recklessly",
+    "bengali": "লোকহিতৈষী / মানবপ্রেমিক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 95,
+    "term": "Stenography",
+    "meaning": "Art of shorthand writing",
+    "bengali": "ডাকটিকিট সংগ্রাহক",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 96,
+    "term": "Stoic",
+    "meaning": "One who is indifferent to pleasure and pain",
+    "bengali": "বহুভাষী",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 97,
+    "term": "Tangible",
+    "meaning": "That which can be touched or felt",
+    "bengali": "মরণোত্তর",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 98,
+    "term": "Theocracy",
+    "meaning": "Government by religious leaders",
+    "bengali": "ধর্মতন্ত্র",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 99,
+    "term": "Widow",
+    "meaning": "A woman whose husband is dead",
+    "bengali": "স্বচ্ছ",
+    "category": "One Word Substitution"
+  },
+  {
+    "num": 100,
+    "term": "Xenophobia",
+    "meaning": "Fear of foreigners",
+    "bengali": "বিদেশিভীতি বা বিদ্বেষ",
+    "category": "One Word Substitution"
+  }
+]

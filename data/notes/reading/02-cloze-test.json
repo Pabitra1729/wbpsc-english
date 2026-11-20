@@ -1,0 +1,72 @@
+{
+  "id": "r02",
+  "title": "Cloze Test & Passage Completion",
+  "intro": "A Cloze Test presents a continuous prose passage with systematically deleted words, requiring candidates to restore the missing vocabulary and grammatical links from multiple-choice options. In the WBPSC Clerkship examination, success depends on understanding paragraph flow, identifying parts of speech required at the blank, and matching prepositions and collocations.",
+  "bengali": "Cloze Test (অনুচ্ছেদের শূন্যস্থান পূরণ): একটি পূর্ণাঙ্গ প্যাসেজের ভেতর থেকে নির্দিষ্ট কিছু শব্দ মুছে দিয়ে (Blank রেখে) ৪টি করে অপশন দেওয়া হয়।\n\nWBPSC Clerkship-এ Cloze Test নিখুঁতভাবে সমাধানের ৪টি নিয়ম:\n১. প্রথমবার সম্পূর্ণ প্যাসেজটি এক নিঃশ্বাসে পড়া (Read Without Filling):\n   প্রথমেই অপশন দেখে পূরণ করতে যাবেন না। কোনো শব্দ না বসিয়ে পুরো প্যাসেজটি দ্রুত একবার পড়ে নিন। এতে পুরো প্যাসেজটির মূল বিষয় (Theme) ও Tense (অতীত না বর্তমান) স্পষ্ট হয়ে যাবে।\n২. ব্যাকরণগত শ্রেণী নির্ণয় (Identify Part of Speech):\n   শূন্যস্থানের আগে ও পরের শব্দ লক্ষ্য করে নির্ধারণ করুন সেখানে কোন Part of Speech প্রয়োজন:\n   - Noun-এর আগে থাকলে নিশ্চিতভাবে Adjective বা Article বসবে।\n   - Verb-এর পরে Preposition থাকলে Appropriate Preposition চেক করুন (যেমন: accuse থাকলে 'of', prevent থাকলে 'from')।\n   - Subject ও Object-এর মাঝে থাকলে Finite Verb বসবে।\n৩. আগের ও পরের বাক্যের যোগসূত্র (Forward & Backward Clues):\n   অনেক সময় ৩ নম্বর শূন্যস্থানের উত্তর লুকিয়ে থাকে ৪ নম্বর বা ৫ নম্বর বাক্যের কোনো শব্দে।\n৪. সুর ও অর্থসঙ্গতি (Tone & Logic):\n   প্যাসেজটি ইতিবাচক হলে ইতিবাচক শব্দ এবং কোনো দুর্যোগ বা সমস্যার আলোচনা হলে নেতিবাচক শব্দ নির্বাচন করুন।",
+  "rules": [
+    {
+      "rule": "THE BIRD'S-EYE PRE-READ: Always read through the entire cloze passage once from start to finish without pausing to select options.",
+      "examples": [
+        "Pre-reading identifies whether the narrative is historical (requiring Past Tense verbs) or theoretical/scientific (requiring Present Tense verbs).",
+        "It reveals the overall emotional and ideological tone (optimistic, critical, informative)."
+      ],
+      "exceptions": [
+        "Never attempt to solve blank 1 before understanding the topic of paragraph 1."
+      ]
+    },
+    {
+      "rule": "PARTS-OF-SPEECH PREDICTION: Examine the immediate syntactic boundary around the blank to predict the required grammatical category.",
+      "examples": [
+        "If preceded by an article ('the ___ decision'), the blank MUST be an Adjective or a Noun adjunct.",
+        "If followed by a noun ('prevented him from ___ the room'), the preposition 'from' demands a GERUND (-ing).",
+        "If situated between subject and object ('The committee ___ the revised budget'), a FINITE VERB is required."
+      ],
+      "exceptions": [
+        "Eliminate any option that violates the predicted part of speech regardless of how attractive its meaning looks."
+      ]
+    },
+    {
+      "rule": "COLLOCATION AND FIXED PREPOSITION MATCHING: Many cloze blanks test natural word combinations and required prepositional complements.",
+      "examples": [
+        "If the word after the blank is 'of', candidates might choose 'accused', 'fond', 'aware', but NEVER 'charged' (which takes 'with').",
+        "If the word after the blank is 'to', candidates consider 'senior', 'prefer', 'agree', but NEVER 'than'."
+      ],
+      "exceptions": [
+        "The preposition appearing immediately after the blank is the single most reliable clue in WBPSC cloze tests."
+      ]
+    },
+    {
+      "rule": "TRANSITIONAL AND LOGICAL HARMONY: Contrast words (However, Although, But) demand opposite polarity; Continuity words (And, Furthermore, Therefore) demand supportive polarity.",
+      "examples": [
+        "Sentence: 'The government allocated substantial funds; ___, the implementation on the ground remained sluggish.' -> Contrast required -> 'However' or 'Nevertheless'.",
+        "Sentence: 'The harvest was bountiful, and the farmers were ___.' -> Positive required -> 'content' or 'prosperous'."
+      ],
+      "exceptions": [
+        "Punctuation (semicolon followed by comma) often pinpoints conjunctive adverbs like 'however' and 'therefore'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Filling in blanks one by one without reading the whole paragraph first.",
+    "Picking a word that sounds good in isolation but clashes with the preposition right after the blank.",
+    "Switching tenses mid-passage without any time shift in the narrative.",
+    "Choosing an adjective when the grammar requires an adverb."
+  ],
+  "examTricks": [
+    "The Preposition Anchor: Look at the word immediately following the blank. If it's a preposition (in, on, at, to, of, from), your choices are restricted to words that pair with it.",
+    "The Tense Anchor: Check the very first verb in the paragraph. If it's in the Past Tense (was, lived, found), all narrative blanks will require Past forms.",
+    "The Forward Reference: If in doubt at blank 2, read ahead to blank 4—often the author reuses the exact word later!"
+  ],
+  "memoryTricks": [
+    "READ FIRST, fill second.",
+    "The PREPOSITION after the blank is your best friend."
+  ],
+  "revision": [
+    "Read whole cloze passage before choosing.",
+    "Predict Part of Speech needed at blank.",
+    "Look for fixed prepositions right after blank.",
+    "Match the overall passage tense (Past vs Present).",
+    "Check contrast connectors: Although, However, Despite.",
+    "Eliminate options with wrong grammatical categories."
+  ]
+}

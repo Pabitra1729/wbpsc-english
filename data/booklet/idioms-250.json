@@ -1,0 +1,1502 @@
+[
+  {
+    "num": 1,
+    "idiom": "A blessing in disguise",
+    "meaning": "a good thing that seemed bad at first",
+    "bengali": "ছদ্মবেশে আশীর্বাদ"
+  },
+  {
+    "num": 2,
+    "idiom": "A piece of cake",
+    "meaning": "very easy task",
+    "bengali": "জলভাত; খুব সহজ কাজ"
+  },
+  {
+    "num": 3,
+    "idiom": "A hot potato",
+    "meaning": "controversial issue",
+    "bengali": "স্পর্শকাতর বিষয়"
+  },
+  {
+    "num": 4,
+    "idiom": "A black sheep",
+    "meaning": "disgraced member of a group",
+    "bengali": "কুলাঙ্গার"
+  },
+  {
+    "num": 5,
+    "idiom": "A bolt from the blue",
+    "meaning": "sudden shock",
+    "bengali": "অপ্রত্যাশিত আঘাত"
+  },
+  {
+    "num": 6,
+    "idiom": "A dark horse",
+    "meaning": "unexpected winner",
+    "bengali": "অজানা শক্তিশালী প্রতিদ্বন্দ্বী"
+  },
+  {
+    "num": 7,
+    "idiom": "A drop in the ocean",
+    "meaning": "tiny amount",
+    "bengali": "সমুদ্রে বিন্দুমাত্র"
+  },
+  {
+    "num": 8,
+    "idiom": "A white elephant",
+    "meaning": "costly useless possession",
+    "bengali": "সাদা হাতি; অকেজো ব্যয়বহুল বস্তু"
+  },
+  {
+    "num": 9,
+    "idiom": "A red letter day",
+    "meaning": "memorable day",
+    "bengali": "স্মরণীয় দিন"
+  },
+  {
+    "num": 10,
+    "idiom": "A storm in a teacup",
+    "meaning": "much fuss over little",
+    "bengali": "তুচ্ছ বিষয়ে হইচই"
+  },
+  {
+    "num": 11,
+    "idiom": "A snake in the grass",
+    "meaning": "hidden enemy",
+    "bengali": "ছদ্মবেশী শত্রু"
+  },
+  {
+    "num": 12,
+    "idiom": "A wild goose chase",
+    "meaning": "useless search",
+    "bengali": "বৃথা অনুসন্ধান"
+  },
+  {
+    "num": 13,
+    "idiom": "A lame duck",
+    "meaning": "powerless person",
+    "bengali": "ক্ষমতাহীন ব্যক্তি"
+  },
+  {
+    "num": 14,
+    "idiom": "A fair weather friend",
+    "meaning": "friend only in good times",
+    "bengali": "সুসময়ের বন্ধু"
+  },
+  {
+    "num": 15,
+    "idiom": "A rolling stone",
+    "meaning": "restless wanderer",
+    "bengali": "ভবঘুরে"
+  },
+  {
+    "num": 16,
+    "idiom": "A bed of roses",
+    "meaning": "comfortable situation",
+    "bengali": "ফুলের বিছানা; আরামদায়ক অবস্থা"
+  },
+  {
+    "num": 17,
+    "idiom": "A tough nut to crack",
+    "meaning": "difficult problem/person",
+    "bengali": "কঠিন সমস্যা"
+  },
+  {
+    "num": 18,
+    "idiom": "A feather in one's cap",
+    "meaning": "achievement",
+    "bengali": "সাফল্যের পালক"
+  },
+  {
+    "num": 19,
+    "idiom": "A man of straw",
+    "meaning": "insubstantial person",
+    "bengali": "অসার ব্যক্তি"
+  },
+  {
+    "num": 20,
+    "idiom": "A turn coat",
+    "meaning": "traitor",
+    "bengali": "বিশ্বাসঘাতক"
+  },
+  {
+    "num": 21,
+    "idiom": "Achilles' heel",
+    "meaning": "weak point",
+    "bengali": "দুর্বল স্থান"
+  },
+  {
+    "num": 22,
+    "idiom": "Add fuel to the fire",
+    "meaning": "worsen the situation",
+    "bengali": "আগুনে ঘি ঢালা"
+  },
+  {
+    "num": 23,
+    "idiom": "All and sundry",
+    "meaning": "everyone",
+    "bengali": "সকলেই"
+  },
+  {
+    "num": 24,
+    "idiom": "All at sea",
+    "meaning": "confused",
+    "bengali": "দিশেহারা"
+  },
+  {
+    "num": 25,
+    "idiom": "An eye for an eye",
+    "meaning": "retaliation in kind",
+    "bengali": "যেমন কর্ম তেমন ফল"
+  },
+  {
+    "num": 26,
+    "idiom": "An apple of discord",
+    "meaning": "cause of quarrel",
+    "bengali": "বিবাদের কারণ"
+  },
+  {
+    "num": 27,
+    "idiom": "Apple of one's eye",
+    "meaning": "dearly loved person",
+    "bengali": "নয়নের মণি"
+  },
+  {
+    "num": 28,
+    "idiom": "As the crow flies",
+    "meaning": "in a straight line",
+    "bengali": "সোজা পথে"
+  },
+  {
+    "num": 29,
+    "idiom": "At loggerheads",
+    "meaning": "in disagreement",
+    "bengali": "বিবাদে লিপ্ত"
+  },
+  {
+    "num": 30,
+    "idiom": "At sixes and sevens",
+    "meaning": "in confusion",
+    "bengali": "বিশৃঙ্খল অবস্থায়"
+  },
+  {
+    "num": 31,
+    "idiom": "Bag and baggage",
+    "meaning": "with all belongings",
+    "bengali": "তল্পিতল্পা সহ"
+  },
+  {
+    "num": 32,
+    "idiom": "Bark up the wrong tree",
+    "meaning": "make wrong approach",
+    "bengali": "ভুল পথে চেষ্টা করা"
+  },
+  {
+    "num": 33,
+    "idiom": "Beat about the bush",
+    "meaning": "avoid the main point",
+    "bengali": "ঘুরিয়ে কথা বলা"
+  },
+  {
+    "num": 34,
+    "idiom": "Bell the cat",
+    "meaning": "take a risky initiative",
+    "bengali": "ঝুঁকিপূর্ণ দায়িত্ব নেওয়া"
+  },
+  {
+    "num": 35,
+    "idiom": "Bite the bullet",
+    "meaning": "face something unpleasant bravely",
+    "bengali": "কঠিন সত্য মেনে নেওয়া"
+  },
+  {
+    "num": 36,
+    "idiom": "Bite the dust",
+    "meaning": "fall dead; fail",
+    "bengali": "ধরাশায়ী হওয়া"
+  },
+  {
+    "num": 37,
+    "idiom": "Blow one's own trumpet",
+    "meaning": "boast",
+    "bengali": "নিজের ঢাক নিজে পেটানো"
+  },
+  {
+    "num": 38,
+    "idiom": "Break the ice",
+    "meaning": "start conversation",
+    "bengali": "আড়ষ্টতা কাটানো"
+  },
+  {
+    "num": 39,
+    "idiom": "Burn the midnight oil",
+    "meaning": "study late at night",
+    "bengali": "রাত জেগে পড়া"
+  },
+  {
+    "num": 40,
+    "idiom": "Burn one's boats",
+    "meaning": "cut off retreat",
+    "bengali": "ফেরার পথ বন্ধ করা"
+  },
+  {
+    "num": 41,
+    "idiom": "Bury the hatchet",
+    "meaning": "make peace",
+    "bengali": "বিবাদ মিটিয়ে ফেলা"
+  },
+  {
+    "num": 42,
+    "idiom": "By hook or by crook",
+    "meaning": "by any means",
+    "bengali": "যে কোনো উপায়ে"
+  },
+  {
+    "num": 43,
+    "idiom": "Call a spade a spade",
+    "meaning": "speak plainly",
+    "bengali": "স্পষ্ট কথা বলা"
+  },
+  {
+    "num": 44,
+    "idiom": "Cast pearls before swine",
+    "meaning": "waste on the unworthy",
+    "bengali": "বানরের গলায় মুক্তার মালা"
+  },
+  {
+    "num": 45,
+    "idiom": "Catch red-handed",
+    "meaning": "catch in the act",
+    "bengali": "হাতেনাতে ধরা"
+  },
+  {
+    "num": 46,
+    "idiom": "Chip off the old block",
+    "meaning": "like one's parent",
+    "bengali": "বাপকা বেটা"
+  },
+  {
+    "num": 47,
+    "idiom": "Cry over spilt milk",
+    "meaning": "regret the past",
+    "bengali": "গত বিষয়ে আফসোস করা"
+  },
+  {
+    "num": 48,
+    "idiom": "Cry wolf",
+    "meaning": "raise false alarm",
+    "bengali": "মিথ্যা বিপদ সংকেত দেওয়া"
+  },
+  {
+    "num": 49,
+    "idiom": "Cut the Gordian knot",
+    "meaning": "solve a difficult problem boldly",
+    "bengali": "জটিল সমস্যা সহজে সমাধান"
+  },
+  {
+    "num": 50,
+    "idiom": "Cut a sorry figure",
+    "meaning": "make poor impression",
+    "bengali": "হাস্যকর অবস্থায় পড়া"
+  },
+  {
+    "num": 51,
+    "idiom": "Cut and dried",
+    "meaning": "fixed; ready-made",
+    "bengali": "পূর্বনির্ধারিত"
+  },
+  {
+    "num": 52,
+    "idiom": "Dead as a doornail",
+    "meaning": "completely dead",
+    "bengali": "একদম মৃত"
+  },
+  {
+    "num": 53,
+    "idiom": "Devil's advocate",
+    "meaning": "argue opposing side",
+    "bengali": "বিরুদ্ধ পক্ষের যুক্তি দেওয়া"
+  },
+  {
+    "num": 54,
+    "idiom": "Die in harness",
+    "meaning": "die while working",
+    "bengali": "কাজ করতে করতে মরা"
+  },
+  {
+    "num": 55,
+    "idiom": "Dog in the manger",
+    "meaning": "selfish spoiler",
+    "bengali": "যে নিজে ভোগ করে না অন্যকেও করতে দেয় না"
+  },
+  {
+    "num": 56,
+    "idiom": "Draw the line",
+    "meaning": "set a limit",
+    "bengali": "সীমারেখা টানা"
+  },
+  {
+    "num": 57,
+    "idiom": "Dutch courage",
+    "meaning": "bravery from alcohol",
+    "bengali": "মদ্যপানজনিত সাহস"
+  },
+  {
+    "num": 58,
+    "idiom": "Eat humble pie",
+    "meaning": "apologize humbly",
+    "bengali": "নত হয়ে ক্ষমা চাওয়া"
+  },
+  {
+    "num": 59,
+    "idiom": "Eleventh hour",
+    "meaning": "last moment",
+    "bengali": "শেষ মুহূর্ত"
+  },
+  {
+    "num": 60,
+    "idiom": "End in smoke",
+    "meaning": "come to nothing",
+    "bengali": "ব্যর্থ হওয়া"
+  },
+  {
+    "num": 61,
+    "idiom": "Face the music",
+    "meaning": "accept punishment",
+    "bengali": "শাস্তির মুখোমুখি হওয়া"
+  },
+  {
+    "num": 62,
+    "idiom": "Fall flat",
+    "meaning": "fail to impress",
+    "bengali": "ব্যর্থ হওয়া"
+  },
+  {
+    "num": 63,
+    "idiom": "Fish in troubled waters",
+    "meaning": "profit from disorder",
+    "bengali": "ঘোলা জলে মাছ ধরা"
+  },
+  {
+    "num": 64,
+    "idiom": "Flesh and blood",
+    "meaning": "human nature; relatives",
+    "bengali": "রক্তমাংসের মানুষ; আত্মীয়"
+  },
+  {
+    "num": 65,
+    "idiom": "Fly in the ointment",
+    "meaning": "small spoiling thing",
+    "bengali": "সামান্য বাধা"
+  },
+  {
+    "num": 66,
+    "idiom": "Food for thought",
+    "meaning": "something to think about",
+    "bengali": "ভাবনার খোরাক"
+  },
+  {
+    "num": 67,
+    "idiom": "Foul play",
+    "meaning": "unfair action; crime",
+    "bengali": "অসদুপায়; অপরাধ"
+  },
+  {
+    "num": 68,
+    "idiom": "From pillar to post",
+    "meaning": "from one place to another",
+    "bengali": "এখান থেকে ওখানে"
+  },
+  {
+    "num": 69,
+    "idiom": "Gift of the gab",
+    "meaning": "talent for speaking",
+    "bengali": "বাকপটুতা"
+  },
+  {
+    "num": 70,
+    "idiom": "Give and take",
+    "meaning": "mutual concession",
+    "bengali": "আদানপ্রদান"
+  },
+  {
+    "num": 71,
+    "idiom": "Go to the dogs",
+    "meaning": "be ruined",
+    "bengali": "উচ্ছন্নে যাওয়া"
+  },
+  {
+    "num": 72,
+    "idiom": "Golden opportunity",
+    "meaning": "excellent chance",
+    "bengali": "সুবর্ণ সুযোগ"
+  },
+  {
+    "num": 73,
+    "idiom": "Hand in glove",
+    "meaning": "very close",
+    "bengali": "ঘনিষ্ঠ যোগসাজশ"
+  },
+  {
+    "num": 74,
+    "idiom": "Hand to mouth",
+    "meaning": "barely surviving",
+    "bengali": "দিন আনা দিন খাওয়া"
+  },
+  {
+    "num": 75,
+    "idiom": "Hard nut",
+    "meaning": "tough person",
+    "bengali": "কঠিন মানুষ"
+  },
+  {
+    "num": 76,
+    "idiom": "Have an axe to grind",
+    "meaning": "have selfish motive",
+    "bengali": "স্বার্থসিদ্ধির মতলব থাকা"
+  },
+  {
+    "num": 77,
+    "idiom": "Head over heels",
+    "meaning": "completely in love",
+    "bengali": "প্রেমে হাবুডুবু"
+  },
+  {
+    "num": 78,
+    "idiom": "Heart and soul",
+    "meaning": "with full dedication",
+    "bengali": "মনেপ্রাণে"
+  },
+  {
+    "num": 79,
+    "idiom": "Hit the nail on the head",
+    "meaning": "say exactly right",
+    "bengali": "ঠিক কথাটি বলা"
+  },
+  {
+    "num": 80,
+    "idiom": "Hit the sack",
+    "meaning": "go to bed",
+    "bengali": "ঘুমাতে যাওয়া"
+  },
+  {
+    "num": 81,
+    "idiom": "Hold water",
+    "meaning": "be logical",
+    "bengali": "যুক্তিসঙ্গত হওয়া"
+  },
+  {
+    "num": 82,
+    "idiom": "In a nutshell",
+    "meaning": "briefly",
+    "bengali": "সংক্ষেপে"
+  },
+  {
+    "num": 83,
+    "idiom": "In the long run",
+    "meaning": "eventually",
+    "bengali": "দীর্ঘমেয়াদে"
+  },
+  {
+    "num": 84,
+    "idiom": "In black and white",
+    "meaning": "in writing",
+    "bengali": "লিখিতভাবে"
+  },
+  {
+    "num": 85,
+    "idiom": "In hot water",
+    "meaning": "in trouble",
+    "bengali": "বিপদে পড়া"
+  },
+  {
+    "num": 86,
+    "idiom": "In the pink",
+    "meaning": "in good health",
+    "bengali": "সুস্থ অবস্থায়"
+  },
+  {
+    "num": 87,
+    "idiom": "Jack of all trades",
+    "meaning": "versatile but not expert",
+    "bengali": "সব বিষয়ে অল্প জানা"
+  },
+  {
+    "num": 88,
+    "idiom": "Keep a stiff upper lip",
+    "meaning": "stay calm in trouble",
+    "bengali": "বিপদে ধৈর্য ধরা"
+  },
+  {
+    "num": 89,
+    "idiom": "Keep the wolf from the door",
+    "meaning": "avoid poverty",
+    "bengali": "অভাব থেকে বাঁচা"
+  },
+  {
+    "num": 90,
+    "idiom": "Kill two birds with one stone",
+    "meaning": "achieve two aims at once",
+    "bengali": "এক ঢিলে দুই পাখি মারা"
+  },
+  {
+    "num": 91,
+    "idiom": "Kith and kin",
+    "meaning": "relatives",
+    "bengali": "আত্মীয়স্বজন"
+  },
+  {
+    "num": 92,
+    "idiom": "Lion's share",
+    "meaning": "largest part",
+    "bengali": "সিংহভাগ"
+  },
+  {
+    "num": 93,
+    "idiom": "Look before you leap",
+    "meaning": "think before acting",
+    "bengali": "ভেবেচিন্তে কাজ করা"
+  },
+  {
+    "num": 94,
+    "idiom": "Make a mountain of a molehill",
+    "meaning": "exaggerate a small matter",
+    "bengali": "তিলকে তাল করা"
+  },
+  {
+    "num": 95,
+    "idiom": "Make hay while the sun shines",
+    "meaning": "use opportunity",
+    "bengali": "সুযোগের সদ্ব্যবহার করা"
+  },
+  {
+    "num": 96,
+    "idiom": "Man of letters",
+    "meaning": "scholar",
+    "bengali": "বিদ্বান ব্যক্তি"
+  },
+  {
+    "num": 97,
+    "idiom": "Method in madness",
+    "meaning": "order in apparent chaos",
+    "bengali": "পাগলামির মধ্যে নিয়ম"
+  },
+  {
+    "num": 98,
+    "idiom": "Mare's nest",
+    "meaning": "false discovery",
+    "bengali": "অলীক আবিষ্কার"
+  },
+  {
+    "num": 99,
+    "idiom": "Meet one's Waterloo",
+    "meaning": "face final defeat",
+    "bengali": "চূড়ান্ত পরাজয়"
+  },
+  {
+    "num": 100,
+    "idiom": "Mind your p's and q's",
+    "meaning": "be careful",
+    "bengali": "সতর্ক থাকা"
+  },
+  {
+    "num": 101,
+    "idiom": "Moot point",
+    "meaning": "debatable matter",
+    "bengali": "বিতর্কিত বিষয়"
+  },
+  {
+    "num": 102,
+    "idiom": "Naked truth",
+    "meaning": "plain fact",
+    "bengali": "নগ্ন সত্য"
+  },
+  {
+    "num": 103,
+    "idiom": "Neck and neck",
+    "meaning": "very close in race",
+    "bengali": "সমানে সমানে"
+  },
+  {
+    "num": 104,
+    "idiom": "Nip in the bud",
+    "meaning": "stop early",
+    "bengali": "অঙ্কুরেই বিনাশ করা"
+  },
+  {
+    "num": 105,
+    "idiom": "Not worth a straw",
+    "meaning": "worthless",
+    "bengali": "মূল্যহীন"
+  },
+  {
+    "num": 106,
+    "idiom": "Null and void",
+    "meaning": "invalid",
+    "bengali": "বাতিল"
+  },
+  {
+    "num": 107,
+    "idiom": "Of late",
+    "meaning": "recently",
+    "bengali": "ইদানীং"
+  },
+  {
+    "num": 108,
+    "idiom": "Off and on",
+    "meaning": "occasionally",
+    "bengali": "মাঝে মাঝে"
+  },
+  {
+    "num": 109,
+    "idiom": "Once in a blue moon",
+    "meaning": "very rarely",
+    "bengali": "কালেভদ্রে"
+  },
+  {
+    "num": 110,
+    "idiom": "On cloud nine",
+    "meaning": "extremely happy",
+    "bengali": "আনন্দে আত্মহারা"
+  },
+  {
+    "num": 111,
+    "idiom": "On the horns of a dilemma",
+    "meaning": "in a difficult choice",
+    "bengali": "উভয়সংকটে"
+  },
+  {
+    "num": 112,
+    "idiom": "On the spur of the moment",
+    "meaning": "impulsively",
+    "bengali": "আবেগের বশে"
+  },
+  {
+    "num": 113,
+    "idiom": "Out and out",
+    "meaning": "completely",
+    "bengali": "সম্পূর্ণভাবে"
+  },
+  {
+    "num": 114,
+    "idiom": "Out of the blue",
+    "meaning": "unexpectedly",
+    "bengali": "অপ্রত্যাশিতভাবে"
+  },
+  {
+    "num": 115,
+    "idiom": "Over head and ears",
+    "meaning": "deeply involved",
+    "bengali": "আপাদমস্তক ডুবে"
+  },
+  {
+    "num": 116,
+    "idiom": "Palmy days",
+    "meaning": "prosperous times",
+    "bengali": "সুদিন"
+  },
+  {
+    "num": 117,
+    "idiom": "Pay lip service",
+    "meaning": "give false support",
+    "bengali": "মুখে সমর্থন জানানো"
+  },
+  {
+    "num": 118,
+    "idiom": "Pay through the nose",
+    "meaning": "pay too much",
+    "bengali": "অতিরিক্ত দাম দেওয়া"
+  },
+  {
+    "num": 119,
+    "idiom": "Play second fiddle",
+    "meaning": "take lesser role",
+    "bengali": "গৌণ ভূমিকা নেওয়া"
+  },
+  {
+    "num": 120,
+    "idiom": "Play with fire",
+    "meaning": "take risk",
+    "bengali": "আগুন নিয়ে খেলা"
+  },
+  {
+    "num": 121,
+    "idiom": "Pull someone's leg",
+    "meaning": "tease",
+    "bengali": "মজা করা"
+  },
+  {
+    "num": 122,
+    "idiom": "Put a spoke in one's wheel",
+    "meaning": "obstruct",
+    "bengali": "বাধা সৃষ্টি করা"
+  },
+  {
+    "num": 123,
+    "idiom": "Put the cart before the horse",
+    "meaning": "reverse order",
+    "bengali": "গোড়া কেটে আগায় জল"
+  },
+  {
+    "num": 124,
+    "idiom": "Rain cats and dogs",
+    "meaning": "rain heavily",
+    "bengali": "মুষলধারে বৃষ্টি"
+  },
+  {
+    "num": 125,
+    "idiom": "Raise a hue and cry",
+    "meaning": "protest loudly",
+    "bengali": "হইচই করা"
+  },
+  {
+    "num": 126,
+    "idiom": "Read between the lines",
+    "meaning": "find hidden meaning",
+    "bengali": "ভাবার্থ বোঝা"
+  },
+  {
+    "num": 127,
+    "idiom": "Red tape",
+    "meaning": "bureaucratic delay",
+    "bengali": "লালফিতার বাঁধন"
+  },
+  {
+    "num": 128,
+    "idiom": "Rob Peter to pay Paul",
+    "meaning": "borrow to pay another",
+    "bengali": "একজনের ধার অন্যজনকে দিয়ে শোধ"
+  },
+  {
+    "num": 129,
+    "idiom": "Rub salt into the wound",
+    "meaning": "worsen pain",
+    "bengali": "ক্ষতে নুনের ছিটে"
+  },
+  {
+    "num": 130,
+    "idiom": "Run in the family",
+    "meaning": "be hereditary",
+    "bengali": "বংশগত হওয়া"
+  },
+  {
+    "num": 131,
+    "idiom": "Save one's skin",
+    "meaning": "escape danger",
+    "bengali": "নিজের প্রাণ বাঁচানো"
+  },
+  {
+    "num": 132,
+    "idiom": "Scot free",
+    "meaning": "without punishment",
+    "bengali": "বিনা শাস্তিতে"
+  },
+  {
+    "num": 133,
+    "idiom": "See eye to eye",
+    "meaning": "agree completely",
+    "bengali": "একমত হওয়া"
+  },
+  {
+    "num": 134,
+    "idiom": "Show the white feather",
+    "meaning": "show cowardice",
+    "bengali": "ভীরুতা দেখানো"
+  },
+  {
+    "num": 135,
+    "idiom": "Sit on the fence",
+    "meaning": "stay neutral",
+    "bengali": "নিরপেক্ষ থাকা"
+  },
+  {
+    "num": 136,
+    "idiom": "Skeleton in the cupboard",
+    "meaning": "family secret",
+    "bengali": "গোপন লজ্জার কথা"
+  },
+  {
+    "num": 137,
+    "idiom": "Smell a rat",
+    "meaning": "suspect foul play",
+    "bengali": "সন্দেহ করা"
+  },
+  {
+    "num": 138,
+    "idiom": "Spill the beans",
+    "meaning": "reveal secret",
+    "bengali": "গোপন কথা ফাঁস করা"
+  },
+  {
+    "num": 139,
+    "idiom": "Spick and span",
+    "meaning": "neat and clean",
+    "bengali": "ঝকঝকে পরিষ্কার"
+  },
+  {
+    "num": 140,
+    "idiom": "Stand on ceremony",
+    "meaning": "be formal",
+    "bengali": "আনুষ্ঠানিকতা করা"
+  },
+  {
+    "num": 141,
+    "idiom": "Steal a march",
+    "meaning": "gain advantage secretly",
+    "bengali": "গোপনে এগিয়ে যাওয়া"
+  },
+  {
+    "num": 142,
+    "idiom": "Stick to one's guns",
+    "meaning": "hold firm",
+    "bengali": "নিজের মতে অটল থাকা"
+  },
+  {
+    "num": 143,
+    "idiom": "Take the bull by the horns",
+    "meaning": "face difficulty bravely",
+    "bengali": "সাহসে কঠিন কাজ করা"
+  },
+  {
+    "num": 144,
+    "idiom": "Take to heart",
+    "meaning": "feel deeply",
+    "bengali": "মনে লাগানো"
+  },
+  {
+    "num": 145,
+    "idiom": "Take to one's heels",
+    "meaning": "run away",
+    "bengali": "পালিয়ে যাওয়া"
+  },
+  {
+    "num": 146,
+    "idiom": "The last straw",
+    "meaning": "final trouble",
+    "bengali": "সহ্যের শেষ সীমা"
+  },
+  {
+    "num": 147,
+    "idiom": "The lion's den",
+    "meaning": "dangerous place",
+    "bengali": "বিপদের আস্তানা"
+  },
+  {
+    "num": 148,
+    "idiom": "Through thick and thin",
+    "meaning": "in all conditions",
+    "bengali": "সুখে-দুঃখে"
+  },
+  {
+    "num": 149,
+    "idiom": "Throw in the towel",
+    "meaning": "surrender",
+    "bengali": "হার স্বীকার করা"
+  },
+  {
+    "num": 150,
+    "idiom": "Tit for tat",
+    "meaning": "retaliation",
+    "bengali": "যেমন কুকুর তেমন মুগুর"
+  },
+  {
+    "num": 151,
+    "idiom": "To the backbone",
+    "meaning": "completely",
+    "bengali": "আপাদমস্তক"
+  },
+  {
+    "num": 152,
+    "idiom": "Toe the line",
+    "meaning": "obey rules",
+    "bengali": "নিয়ম মেনে চলা"
+  },
+  {
+    "num": 153,
+    "idiom": "Turn a deaf ear",
+    "meaning": "ignore",
+    "bengali": "কানে না তোলা"
+  },
+  {
+    "num": 154,
+    "idiom": "Turn over a new leaf",
+    "meaning": "start afresh",
+    "bengali": "নতুন জীবন শুরু করা"
+  },
+  {
+    "num": 155,
+    "idiom": "Under the weather",
+    "meaning": "slightly ill",
+    "bengali": "শরীর খারাপ"
+  },
+  {
+    "num": 156,
+    "idiom": "Up and doing",
+    "meaning": "active",
+    "bengali": "কর্মতৎপর"
+  },
+  {
+    "num": 157,
+    "idiom": "Up in arms",
+    "meaning": "angry protest",
+    "bengali": "ক্ষোভে ফেটে পড়া"
+  },
+  {
+    "num": 158,
+    "idiom": "Variety is the spice of life",
+    "meaning": "change makes life interesting",
+    "bengali": "বৈচিত্র্যই জীবনের স্বাদ"
+  },
+  {
+    "num": 159,
+    "idiom": "Walk on air",
+    "meaning": "be very happy",
+    "bengali": "আনন্দে আত্মহারা"
+  },
+  {
+    "num": 160,
+    "idiom": "Wash one's hands of",
+    "meaning": "refuse responsibility",
+    "bengali": "দায়মুক্ত হওয়া"
+  },
+  {
+    "num": 161,
+    "idiom": "Water under the bridge",
+    "meaning": "past and forgotten",
+    "bengali": "অতীত ঘটনা"
+  },
+  {
+    "num": 162,
+    "idiom": "Wear and tear",
+    "meaning": "damage by use",
+    "bengali": "ক্ষয়ক্ষতি"
+  },
+  {
+    "num": 163,
+    "idiom": "Weather the storm",
+    "meaning": "survive difficulty",
+    "bengali": "ঝড় কাটিয়ে ওঠা"
+  },
+  {
+    "num": 164,
+    "idiom": "Wet blanket",
+    "meaning": "killjoy",
+    "bengali": "আনন্দ নষ্টকারী"
+  },
+  {
+    "num": 165,
+    "idiom": "Wolf in sheep's clothing",
+    "meaning": "hidden evil",
+    "bengali": "মেষের ছদ্মবেশে নেকড়ে"
+  },
+  {
+    "num": 166,
+    "idiom": "Yeoman's service",
+    "meaning": "great useful help",
+    "bengali": "বিরাট সহায়তা"
+  },
+  {
+    "num": 167,
+    "idiom": "Zero hour",
+    "meaning": "decisive moment",
+    "bengali": "নির্ণায়ক মুহূর্ত"
+  },
+  {
+    "num": 168,
+    "idiom": "A cat's paw",
+    "meaning": "dupe used by others",
+    "bengali": "অন্যের হাতের পুতুল"
+  },
+  {
+    "num": 169,
+    "idiom": "A square peg in a round hole",
+    "meaning": "misfit",
+    "bengali": "অযোগ্য স্থানে"
+  },
+  {
+    "num": 170,
+    "idiom": "A pretty kettle of fish",
+    "meaning": "messy situation",
+    "bengali": "জটিল পরিস্থিতি"
+  },
+  {
+    "num": 171,
+    "idiom": "A slip of the tongue",
+    "meaning": "accidental word",
+    "bengali": "জিভ ফসকে বলা কথা"
+  },
+  {
+    "num": 172,
+    "idiom": "A cock and bull story",
+    "meaning": "unbelievable tale",
+    "bengali": "আজগুবি গল্প"
+  },
+  {
+    "num": 173,
+    "idiom": "A leopard cannot change its spots",
+    "meaning": "nature never changes",
+    "bengali": "স্বভাব যায় না মলে"
+  },
+  {
+    "num": 174,
+    "idiom": "Barking dog seldom bites",
+    "meaning": "loud people harmless",
+    "bengali": "যে গর্জে সে বর্ষে না"
+  },
+  {
+    "num": 175,
+    "idiom": "Beggars can't be choosers",
+    "meaning": "accept what's offered",
+    "bengali": "ভিখারির পছন্দ থাকে না"
+  },
+  {
+    "num": 176,
+    "idiom": "Better late than never",
+    "meaning": "late is better than not",
+    "bengali": "দেরি হলেও না হওয়ার চেয়ে ভালো"
+  },
+  {
+    "num": 177,
+    "idiom": "Birds of a feather",
+    "meaning": "similar people",
+    "bengali": "সমমনা মানুষ"
+  },
+  {
+    "num": 178,
+    "idiom": "Blood is thicker than water",
+    "meaning": "family bonds strongest",
+    "bengali": "রক্তের টান বড় টান"
+  },
+  {
+    "num": 179,
+    "idiom": "Burn the candle at both ends",
+    "meaning": "overwork",
+    "bengali": "অতিরিক্ত পরিশ্রম করা"
+  },
+  {
+    "num": 180,
+    "idiom": "Butter someone up",
+    "meaning": "flatter",
+    "bengali": "তোষামোদ করা"
+  },
+  {
+    "num": 181,
+    "idiom": "Cast aside",
+    "meaning": "reject",
+    "bengali": "ছুড়ে ফেলা"
+  },
+  {
+    "num": 182,
+    "idiom": "Come to a head",
+    "meaning": "reach crisis",
+    "bengali": "চরম সীমায় পৌঁছানো"
+  },
+  {
+    "num": 183,
+    "idiom": "Come to grief",
+    "meaning": "meet disaster",
+    "bengali": "বিপদে পড়া"
+  },
+  {
+    "num": 184,
+    "idiom": "Crocodile tears",
+    "meaning": "false sorrow",
+    "bengali": "কুমিরের কান্না"
+  },
+  {
+    "num": 185,
+    "idiom": "Cross the Rubicon",
+    "meaning": "take irreversible step",
+    "bengali": "অপরিবর্তনীয় পদক্ষেপ নেওয়া"
+  },
+  {
+    "num": 186,
+    "idiom": "Curry favour",
+    "meaning": "seek favour by flattery",
+    "bengali": "মন জোগানো"
+  },
+  {
+    "num": 187,
+    "idiom": "Daylight robbery",
+    "meaning": "overcharging",
+    "bengali": "প্রকাশ্য লুট"
+  },
+  {
+    "num": 188,
+    "idiom": "Dig one's own grave",
+    "meaning": "cause own ruin",
+    "bengali": "নিজের সর্বনাশ ডেকে আনা"
+  },
+  {
+    "num": 189,
+    "idiom": "Do or die",
+    "meaning": "try at all costs",
+    "bengali": "করব অথবা মরব"
+  },
+  {
+    "num": 190,
+    "idiom": "Down in the dumps",
+    "meaning": "depressed",
+    "bengali": "মনমরা"
+  },
+  {
+    "num": 191,
+    "idiom": "Drive home",
+    "meaning": "emphasise",
+    "bengali": "বুঝিয়ে দেওয়া"
+  },
+  {
+    "num": 192,
+    "idiom": "Easier said than done",
+    "meaning": "hard to do",
+    "bengali": "বলা সহজ করা কঠিন"
+  },
+  {
+    "num": 193,
+    "idiom": "Every cloud has a silver lining",
+    "meaning": "good in bad",
+    "bengali": "প্রতি মেঘের রুপালি রেখা"
+  },
+  {
+    "num": 194,
+    "idiom": "Fight tooth and nail",
+    "meaning": "fight fiercely",
+    "bengali": "প্রাণপণে লড়া"
+  },
+  {
+    "num": 195,
+    "idiom": "Fish out of water",
+    "meaning": "uncomfortable person",
+    "bengali": "অচেনা পরিবেশে অস্বস্তি"
+  },
+  {
+    "num": 196,
+    "idiom": "Fit as a fiddle",
+    "meaning": "very healthy",
+    "bengali": "একেবারে সুস্থ"
+  },
+  {
+    "num": 197,
+    "idiom": "Flog a dead horse",
+    "meaning": "waste effort",
+    "bengali": "বৃথা চেষ্টা করা"
+  },
+  {
+    "num": 198,
+    "idiom": "Gild the lily",
+    "meaning": "over-decorate",
+    "bengali": "বাড়াবাড়ি করা"
+  },
+  {
+    "num": 199,
+    "idiom": "Give the cold shoulder",
+    "meaning": "ignore coldly",
+    "bengali": "অবহেলা করা"
+  },
+  {
+    "num": 200,
+    "idiom": "Go Dutch",
+    "meaning": "share expenses",
+    "bengali": "খরচ ভাগ করা"
+  },
+  {
+    "num": 201,
+    "idiom": "Go to rack and ruin",
+    "meaning": "decay",
+    "bengali": "ধ্বংস হওয়া"
+  },
+  {
+    "num": 202,
+    "idiom": "Grease the palm",
+    "meaning": "bribe",
+    "bengali": "ঘুষ দেওয়া"
+  },
+  {
+    "num": 203,
+    "idiom": "Green-eyed monster",
+    "meaning": "jealousy",
+    "bengali": "হিংসা"
+  },
+  {
+    "num": 204,
+    "idiom": "Hit below the belt",
+    "meaning": "act unfairly",
+    "bengali": "অন্যায্য আঘাত করা"
+  },
+  {
+    "num": 205,
+    "idiom": "Hobson's choice",
+    "meaning": "no real choice",
+    "bengali": "বাধ্যতামূলক পছন্দ"
+  },
+  {
+    "num": 206,
+    "idiom": "Hush money",
+    "meaning": "bribe for silence",
+    "bengali": "মুখ বন্ধের ঘুষ"
+  },
+  {
+    "num": 207,
+    "idiom": "In the doldrums",
+    "meaning": "in low spirits",
+    "bengali": "বিষণ্ণ অবস্থায়"
+  },
+  {
+    "num": 208,
+    "idiom": "In the lurch",
+    "meaning": "in difficulty",
+    "bengali": "বিপদে ফেলে"
+  },
+  {
+    "num": 209,
+    "idiom": "Jump on the bandwagon",
+    "meaning": "follow a trend",
+    "bengali": "হুজুগে মাতা"
+  },
+  {
+    "num": 210,
+    "idiom": "Keep at bay",
+    "meaning": "hold off",
+    "bengali": "দূরে রাখা"
+  },
+  {
+    "num": 211,
+    "idiom": "Keep mum",
+    "meaning": "stay silent",
+    "bengali": "চুপ থাকা"
+  },
+  {
+    "num": 212,
+    "idiom": "Knock on wood",
+    "meaning": "touch wood for luck",
+    "bengali": "কপাল ঠোকা"
+  },
+  {
+    "num": 213,
+    "idiom": "Let the cat out of the bag",
+    "meaning": "reveal secret",
+    "bengali": "গোপন ফাঁস করা"
+  },
+  {
+    "num": 214,
+    "idiom": "Let sleeping dogs lie",
+    "meaning": "avoid stirring trouble",
+    "bengali": "ঘুমন্ত সমস্যা না জাগানো"
+  },
+  {
+    "num": 215,
+    "idiom": "Lose heart",
+    "meaning": "become discouraged",
+    "bengali": "সাহস হারানো"
+  },
+  {
+    "num": 216,
+    "idiom": "Make both ends meet",
+    "meaning": "manage with income",
+    "bengali": "কোনোমতে সংসার চালানো"
+  },
+  {
+    "num": 217,
+    "idiom": "Make a clean breast of",
+    "meaning": "confess fully",
+    "bengali": "খোলাখুলি স্বীকার করা"
+  },
+  {
+    "num": 218,
+    "idiom": "Make clean sweep",
+    "meaning": "remove everything",
+    "bengali": "সবকিছু সাফ করা"
+  },
+  {
+    "num": 219,
+    "idiom": "Make light of",
+    "meaning": "treat as unimportant",
+    "bengali": "হালকাভাবে নেওয়া"
+  },
+  {
+    "num": 220,
+    "idiom": "Make way",
+    "meaning": "give space",
+    "bengali": "পথ ছেড়ে দেওয়া"
+  },
+  {
+    "num": 221,
+    "idiom": "Mend one's fences",
+    "meaning": "repair relations",
+    "bengali": "সম্পর্ক ঠিক করা"
+  },
+  {
+    "num": 222,
+    "idiom": "Miss the boat",
+    "meaning": "lose opportunity",
+    "bengali": "সুযোগ হারানো"
+  },
+  {
+    "num": 223,
+    "idiom": "No man's land",
+    "meaning": "disputed land",
+    "bengali": "কারও নয় এমন জমি"
+  },
+  {
+    "num": 224,
+    "idiom": "Odds and ends",
+    "meaning": "miscellaneous items",
+    "bengali": "খুচরো জিনিস"
+  },
+  {
+    "num": 225,
+    "idiom": "Of one's own accord",
+    "meaning": "voluntarily",
+    "bengali": "স্বেচ্ছায়"
+  },
+  {
+    "num": 226,
+    "idiom": "On pins and needles",
+    "meaning": "anxious",
+    "bengali": "উৎকণ্ঠিত"
+  },
+  {
+    "num": 227,
+    "idiom": "Out of sorts",
+    "meaning": "unwell/moody",
+    "bengali": "মনমরা বা অসুস্থ"
+  },
+  {
+    "num": 228,
+    "idiom": "Over the moon",
+    "meaning": "delighted",
+    "bengali": "আনন্দে আত্মহারা"
+  },
+  {
+    "num": 229,
+    "idiom": "Pass the buck",
+    "meaning": "shift blame",
+    "bengali": "দায় এড়ানো"
+  },
+  {
+    "num": 230,
+    "idiom": "Pocket the insult",
+    "meaning": "bear insult quietly",
+    "bengali": "অপমান হজম করা"
+  },
+  {
+    "num": 231,
+    "idiom": "Pour oil on troubled waters",
+    "meaning": "calm a dispute",
+    "bengali": "বিবাদ থামানো"
+  },
+  {
+    "num": 232,
+    "idiom": "Pros and cons",
+    "meaning": "advantages and disadvantages",
+    "bengali": "সুবিধা-অসুবিধা"
+  },
+  {
+    "num": 233,
+    "idiom": "Put one's foot down",
+    "meaning": "be firm",
+    "bengali": "কঠোর অবস্থান নেওয়া"
+  },
+  {
+    "num": 234,
+    "idiom": "Quid pro quo",
+    "meaning": "something for something",
+    "bengali": "বিনিময়"
+  },
+  {
+    "num": 235,
+    "idiom": "Rack one's brain",
+    "meaning": "think hard",
+    "bengali": "মাথা ঘামানো"
+  },
+  {
+    "num": 236,
+    "idiom": "Rise to the occasion",
+    "meaning": "meet challenge",
+    "bengali": "পরিস্থিতি সামাল দেওয়া"
+  },
+  {
+    "num": 237,
+    "idiom": "Rule the roost",
+    "meaning": "be in command",
+    "bengali": "কর্তৃত্ব করা"
+  },
+  {
+    "num": 238,
+    "idiom": "Safe and sound",
+    "meaning": "unharmed",
+    "bengali": "নিরাপদে ও সুস্থ"
+  },
+  {
+    "num": 239,
+    "idiom": "Sail in the same boat",
+    "meaning": "share same situation",
+    "bengali": "একই অবস্থায় থাকা"
+  },
+  {
+    "num": 240,
+    "idiom": "Send to Coventry",
+    "meaning": "ostracise",
+    "bengali": "একঘরে করা"
+  },
+  {
+    "num": 241,
+    "idiom": "Show a clean pair of heels",
+    "meaning": "run away fast",
+    "bengali": "দ্রুত পালানো"
+  },
+  {
+    "num": 242,
+    "idiom": "Sing a different tune",
+    "meaning": "change opinion",
+    "bengali": "সুর পাল্টানো"
+  },
+  {
+    "num": 243,
+    "idiom": "Sleep like a log",
+    "meaning": "sleep deeply",
+    "bengali": "গভীর ঘুমানো"
+  },
+  {
+    "num": 244,
+    "idiom": "Small fry",
+    "meaning": "unimportant people",
+    "bengali": "তুচ্ছ লোক"
+  },
+  {
+    "num": 245,
+    "idiom": "Sour grapes",
+    "meaning": "pretending to despise",
+    "bengali": "আঙুর ফল টক"
+  },
+  {
+    "num": 246,
+    "idiom": "Spare the rod",
+    "meaning": "avoid punishment",
+    "bengali": "শাসনে ঢিল দেওয়া"
+  },
+  {
+    "num": 247,
+    "idiom": "Stand in good stead",
+    "meaning": "prove useful",
+    "bengali": "কাজে লাগা"
+  },
+  {
+    "num": 248,
+    "idiom": "Swallow the bitter pill",
+    "meaning": "accept unpleasant fact",
+    "bengali": "তিক্ত সত্য মেনে নেওয়া"
+  },
+  {
+    "num": 249,
+    "idiom": "Take a rain check",
+    "meaning": "postpone invitation",
+    "bengali": "পরে সুযোগ নেওয়া"
+  },
+  {
+    "num": 250,
+    "idiom": "Take French leave",
+    "meaning": "leave without permission",
+    "bengali": "অনুমতি ছাড়া চলে যাওয়া"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "d05",
+  "title": "Paragraph Writing & Thematic Development",
+  "intro": "Paragraph Writing evaluates a candidate's ability to develop a unified, coherent, and well-organized exposition on a contemporary social, administrative, technological, or environmental topic within 150-200 words. Marks are allotted for strong topic sentences, cohesive transitional linkers, balanced argumentation, and an impactful concluding synthesis.",
+  "bengali": "Paragraph Writing (অনুচ্ছেদ রচনা): WBPSC Clerkship Part-II-তে কোনো সাম্প্রতিক সামাজিক, পরিবেশগত বা শিক্ষামূলক বিষয়ে (যেমন: 'Plastic Pollution', 'Women Empowerment', 'Digital India', 'Value of Discipline') ১৫০-২০০ শব্দের একটি সুসংহত অনুচ্ছেদ লিখতে হয়।\n\nএকটি আদর্শ Paragraph-এর ৩টি অবিচ্ছেদ্য অংশ:\n১. Topic Sentence (সূচনা বাক্য): প্রথম বাক্যেই বিষয়টির মূল পরিচয় ও গুরুত্ব তুলে ধরতে হবে।\n২. Supporting Body Sentences (মূল বক্তব্য): ৩ থেকে ৪টি বাক্যে বিষয়টি কেন গুরুত্বপূর্ণ, এর ভালো-মন্দ দিক বা বর্তমান পরিস্থিতি সম্পর্কে যুক্তি ও তথ্য দেওয়া।\n৩. Concluding Sentence (উপসংহার): শেষ বাক্যটিতে একটি ইতিবাচক সমাধান বা ভবিষ্যৎ আশাবাদ ব্যক্ত করে অনুচ্ছেদটি সমাপ্ত করা।",
+  "rules": [
+    {
+      "rule": "THE ARCHITECTURE OF A STRONG TOPIC SENTENCE: The opening sentence must clearly define the subject and present the writer's primary controlling perspective.",
+      "examples": [
+        "Topic - Digital Literacy: 'Digital literacy is no longer a technological privilege in contemporary India; it has become the fundamental bedrock of equitable citizen empowerment and administrative transparency.'",
+        "Topic - Climate Change: 'Climate change represents the most formidable existential challenge confronting modern civilization, demanding coordinated global action alongside localized conservation initiatives.'"
+      ],
+      "exceptions": [
+        "Never begin with a bland, trivial sentence like 'Today I will write about plastic pollution'."
+      ]
+    },
+    {
+      "rule": "UNITY AND COHERENCE THROUGH TRANSITIONAL DEVICES: Every supporting sentence must directly elaborate on the controlling idea using logical connectors.",
+      "examples": [
+        "Addition: 'Furthermore, extensive digitization reduces bureaucratic delays and minimizes corruption.'",
+        "Contrast: 'However, the expanding digital divide between urban centers and rural hinterlands threatens to leave millions marginalized.'",
+        "Consequence: 'Consequently, affordable internet infrastructure must accompany welfare schemes.'"
+      ],
+      "exceptions": [
+        "Avoid drifting into tangential sub-topics; maintain absolute thematic unity around the single assigned subject."
+      ]
+    },
+    {
+      "rule": "THE SYNTHESIZING CONCLUSION: Conclude with a forward-looking, constructive synthesis rather than merely restating the opening sentence.",
+      "examples": [
+        "Exemplary Ending: 'Only when administrative resolve joins hands with grassroots civic awareness can sustainable environmental preservation transition from political rhetoric into living reality.'",
+        "Exemplary Ending: 'Ultimately, empowering citizens with digital competencies is not merely an economic objective, but a profound constitutional commitment to inclusive democracy.'"
+      ],
+      "exceptions": [
+        "Never end abruptly or introduce a totally new, unaddressed controversy in the final sentence."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Splitting a single paragraph into multiple disjointed paragraphs (a Paragraph Writing prompt requires ONE continuous paragraph).",
+    "Deviating from the topic into unrelated complaints or political diatribes.",
+    "Writing disjointed, choppy sentences without transitional connectors.",
+    "Exceeding the word limit beyond 220 words."
+  ],
+  "examTricks": [
+    "The Tripartite Structure: 1 Topic sentence + 4-5 Supporting argument sentences + 1 Impactful concluding synthesis.",
+    "The Connector Quartet: Always include at least one of each: 'Furthermore' (addition), 'However' (balance), 'Consequently' (result), 'Ultimately' (conclusion).",
+    "The High-Scoring Vocabulary Injection: Use formal academic words like 'catalyst', 'imperative', 'indispensable', 'sustainable', 'equitable'."
+  ],
+  "memoryTricks": [
+    "START strong (Topic), LINK along (Connectors), FINISH long (Impactful synthesis).",
+    "ONE TOPIC = ONE PARAGRAPH."
+  ],
+  "revision": [
+    "One single unified paragraph (150-200 words).",
+    "Impactful opening topic sentence.",
+    "Cohesive transitional linkers: Furthermore, However, Consequently.",
+    "Balanced factual argumentation with formal vocabulary.",
+    "Constructive, forward-looking conclusion."
+  ]
+}

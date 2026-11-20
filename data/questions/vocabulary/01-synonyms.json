@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "v01-001",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'rapid'.",
+    "options": [
+      "slow",
+      "swift",
+      "weak",
+      "dull"
+    ],
+    "answer": 1,
+    "explanation": "Swift has a closely similar meaning to rapid.",
+    "rule": "Context synonym",
+    "bengaliHint": "দ্রুত।"
+  },
+  {
+    "id": "v01-002",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ancient'.",
+    "options": [
+      "modern",
+      "old",
+      "tiny",
+      "fresh"
+    ],
+    "answer": 1,
+    "explanation": "Ancient means very old.",
+    "rule": "Vocabulary meaning",
+    "bengaliHint": "খুব পুরোনো।"
+  },
+  {
+    "id": "v01-003",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'adversity'.",
+    "options": [
+      "prosperity",
+      "difficulty",
+      "holiday",
+      "success"
+    ],
+    "answer": 1,
+    "explanation": "Adversity means difficult or unlucky circumstances.",
+    "rule": "Noun synonym",
+    "bengaliHint": "কঠিন পরিস্থিতি।"
+  },
+  {
+    "id": "v01-004",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'benevolent'.",
+    "options": [
+      "kind",
+      "strict",
+      "careless",
+      "angry"
+    ],
+    "answer": 0,
+    "explanation": "Benevolent means kindly and generous.",
+    "rule": "Adjective synonym",
+    "bengaliHint": "দয়ালু ও সদয়।"
+  },
+  {
+    "id": "v01-005",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'CANDID':",
+    "options": [
+      "Deceitful",
+      "Frank and outspoken",
+      "Arrogant",
+      "Secretive"
+    ],
+    "answer": 1,
+    "explanation": "'Candid' means truthful, straightforward, and frank in speech or manner.",
+    "rule": "Synonym of candid = frank / honest",
+    "bengaliHint": "'Candid' মানে অকপট, স্পষ্টবাদী ও সরল।"
+  },
+  {
+    "id": "v01-006",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'LACONIC':",
+    "options": [
+      "Talkative",
+      "Concise and brief",
+      "Lazy",
+      "Generous"
+    ],
+    "answer": 1,
+    "explanation": "'Laconic' describes using very few words to express what is meant; concise or terse.",
+    "rule": "Synonym of laconic = concise / terse",
+    "bengaliHint": "'Laconic' মানে অল্প কথায় ভাব প্রকাশকারী, সংক্ষিপ্ত।"
+  },
+  {
+    "id": "v01-007",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'METICULOUS':",
+    "options": [
+      "Careless",
+      "Thorough and precise",
+      "Hasty",
+      "Indifferent"
+    ],
+    "answer": 1,
+    "explanation": "'Meticulous' means showing extreme care about minute details; thorough and painstaking.",
+    "rule": "Synonym of meticulous = thorough / painstaking",
+    "bengaliHint": "'Meticulous' মানে খুঁটিনাটি বিষয়ে অত্যন্ত সতর্ক ও নিখুঁত।"
+  },
+  {
+    "id": "v01-008",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'AMIABLE':",
+    "options": [
+      "Hostile",
+      "Friendly and pleasant",
+      "Proud",
+      "Stubborn"
+    ],
+    "answer": 1,
+    "explanation": "'Amiable' means having or displaying a friendly and pleasant manner.",
+    "rule": "Synonym of amiable = friendly / cordial",
+    "bengaliHint": "'Amiable' মানে অমায়িক ও বন্ধুবৎসল।"
+  },
+  {
+    "id": "v01-009",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'UBIQUITOUS':",
+    "options": [
+      "Omnipresent / everywhere",
+      "Rare",
+      "Harmful",
+      "Ancient"
+    ],
+    "answer": 0,
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere simultaneously.",
+    "rule": "Synonym of ubiquitous = omnipresent / pervasive",
+    "bengaliHint": "'Ubiquitous' মানে সর্বব্যাপী বা সর্বত্র বিদ্যমান।"
+  },
+  {
+    "id": "v01-010",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRUDENT':",
+    "options": [
+      "Reckless",
+      "Wise and judicious",
+      "Timid",
+      "Stingy"
+    ],
+    "answer": 1,
+    "explanation": "'Prudent' means acting with or showing care and thought for the future; judicious.",
+    "rule": "Synonym of prudent = wise / judicious",
+    "bengaliHint": "'Prudent' মানে দূরদর্শী ও সুবিবেচক।"
+  },
+  {
+    "id": "v01-011",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-012",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-013",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-014",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-015",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-016",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-017",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-018",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-019",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-020",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-021",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-022",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-023",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-024",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-025",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-026",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-027",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-028",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-029",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-030",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-031",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-032",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-033",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-034",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-035",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-036",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-037",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-038",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-039",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-040",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-041",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'ABATE':",
+    "options": [
+      "Lessen / diminish",
+      "Increase",
+      "Prolong",
+      "Enlarge"
+    ],
+    "answer": 0,
+    "explanation": "'Abate' means to become less intense, active, or widespread (diminish/lessen).",
+    "rule": "Synonym: Abate = diminish",
+    "bengaliHint": "'Abate' মানে তীব্রতা বা পরিমাণ হ্রাস পাওয়া।"
+  },
+  {
+    "id": "v01-042",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'FRUGAL':",
+    "options": [
+      "Thrifty / economical",
+      "Extravagant",
+      "Generous",
+      "Wasteful"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' means sparing or economical with regard to money or food; thrifty.",
+    "rule": "Synonym: Frugal = thrifty / economical",
+    "bengaliHint": "'Frugal' মানে মিতব্যয়ী।"
+  },
+  {
+    "id": "v01-043",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'OBSOLETE':",
+    "options": [
+      "Outdated / outmoded",
+      "Modern",
+      "Fashionable",
+      "Recent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' means no longer produced or used; out of date.",
+    "rule": "Synonym: Obsolete = outdated",
+    "bengaliHint": "'Obsolete' মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": "v01-044",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical / realistic",
+      "Idealistic",
+      "Theoretical",
+      "Visionary"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a practical way.",
+    "rule": "Synonym: Pragmatic = practical",
+    "bengaliHint": "'Pragmatic' মানে বাস্তববাদী ও কার্যোপযোগী।"
+  },
+  {
+    "id": "v01-045",
+    "chapter": "v01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the synonym of 'RESILIENT':",
+    "options": [
+      "Recoverable / adaptable",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Synonym: Resilient = adaptable / hardy",
+    "bengaliHint": "'Resilient' মানে সংকট কাটিয়ে ঘুরে দাঁড়াতে সক্ষম।"
+  },
+  {
+    "id": "v01-046",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Abandon'?",
+    "options": [
+      "Forsake",
+      "Retain",
+      "Cherish",
+      "Adopt"
+    ],
+    "answer": 0,
+    "explanation": "'Forsake' is closest in meaning to 'Abandon'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Abandon'-এর সমার্থক শব্দ হলো 'Forsake'।"
+  },
+  {
+    "id": "v01-047",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Abate'?",
+    "options": [
+      "Increase",
+      "Subside",
+      "Provoke",
+      "Begin"
+    ],
+    "answer": 1,
+    "explanation": "'Subside' is closest in meaning to 'Abate'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Abate'-এর সমার্থক শব্দ হলো 'Subside'।"
+  },
+  {
+    "id": "v01-048",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Candid'?",
+    "options": [
+      "Frank",
+      "Secretive",
+      "Shy",
+      "Rude"
+    ],
+    "answer": 0,
+    "explanation": "'Frank' is closest in meaning to 'Candid'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Candid'-এর সমার্থক শব্দ হলো 'Frank'।"
+  },
+  {
+    "id": "v01-049",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Diligent'?",
+    "options": [
+      "Careless",
+      "Idle",
+      "Industrious",
+      "Dull"
+    ],
+    "answer": 2,
+    "explanation": "'Industrious' is closest in meaning to 'Diligent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Diligent'-এর সমার্থক শব্দ হলো 'Industrious'।"
+  },
+  {
+    "id": "v01-050",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Eminent'?",
+    "options": [
+      "Obscure",
+      "Distinguished",
+      "Ordinary",
+      "Immediate"
+    ],
+    "answer": 1,
+    "explanation": "'Distinguished' is closest in meaning to 'Eminent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Eminent'-এর সমার্থক শব্দ হলো 'Distinguished'।"
+  },
+  {
+    "id": "v01-051",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Feeble'?",
+    "options": [
+      "Strong",
+      "Sturdy",
+      "Weak",
+      "Brave"
+    ],
+    "answer": 2,
+    "explanation": "'Weak' is closest in meaning to 'Feeble'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Feeble'-এর সমার্থক শব্দ হলো 'Weak'।"
+  },
+  {
+    "id": "v01-052",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Gratify'?",
+    "options": [
+      "Annoy",
+      "Satisfy",
+      "Refuse",
+      "Delay"
+    ],
+    "answer": 1,
+    "explanation": "'Satisfy' is closest in meaning to 'Gratify'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Gratify'-এর সমার্থক শব্দ হলো 'Satisfy'।"
+  },
+  {
+    "id": "v01-053",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Hostile'?",
+    "options": [
+      "Antagonistic",
+      "Amiable",
+      "Gentle",
+      "Loyal"
+    ],
+    "answer": 0,
+    "explanation": "'Antagonistic' is closest in meaning to 'Hostile'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Hostile'-এর সমার্থক শব্দ হলো 'Antagonistic'।"
+  },
+  {
+    "id": "v01-054",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Innocuous'?",
+    "options": [
+      "Poisonous",
+      "Harmful",
+      "Harmless",
+      "Loud"
+    ],
+    "answer": 2,
+    "explanation": "'Harmless' is closest in meaning to 'Innocuous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Innocuous'-এর সমার্থক শব্দ হলো 'Harmless'।"
+  },
+  {
+    "id": "v01-055",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Jovial'?",
+    "options": [
+      "Gloomy",
+      "Cheerful",
+      "Angry",
+      "Serious"
+    ],
+    "answer": 1,
+    "explanation": "'Cheerful' is closest in meaning to 'Jovial'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Jovial'-এর সমার্থক শব্দ হলো 'Cheerful'।"
+  },
+  {
+    "id": "v01-056",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Keen'?",
+    "options": [
+      "Dull",
+      "Eager",
+      "Lazy",
+      "Slow"
+    ],
+    "answer": 1,
+    "explanation": "'Eager' is closest in meaning to 'Keen'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Keen'-এর সমার্থক শব্দ হলো 'Eager'।"
+  },
+  {
+    "id": "v01-057",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Lucid'?",
+    "options": [
+      "Confusing",
+      "Dark",
+      "Clear",
+      "Heavy"
+    ],
+    "answer": 2,
+    "explanation": "'Clear' is closest in meaning to 'Lucid'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Lucid'-এর সমার্থক শব্দ হলো 'Clear'।"
+  },
+  {
+    "id": "v01-058",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Meagre'?",
+    "options": [
+      "Scanty",
+      "Ample",
+      "Rich",
+      "Plentiful"
+    ],
+    "answer": 0,
+    "explanation": "'Scanty' is closest in meaning to 'Meagre'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Meagre'-এর সমার্থক শব্দ হলো 'Scanty'।"
+  },
+  {
+    "id": "v01-059",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Novel'?",
+    "options": [
+      "Old",
+      "Ancient",
+      "Usual",
+      "New"
+    ],
+    "answer": 3,
+    "explanation": "'New' is closest in meaning to 'Novel'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Novel'-এর সমার্থক শব্দ হলো 'New'।"
+  },
+  {
+    "id": "v01-060",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Obstinate'?",
+    "options": [
+      "Flexible",
+      "Stubborn",
+      "Docile",
+      "Willing"
+    ],
+    "answer": 1,
+    "explanation": "'Stubborn' is closest in meaning to 'Obstinate'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Obstinate'-এর সমার্থক শব্দ হলো 'Stubborn'।"
+  },
+  {
+    "id": "v01-061",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Pragmatic'?",
+    "options": [
+      "Idealistic",
+      "Practical",
+      "Theoretical",
+      "Dreamy"
+    ],
+    "answer": 1,
+    "explanation": "'Practical' is closest in meaning to 'Pragmatic'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Pragmatic'-এর সমার্থক শব্দ হলো 'Practical'।"
+  },
+  {
+    "id": "v01-062",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Quell'?",
+    "options": [
+      "Encourage",
+      "Ignite",
+      "Suppress",
+      "Spread"
+    ],
+    "answer": 2,
+    "explanation": "'Suppress' is closest in meaning to 'Quell'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Quell'-এর সমার্থক শব্দ হলো 'Suppress'।"
+  },
+  {
+    "id": "v01-063",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Reluctant'?",
+    "options": [
+      "Eager",
+      "Willing",
+      "Keen",
+      "Unwilling"
+    ],
+    "answer": 3,
+    "explanation": "'Unwilling' is closest in meaning to 'Reluctant'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Reluctant'-এর সমার্থক শব্দ হলো 'Unwilling'।"
+  },
+  {
+    "id": "v01-064",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Scrutinize'?",
+    "options": [
+      "Examine",
+      "Ignore",
+      "Glance",
+      "Admire"
+    ],
+    "answer": 0,
+    "explanation": "'Examine' is closest in meaning to 'Scrutinize'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Scrutinize'-এর সমার্থক শব্দ হলো 'Examine'।"
+  },
+  {
+    "id": "v01-065",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Tenacious'?",
+    "options": [
+      "Weak",
+      "Persistent",
+      "Fickle",
+      "Lazy"
+    ],
+    "answer": 1,
+    "explanation": "'Persistent' is closest in meaning to 'Tenacious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Tenacious'-এর সমার্থক শব্দ হলো 'Persistent'।"
+  },
+  {
+    "id": "v01-066",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Ubiquitous'?",
+    "options": [
+      "Rare",
+      "Omnipresent",
+      "Unique",
+      "Hidden"
+    ],
+    "answer": 1,
+    "explanation": "'Omnipresent' is closest in meaning to 'Ubiquitous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Ubiquitous'-এর সমার্থক শব্দ হলো 'Omnipresent'।"
+  },
+  {
+    "id": "v01-067",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Vigilant'?",
+    "options": [
+      "Careless",
+      "Sleepy",
+      "Watchful",
+      "Calm"
+    ],
+    "answer": 2,
+    "explanation": "'Watchful' is closest in meaning to 'Vigilant'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Vigilant'-এর সমার্থক শব্দ হলো 'Watchful'।"
+  },
+  {
+    "id": "v01-068",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Wary'?",
+    "options": [
+      "Reckless",
+      "Cautious",
+      "Bold",
+      "Careless"
+    ],
+    "answer": 1,
+    "explanation": "'Cautious' is closest in meaning to 'Wary'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Wary'-এর সমার্থক শব্দ হলো 'Cautious'।"
+  },
+  {
+    "id": "v01-069",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Ameliorate'?",
+    "options": [
+      "Worsen",
+      "Improve",
+      "Ignore",
+      "Destroy"
+    ],
+    "answer": 1,
+    "explanation": "'Improve' is closest in meaning to 'Ameliorate'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Ameliorate'-এর সমার্থক শব্দ হলো 'Improve'।"
+  },
+  {
+    "id": "v01-070",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Benevolent'?",
+    "options": [
+      "Cruel",
+      "Kind",
+      "Selfish",
+      "Mean"
+    ],
+    "answer": 1,
+    "explanation": "'Kind' is closest in meaning to 'Benevolent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Benevolent'-এর সমার্থক শব্দ হলো 'Kind'।"
+  },
+  {
+    "id": "v01-071",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Concur'?",
+    "options": [
+      "Disagree",
+      "Oppose",
+      "Agree",
+      "Argue"
+    ],
+    "answer": 2,
+    "explanation": "'Agree' is closest in meaning to 'Concur'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Concur'-এর সমার্থক শব্দ হলো 'Agree'।"
+  },
+  {
+    "id": "v01-072",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Dubious'?",
+    "options": [
+      "Certain",
+      "Doubtful",
+      "Sure",
+      "Clear"
+    ],
+    "answer": 1,
+    "explanation": "'Doubtful' is closest in meaning to 'Dubious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Dubious'-এর সমার্থক শব্দ হলো 'Doubtful'।"
+  },
+  {
+    "id": "v01-073",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Elated'?",
+    "options": [
+      "Depressed",
+      "Overjoyed",
+      "Tired",
+      "Angry"
+    ],
+    "answer": 1,
+    "explanation": "'Overjoyed' is closest in meaning to 'Elated'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Elated'-এর সমার্থক শব্দ হলো 'Overjoyed'।"
+  },
+  {
+    "id": "v01-074",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Frugal'?",
+    "options": [
+      "Wasteful",
+      "Extravagant",
+      "Thrifty",
+      "Generous"
+    ],
+    "answer": 2,
+    "explanation": "'Thrifty' is closest in meaning to 'Frugal'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Frugal'-এর সমার্থক শব্দ হলো 'Thrifty'।"
+  },
+  {
+    "id": "v01-075",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Garrulous'?",
+    "options": [
+      "Silent",
+      "Talkative",
+      "Shy",
+      "Rude"
+    ],
+    "answer": 1,
+    "explanation": "'Talkative' is closest in meaning to 'Garrulous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Garrulous'-এর সমার্থক শব্দ হলো 'Talkative'।"
+  },
+  {
+    "id": "v01-076",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Haughty'?",
+    "options": [
+      "Humble",
+      "Arrogant",
+      "Polite",
+      "Meek"
+    ],
+    "answer": 1,
+    "explanation": "'Arrogant' is closest in meaning to 'Haughty'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Haughty'-এর সমার্থক শব্দ হলো 'Arrogant'।"
+  },
+  {
+    "id": "v01-077",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Impetuous'?",
+    "options": [
+      "Careful",
+      "Cautious",
+      "Hasty",
+      "Patient"
+    ],
+    "answer": 2,
+    "explanation": "'Hasty' is closest in meaning to 'Impetuous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Impetuous'-এর সমার্থক শব্দ হলো 'Hasty'।"
+  },
+  {
+    "id": "v01-078",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Lethargic'?",
+    "options": [
+      "Energetic",
+      "Sluggish",
+      "Lively",
+      "Quick"
+    ],
+    "answer": 1,
+    "explanation": "'Sluggish' is closest in meaning to 'Lethargic'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Lethargic'-এর সমার্থক শব্দ হলো 'Sluggish'।"
+  },
+  {
+    "id": "v01-079",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Mundane'?",
+    "options": [
+      "Extraordinary",
+      "Ordinary",
+      "Thrilling",
+      "Rare"
+    ],
+    "answer": 1,
+    "explanation": "'Ordinary' is closest in meaning to 'Mundane'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Mundane'-এর সমার্থক শব্দ হলো 'Ordinary'।"
+  },
+  {
+    "id": "v01-080",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Nefarious'?",
+    "options": [
+      "Virtuous",
+      "Noble",
+      "Wicked",
+      "Pleasant"
+    ],
+    "answer": 2,
+    "explanation": "'Wicked' is closest in meaning to 'Nefarious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Nefarious'-এর সমার্থক শব্দ হলো 'Wicked'।"
+  },
+  {
+    "id": "v01-081",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Oblivious'?",
+    "options": [
+      "Aware",
+      "Unaware",
+      "Alert",
+      "Mindful"
+    ],
+    "answer": 1,
+    "explanation": "'Unaware' is closest in meaning to 'Oblivious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Oblivious'-এর সমার্থক শব্দ হলো 'Unaware'।"
+  },
+  {
+    "id": "v01-082",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Placid'?",
+    "options": [
+      "Calm",
+      "Violent",
+      "Noisy",
+      "Furious"
+    ],
+    "answer": 0,
+    "explanation": "'Calm' is closest in meaning to 'Placid'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Placid'-এর সমার্থক শব্দ হলো 'Calm'।"
+  },
+  {
+    "id": "v01-083",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Rebuke'?",
+    "options": [
+      "Praise",
+      "Reward",
+      "Reprimand",
+      "Encourage"
+    ],
+    "answer": 2,
+    "explanation": "'Reprimand' is closest in meaning to 'Rebuke'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Rebuke'-এর সমার্থক শব্দ হলো 'Reprimand'।"
+  },
+  {
+    "id": "v01-084",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Serene'?",
+    "options": [
+      "Peaceful",
+      "Stormy",
+      "Chaotic",
+      "Rough"
+    ],
+    "answer": 0,
+    "explanation": "'Peaceful' is closest in meaning to 'Serene'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Serene'-এর সমার্থক শব্দ হলো 'Peaceful'।"
+  },
+  {
+    "id": "v01-085",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Trivial'?",
+    "options": [
+      "Important",
+      "Petty",
+      "Crucial",
+      "Serious"
+    ],
+    "answer": 1,
+    "explanation": "'Petty' is closest in meaning to 'Trivial'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Trivial'-এর সমার্থক শব্দ হলো 'Petty'।"
+  },
+  {
+    "id": "v01-086",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Verbose'?",
+    "options": [
+      "Brief",
+      "Concise",
+      "Wordy",
+      "Silent"
+    ],
+    "answer": 2,
+    "explanation": "'Wordy' is closest in meaning to 'Verbose'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Verbose'-এর সমার্থক শব্দ হলো 'Wordy'।"
+  },
+  {
+    "id": "v01-087",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Abundant'?",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Limited"
+    ],
+    "answer": 1,
+    "explanation": "'Plentiful' is closest in meaning to 'Abundant'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Abundant'-এর সমার্থক শব্দ হলো 'Plentiful'।"
+  },
+  {
+    "id": "v01-088",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Adversity'?",
+    "options": [
+      "Prosperity",
+      "Hardship",
+      "Luck",
+      "Ease"
+    ],
+    "answer": 1,
+    "explanation": "'Hardship' is closest in meaning to 'Adversity'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Adversity'-এর সমার্থক শব্দ হলো 'Hardship'।"
+  },
+  {
+    "id": "v01-089",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Conceal'?",
+    "options": [
+      "Reveal",
+      "Expose",
+      "Hide",
+      "Display"
+    ],
+    "answer": 2,
+    "explanation": "'Hide' is closest in meaning to 'Conceal'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Conceal'-এর সমার্থক শব্দ হলো 'Hide'।"
+  },
+  {
+    "id": "v01-090",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Eloquent'?",
+    "options": [
+      "Fluent",
+      "Mute",
+      "Clumsy",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Fluent' is closest in meaning to 'Eloquent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Eloquent'-এর সমার্থক শব্দ হলো 'Fluent'।"
+  },
+  {
+    "id": "v01-091",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Acumen'?",
+    "options": [
+      "Ignorance",
+      "Folly",
+      "Keenness",
+      "Delay"
+    ],
+    "answer": 2,
+    "explanation": "'Keenness' is closest in meaning to 'Acumen'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Acumen'-এর সমার্থক শব্দ হলো 'Keenness'।"
+  },
+  {
+    "id": "v01-092",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Adept'?",
+    "options": [
+      "Clumsy",
+      "Skilful",
+      "Slow",
+      "Rude"
+    ],
+    "answer": 1,
+    "explanation": "'Skilful' is closest in meaning to 'Adept'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Adept'-এর সমার্থক শব্দ হলো 'Skilful'।"
+  },
+  {
+    "id": "v01-093",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Allay'?",
+    "options": [
+      "Aggravate",
+      "Provoke",
+      "Stir",
+      "Soothe"
+    ],
+    "answer": 3,
+    "explanation": "'Soothe' is closest in meaning to 'Allay'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Allay'-এর সমার্থক শব্দ হলো 'Soothe'।"
+  },
+  {
+    "id": "v01-094",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Amiable'?",
+    "options": [
+      "Hostile",
+      "Sullen",
+      "Friendly",
+      "Bitter"
+    ],
+    "answer": 2,
+    "explanation": "'Friendly' is closest in meaning to 'Amiable'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Amiable'-এর সমার্থক শব্দ হলো 'Friendly'।"
+  },
+  {
+    "id": "v01-095",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Anguish'?",
+    "options": [
+      "Joy",
+      "Agony",
+      "Relief",
+      "Calm"
+    ],
+    "answer": 1,
+    "explanation": "'Agony' is closest in meaning to 'Anguish'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Anguish'-এর সমার্থক শব্দ হলো 'Agony'।"
+  },
+  {
+    "id": "v01-096",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Apathy'?",
+    "options": [
+      "Enthusiasm",
+      "Passion",
+      "Zeal",
+      "Indifference"
+    ],
+    "answer": 3,
+    "explanation": "'Indifference' is closest in meaning to 'Apathy'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Apathy'-এর সমার্থক শব্দ হলো 'Indifference'।"
+  },
+  {
+    "id": "v01-097",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Arduous'?",
+    "options": [
+      "Easy",
+      "Simple",
+      "Difficult",
+      "Pleasant"
+    ],
+    "answer": 2,
+    "explanation": "'Difficult' is closest in meaning to 'Arduous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Arduous'-এর সমার্থক শব্দ হলো 'Difficult'।"
+  },
+  {
+    "id": "v01-098",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Audacious'?",
+    "options": [
+      "Timid",
+      "Bold",
+      "Shy",
+      "Fearful"
+    ],
+    "answer": 1,
+    "explanation": "'Bold' is closest in meaning to 'Audacious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Audacious'-এর সমার্থক শব্দ হলো 'Bold'।"
+  },
+  {
+    "id": "v01-099",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Austere'?",
+    "options": [
+      "Luxurious",
+      "Indulgent",
+      "Stern",
+      "Lenient"
+    ],
+    "answer": 2,
+    "explanation": "'Stern' is closest in meaning to 'Austere'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Austere'-এর সমার্থক শব্দ হলো 'Stern'।"
+  },
+  {
+    "id": "v01-100",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Baffle'?",
+    "options": [
+      "Explain",
+      "Puzzle",
+      "Clarify",
+      "Solve"
+    ],
+    "answer": 1,
+    "explanation": "'Puzzle' is closest in meaning to 'Baffle'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Baffle'-এর সমার্থক শব্দ হলো 'Puzzle'।"
+  },
+  {
+    "id": "v01-101",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Blunder'?",
+    "options": [
+      "Success",
+      "Triumph",
+      "Mistake",
+      "Skill"
+    ],
+    "answer": 2,
+    "explanation": "'Mistake' is closest in meaning to 'Blunder'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Blunder'-এর সমার্থক শব্দ হলো 'Mistake'।"
+  },
+  {
+    "id": "v01-102",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Brisk'?",
+    "options": [
+      "Slow",
+      "Quick",
+      "Lazy",
+      "Dull"
+    ],
+    "answer": 1,
+    "explanation": "'Quick' is closest in meaning to 'Brisk'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Brisk'-এর সমার্থক শব্দ হলো 'Quick'।"
+  },
+  {
+    "id": "v01-103",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Callous'?",
+    "options": [
+      "Kind",
+      "Heartless",
+      "Gentle",
+      "Tender"
+    ],
+    "answer": 1,
+    "explanation": "'Heartless' is closest in meaning to 'Callous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Callous'-এর সমার্থক শব্দ হলো 'Heartless'।"
+  },
+  {
+    "id": "v01-104",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Cease'?",
+    "options": [
+      "Begin",
+      "Continue",
+      "Stop",
+      "Start"
+    ],
+    "answer": 2,
+    "explanation": "'Stop' is closest in meaning to 'Cease'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Cease'-এর সমার্থক শব্দ হলো 'Stop'।"
+  },
+  {
+    "id": "v01-105",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Coerce'?",
+    "options": [
+      "Invite",
+      "Allow",
+      "Request",
+      "Force"
+    ],
+    "answer": 3,
+    "explanation": "'Force' is closest in meaning to 'Coerce'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Coerce'-এর সমার্থক শব্দ হলো 'Force'।"
+  },
+  {
+    "id": "v01-106",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Condone'?",
+    "options": [
+      "Punish",
+      "Forgive",
+      "Condemn",
+      "Blame"
+    ],
+    "answer": 1,
+    "explanation": "'Forgive' is closest in meaning to 'Condone'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Condone'-এর সমার্থক শব্দ হলো 'Forgive'।"
+  },
+  {
+    "id": "v01-107",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Contempt'?",
+    "options": [
+      "Respect",
+      "Admiration",
+      "Scorn",
+      "Praise"
+    ],
+    "answer": 2,
+    "explanation": "'Scorn' is closest in meaning to 'Contempt'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Contempt'-এর সমার্থক শব্দ হলো 'Scorn'।"
+  },
+  {
+    "id": "v01-108",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Copious'?",
+    "options": [
+      "Scanty",
+      "Plentiful",
+      "Rare",
+      "Few"
+    ],
+    "answer": 1,
+    "explanation": "'Plentiful' is closest in meaning to 'Copious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Copious'-এর সমার্থক শব্দ হলো 'Plentiful'।"
+  },
+  {
+    "id": "v01-109",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Cunning'?",
+    "options": [
+      "Honest",
+      "Crafty",
+      "Simple",
+      "Naive"
+    ],
+    "answer": 1,
+    "explanation": "'Crafty' is closest in meaning to 'Cunning'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Cunning'-এর সমার্থক শব্দ হলো 'Crafty'।"
+  },
+  {
+    "id": "v01-110",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Deter'?",
+    "options": [
+      "Encourage",
+      "Prompt",
+      "Urge",
+      "Discourage"
+    ],
+    "answer": 3,
+    "explanation": "'Discourage' is closest in meaning to 'Deter'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Deter'-এর সমার্থক শব্দ হলো 'Discourage'।"
+  },
+  {
+    "id": "v01-111",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Devout'?",
+    "options": [
+      "Pious",
+      "Wicked",
+      "Careless",
+      "Atheistic"
+    ],
+    "answer": 0,
+    "explanation": "'Pious' is closest in meaning to 'Devout'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Devout'-এর সমার্থক শব্দ হলো 'Pious'।"
+  },
+  {
+    "id": "v01-112",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Dilemma'?",
+    "options": [
+      "Solution",
+      "Predicament",
+      "Answer",
+      "Plan"
+    ],
+    "answer": 1,
+    "explanation": "'Predicament' is closest in meaning to 'Dilemma'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Dilemma'-এর সমার্থক শব্দ হলো 'Predicament'।"
+  },
+  {
+    "id": "v01-113",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Elude'?",
+    "options": [
+      "Catch",
+      "Evade",
+      "Face",
+      "Seize"
+    ],
+    "answer": 1,
+    "explanation": "'Evade' is closest in meaning to 'Elude'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Elude'-এর সমার্থক শব্দ হলো 'Evade'।"
+  },
+  {
+    "id": "v01-114",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Emancipate'?",
+    "options": [
+      "Imprison",
+      "Enslave",
+      "Liberate",
+      "Bind"
+    ],
+    "answer": 2,
+    "explanation": "'Liberate' is closest in meaning to 'Emancipate'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Emancipate'-এর সমার্থক শব্দ হলো 'Liberate'।"
+  },
+  {
+    "id": "v01-115",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Endeavour'?",
+    "options": [
+      "Neglect",
+      "Attempt",
+      "Avoid",
+      "Ignore"
+    ],
+    "answer": 1,
+    "explanation": "'Attempt' is closest in meaning to 'Endeavour'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Endeavour'-এর সমার্থক শব্দ হলো 'Attempt'।"
+  },
+  {
+    "id": "v01-116",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Stagnant'?",
+    "options": [
+      "Flowing",
+      "Active",
+      "Rushing",
+      "Motionless"
+    ],
+    "answer": 3,
+    "explanation": "'Motionless' is closest in meaning to 'Stagnant'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Stagnant'-এর সমার্থক শব্দ হলো 'Motionless'।"
+  },
+  {
+    "id": "v01-117",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Fabricate'?",
+    "options": [
+      "Destroy",
+      "Invent",
+      "Discover",
+      "Repair"
+    ],
+    "answer": 1,
+    "explanation": "'Invent' is closest in meaning to 'Fabricate'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Fabricate'-এর সমার্থক শব্দ হলো 'Invent'।"
+  },
+  {
+    "id": "v01-118",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Fervent'?",
+    "options": [
+      "Cold",
+      "Indifferent",
+      "Passionate",
+      "Mild"
+    ],
+    "answer": 2,
+    "explanation": "'Passionate' is closest in meaning to 'Fervent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Fervent'-এর সমার্থক শব্দ হলো 'Passionate'।"
+  },
+  {
+    "id": "v01-119",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Futile'?",
+    "options": [
+      "Useful",
+      "Fruitful",
+      "Effective",
+      "Useless"
+    ],
+    "answer": 3,
+    "explanation": "'Useless' is closest in meaning to 'Futile'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Futile'-এর সমার্থক শব্দ হলো 'Useless'।"
+  },
+  {
+    "id": "v01-120",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Gaudy'?",
+    "options": [
+      "Plain",
+      "Showy",
+      "Dull",
+      "Subtle"
+    ],
+    "answer": 1,
+    "explanation": "'Showy' is closest in meaning to 'Gaudy'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Gaudy'-এর সমার্থক শব্দ হলো 'Showy'।"
+  },
+  {
+    "id": "v01-121",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Hamper'?",
+    "options": [
+      "Help",
+      "Hinder",
+      "Assist",
+      "Speed"
+    ],
+    "answer": 1,
+    "explanation": "'Hinder' is closest in meaning to 'Hamper'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Hamper'-এর সমার্থক শব্দ হলো 'Hinder'।"
+  },
+  {
+    "id": "v01-122",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Humble'?",
+    "options": [
+      "Proud",
+      "Arrogant",
+      "Modest",
+      "Vain"
+    ],
+    "answer": 2,
+    "explanation": "'Modest' is closest in meaning to 'Humble'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Humble'-এর সমার্থক শব্দ হলো 'Modest'।"
+  },
+  {
+    "id": "v01-123",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Illustrious'?",
+    "options": [
+      "Unknown",
+      "Famous",
+      "Obscure",
+      "Humble"
+    ],
+    "answer": 1,
+    "explanation": "'Famous' is closest in meaning to 'Illustrious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Illustrious'-এর সমার্থক শব্দ হলো 'Famous'।"
+  },
+  {
+    "id": "v01-124",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Immense'?",
+    "options": [
+      "Tiny",
+      "Small",
+      "Huge",
+      "Narrow"
+    ],
+    "answer": 2,
+    "explanation": "'Huge' is closest in meaning to 'Immense'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Immense'-এর সমার্থক শব্দ হলো 'Huge'।"
+  },
+  {
+    "id": "v01-125",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Inept'?",
+    "options": [
+      "Skilled",
+      "Clumsy",
+      "Clever",
+      "Expert"
+    ],
+    "answer": 1,
+    "explanation": "'Clumsy' is closest in meaning to 'Inept'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Inept'-এর সমার্থক শব্দ হলো 'Clumsy'।"
+  },
+  {
+    "id": "v01-126",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Jeopardy'?",
+    "options": [
+      "Safety",
+      "Security",
+      "Danger",
+      "Shelter"
+    ],
+    "answer": 2,
+    "explanation": "'Danger' is closest in meaning to 'Jeopardy'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Jeopardy'-এর সমার্থক শব্দ হলো 'Danger'।"
+  },
+  {
+    "id": "v01-127",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Lament'?",
+    "options": [
+      "Rejoice",
+      "Celebrate",
+      "Mourn",
+      "Praise"
+    ],
+    "answer": 2,
+    "explanation": "'Mourn' is closest in meaning to 'Lament'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Lament'-এর সমার্থক শব্দ হলো 'Mourn'।"
+  },
+  {
+    "id": "v01-128",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Lavish'?",
+    "options": [
+      "Extravagant",
+      "Meagre",
+      "Poor",
+      "Plain"
+    ],
+    "answer": 0,
+    "explanation": "'Extravagant' is closest in meaning to 'Lavish'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Lavish'-এর সমার্থক শব্দ হলো 'Extravagant'।"
+  },
+  {
+    "id": "v01-129",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Meticulous'?",
+    "options": [
+      "Careless",
+      "Sloppy",
+      "Hasty",
+      "Painstaking"
+    ],
+    "answer": 3,
+    "explanation": "'Painstaking' is closest in meaning to 'Meticulous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Meticulous'-এর সমার্থক শব্দ হলো 'Painstaking'।"
+  },
+  {
+    "id": "v01-130",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Notorious'?",
+    "options": [
+      "Admired",
+      "Infamous",
+      "Unknown",
+      "Revered"
+    ],
+    "answer": 1,
+    "explanation": "'Infamous' is closest in meaning to 'Notorious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Notorious'-এর সমার্থক শব্দ হলো 'Infamous'।"
+  },
+  {
+    "id": "v01-131",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Opulent'?",
+    "options": [
+      "Poor",
+      "Wealthy",
+      "Needy",
+      "Bare"
+    ],
+    "answer": 1,
+    "explanation": "'Wealthy' is closest in meaning to 'Opulent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Opulent'-এর সমার্থক শব্দ হলো 'Wealthy'।"
+  },
+  {
+    "id": "v01-132",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Pacify'?",
+    "options": [
+      "Anger",
+      "Provoke",
+      "Appease",
+      "Irritate"
+    ],
+    "answer": 2,
+    "explanation": "'Appease' is closest in meaning to 'Pacify'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Pacify'-এর সমার্থক শব্দ হলো 'Appease'।"
+  },
+  {
+    "id": "v01-133",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Perilous'?",
+    "options": [
+      "Safe",
+      "Secure",
+      "Harmless",
+      "Hazardous"
+    ],
+    "answer": 3,
+    "explanation": "'Hazardous' is closest in meaning to 'Perilous'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Perilous'-এর সমার্থক শব্দ হলো 'Hazardous'।"
+  },
+  {
+    "id": "v01-134",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Prudent'?",
+    "options": [
+      "Foolish",
+      "Wise",
+      "Reckless",
+      "Rash"
+    ],
+    "answer": 1,
+    "explanation": "'Wise' is closest in meaning to 'Prudent'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Prudent'-এর সমার্থক শব্দ হলো 'Wise'।"
+  },
+  {
+    "id": "v01-135",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Ruthless'?",
+    "options": [
+      "Merciful",
+      "Gentle",
+      "Merciless",
+      "Kind"
+    ],
+    "answer": 2,
+    "explanation": "'Merciless' is closest in meaning to 'Ruthless'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Ruthless'-এর সমার্থক শব্দ হলো 'Merciless'।"
+  },
+  {
+    "id": "v01-136",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Sagacious'?",
+    "options": [
+      "Foolish",
+      "Shrewd",
+      "Dull",
+      "Naive"
+    ],
+    "answer": 1,
+    "explanation": "'Shrewd' is closest in meaning to 'Sagacious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Sagacious'-এর সমার্থক শব্দ হলো 'Shrewd'।"
+  },
+  {
+    "id": "v01-137",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Tedious'?",
+    "options": [
+      "Exciting",
+      "Thrilling",
+      "Boring",
+      "Lively"
+    ],
+    "answer": 2,
+    "explanation": "'Boring' is closest in meaning to 'Tedious'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Tedious'-এর সমার্থক শব্দ হলো 'Boring'।"
+  },
+  {
+    "id": "v01-138",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Vanish'?",
+    "options": [
+      "Appear",
+      "Emerge",
+      "Arrive",
+      "Disappear"
+    ],
+    "answer": 3,
+    "explanation": "'Disappear' is closest in meaning to 'Vanish'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Vanish'-এর সমার্থক শব্দ হলো 'Disappear'।"
+  },
+  {
+    "id": "v01-139",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Vacant'?",
+    "options": [
+      "Full",
+      "Empty",
+      "Crowded",
+      "Busy"
+    ],
+    "answer": 1,
+    "explanation": "'Empty' is closest in meaning to 'Vacant'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Vacant'-এর সমার্থক শব্দ হলো 'Empty'।"
+  },
+  {
+    "id": "v01-140",
+    "chapter": "v01",
+    "type": "synonym",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the synonym of 'Wrath'?",
+    "options": [
+      "Calm",
+      "Joy",
+      "Peace",
+      "Anger"
+    ],
+    "answer": 3,
+    "explanation": "'Anger' is closest in meaning to 'Wrath'.",
+    "rule": "Synonyms & Contextual Equivalents",
+    "bengaliHint": "'Wrath'-এর সমার্থক শব্দ হলো 'Anger'।"
+  }
+]

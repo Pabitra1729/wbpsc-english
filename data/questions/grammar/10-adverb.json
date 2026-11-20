@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g10-001",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the adverb: 'The train moved slowly.'",
+    "options": [
+      "The",
+      "train",
+      "moved",
+      "slowly"
+    ],
+    "answer": 3,
+    "explanation": "Slowly describes how the train moved.",
+    "rule": "Adverb of manner",
+    "bengaliHint": "কীভাবে moved?"
+  },
+  {
+    "id": "g10-002",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: We arrived ___.",
+    "options": [
+      "yesterday",
+      "yellow",
+      "yesterdayly",
+      "arrival"
+    ],
+    "answer": 0,
+    "explanation": "Yesterday tells when we arrived.",
+    "rule": "Adverb of time",
+    "bengaliHint": "কখন arrived?"
+  },
+  {
+    "id": "g10-003",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: She stood ___.",
+    "options": [
+      "there",
+      "three",
+      "thin",
+      "their"
+    ],
+    "answer": 0,
+    "explanation": "There is an adverb of place.",
+    "rule": "Adverb of place",
+    "bengaliHint": "কোথায় stood?"
+  },
+  {
+    "id": "g10-004",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He is too much tired.",
+      "He is very tired.",
+      "He is tired very.",
+      "He tired very."
+    ],
+    "answer": 1,
+    "explanation": "Very is the standard modifier for the adjective tired.",
+    "rule": "Adverb modifying adjective",
+    "bengaliHint": "tired-এর মাত্রা।"
+  },
+  {
+    "id": "g10-005",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: The work is ___ enough.",
+    "options": [
+      "good",
+      "well",
+      "better",
+      "best"
+    ],
+    "answer": 0,
+    "explanation": "Enough follows the adjective good in this construction.",
+    "rule": "Adjective with enough",
+    "bengaliHint": "good enough."
+  },
+  {
+    "id": "g10-006",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the sentence with correct adverb position.",
+    "options": [
+      "He almost never is late.",
+      "He is never almost late.",
+      "He is almost never late.",
+      "He never is almost late."
+    ],
+    "answer": 2,
+    "explanation": "Almost modifies never and the pair naturally precedes late.",
+    "rule": "Adverb position",
+    "bengaliHint": "almost never একসঙ্গে."
+  },
+  {
+    "id": "g10-007",
+    "chapter": "g10",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She was ___ tired to walk any further.",
+    "options": [
+      "very",
+      "too",
+      "much",
+      "so"
+    ],
+    "answer": 1,
+    "explanation": "'Too... to' expresses a negative consequence: 'too tired to walk' means she was so tired that she could not walk.",
+    "rule": "Correlative adverb pair: too... to",
+    "bengaliHint": "'Too... to' গঠনটি নেতিবাচক অর্থ প্রকাশ করে।"
+  },
+  {
+    "id": "g10-008",
+    "chapter": "g10",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Find the error: (A) Scarcely had he (B) entered the room (C) than the lights went out (D) No error",
+    "options": [
+      "Scarcely had he",
+      "entered the room",
+      "than the lights went out",
+      "No error"
+    ],
+    "answer": 2,
+    "explanation": "'Scarcely' and 'hardly' are paired with 'when' (or 'before'), never 'than'. 'Than' is used only with 'No sooner'.",
+    "rule": "Correlative adverbs: Scarcely... when",
+    "bengaliHint": "'Scarcely'-এর সাথে 'when' বসে, 'than' নয়।"
+  },
+  {
+    "id": "g10-009",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct sentence regarding the position of 'enough':",
+    "options": [
+      "He is enough strong to lift the box.",
+      "He is strong enough to lift the box.",
+      "He is enough strongly to lift the box.",
+      "He strongly enough is to lift the box."
+    ],
+    "answer": 1,
+    "explanation": "When modifying an adjective or adverb, 'enough' is placed immediately AFTER the word it modifies ('strong enough').",
+    "rule": "Position of 'enough': placed after adjectives/adverbs",
+    "bengaliHint": "'Enough' বিশেষণ বা adjective-এর পরে বসে।"
+  },
+  {
+    "id": "g10-010",
+    "chapter": "g10",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Seldom ___ such an inspiring speech in public life.",
+    "options": [
+      "I have heard",
+      "have I heard",
+      "I had heard",
+      "did I heard"
+    ],
+    "answer": 1,
+    "explanation": "When a sentence begins with a negative or restrictive adverb (seldom, rarely, never, hardly), inversion occurs (auxiliary verb before subject: 'have I heard').",
+    "rule": "Inversion after initial negative adverbs",
+    "bengaliHint": "'Seldom' দিয়ে বাক্য শুরু হলে Subject-এর আগে auxiliary verb বসে।"
+  },
+  {
+    "id": "g10-011",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In the sentence 'He runs fast', what part of speech is 'fast'?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "answer": 1,
+    "explanation": "'Fast' modifies the verb 'runs' (describing how he runs), making it an adverb of manner. Note: 'fastly' does not exist in English.",
+    "rule": "'Fast' as adverb of manner",
+    "bengaliHint": "'Fast' শব্দটি 'runs' verb-টিকে বিশেষিত করছে।"
+  },
+  {
+    "id": "g10-012",
+    "chapter": "g10",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'She worked hardly all day to finish her project.'",
+    "options": [
+      "She worked hard all day to finish her project.",
+      "She worked with hardly all day to finish her project.",
+      "She worked very hardly all day to finish her project.",
+      "She worked hardily all day to finish her project."
+    ],
+    "answer": 0,
+    "explanation": "'Hard' means with great effort, while 'hardly' means scarcely or almost not at all. She put in great effort, so 'worked hard' is correct.",
+    "rule": "Hard (diligently) vs Hardly (scarcely)",
+    "bengaliHint": "কঠোর পরিশ্রম বোঝাতে 'hard' বসে; 'hardly' মানে প্রায় কিছুই না।"
+  },
+  {
+    "id": "g10-013",
+    "chapter": "g10",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The medicine tastes ___.",
+    "options": [
+      "bitterly",
+      "bitter",
+      "more bitterly",
+      "bitterness"
+    ],
+    "answer": 1,
+    "explanation": "Verbs of sensation (taste, smell, look, feel) take predicate adjectives, not adverbs of manner.",
+    "rule": "Verbs of sensation take adjectives, not adverbs",
+    "bengaliHint": "'Taste'-এর পর adjective (bitter) বসে।"
+  },
+  {
+    "id": "g10-014",
+    "chapter": "g10",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Find the error: (A) He asked me (B) to speak (C) loud and clear (D) No error",
+    "options": [
+      "He asked me",
+      "to speak",
+      "loud and clear",
+      "No error"
+    ],
+    "answer": 3,
+    "explanation": "'Loud and clear' is an established idiomatic adverbial phrase modifying 'speak'; the sentence contains no grammatical error.",
+    "rule": "Idiomatic adverbial collocations: loud and clear",
+    "bengaliHint": "'Loud and clear' একটি প্রচলিত শুদ্ধ বাগ্ধারা।"
+  },
+  {
+    "id": "g10-015",
+    "chapter": "g10",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The train had ___ arrived when the storm erupted.",
+    "options": [
+      "just",
+      "yet",
+      "still",
+      "ever"
+    ],
+    "answer": 0,
+    "explanation": "'Just' is used between the auxiliary 'had' and past participle 'arrived' to indicate an action completed an instant before.",
+    "rule": "Position of 'just' with past perfect tense",
+    "bengaliHint": "মুহূর্তের পূর্বে সম্পন্ন হওয়া বোঝাতে 'had just arrived' বসে।"
+  },
+  {
+    "id": "g10-016",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He works ___ from dawn to dusk.",
+    "options": [
+      "hard",
+      "hardly",
+      "hardily",
+      "with hard"
+    ],
+    "answer": 0,
+    "explanation": "'Hard' means with great energy; 'hardly' means scarcely/almost not.",
+    "rule": "Hard (diligently) vs Hardly (scarcely)",
+    "bengaliHint": "কঠোর পরিশ্রম অর্থে 'hard' বসে।"
+  },
+  {
+    "id": "g10-017",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He could ___ hear what the speaker whispered.",
+    "options": [
+      "hardly",
+      "hard",
+      "harshly",
+      "harder"
+    ],
+    "answer": 0,
+    "explanation": "'Hardly' means scarcely or almost not at all.",
+    "rule": "Hardly as negative restrictive adverb",
+    "bengaliHint": "প্রায় কিছুই শুনতে না পাওয়া অর্থে 'hardly' বসে।"
+  },
+  {
+    "id": "g10-018",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The examination hall was ___ quiet.",
+    "options": [
+      "quite",
+      "quiet",
+      "quit",
+      "quiting"
+    ],
+    "answer": 0,
+    "explanation": "'Quite' is an adverb of degree meaning completely or fairly.",
+    "rule": "Adverb 'quite' (completely)",
+    "bengaliHint": "পুরোপুরি শান্ত বোঝাতে 'quite' বসে।"
+  },
+  {
+    "id": "g10-019",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "She is ___ intelligent to be deceived by such tricks.",
+    "options": [
+      "too",
+      "very",
+      "much",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "'Too... to' conveys a negative result: too intelligent to be deceived.",
+    "rule": "Correlative 'too... to'",
+    "bengaliHint": "'Too... to' গঠনটি প্রযোজ্য।"
+  },
+  {
+    "id": "g10-020",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is rich ___ to purchase a palatial bungalow.",
+    "options": [
+      "enough",
+      "too",
+      "very",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "'Enough' is placed after the adjective it modifies ('rich enough').",
+    "rule": "Adjective + enough",
+    "bengaliHint": "'Enough' adjective-এর পরে বসে।"
+  },
+  {
+    "id": "g10-021",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rarely ___ such an honest administrative clerk.",
+    "options": [
+      "have we seen",
+      "we have seen",
+      "we saw",
+      "we had seen"
+    ],
+    "answer": 0,
+    "explanation": "When a sentence begins with a restrictive adverb (rarely), inversion occurs.",
+    "rule": "Inversion after 'rarely'",
+    "bengaliHint": "'Rarely'-র পর auxiliary verb আগে বসে।"
+  },
+  {
+    "id": "g10-022",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Nowhere ___ find such scenic natural beauty.",
+    "options": [
+      "will you",
+      "you will",
+      "you would",
+      "you did"
+    ],
+    "answer": 0,
+    "explanation": "Inversion is mandatory after negative place adverb 'nowhere'.",
+    "rule": "Inversion after 'nowhere'",
+    "bengaliHint": "'Nowhere'-এর পর Subject-এর আগে Verb বসে।"
+  },
+  {
+    "id": "g10-023",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He spoke ___ at the literary gathering.",
+    "options": [
+      "eloquently",
+      "eloquent",
+      "eloquence",
+      "more eloquent"
+    ],
+    "answer": 0,
+    "explanation": "The verb 'spoke' requires an adverb of manner ('eloquently').",
+    "rule": "Adverb of manner modifying dynamic verb",
+    "bengaliHint": "কথা বলার ধরন বোঝাতে Adverb বসে।"
+  },
+  {
+    "id": "g10-024",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The soup smells ___.",
+    "options": [
+      "delicious",
+      "deliciously",
+      "with delicious",
+      "in delicious"
+    ],
+    "answer": 0,
+    "explanation": "'Smell' is a linking verb of perception taking an adjective complement, not an adverb.",
+    "rule": "Linking verb takes predicate adjective",
+    "bengaliHint": "ইন্দ্রিয়গ্রাহ্য verb-এর পর Adjective বসে।"
+  },
+  {
+    "id": "g10-025",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The water was ___ cold for swimming.",
+    "options": [
+      "rather",
+      "fairly",
+      "much",
+      "too much"
+    ],
+    "answer": 0,
+    "explanation": "'Rather' is predominantly used before unfavorable/undesirable adjectives ('rather cold').",
+    "rule": "Rather with unfavorable adjectives",
+    "bengaliHint": "অপ্রীতিকর ক্ষেত্রে 'rather' বসে।"
+  },
+  {
+    "id": "g10-026",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He works ___ from dawn to dusk.",
+    "options": [
+      "hard",
+      "hardly",
+      "hardily",
+      "with hard"
+    ],
+    "answer": 0,
+    "explanation": "'Hard' means with great energy; 'hardly' means scarcely/almost not.",
+    "rule": "Hard (diligently) vs Hardly (scarcely)",
+    "bengaliHint": "কঠোর পরিশ্রম অর্থে 'hard' বসে।"
+  },
+  {
+    "id": "g10-027",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He could ___ hear what the speaker whispered.",
+    "options": [
+      "hardly",
+      "hard",
+      "harshly",
+      "harder"
+    ],
+    "answer": 0,
+    "explanation": "'Hardly' means scarcely or almost not at all.",
+    "rule": "Hardly as negative restrictive adverb",
+    "bengaliHint": "প্রায় কিছুই শুনতে না পাওয়া অর্থে 'hardly' বসে।"
+  },
+  {
+    "id": "g10-028",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The examination hall was ___ quiet.",
+    "options": [
+      "quite",
+      "quiet",
+      "quit",
+      "quiting"
+    ],
+    "answer": 0,
+    "explanation": "'Quite' is an adverb of degree meaning completely or fairly.",
+    "rule": "Adverb 'quite' (completely)",
+    "bengaliHint": "পুরোপুরি শান্ত বোঝাতে 'quite' বসে।"
+  },
+  {
+    "id": "g10-029",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is ___ intelligent to be deceived by such tricks.",
+    "options": [
+      "too",
+      "very",
+      "much",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "'Too... to' conveys a negative result: too intelligent to be deceived.",
+    "rule": "Correlative 'too... to'",
+    "bengaliHint": "'Too... to' গঠনটি প্রযোজ্য।"
+  },
+  {
+    "id": "g10-030",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is rich ___ to purchase a palatial bungalow.",
+    "options": [
+      "enough",
+      "too",
+      "very",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "'Enough' is placed after the adjective it modifies ('rich enough').",
+    "rule": "Adjective + enough",
+    "bengaliHint": "'Enough' adjective-এর পরে বসে।"
+  },
+  {
+    "id": "g10-031",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Rarely ___ such an honest administrative clerk.",
+    "options": [
+      "have we seen",
+      "we have seen",
+      "we saw",
+      "we had seen"
+    ],
+    "answer": 0,
+    "explanation": "When a sentence begins with a restrictive adverb (rarely), inversion occurs.",
+    "rule": "Inversion after 'rarely'",
+    "bengaliHint": "'Rarely'-র পর auxiliary verb আগে বসে।"
+  },
+  {
+    "id": "g10-032",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Nowhere ___ find such scenic natural beauty.",
+    "options": [
+      "will you",
+      "you will",
+      "you would",
+      "you did"
+    ],
+    "answer": 0,
+    "explanation": "Inversion is mandatory after negative place adverb 'nowhere'.",
+    "rule": "Inversion after 'nowhere'",
+    "bengaliHint": "'Nowhere'-এর পর Subject-এর আগে Verb বসে।"
+  },
+  {
+    "id": "g10-033",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He spoke ___ at the literary gathering.",
+    "options": [
+      "eloquently",
+      "eloquent",
+      "eloquence",
+      "more eloquent"
+    ],
+    "answer": 0,
+    "explanation": "The verb 'spoke' requires an adverb of manner ('eloquently').",
+    "rule": "Adverb of manner modifying dynamic verb",
+    "bengaliHint": "কথা বলার ধরন বোঝাতে Adverb বসে।"
+  },
+  {
+    "id": "g10-034",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The soup smells ___.",
+    "options": [
+      "delicious",
+      "deliciously",
+      "with delicious",
+      "in delicious"
+    ],
+    "answer": 0,
+    "explanation": "'Smell' is a linking verb of perception taking an adjective complement, not an adverb.",
+    "rule": "Linking verb takes predicate adjective",
+    "bengaliHint": "ইন্দ্রিয়গ্রাহ্য verb-এর পর Adjective বসে।"
+  },
+  {
+    "id": "g10-035",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The water was ___ cold for swimming.",
+    "options": [
+      "rather",
+      "fairly",
+      "much",
+      "too much"
+    ],
+    "answer": 0,
+    "explanation": "'Rather' is predominantly used before unfavorable/undesirable adjectives ('rather cold').",
+    "rule": "Rather with unfavorable adjectives",
+    "bengaliHint": "অপ্রীতিকর ক্ষেত্রে 'rather' বসে।"
+  },
+  {
+    "id": "g10-036",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He works ___ from dawn to dusk.",
+    "options": [
+      "hard",
+      "hardly",
+      "hardily",
+      "with hard"
+    ],
+    "answer": 0,
+    "explanation": "'Hard' means with great energy; 'hardly' means scarcely/almost not.",
+    "rule": "Hard (diligently) vs Hardly (scarcely)",
+    "bengaliHint": "কঠোর পরিশ্রম অর্থে 'hard' বসে।"
+  },
+  {
+    "id": "g10-037",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He could ___ hear what the speaker whispered.",
+    "options": [
+      "hardly",
+      "hard",
+      "harshly",
+      "harder"
+    ],
+    "answer": 0,
+    "explanation": "'Hardly' means scarcely or almost not at all.",
+    "rule": "Hardly as negative restrictive adverb",
+    "bengaliHint": "প্রায় কিছুই শুনতে না পাওয়া অর্থে 'hardly' বসে।"
+  },
+  {
+    "id": "g10-038",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The examination hall was ___ quiet.",
+    "options": [
+      "quite",
+      "quiet",
+      "quit",
+      "quiting"
+    ],
+    "answer": 0,
+    "explanation": "'Quite' is an adverb of degree meaning completely or fairly.",
+    "rule": "Adverb 'quite' (completely)",
+    "bengaliHint": "পুরোপুরি শান্ত বোঝাতে 'quite' বসে।"
+  },
+  {
+    "id": "g10-039",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is ___ intelligent to be deceived by such tricks.",
+    "options": [
+      "too",
+      "very",
+      "much",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "'Too... to' conveys a negative result: too intelligent to be deceived.",
+    "rule": "Correlative 'too... to'",
+    "bengaliHint": "'Too... to' গঠনটি প্রযোজ্য।"
+  },
+  {
+    "id": "g10-040",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is rich ___ to purchase a palatial bungalow.",
+    "options": [
+      "enough",
+      "too",
+      "very",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "'Enough' is placed after the adjective it modifies ('rich enough').",
+    "rule": "Adjective + enough",
+    "bengaliHint": "'Enough' adjective-এর পরে বসে।"
+  },
+  {
+    "id": "g10-041",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Rarely ___ such an honest administrative clerk.",
+    "options": [
+      "have we seen",
+      "we have seen",
+      "we saw",
+      "we had seen"
+    ],
+    "answer": 0,
+    "explanation": "When a sentence begins with a restrictive adverb (rarely), inversion occurs.",
+    "rule": "Inversion after 'rarely'",
+    "bengaliHint": "'Rarely'-র পর auxiliary verb আগে বসে।"
+  },
+  {
+    "id": "g10-042",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Nowhere ___ find such scenic natural beauty.",
+    "options": [
+      "will you",
+      "you will",
+      "you would",
+      "you did"
+    ],
+    "answer": 0,
+    "explanation": "Inversion is mandatory after negative place adverb 'nowhere'.",
+    "rule": "Inversion after 'nowhere'",
+    "bengaliHint": "'Nowhere'-এর পর Subject-এর আগে Verb বসে।"
+  },
+  {
+    "id": "g10-043",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He spoke ___ at the literary gathering.",
+    "options": [
+      "eloquently",
+      "eloquent",
+      "eloquence",
+      "more eloquent"
+    ],
+    "answer": 0,
+    "explanation": "The verb 'spoke' requires an adverb of manner ('eloquently').",
+    "rule": "Adverb of manner modifying dynamic verb",
+    "bengaliHint": "কথা বলার ধরন বোঝাতে Adverb বসে।"
+  },
+  {
+    "id": "g10-044",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The soup smells ___.",
+    "options": [
+      "delicious",
+      "deliciously",
+      "with delicious",
+      "in delicious"
+    ],
+    "answer": 0,
+    "explanation": "'Smell' is a linking verb of perception taking an adjective complement, not an adverb.",
+    "rule": "Linking verb takes predicate adjective",
+    "bengaliHint": "ইন্দ্রিয়গ্রাহ্য verb-এর পর Adjective বসে।"
+  },
+  {
+    "id": "g10-045",
+    "chapter": "g10",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The water was ___ cold for swimming.",
+    "options": [
+      "rather",
+      "fairly",
+      "much",
+      "too much"
+    ],
+    "answer": 0,
+    "explanation": "'Rather' is predominantly used before unfavorable/undesirable adjectives ('rather cold').",
+    "rule": "Rather with unfavorable adjectives",
+    "bengaliHint": "অপ্রীতিকর ক্ষেত্রে 'rather' বসে।"
+  }
+]

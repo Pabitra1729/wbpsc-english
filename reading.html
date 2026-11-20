@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reading & Comprehension · WBPSC Clerkship English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/test.css">
+  <script>
+    try {
+      document.documentElement.dataset.theme = JSON.parse(localStorage.getItem("wbpsc-theme") || '"light"');
+    } catch(e) {
+      document.documentElement.dataset.theme = "light";
+    }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+  <main id="main" class="page">
+    <header class="page-header">
+      <p class="eyebrow">Part I · Objective English</p>
+      <h1>Reading & Comprehension</h1>
+      <p>Master unseen passages, cloze test passages, and contextual sentence completions.</p>
+    </header>
+
+    <!-- Reading Module Tabs -->
+    <nav class="card" style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:1.25rem; padding:0.75rem;">
+      <button class="btn primary reading-tab" data-tab="comprehension" type="button">Reading Comprehension</button>
+      <button class="btn secondary reading-tab" data-tab="cloze" type="button">Cloze Test</button>
+      <button class="btn secondary reading-tab" data-tab="fill" type="button">Fill in the Blanks</button>
+      <a id="reading-notes-link" class="btn secondary" href="chapter.html?id=r01" style="margin-left:auto;">📖 Chapter Notes &amp; Rules</a>
+    </nav>
+
+    <!-- Reading Content Container -->
+    <div id="reading-root" aria-live="polite"></div>
+  </main>
+
+  <script src="js/storage.js"></script>
+  <script src="js/bookmarks.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    (() => {
+      const root = document.querySelector("#reading-root");
+      const tabs = document.querySelectorAll(".reading-tab");
+      let activeTab = "comprehension";
+
+      tabs.forEach(tab => {
+        tab.addEventListener("click", () => {
+          tabs.forEach(t => {
+            t.className = "btn secondary reading-tab";
+          });
+          tab.className = "btn primary reading-tab";
+          activeTab = tab.dataset.tab;
+          render();
+        });
+      });
+
+      async function render() {
+        const notesLink = document.querySelector("#reading-notes-link");
+        if (notesLink) {
+          const map = { comprehension: "r01", cloze: "r02", fill: "r03" };
+          notesLink.href = `chapter.html?id=${map[activeTab] || "r01"}`;
+        }
+        root.innerHTML = '<p class="loading">Loading reading exercises…</p>';
+        try {
+          if (activeTab === "comprehension") {
+            await renderComprehension();
+          } else if (activeTab === "cloze") {
+            await renderCloze();
+          } else {
+            await renderFill();
+          }
+        } catch (err) {
+          root.innerHTML = `<p class="notice">Could not load content: ${err.message}</p>`;
+        }
+      }
+
+      async function renderComprehension() {
+        const resp = await fetch("data/passages/comprehension.json");
+        const passages = await resp.json();
+        const p = passages[0];
+
+        root.innerHTML = `
+          <article class="card" style="margin-bottom:1.5rem;">
+            <div class="meta-row" style="margin-bottom:0.5rem;">
+              <span class="badge">Passage 1</span>
+              <span class="badge">Exam Standard</span>
+            </div>
+            <h2>${p.title}</h2>
+            <div class="bengali" style="margin: 0.75rem 0;">
+              <details open>
+                <summary>বাংলায় সারসংক্ষেপ (Bengali Overview)</summary>
+                <p style="margin-top:0.5rem; line-height:1.7;">${p.bengaliSummary}</p>
+              </details>
+            </div>
+            <div style="background:var(--bg); border-left:4px solid var(--primary); padding:1rem 1.25rem; border-radius:8px; line-height:1.8; font-size:1.02rem; white-space:pre-line; margin:1rem 0;">
+              ${p.passage}
+            </div>
+          </article>
+
+          <section class="card">
+            <h2>Comprehension Questions</h2>
+            <p>Select the most accurate option according to the passage above:</p>
+            <div id="comp-questions-list" style="display:grid; gap:1.25rem; margin-top:1rem;">
+              ${p.questions.map((q, idx) => `
+                <article class="card" style="background:var(--bg); border:1px solid var(--border);" id="q-card-${idx}">
+                  <p class="eyebrow" style="margin-bottom:0.25rem;">Question ${idx + 1}</p>
+                  <h3 style="font-size:1.05rem; margin:0.25rem 0 0.75rem;">${q.question}</h3>
+                  <div class="question-options" style="display:grid; gap:0.5rem;">
+                    ${q.options.map((opt, oIdx) => `
+                      <button class="btn secondary comp-opt" type="button" data-q="${idx}" data-opt="${oIdx}" style="text-align:left; width:100%;">
+                        ${String.fromCharCode(65 + oIdx)}. ${opt}
+                      </button>
+                    `).join("")}
+                  </div>
+                  <div class="feedback hidden" style="margin-top:0.75rem;"></div>
+                </article>
+              `).join("")}
+            </div>
+          </section>
+        `;
+
+        p.questions.forEach((q, idx) => {
+          const card = document.querySelector(`#q-card-${idx}`);
+          const btns = card.querySelectorAll(".comp-opt");
+          const fb = card.querySelector(".feedback");
+
+          btns.forEach(btn => {
+            btn.addEventListener("click", () => {
+              if (card.dataset.answered === "true") return;
+              card.dataset.answered = "true";
+              const chosen = Number(btn.dataset.opt);
+              const correct = chosen === q.answer;
+
+              btns.forEach((b, bIdx) => {
+                b.disabled = true;
+                if (bIdx === q.answer) b.classList.add("correct");
+                if (bIdx === chosen && !correct) b.classList.add("wrong");
+              });
+
+              fb.className = `feedback ${correct ? "correct" : "wrong"}`;
+              fb.innerHTML = `
+                <strong>${correct ? "Correct Answer!" : "Incorrect"}</strong>
+                <p style="margin:0.25rem 0;">${q.explanation}</p>
+                ${q.bengaliHint ? `<p style="margin:0; font-size:0.9rem; color:var(--primary);"><strong>বাংলায় ব্যাখ্যা:</strong> ${q.bengaliHint}</p>` : ""}
+              `;
+            });
+          });
+        });
+      }
+
+      async function renderCloze() {
+        const resp = await fetch("data/passages/cloze.json");
+        const tests = await resp.json();
+        const test = tests[0];
+
+        root.innerHTML = `
+          <article class="card" style="margin-bottom:1.5rem;">
+            <div class="meta-row" style="margin-bottom:0.5rem;">
+              <span class="badge">Cloze Passage</span>
+              <span class="badge">5 Blanks</span>
+            </div>
+            <h2>${test.title}</h2>
+            <div class="bengali" style="margin: 0.75rem 0;">
+              <details open>
+                <summary>বাংলায় প্রেক্ষাপট</summary>
+                <p style="margin-top:0.5rem;">${test.bengaliSummary}</p>
+              </details>
+            </div>
+            <div style="background:var(--bg); border:1px solid var(--border); padding:1.25rem; border-radius:10px; font-size:1.05rem; line-height:2; margin:1rem 0;">
+              ${test.template.replace(/\[(\d+)\]/g, '<strong style="color:var(--primary); text-decoration:underline; padding:0 4px;">[$1]</strong>')}
+            </div>
+          </article>
+
+          <section class="card">
+            <h2>Fill Each Blank</h2>
+            <div style="display:grid; gap:1.25rem; margin-top:1rem;">
+              ${test.blanks.map(blank => `
+                <div class="card" style="background:var(--bg); border:1px solid var(--border);" id="cloze-card-${blank.index}">
+                  <p class="eyebrow">Blank [${blank.index}]</p>
+                  <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:0.5rem; margin:0.5rem 0;">
+                    ${blank.options.map((opt, oIdx) => `
+                      <button class="btn secondary cloze-btn" data-blank="${blank.index}" data-opt="${oIdx}" type="button">
+                        ${String.fromCharCode(65 + oIdx)}. ${opt}
+                      </button>
+                    `).join("")}
+                  </div>
+                  <div class="feedback hidden" style="margin-top:0.5rem;"></div>
+                </div>
+              `).join("")}
+            </div>
+          </section>
+        `;
+
+        test.blanks.forEach(blank => {
+          const card = document.querySelector(`#cloze-card-${blank.index}`);
+          const btns = card.querySelectorAll(".cloze-btn");
+          const fb = card.querySelector(".feedback");
+
+          btns.forEach(btn => {
+            btn.addEventListener("click", () => {
+              if (card.dataset.answered === "true") return;
+              card.dataset.answered = "true";
+              const chosen = Number(btn.dataset.opt);
+              const correct = chosen === blank.answer;
+
+              btns.forEach((b, bIdx) => {
+                b.disabled = true;
+                if (bIdx === blank.answer) b.classList.add("correct");
+                if (bIdx === chosen && !correct) b.classList.add("wrong");
+              });
+
+              fb.className = `feedback ${correct ? "correct" : "wrong"}`;
+              fb.innerHTML = `
+                <strong>${correct ? "Correct!" : "Incorrect"}</strong>
+                <p style="margin:0.25rem 0;">${blank.explanation}</p>
+                <p style="margin:0; font-size:0.9rem;"><strong>Rule:</strong> ${blank.rule}</p>
+                ${blank.bengaliHint ? `<p style="margin:0.25rem 0 0; font-size:0.9rem; color:var(--primary);"><strong>বাংলায় ইঙ্গিত:</strong> ${blank.bengaliHint}</p>` : ""}
+              `;
+            });
+          });
+        });
+      }
+
+      async function renderFill() {
+        const resp = await fetch("data/questions/reading/03-fill-in-the-blanks.json");
+        const questions = await resp.json();
+
+        root.innerHTML = `
+          <section class="card">
+            <h2>Contextual Fill in the Blanks</h2>
+            <p>Select the grammatically and idiomatically appropriate option:</p>
+            <div style="display:grid; gap:1.25rem; margin-top:1rem;">
+              ${questions.map((q, idx) => `
+                <article class="card" style="background:var(--bg); border:1px solid var(--border);" id="fill-card-${idx}">
+                  <div class="meta-row" style="margin-bottom:0.25rem;">
+                    <span class="badge">Question ${idx + 1}</span>
+                    <span class="badge">${q.difficulty}</span>
+                  </div>
+                  <h3 style="font-size:1.1rem; margin:0.35rem 0 0.75rem;">${q.question}</h3>
+                  <div class="question-options" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:0.5rem;">
+                    ${q.options.map((opt, oIdx) => `
+                      <button class="btn secondary fill-btn" data-q="${idx}" data-opt="${oIdx}" type="button" style="text-align:left;">
+                        ${String.fromCharCode(65 + oIdx)}. ${opt}
+                      </button>
+                    `).join("")}
+                  </div>
+                  <div class="feedback hidden" style="margin-top:0.75rem;"></div>
+                </article>
+              `).join("")}
+            </div>
+          </section>
+        `;
+
+        questions.forEach((q, idx) => {
+          const card = document.querySelector(`#fill-card-${idx}`);
+          const btns = card.querySelectorAll(".fill-btn");
+          const fb = card.querySelector(".feedback");
+
+          btns.forEach(btn => {
+            btn.addEventListener("click", () => {
+              if (card.dataset.answered === "true") return;
+              card.dataset.answered = "true";
+              const chosen = Number(btn.dataset.opt);
+              const correct = chosen === q.answer;
+
+              btns.forEach((b, bIdx) => {
+                b.disabled = true;
+                if (bIdx === q.answer) b.classList.add("correct");
+                if (bIdx === chosen && !correct) b.classList.add("wrong");
+              });
+
+              fb.className = `feedback ${correct ? "correct" : "wrong"}`;
+              fb.innerHTML = `
+                <strong>${correct ? "Correct!" : "Incorrect"}</strong>
+                <p style="margin:0.25rem 0;">${q.explanation}</p>
+                <p style="margin:0; font-size:0.9rem;"><strong>Rule:</strong> ${q.rule}</p>
+                ${q.bengaliHint ? `<p style="margin:0.25rem 0 0; font-size:0.9rem; color:var(--primary);"><strong>বাংলায় ইঙ্গিত:</strong> ${q.bengaliHint}</p>` : ""}
+              `;
+            });
+          });
+        });
+      }
+
+      render();
+    })();
+  </script>
+</body>
+</html>

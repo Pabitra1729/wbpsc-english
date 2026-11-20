@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g20-001",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Find the error: 'Each of the boys have a bag.'",
+    "options": [
+      "Each",
+      "of",
+      "the boys",
+      "have"
+    ],
+    "answer": 3,
+    "explanation": "Each is singular and requires has.",
+    "rule": "Subject agreement",
+    "bengaliHint": "Each singular."
+  },
+  {
+    "id": "g20-002",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Find the error: 'I have seen him yesterday.'",
+    "options": [
+      "I",
+      "have",
+      "seen",
+      "yesterday"
+    ],
+    "answer": 1,
+    "explanation": "Yesterday requires simple past, not have seen.",
+    "rule": "Tense marker",
+    "bengaliHint": "yesterday→saw."
+  },
+  {
+    "id": "g20-003",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: 'She is interested on music.'",
+    "options": [
+      "She",
+      "is",
+      "interested",
+      "on"
+    ],
+    "answer": 3,
+    "explanation": "Interested takes in, not on.",
+    "rule": "Fixed preposition",
+    "bengaliHint": "interested in."
+  },
+  {
+    "id": "g20-004",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: 'Neither Rina nor Mina are absent.'",
+    "options": [
+      "Neither",
+      "Rina nor Mina",
+      "are",
+      "absent"
+    ],
+    "answer": 2,
+    "explanation": "The nearer subject Mina is singular, so is is needed.",
+    "rule": "Proximity rule",
+    "bengaliHint": "Mina singular."
+  },
+  {
+    "id": "g20-005",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Find the error: 'The students is reading their books.'",
+    "options": [
+      "The students",
+      "is",
+      "reading",
+      "their books"
+    ],
+    "answer": 1,
+    "explanation": "Students is plural and requires are.",
+    "rule": "Plural agreement",
+    "bengaliHint": "students→are."
+  },
+  {
+    "id": "g20-006",
+    "chapter": "g20",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) One of the (B) student were absent (C) from the lecture (D) No error",
+    "options": [
+      "One of the",
+      "student were absent",
+      "from the lecture",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'One of the' takes a plural noun ('students') and a singular verb ('was absent'). Both 'student' and 'were' are erroneous here.",
+    "rule": "One of the + Plural Noun + Singular Verb",
+    "bengaliHint": "'One of the'-র পর Plural Noun (students) ও Singular Verb (was) বসে।"
+  },
+  {
+    "id": "g20-007",
+    "chapter": "g20",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Unless you do not (B) work hard (C) you cannot pass (D) No error",
+    "options": [
+      "Unless you do not",
+      "work hard",
+      "you cannot pass",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already means 'if not'. Using 'do not' creates a double negative. It should be 'Unless you work hard'.",
+    "rule": "Redundancy: No negative words (not, no) inside 'unless' clause",
+    "bengaliHint": "'Unless'-এর সাথে 'do not' বসে না কারণ এটি নিজেই নেতিবাচক।"
+  },
+  {
+    "id": "g20-008",
+    "chapter": "g20",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He is suffering (B) with malaria (C) since five days (D) No error",
+    "options": [
+      "He is suffering",
+      "with malaria",
+      "since five days",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "One suffers 'from' a disease, not 'with'. Also, a duration of five days takes 'for', not 'since'. Part B is strictly grammatically incorrect.",
+    "rule": "Fixed preposition: suffer from (disease)",
+    "bengaliHint": "'Suffer'-এর পর preposition হিসেবে 'from' বসে।"
+  },
+  {
+    "id": "g20-009",
+    "chapter": "g20",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Suppose if it rains (B) what shall (C) we do? (D) No error",
+    "options": [
+      "Suppose if it rains",
+      "what shall",
+      "we do?",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Suppose' and 'if' both express condition; using them together is a redundant error. Use either 'Suppose it rains' or 'If it rains'.",
+    "rule": "Redundancy: 'Suppose' and 'if' cannot be used together",
+    "bengaliHint": "'Suppose' ও 'if' একই সাথে ব্যবহার করা ভুল; যেকোনো একটি বসবে।"
+  },
+  {
+    "id": "g20-010",
+    "chapter": "g20",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She entered into (B) the meeting room (C) without permission (D) No error",
+    "options": [
+      "She entered into",
+      "the meeting room",
+      "without permission",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "When entering a physical room or building, 'enter' is a transitive verb that takes no preposition ('entered the meeting room').",
+    "rule": "'Enter' takes no preposition for physical spaces",
+    "bengaliHint": "কোনো কক্ষে প্রবেশের ক্ষেত্রে 'enter'-এর পর 'into' বসে না।"
+  },
+  {
+    "id": "g20-011",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-012",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-013",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-014",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-015",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  },
+  {
+    "id": "g20-016",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-017",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-018",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-019",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-020",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  },
+  {
+    "id": "g20-021",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-022",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-023",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-024",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-025",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  },
+  {
+    "id": "g20-026",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-027",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-028",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-029",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-030",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  },
+  {
+    "id": "g20-031",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-032",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-033",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-034",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-035",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  },
+  {
+    "id": "g20-036",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-037",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-038",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-039",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-040",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  },
+  {
+    "id": "g20-041",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) The cattle (B) is grazing (C) in the lush green field (D) No error",
+    "options": [
+      "The cattle",
+      "is grazing",
+      "in the lush green field",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is a plural noun and takes a plural verb ('are grazing').",
+    "rule": "Cattle takes plural verb",
+    "bengaliHint": "'Cattle'-র পর plural verb 'are' বসে।"
+  },
+  {
+    "id": "g20-042",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Spot the error: (A) She is junior (B) than me (C) by two years (D) No error",
+    "options": [
+      "She is junior",
+      "than me",
+      "by two years",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "Latin comparative 'junior' takes 'to', never 'than'.",
+    "rule": "Junior takes 'to', never 'than'",
+    "bengaliHint": "'Junior'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g20-043",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Each of the girls (B) have received (C) a prize (D) No error",
+    "options": [
+      "Each of the girls",
+      "have received",
+      "a prize",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb ('has received').",
+    "rule": "Each of takes singular verb",
+    "bengaliHint": "'Each of'-এর পর verb singular (has) হয়।"
+  },
+  {
+    "id": "g20-044",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Spot the error: (A) He returned back (B) from Kolkata (C) yesterday afternoon (D) No error",
+    "options": [
+      "He returned back",
+      "from Kolkata",
+      "yesterday afternoon",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Return' already means to come back; 'returned back' is a redundant error.",
+    "rule": "Redundancy: Return means come back (omit back)",
+    "bengaliHint": "'Return'-এর সাথে 'back' বলা ভুল।"
+  },
+  {
+    "id": "g20-045",
+    "chapter": "g20",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Spot the error: (A) Neither of the two plans (B) are practical (C) in the current scenario (D) No error",
+    "options": [
+      "Neither of the two plans",
+      "are practical",
+      "in the current scenario",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Neither of' refers to two choices taken individually and takes a singular verb ('is practical').",
+    "rule": "Neither of + singular verb",
+    "bengaliHint": "'Neither of'-এর পর verb singular (is) হয়।"
+  }
+]

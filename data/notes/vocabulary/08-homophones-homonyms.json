@@ -1,0 +1,438 @@
+{
+  "id": "v08",
+  "title": "Homophones & Homonyms",
+  "intro": "Homophones are words that share identical pronunciation but diverge in orthographic spelling, lexical meaning, and etymological origin (such as complement/compliment, stationary/stationery, alter/altar). Homonyms share the identical spelling and pronunciation but convey separate meanings in different contexts (like 'bank' of a river vs financial 'bank'). In the WBPSC Clerkship examination, questions test these in sentence completion and cloze test formats.",
+  "bengali": "Homophones ও Homonyms: সমোচ্চারিত কিন্তু ভিন্নার্থক শব্দ।\n\nWBPSC Clerkship পরীক্ষায় এখান থেকে প্রচুর প্রশ্ন আসে:\n১. Homophones (একই উচ্চারণ, কিন্তু ভিন্ন বানান ও ভিন্ন অর্থ):\n   - Altar (দেবালয়ের বেদি) বনাম Alter (পরিবর্তন করা)।\n   - Council (প্রশাসনিক পরিষদ বা সভা) বনাম Counsel (পরামর্শ বা আইনজীবী)।\n   - Compliment (প্রশংসা) বনাম Complement (পরিপূরক)।\n   - Stationary (গতিহীন বা স্থির) বনাম Stationery (খাতা-কলম-পেন্সিল)।\n   - Principal (অধ্যক্ষ/প্রধান) বনাম Principle (নীতি/আদর্শ)।\n   - Fair (মেলা / ন্যায্য / সুন্দর) বনাম Fare (বাস বা ট্রেনের ভাড়া)।\n   - Coarse (অমসৃণ বা কর্কশ) বনাম Course (গতিপথ বা পাঠ্যক্রম)।\n২. Homonyms (একই বানান ও একই উচ্চারণ, কিন্তু ভিন্ন অর্থ):\n   - Bank: নদীর তীর (river bank) আবার অর্থলগ্নি প্রতিষ্ঠান (money bank)।\n   - Bear: সহ্য করা (verb) আবার ভালুক (noun)।\n   - Bark: গাছের ছাল আবার কুকুরের ডাক।\n   - Bat: খেলার ব্যাট আবার বাদুড়।\n৩. পরীক্ষার কৌশল:\n   শূন্যস্থান পূরণের সময় পুরো বাক্যটির ভাবার্থ বুঝুন। যদি বাক্যটি নৈতিক কোনো বিষয় নিয়ে হয়, তবে Principle হবে, Principal নয়। যদি লেখার জিনিস কেনার কথা বলা থাকে, তবে Stationery (E দিয়ে) হবে, Stationary নয়।",
+  "rules": [
+    {
+      "rule": "ALTAR (Place of worship / sacred platform) VS ALTER (To modify / change):",
+      "examples": [
+        "Altar: The priest placed sacred flowers upon the altar (Sacred religious platform).",
+        "Alter: The tailor was requested to alter the size of the coat (To change or modify)."
+      ],
+      "exceptions": [
+        "Mnemonic: Alt-A-R has an 'A' for Act of worship; Alt-E-R has an 'E' for Edit."
+      ]
+    },
+    {
+      "rule": "COUNCIL (Governing or deliberative assembly) VS COUNSEL (Advice / Legal representative):",
+      "examples": [
+        "Council: The city council convened an emergency meeting on urban drainage.",
+        "Counsel: The senior advocate gave him sound legal counsel during the trial."
+      ],
+      "exceptions": [
+        "A member of a council is a 'Councillor'; one who provides counsel is a 'Counsellor'."
+      ]
+    },
+    {
+      "rule": "CANVAS (Heavy coarse unbleached fabric) VS CANVASS (To solicit political votes / orders):",
+      "examples": [
+        "Canvas: The artist painted a landscape upon a stretched canvas.",
+        "Canvass: Party volunteers went door to door to canvass support for the candidate."
+      ],
+      "exceptions": [
+        "Canvass with DOUBLE 'S' means soliciting political support."
+      ]
+    },
+    {
+      "rule": "EMIGRANT (Leaves homeland) VS IMMIGRANT (Enters foreign country):",
+      "examples": [
+        "Emigrant: An emigrant leaves his native country (E = Exit).",
+        "Immigrant: An immigrant arrives to settle in a new country (I = In / Inbound)."
+      ],
+      "exceptions": [
+        "The same person is an emigrant from their homeland and an immigrant into their destination."
+      ]
+    },
+    {
+      "rule": "HOARD (Amass secret stockpiles) VS HORDE (A vast multitude or pack):",
+      "examples": [
+        "Hoard: Unscrupulous merchants hoarded grain to inflate local market prices.",
+        "Horde: A horde of tourists arrived at the hill station during the festive holidays."
+      ],
+      "exceptions": [
+        "Hoarding of food is illegal; a horde of nomads is an ethnic or social group."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'He sacrificed his life at the alter' instead of 'altar' (altar is the religious platform).",
+    "Writing 'The city counsel met today' instead of 'city council' (assembly is council).",
+    "Writing 'He canvased for votes' instead of 'canvassed' (canvass has double s).",
+    "Confusing 'Wander' (walk aimlessly) with 'Wonder' (feel admiration/curiosity).",
+    "Confusing 'Bore' (uninteresting person / past of bear) with 'Boar' (wild pig)."
+  ],
+  "examTricks": [
+    "The 'Altar' A: Alt-A-r = Alt-A-r in church. Alt-E-r = E-dit (change).",
+    "The 'Council' Cil: Coun-CIL = City Council (governing body). Coun-SEL = Legal/Wisdom guidance.",
+    "The 'Canvass' Double-S: Canva-SS = Seeking Support (2 S's).",
+    "The 'Wander' A: W-A-nder = Walk (A). W-O-nder = Oh! (Amazement)."
+  ],
+  "memoryTricks": [
+    "CANVASS has two S's for Seeking Support.",
+    "IMMIGRANT comes IN; EMIGRANT EXITS."
+  ],
+  "revision": [
+    "Altar = religious platform; Alter = to change.",
+    "Council = committee/body; Counsel = advice/lawyer.",
+    "Canvas = fabric/tent; Canvass = seek votes.",
+    "Stationary = not moving; Stationery = paper/pens.",
+    "Principal = chief/headmaster; Principle = moral rule.",
+    "Compliment = praise; Complement = completes.",
+    "Hoard = stockpile; Horde = large crowd.",
+    "Wander = roam; Wonder = think with amazement."
+  ],
+  "bookletTitle": "WBPSC Clerkship 70 High-Yield Homophones & Homonyms Directory",
+  "bookletList": [
+    {
+      "term": "Homographs",
+      "meaning": "Words spelt the same but pronounced differently, with different meanings. (e.g. lead)",
+      "bengali": "একই বানান কিন্তু ভিন্ন উচ্চারণ ও অর্থ"
+    },
+    {
+      "term": "Homonyms",
+      "meaning": "Words with the same spelling and the same pronunciation but different meanings. (e.g. bank, bark, fine, match, bat)",
+      "bengali": "একই বানান ও উচ্চারণ কিন্তু ভিন্ন অর্থ"
+    },
+    {
+      "term": "Homophones",
+      "meaning": "Words that sound alike but differ in spelling and meaning. (e.g. right – write; sun – son)",
+      "bengali": "একই উচ্চারণ কিন্তু ভিন্ন বানান ও অর্থ"
+    },
+    {
+      "term": "bank",
+      "meaning": "Multiple Meanings: a money institution; the edge of a river (the bank of a river)",
+      "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ"
+    },
+    {
+      "term": "bark",
+      "meaning": "Multiple Meanings: the outer covering of a tree; the sound a dog makes",
+      "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ"
+    },
+    {
+      "term": "bat",
+      "meaning": "Multiple Meanings: a cricket bat; a flying bat",
+      "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ"
+    },
+    {
+      "term": "fine",
+      "meaning": "Multiple Meanings: a penalty; of good quality",
+      "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ"
+    },
+    {
+      "term": "match",
+      "meaning": "Multiple Meanings: a game, such as a cricket match; a matchbox",
+      "bengali": "ভিন্নার্থক সমোচ্চারিত শব্দ"
+    },
+    {
+      "term": "allowed  /  aloud",
+      "meaning": "Homophone Pair: 'allowed' sounds identical to 'aloud'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (allowed ও aloud)"
+    },
+    {
+      "term": "ate  /  eight",
+      "meaning": "Homophone Pair: 'ate' sounds identical to 'eight'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (ate ও eight)"
+    },
+    {
+      "term": "break  /  brake",
+      "meaning": "Homophone Pair: 'break' sounds identical to 'brake'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (break ও brake)"
+    },
+    {
+      "term": "buy  /  by",
+      "meaning": "Homophone Pair: 'buy' sounds identical to 'by'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (buy ও by)"
+    },
+    {
+      "term": "cell  /  sell",
+      "meaning": "Homophone Pair: 'cell' sounds identical to 'sell'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (cell ও sell)"
+    },
+    {
+      "term": "check  /  cheque (British usage)",
+      "meaning": "Homophone Pair: 'check' sounds identical to 'cheque (British usage)'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (check ও cheque (British usage))"
+    },
+    {
+      "term": "dear  /  deer",
+      "meaning": "Homophone Pair: 'dear' sounds identical to 'deer'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (dear ও deer)"
+    },
+    {
+      "term": "grate  /  great",
+      "meaning": "Homophone Pair: 'grate' sounds identical to 'great'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (grate ও great)"
+    },
+    {
+      "term": "higher  /  hire",
+      "meaning": "Homophone Pair: 'higher' sounds identical to 'hire'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (higher ও hire)"
+    },
+    {
+      "term": "idle  /  idol",
+      "meaning": "Homophone Pair: 'idle' sounds identical to 'idol'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (idle ও idol)"
+    },
+    {
+      "term": "knight  /  night",
+      "meaning": "Homophone Pair: 'knight' sounds identical to 'night'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (knight ও night)"
+    },
+    {
+      "term": "lessen  /  lesson",
+      "meaning": "Homophone Pair: 'lessen' sounds identical to 'lesson'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (lessen ও lesson)"
+    },
+    {
+      "term": "meat  /  meet",
+      "meaning": "Homophone Pair: 'meat' sounds identical to 'meet'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (meat ও meet)"
+    },
+    {
+      "term": "pair  /  pear",
+      "meaning": "Homophone Pair: 'pair' sounds identical to 'pear'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (pair ও pear)"
+    },
+    {
+      "term": "plain  /  plane",
+      "meaning": "Homophone Pair: 'plain' sounds identical to 'plane'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (plain ও plane)"
+    },
+    {
+      "term": "prey  /  pray",
+      "meaning": "Homophone Pair: 'prey' sounds identical to 'pray'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (prey ও pray)"
+    },
+    {
+      "term": "right  /  write",
+      "meaning": "Homophone Pair: 'right' sounds identical to 'write'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (right ও write)"
+    },
+    {
+      "term": "sail  /  sale",
+      "meaning": "Homophone Pair: 'sail' sounds identical to 'sale'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (sail ও sale)"
+    },
+    {
+      "term": "serial  /  cereal",
+      "meaning": "Homophone Pair: 'serial' sounds identical to 'cereal'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (serial ও cereal)"
+    },
+    {
+      "term": "sole  /  soul",
+      "meaning": "Homophone Pair: 'sole' sounds identical to 'soul'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (sole ও soul)"
+    },
+    {
+      "term": "steal  /  steel",
+      "meaning": "Homophone Pair: 'steal' sounds identical to 'steel'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (steal ও steel)"
+    },
+    {
+      "term": "sun  /  son",
+      "meaning": "Homophone Pair: 'sun' sounds identical to 'son'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (sun ও son)"
+    },
+    {
+      "term": "sweet  /  suite",
+      "meaning": "Homophone Pair: 'sweet' sounds identical to 'suite'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (sweet ও suite)"
+    },
+    {
+      "term": "tale  /  tail",
+      "meaning": "Homophone Pair: 'tale' sounds identical to 'tail'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (tale ও tail)"
+    },
+    {
+      "term": "tide  /  tied",
+      "meaning": "Homophone Pair: 'tide' sounds identical to 'tied'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (tide ও tied)"
+    },
+    {
+      "term": "vain  /  vein",
+      "meaning": "Homophone Pair: 'vain' sounds identical to 'vein'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (vain ও vein)"
+    },
+    {
+      "term": "wait  /  weight",
+      "meaning": "Homophone Pair: 'wait' sounds identical to 'weight'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (wait ও weight)"
+    },
+    {
+      "term": "wave  /  waive",
+      "meaning": "Homophone Pair: 'wave' sounds identical to 'waive'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (wave ও waive)"
+    },
+    {
+      "term": "weak  /  week",
+      "meaning": "Homophone Pair: 'weak' sounds identical to 'week'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (weak ও week)"
+    },
+    {
+      "term": "wood  /  would",
+      "meaning": "Homophone Pair: 'wood' sounds identical to 'would'",
+      "bengali": "সমোচ্চারিত শব্দযুগল (wood ও would)"
+    },
+    {
+      "term": "ascent",
+      "meaning": "Context Example: The ascent of the peak took five hours.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "assent",
+      "meaning": "Context Example: He gave his assent to the proposal.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "bear",
+      "meaning": "Context Example: He could not bear the heavy load.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "blew",
+      "meaning": "Context Example: The wind blew the papers away.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "bored",
+      "meaning": "Context Example: The lecture was so dull that he felt bored.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "compliment",
+      "meaning": "Context Example: He paid her a compliment on her dress.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "council",
+      "meaning": "Context Example: The city council meets every Monday.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "counsel",
+      "meaning": "Context Example: The lawyer gave sound legal counsel.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "dissent",
+      "meaning": "Context Example: There was strong dissent against the ruling.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "effect",
+      "meaning": "Context Example: The medicine had a bad effect on him.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "flour",
+      "meaning": "Context Example: Mother bought a kilo of flour.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "hair",
+      "meaning": "Context Example: She has long black hair.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "heard",
+      "meaning": "Context Example: I heard a strange noise last night.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "heir",
+      "meaning": "Context Example: The prince is the heir to the throne.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "herd",
+      "meaning": "Context Example: A herd of cattle crossed the road.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "illicit",
+      "meaning": "Context Example: He was arrested for the illicit trade in drugs.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "knew",
+      "meaning": "Context Example: I knew the answer already.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "mail",
+      "meaning": "Context Example: The postman delivered a mail.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "piece",
+      "meaning": "Context Example: May I have a piece of cake?",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "principal",
+      "meaning": "Context Example: The principal of the college addressed the students.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "rain",
+      "meaning": "Context Example: It began to rain heavily at noon.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "reign",
+      "meaning": "Context Example: The king's reign lasted forty years.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "rein",
+      "meaning": "Context Example: He pulled the rein to stop the horse.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "route",
+      "meaning": "Context Example: The bus route was changed last month.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "sight",
+      "meaning": "Context Example: The sight of the accident was horrifying.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "son",
+      "meaning": "Context Example: He is the only son of the family.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "stationery",
+      "meaning": "Context Example: She bought pens and paper from the stationery shop.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "sun",
+      "meaning": "Context Example: The sun rises in the east.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "tail",
+      "meaning": "Context Example: The dog wagged its tail.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "whether",
+      "meaning": "Context Example: I do not know whether it will rain today.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "whole",
+      "meaning": "Context Example: She ate the whole cake.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    },
+    {
+      "term": "wring",
+      "meaning": "Context Example: Please wring the wet clothes before drying them.",
+      "bengali": "বাক্য প্রয়োগ ও বিভ্রান্তিকর শব্দের সঠিক ব্যবহার"
+    }
+  ]
+}

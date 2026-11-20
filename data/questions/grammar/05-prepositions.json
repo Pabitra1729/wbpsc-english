@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g05-001",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The meeting starts ___ 10 am.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "into"
+    ],
+    "answer": 0,
+    "explanation": "At is used with an exact clock time.",
+    "rule": "Use at for exact time",
+    "bengaliHint": "exact clock time-এর আগে at."
+  },
+  {
+    "id": "g05-002",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: We meet ___ Monday.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "from"
+    ],
+    "answer": 1,
+    "explanation": "On is used with a named day.",
+    "rule": "Use on with days",
+    "bengaliHint": "Monday-এর আগে on."
+  },
+  {
+    "id": "g05-003",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The exam is ___ June.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "answer": 2,
+    "explanation": "In is used with a month.",
+    "rule": "Use in with months",
+    "bengaliHint": "month-এর আগে in."
+  },
+  {
+    "id": "g05-004",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The book is ___ the table.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "answer": 1,
+    "explanation": "On is used for a surface.",
+    "rule": "Use on for a surface",
+    "bengaliHint": "table-এর উপরে—on."
+  },
+  {
+    "id": "g05-005",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: She waited ___ the bus stop.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "into"
+    ],
+    "answer": 0,
+    "explanation": "At is used for a specific point or location.",
+    "rule": "Use at for a point",
+    "bengaliHint": "bus stop একটি point."
+  },
+  {
+    "id": "g05-006",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: He has lived here ___ 2019.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": "Since is used with a starting point.",
+    "rule": "Use since with starting point",
+    "bengaliHint": "2019 থেকে—since."
+  },
+  {
+    "id": "g05-007",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: They waited ___ three hours.",
+    "options": [
+      "for",
+      "since",
+      "at",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "For is used with a duration.",
+    "rule": "Use for with duration",
+    "bengaliHint": "three hours—duration।"
+  },
+  {
+    "id": "g05-008",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose: The letter was written ___ Mina.",
+    "options": [
+      "with",
+      "by",
+      "for",
+      "of"
+    ],
+    "answer": 1,
+    "explanation": "By identifies the agent in a passive construction.",
+    "rule": "Use by for passive agent",
+    "bengaliHint": "letter কে লিখেছিল—passive agent."
+  },
+  {
+    "id": "g05-009",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: Divide the sweets ___ the children.",
+    "options": [
+      "between",
+      "among",
+      "with",
+      "by"
+    ],
+    "answer": 1,
+    "explanation": "Among is appropriate for a group of more than two.",
+    "rule": "Use among for more than two",
+    "bengaliHint": "দু-এর বেশি children—among."
+  },
+  {
+    "id": "g05-010",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: The choice is ___ the two options.",
+    "options": [
+      "among",
+      "between",
+      "beside",
+      "through"
+    ],
+    "answer": 1,
+    "explanation": "Between is used for two clearly named options.",
+    "rule": "Use between for two",
+    "bengaliHint": "দুটি option—between."
+  },
+  {
+    "id": "g05-011",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: Please submit the form ___ Friday.",
+    "options": [
+      "until",
+      "by",
+      "from",
+      "since"
+    ],
+    "answer": 1,
+    "explanation": "By indicates the latest permitted time.",
+    "rule": "Use by for a deadline",
+    "bengaliHint": "Friday-এর মধ্যে—by."
+  },
+  {
+    "id": "g05-012",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: The keys are ___ the drawer.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "answer": 0,
+    "explanation": "In is used for something enclosed within a space.",
+    "rule": "Use in for an enclosed area",
+    "bengaliHint": "drawer-এর ভিতরে—in."
+  },
+  {
+    "id": "g05-013",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: She goes to the market ___ foot.",
+    "options": [
+      "at",
+      "by",
+      "on",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "On foot is a fixed phrase.",
+    "rule": "Use fixed preposition phrases",
+    "bengaliHint": "on foot—নির্দিষ্ট phrase."
+  },
+  {
+    "id": "g05-014",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: He arrived ___ Kolkata in the morning.",
+    "options": [
+      "to",
+      "at",
+      "in",
+      "on"
+    ],
+    "answer": 2,
+    "explanation": "In is used with a large city.",
+    "rule": "Use in with towns and cities",
+    "bengaliHint": "city-name-এর আগে in."
+  },
+  {
+    "id": "g05-015",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose: The report is ___ importance to all officers.",
+    "options": [
+      "of",
+      "at",
+      "to",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Of importance is a fixed expression.",
+    "rule": "Use of in idiomatic noun phrases",
+    "bengaliHint": "of importance—fixed phrase."
+  },
+  {
+    "id": "g05-016",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: The child ran ___ the road.",
+    "options": [
+      "along",
+      "between",
+      "beneath",
+      "among"
+    ],
+    "answer": 0,
+    "explanation": "Along describes movement following the length of the road.",
+    "rule": "Use along for movement following a route",
+    "bengaliHint": "রাস্তাটির দৈর্ঘ্য ধরে দৌড়—along."
+  },
+  {
+    "id": "g05-017",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: He is blind ___ colours.",
+    "options": [
+      "of",
+      "with",
+      "to",
+      "from"
+    ],
+    "answer": 2,
+    "explanation": "Blind to is the standard collocation meaning unaware or unable to distinguish.",
+    "rule": "Use blind to",
+    "bengaliHint": "blind to—fixed collocation."
+  },
+  {
+    "id": "g05-018",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: We are proud ___ your result.",
+    "options": [
+      "for",
+      "at",
+      "of",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "Proud of is the correct collocation.",
+    "rule": "Use proud of",
+    "bengaliHint": "proud of—fixed phrase."
+  },
+  {
+    "id": "g05-019",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: The cat jumped ___ the wall.",
+    "options": [
+      "over",
+      "on",
+      "at",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "Over describes movement across and above the wall.",
+    "rule": "Use over for movement across and above",
+    "bengaliHint": "wall-এর ওপর দিয়ে লাফ—over."
+  },
+  {
+    "id": "g05-020",
+    "chapter": "g05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose: The manager spoke ___ the issue.",
+    "options": [
+      "about",
+      "on",
+      "at",
+      "of"
+    ],
+    "answer": 0,
+    "explanation": "Speak about is natural for discussing a topic.",
+    "rule": "Use speak about a topic",
+    "bengaliHint": "কোন বিষয়ে spoke—about."
+  },
+  {
+    "id": "g05-021",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He is addicted ___ gambling.'",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Addicted' is followed by the preposition 'to'.",
+    "rule": "Fixed preposition: addicted to",
+    "bengaliHint": "'Addicted'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g05-022",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'She is very fond ___ classical Rabindrasangeet.'",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "about"
+    ],
+    "answer": 0,
+    "explanation": "'Fond' consistently takes the preposition 'of'.",
+    "rule": "Fixed preposition: fond of",
+    "bengaliHint": "'Fond'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "g05-023",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He congratulated me ___ my promotion.'",
+    "options": [
+      "on",
+      "for",
+      "with",
+      "at"
+    ],
+    "answer": 0,
+    "explanation": "One congratulates someone 'on' an achievement or event.",
+    "rule": "Fixed preposition: congratulate on",
+    "bengaliHint": "সাফল্যে অভিনন্দন জানাতে 'on' বসে।"
+  },
+  {
+    "id": "g05-024",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He insisted ___ accompanying me to the station.'",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "at"
+    ],
+    "answer": 0,
+    "explanation": "'Insist' governs 'on' followed by a gerund.",
+    "rule": "Fixed preposition: insist on",
+    "bengaliHint": "'Insist'-এর সাথে 'on' বসে।"
+  },
+  {
+    "id": "g05-025",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'Smoking is injurious ___ health.'",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Injurious', 'detrimental', 'harmful' take the preposition 'to'.",
+    "rule": "Fixed preposition: injurious to",
+    "bengaliHint": "'Injurious'-এর পর 'to' বসে।"
+  },
+  {
+    "id": "g05-026",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'The officer is blind ___ his son's shortcomings.'",
+    "options": [
+      "to",
+      "in",
+      "of",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Blind to' means unwilling to notice faults; 'blind in' refers to physical loss of sight.",
+    "rule": "Blind to (faults) vs Blind in (eye)",
+    "bengaliHint": "দোষ দেখেও না দেখার ভান করলে 'blind to' বসে।"
+  },
+  {
+    "id": "g05-027",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'The elderly beggar is blind ___ one eye.'",
+    "options": [
+      "in",
+      "to",
+      "with",
+      "at"
+    ],
+    "answer": 0,
+    "explanation": "Physical blindness in an eye takes 'in' (or 'of').",
+    "rule": "Blind in an eye",
+    "bengaliHint": "শারীরিকভাবে এক চোখে অন্ধ হলে 'blind in' বসে।"
+  },
+  {
+    "id": "g05-028",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He died ___ cancer after a prolonged illness.'",
+    "options": [
+      "of",
+      "from",
+      "for",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "One dies 'of' a specific disease (cancer, malaria, cholera).",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে আক্রান্ত হয়ে মারা গেলে 'die of' বসে।"
+  },
+  {
+    "id": "g05-029",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'The laborer died ___ excessive exhaustion and dehydration.'",
+    "options": [
+      "from",
+      "of",
+      "for",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "One dies 'from' an external/indirect cause (overwork, thirst, snakebite).",
+    "rule": "Die from an indirect cause",
+    "bengaliHint": "পরোক্ষ কারণে মৃত্যু হলে 'die from' বসে।"
+  },
+  {
+    "id": "g05-030",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'The patriot died ___ his country.'",
+    "options": [
+      "for",
+      "of",
+      "from",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "One dies 'for' a noble cause, principle, or nation.",
+    "rule": "Die for a cause",
+    "bengaliHint": "মহৎ উদ্দেশ্যে বা দেশের জন্য প্রাণ দিলে 'die for' বসে।"
+  },
+  {
+    "id": "g05-031",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He is well versed ___ ancient Indian history.'",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "'Versed' and 'proficient' take the preposition 'in'.",
+    "rule": "Fixed preposition: versed in",
+    "bengaliHint": "কোনো বিষয়ে পারদর্শী বোঝাতে 'versed in' বসে।"
+  },
+  {
+    "id": "g05-032",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'She is proficient ___ mathematics.'",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "'Proficient' governs the preposition 'in'.",
+    "rule": "Fixed preposition: proficient in",
+    "bengaliHint": "দক্ষতা বোঝাতে 'proficient in' বসে।"
+  },
+  {
+    "id": "g05-033",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He is exceptionally good ___ playing cricket.'",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "'Good at' and 'bad at' denote skill level in an activity.",
+    "rule": "Fixed preposition: good at",
+    "bengaliHint": "কোনো খেলায় বা কাজে পটু বোঝাতে 'good at' বসে।"
+  },
+  {
+    "id": "g05-034",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He is junior ___ me in the department.'",
+    "options": [
+      "to",
+      "than",
+      "from",
+      "of"
+    ],
+    "answer": 0,
+    "explanation": "Adjectives ending in -ior (junior, senior, superior) take 'to', never 'than'.",
+    "rule": "Latin comparative: junior to",
+    "bengaliHint": "'Junior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g05-035",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'I prefer reading books ___ watching television.'",
+    "options": [
+      "to",
+      "than",
+      "more than",
+      "rather than"
+    ],
+    "answer": 0,
+    "explanation": "'Prefer' takes the preposition 'to' when comparing two options.",
+    "rule": "Fixed preposition: prefer to",
+    "bengaliHint": "'Prefer'-এর সাথে তুলনার ক্ষেত্রে 'to' বসে।"
+  },
+  {
+    "id": "g05-036",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He was absorbed ___ deep philosophical contemplation.'",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "'Absorbed' is followed by the preposition 'in'.",
+    "rule": "Fixed preposition: absorbed in",
+    "bengaliHint": "গভীর চিন্তায় মগ্ন বোঝাতে 'absorbed in' বসে।"
+  },
+  {
+    "id": "g05-037",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'The prisoner was acquitted ___ all charges.'",
+    "options": [
+      "of",
+      "from",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Acquitted' (cleared of guilt) takes 'of'.",
+    "rule": "Fixed preposition: acquit of",
+    "bengaliHint": "অভিযোগ থেকে খালাস পাওয়া অর্থে 'acquit of' বসে।"
+  },
+  {
+    "id": "g05-038",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'We should abstain ___ malicious gossip.'",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "of"
+    ],
+    "answer": 0,
+    "explanation": "'Abstain', 'refrain', 'desist' take the preposition 'from' + gerund.",
+    "rule": "Fixed preposition: abstain from",
+    "bengaliHint": "কোনো কিছু থেকে বিরত থাকা বোঝাতে 'abstain from' বসে।"
+  },
+  {
+    "id": "g05-039",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'Please refrain ___ smoking in public transport.'",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "'Refrain' is followed by 'from'.",
+    "rule": "Fixed preposition: refrain from",
+    "bengaliHint": "বিরত থাকা বোঝাতে 'refrain from' বসে।"
+  },
+  {
+    "id": "g05-040",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He is devoid ___ common sense.'",
+    "options": [
+      "of",
+      "from",
+      "in",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Devoid' (completely lacking) takes 'of'.",
+    "rule": "Fixed preposition: devoid of",
+    "bengaliHint": "বর্জিত বা শূন্য বোঝাতে 'devoid of' বসে।"
+  },
+  {
+    "id": "g05-041",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'Do not laugh ___ the misfortunes of others.'",
+    "options": [
+      "at",
+      "on",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Laugh at', 'mock at', 'jeer at' take the preposition 'at'.",
+    "rule": "Fixed preposition: laugh at",
+    "bengaliHint": "কাউকে উপহাস করা বোঝাতে 'laugh at' বসে।"
+  },
+  {
+    "id": "g05-042",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'I agree ___ your proposal unconditionally.'",
+    "options": [
+      "to",
+      "with",
+      "on",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "One agrees 'to' a proposal/plan; one agrees 'with' a person.",
+    "rule": "Agree to a proposal vs Agree with a person",
+    "bengaliHint": "প্রস্তাবে সম্মতি দিলে 'agree to' বসে।"
+  },
+  {
+    "id": "g05-043",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'I agree ___ you on this policy matter.'",
+    "options": [
+      "with",
+      "to",
+      "at",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "One agrees 'with' a person.",
+    "rule": "Agree with a person",
+    "bengaliHint": "ব্যক্তির সাথে একমত হলে 'agree with' বসে।"
+  },
+  {
+    "id": "g05-044",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'He was angry ___ my blunt remark.'",
+    "options": [
+      "at",
+      "with",
+      "for",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "One is angry 'at' a thing/remark/action; angry 'with' a person.",
+    "rule": "Angry at a remark vs Angry with a person",
+    "bengaliHint": "কারো কথায় ক্ষুব্ধ হলে 'angry at' বসে।"
+  },
+  {
+    "id": "g05-045",
+    "chapter": "g05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Fill in the blank with the appropriate preposition: 'The teacher was angry ___ the insolent student.'",
+    "options": [
+      "with",
+      "at",
+      "to",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "One is angry 'with' a person.",
+    "rule": "Angry with a person",
+    "bengaliHint": "কোনো ব্যক্তির ওপর রেগে গেলে 'angry with' বসে।"
+  }
+]

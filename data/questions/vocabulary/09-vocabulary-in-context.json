@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "v09-001",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The child was timid and stayed behind the others', what does timid mean?",
+    "options": [
+      "brave",
+      "shy",
+      "angry",
+      "quick"
+    ],
+    "answer": 1,
+    "explanation": "Staying behind suggests shyness or lack of confidence.",
+    "rule": "Context clue",
+    "bengaliHint": "ভীত বা সংকোচী."
+  },
+  {
+    "id": "v09-002",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The goods were scarce, but demand was high', scarce means ___.",
+    "options": [
+      "plentiful",
+      "in short supply",
+      "free",
+      "damaged"
+    ],
+    "answer": 1,
+    "explanation": "The contrast with high demand suggests limited supply.",
+    "rule": "Contrast clue",
+    "bengaliHint": "কম supply."
+  },
+  {
+    "id": "v09-003",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'A frugal person, careful with money, saved regularly', frugal means ___.",
+    "options": [
+      "generous",
+      "careful in spending",
+      "careless",
+      "proud"
+    ],
+    "answer": 1,
+    "explanation": "Careful with money directly explains frugal.",
+    "rule": "Definition clue",
+    "bengaliHint": "অর্থ সাশ্রয়ী."
+  },
+  {
+    "id": "v09-004",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Although the wind was brisk, the children walked slowly', brisk means ___.",
+    "options": [
+      "active",
+      "slow",
+      "warm",
+      "quiet"
+    ],
+    "answer": 0,
+    "explanation": "Brisk describes an active or fairly strong wind. The contrast refers to the wind and the children's pace.",
+    "rule": "Context meaning",
+    "bengaliHint": "ঝাপসা ও চনমনে।"
+  },
+  {
+    "id": "v09-005",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In the sentence 'Her lucid explanation made the difficult physics theorem easy to comprehend', what does 'lucid' mean?",
+    "options": [
+      "Ambiguous",
+      "Clear and easily understood",
+      "Lengthy",
+      "Complicated"
+    ],
+    "answer": 1,
+    "explanation": "'Lucid' means expressed clearly; easy to understand.",
+    "rule": "Contextual vocabulary: lucid = clear / transparent",
+    "bengaliHint": "'Lucid' মানে সহজবোধ্য, পরিষ্কার ও প্রাঞ্জল।"
+  },
+  {
+    "id": "v09-006",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The treaty was ratified by all participating nations', what does 'ratified' mean?",
+    "options": [
+      "Rejected",
+      "Formally approved and signed",
+      "Postponed",
+      "Drafted"
+    ],
+    "answer": 1,
+    "explanation": "'Ratified' means given formal consent or approval to an agreement, making it officially valid.",
+    "rule": "Contextual vocabulary: ratified = formally approved",
+    "bengaliHint": "আনুষ্ঠানিকভাবে অনুমোদন করাকে 'ratified' বলে।"
+  },
+  {
+    "id": "v09-007",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Despite the provocative remarks, the officer remained completely stoic', what does 'stoic' mean?",
+    "options": [
+      "Enraged",
+      "Indifferent to pain or emotion",
+      "Fearful",
+      "Apologetic"
+    ],
+    "answer": 1,
+    "explanation": "'Stoic' describes a person who can endure pain or hardship without showing feelings or complaining.",
+    "rule": "Contextual vocabulary: stoic = impassive / calm under pressure",
+    "bengaliHint": "'Stoic' মানে সুখ-দুঃখে নির্বিকার ও অবিচল।"
+  },
+  {
+    "id": "v09-008",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The CEO gave an unequivocal guarantee that no employee would be retrenched', what does 'unequivocal' mean?",
+    "options": [
+      "Doubtful",
+      "Unambiguous and absolute",
+      "Conditional",
+      "Hesitant"
+    ],
+    "answer": 1,
+    "explanation": "'Unequivocal' means leaving no doubt; unambiguous, categorical, and clear.",
+    "rule": "Contextual vocabulary: unequivocal = unambiguous / categorical",
+    "bengaliHint": "'Unequivocal' মানে নিঃসংশয়, দ্ব্যর্থহীন ও সুস্পষ্ট।"
+  },
+  {
+    "id": "v09-009",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Water scarcity has become an acute problem in arid districts', what does 'acute' mean?",
+    "options": [
+      "Mild",
+      "Severe and critical",
+      "Unimportant",
+      "Temporary"
+    ],
+    "answer": 1,
+    "explanation": "'Acute' here denotes experienced to an intense, critical, or severe degree.",
+    "rule": "Contextual vocabulary: acute = severe / critical",
+    "bengaliHint": "'Acute' সমস্যা বলতে তীব্র বা গুরুতর সংকট বোঝায়।"
+  },
+  {
+    "id": "v09-010",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The scientist presented empirical evidence rather than theoretical assumptions', what does 'empirical' mean?",
+    "options": [
+      "Based on observation and experiment",
+      "Hypothetical",
+      "Imaginary",
+      "Religious"
+    ],
+    "answer": 0,
+    "explanation": "'Empirical' means based on, concerned with, or verifiable by observation or experiment rather than pure theory.",
+    "rule": "Contextual vocabulary: empirical = based on factual observation",
+    "bengaliHint": "বাস্তব অভিজ্ঞতা বা পরীক্ষার ওপর প্রতিষ্ঠিত প্রমাণকে 'empirical' বলে।"
+  },
+  {
+    "id": "v09-011",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-012",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-013",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-014",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-015",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-016",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-017",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-018",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-019",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-020",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-021",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-022",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-023",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-024",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-025",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-026",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-027",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-028",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-029",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-030",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-031",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-032",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-033",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-034",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-035",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-036",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-037",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-038",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-039",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-040",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-041",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
+    "options": [
+      "Economical and careful with expenditure",
+      "Extravagant",
+      "Generous",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Frugal' in context means living economically and avoiding waste.",
+    "rule": "Context: Frugal = economical",
+    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
+  },
+  {
+    "id": "v09-042",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
+    "options": [
+      "Official judicial notice / knowledge",
+      "Careless dismissal",
+      "Severe punishment",
+      "Postponement"
+    ],
+    "answer": 0,
+    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
+    "rule": "Context: Cognizance = judicial notice",
+    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
+  },
+  {
+    "id": "v09-043",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
+    "options": [
+      "No longer valid or applicable",
+      "Extremely urgent",
+      "Legally binding",
+      "Violent"
+    ],
+    "answer": 0,
+    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
+    "rule": "Context: Obsolete = outdated / superseded",
+    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
+  },
+  {
+    "id": "v09-044",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
+    "options": [
+      "Practical and realistic",
+      "Emotional and biased",
+      "Idealistic and naive",
+      "Hesitant"
+    ],
+    "answer": 0,
+    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
+    "rule": "Context: Pragmatic = practical",
+    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
+  },
+  {
+    "id": "v09-045",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
+    "options": [
+      "Capable of swift recovery from damage",
+      "Permanently destroyed",
+      "Submerged",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
+    "rule": "Context: Resilient = recovering quickly",
+    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
+  },
+  {
+    "id": "v09-046",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Despite the heavy rain, the crowd remained ___ and refused to leave.",
+    "options": [
+      "indifferent",
+      "steadfast",
+      "fickle",
+      "hostile"
+    ],
+    "answer": 1,
+    "explanation": "'steadfast' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: steadfast",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'steadfast'।"
+  },
+  {
+    "id": "v09-047",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The speech was so ___ that no one could follow it.",
+    "options": [
+      "lucid",
+      "incoherent",
+      "concise",
+      "eloquent"
+    ],
+    "answer": 1,
+    "explanation": "'incoherent' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: incoherent",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'incoherent'।"
+  },
+  {
+    "id": "v09-048",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Her ___ nature made her popular among colleagues.",
+    "options": [
+      "affable",
+      "arrogant",
+      "sullen",
+      "aloof"
+    ],
+    "answer": 0,
+    "explanation": "'affable' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: affable",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'affable'।"
+  },
+  {
+    "id": "v09-049",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The clerk was reprimanded for his ___ in submitting the file.",
+    "options": [
+      "promptness",
+      "negligence",
+      "diligence",
+      "vigilance"
+    ],
+    "answer": 1,
+    "explanation": "'negligence' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: negligence",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'negligence'।"
+  },
+  {
+    "id": "v09-050",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Because of the drought, food became ___ in the village.",
+    "options": [
+      "abundant",
+      "scarce",
+      "cheap",
+      "plentiful"
+    ],
+    "answer": 1,
+    "explanation": "'scarce' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: scarce",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'scarce'।"
+  },
+  {
+    "id": "v09-051",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The scientist's findings were ___ by later experiments.",
+    "options": [
+      "ignored",
+      "concealed",
+      "corroborated",
+      "ridiculed"
+    ],
+    "answer": 2,
+    "explanation": "'corroborated' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: corroborated",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'corroborated'।"
+  },
+  {
+    "id": "v09-052",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He gave an ___ answer, avoiding a direct reply.",
+    "options": [
+      "straightforward",
+      "evasive",
+      "frank",
+      "honest"
+    ],
+    "answer": 1,
+    "explanation": "'evasive' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: evasive",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'evasive'।"
+  },
+  {
+    "id": "v09-053",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ child often broke rules and defied elders.",
+    "options": [
+      "obedient",
+      "refractory",
+      "docile",
+      "meek"
+    ],
+    "answer": 1,
+    "explanation": "'refractory' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: refractory",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'refractory'।"
+  },
+  {
+    "id": "v09-054",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The office ___ the policy after many complaints.",
+    "options": [
+      "revoked",
+      "enforced",
+      "introduced",
+      "praised"
+    ],
+    "answer": 0,
+    "explanation": "'revoked' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: revoked",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'revoked'।"
+  },
+  {
+    "id": "v09-055",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "His ___ remarks hurt everyone at the meeting.",
+    "options": [
+      "tactful",
+      "caustic",
+      "pleasant",
+      "polite"
+    ],
+    "answer": 1,
+    "explanation": "'caustic' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: caustic",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'caustic'।"
+  },
+  {
+    "id": "v09-056",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ of the government's plan was questioned by experts.",
+    "options": [
+      "feasibility",
+      "frugality",
+      "facility",
+      "fragility"
+    ],
+    "answer": 0,
+    "explanation": "'feasibility' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: feasibility",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'feasibility'।"
+  },
+  {
+    "id": "v09-057",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In a ___ gesture, he donated all his savings to the orphanage.",
+    "options": [
+      "magnanimous",
+      "miserly",
+      "petty",
+      "selfish"
+    ],
+    "answer": 0,
+    "explanation": "'magnanimous' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: magnanimous",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'magnanimous'।"
+  },
+  {
+    "id": "v09-058",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The report was full of ___, making it hard to understand.",
+    "options": [
+      "clarity",
+      "jargon",
+      "brevity",
+      "simplicity"
+    ],
+    "answer": 1,
+    "explanation": "'jargon' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: jargon",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'jargon'।"
+  },
+  {
+    "id": "v09-059",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The manager was known for his ___; he never wasted a rupee.",
+    "options": [
+      "extravagance",
+      "frugality",
+      "generosity",
+      "negligence"
+    ],
+    "answer": 1,
+    "explanation": "'frugality' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: frugality",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'frugality'।"
+  },
+  {
+    "id": "v09-060",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "His ___ voice could be heard across the whole hall.",
+    "options": [
+      "feeble",
+      "stentorian",
+      "mellow",
+      "hushed"
+    ],
+    "answer": 1,
+    "explanation": "'stentorian' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: stentorian",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'stentorian'।"
+  },
+  {
+    "id": "v09-061",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The sudden announcement ___ the audience into silence.",
+    "options": [
+      "amused",
+      "stunned",
+      "invited",
+      "delighted"
+    ],
+    "answer": 1,
+    "explanation": "'stunned' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: stunned",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'stunned'।"
+  },
+  {
+    "id": "v09-062",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A man of ___ character never compromises on honesty.",
+    "options": [
+      "dubious",
+      "impeccable",
+      "fickle",
+      "shady"
+    ],
+    "answer": 1,
+    "explanation": "'impeccable' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: impeccable",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'impeccable'।"
+  },
+  {
+    "id": "v09-063",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The new rule will ___ the problem of overcrowding.",
+    "options": [
+      "aggravate",
+      "alleviate",
+      "intensify",
+      "worsen"
+    ],
+    "answer": 1,
+    "explanation": "'alleviate' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: alleviate",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'alleviate'।"
+  },
+  {
+    "id": "v09-064",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The auditor was ___ about checking every figure.",
+    "options": [
+      "careless",
+      "meticulous",
+      "casual",
+      "indifferent"
+    ],
+    "answer": 1,
+    "explanation": "'meticulous' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: meticulous",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'meticulous'।"
+  },
+  {
+    "id": "v09-065",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The long-standing feud left the two families ___.",
+    "options": [
+      "estranged",
+      "united",
+      "reconciled",
+      "allied"
+    ],
+    "answer": 0,
+    "explanation": "'estranged' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: estranged",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'estranged'।"
+  },
+  {
+    "id": "v09-066",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The proposal was passed ___, with every member voting in favour.",
+    "options": [
+      "reluctantly",
+      "secretly",
+      "unanimously",
+      "partially"
+    ],
+    "answer": 2,
+    "explanation": "'unanimously' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: unanimously",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'unanimously'।"
+  },
+  {
+    "id": "v09-067",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ weather ruined our picnic.",
+    "options": [
+      "pleasant",
+      "inclement",
+      "clement",
+      "mild"
+    ],
+    "answer": 1,
+    "explanation": "'inclement' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: inclement",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'inclement'।"
+  },
+  {
+    "id": "v09-068",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He was too ___ to admit his mistake.",
+    "options": [
+      "humble",
+      "honest",
+      "sincere",
+      "proud"
+    ],
+    "answer": 3,
+    "explanation": "'proud' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: proud",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'proud'।"
+  },
+  {
+    "id": "v09-069",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The company is facing a financial ___.",
+    "options": [
+      "crisis",
+      "bonus",
+      "surplus",
+      "profit"
+    ],
+    "answer": 0,
+    "explanation": "'crisis' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: crisis",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'crisis'।"
+  },
+  {
+    "id": "v09-070",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The judge showed ___ to the first-time offender.",
+    "options": [
+      "cruelty",
+      "hatred",
+      "clemency",
+      "anger"
+    ],
+    "answer": 2,
+    "explanation": "'clemency' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: clemency",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'clemency'।"
+  },
+  {
+    "id": "v09-071",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Her ___ smile put the nervous candidates at ease.",
+    "options": [
+      "menacing",
+      "reassuring",
+      "sarcastic",
+      "bitter"
+    ],
+    "answer": 1,
+    "explanation": "'reassuring' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: reassuring",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'reassuring'।"
+  },
+  {
+    "id": "v09-072",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The old building is in a ___ state and may collapse.",
+    "options": [
+      "magnificent",
+      "pristine",
+      "sturdy",
+      "dilapidated"
+    ],
+    "answer": 3,
+    "explanation": "'dilapidated' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: dilapidated",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'dilapidated'।"
+  },
+  {
+    "id": "v09-073",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He ___ the rumour and called it baseless.",
+    "options": [
+      "endorsed",
+      "refuted",
+      "spread",
+      "invented"
+    ],
+    "answer": 1,
+    "explanation": "'refuted' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: refuted",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'refuted'।"
+  },
+  {
+    "id": "v09-074",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The teacher ___ the students to work hard.",
+    "options": [
+      "deterred",
+      "forbade",
+      "exhorted",
+      "mocked"
+    ],
+    "answer": 2,
+    "explanation": "'exhorted' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: exhorted",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'exhorted'।"
+  },
+  {
+    "id": "v09-075",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Her ___ in the subject made her the best choice for the panel.",
+    "options": [
+      "ignorance",
+      "apathy",
+      "fear",
+      "expertise"
+    ],
+    "answer": 3,
+    "explanation": "'expertise' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: expertise",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'expertise'।"
+  },
+  {
+    "id": "v09-076",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The thief ___ the police by hiding in the forest.",
+    "options": [
+      "assisted",
+      "greeted",
+      "eluded",
+      "obeyed"
+    ],
+    "answer": 2,
+    "explanation": "'eluded' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: eluded",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'eluded'।"
+  },
+  {
+    "id": "v09-077",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The villagers lived in ___, with barely enough to eat.",
+    "options": [
+      "luxury",
+      "penury",
+      "comfort",
+      "opulence"
+    ],
+    "answer": 1,
+    "explanation": "'penury' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: penury",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'penury'।"
+  },
+  {
+    "id": "v09-078",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He is so ___ that he never listens to advice.",
+    "options": [
+      "tractable",
+      "meek",
+      "pliant",
+      "headstrong"
+    ],
+    "answer": 3,
+    "explanation": "'headstrong' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: headstrong",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'headstrong'।"
+  },
+  {
+    "id": "v09-079",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The interviewer was irritated by his ___ replies.",
+    "options": [
+      "curt",
+      "elaborate",
+      "lengthy",
+      "cheerful"
+    ],
+    "answer": 0,
+    "explanation": "'curt' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: curt",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'curt'।"
+  },
+  {
+    "id": "v09-080",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Despite his ___ wealth, he lived simply.",
+    "options": [
+      "meagre",
+      "scanty",
+      "immense",
+      "petty"
+    ],
+    "answer": 2,
+    "explanation": "'immense' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: immense",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'immense'।"
+  },
+  {
+    "id": "v09-081",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The mayor's speech was full of ___ promises that were never kept.",
+    "options": [
+      "genuine",
+      "hollow",
+      "honest",
+      "sincere"
+    ],
+    "answer": 1,
+    "explanation": "'hollow' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: hollow",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'hollow'।"
+  },
+  {
+    "id": "v09-082",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sudden power cut caused ___ in the office.",
+    "options": [
+      "order",
+      "calm",
+      "harmony",
+      "chaos"
+    ],
+    "answer": 3,
+    "explanation": "'chaos' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: chaos",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'chaos'।"
+  },
+  {
+    "id": "v09-083",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Driven by poverty, he ___ to crime.",
+    "options": [
+      "retired",
+      "resorted",
+      "refused",
+      "rejoiced"
+    ],
+    "answer": 1,
+    "explanation": "'resorted' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: resorted",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'resorted'।"
+  },
+  {
+    "id": "v09-084",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ of the disease alarmed the doctors.",
+    "options": [
+      "cure",
+      "rarity",
+      "virulence",
+      "mildness"
+    ],
+    "answer": 2,
+    "explanation": "'virulence' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: virulence",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'virulence'।"
+  },
+  {
+    "id": "v09-085",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She spoke ___, choosing every word carefully.",
+    "options": [
+      "circumspectly",
+      "carelessly",
+      "rashly",
+      "loudly"
+    ],
+    "answer": 0,
+    "explanation": "'circumspectly' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: circumspectly",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'circumspectly'।"
+  },
+  {
+    "id": "v09-086",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The rain brought a welcome ___ from the heat.",
+    "options": [
+      "loss",
+      "respite",
+      "delay",
+      "misery"
+    ],
+    "answer": 1,
+    "explanation": "'respite' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: respite",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'respite'।"
+  },
+  {
+    "id": "v09-087",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The citizens ___ against the unfair tax.",
+    "options": [
+      "rejoiced",
+      "applauded",
+      "complied",
+      "protested"
+    ],
+    "answer": 3,
+    "explanation": "'protested' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: protested",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'protested'।"
+  },
+  {
+    "id": "v09-088",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "His ___ attitude to work led to his dismissal.",
+    "options": [
+      "serious",
+      "diligent",
+      "cavalier",
+      "earnest"
+    ],
+    "answer": 2,
+    "explanation": "'cavalier' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: cavalier",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'cavalier'।"
+  },
+  {
+    "id": "v09-089",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The two companies decided to ___ to cut costs.",
+    "options": [
+      "quarrel",
+      "merge",
+      "compete",
+      "vanish"
+    ],
+    "answer": 1,
+    "explanation": "'merge' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: merge",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'merge'।"
+  },
+  {
+    "id": "v09-090",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The film was so ___ that many in the audience wept.",
+    "options": [
+      "hilarious",
+      "dull",
+      "trivial",
+      "poignant"
+    ],
+    "answer": 3,
+    "explanation": "'poignant' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: poignant",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'poignant'।"
+  },
+  {
+    "id": "v09-091",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The principal ___ the rule banning mobile phones.",
+    "options": [
+      "forgot",
+      "praised",
+      "enforced",
+      "enjoyed"
+    ],
+    "answer": 2,
+    "explanation": "'enforced' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: enforced",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'enforced'।"
+  },
+  {
+    "id": "v09-092",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The scientist's ___ led to a major invention.",
+    "options": [
+      "idleness",
+      "ingenuity",
+      "ignorance",
+      "indifference"
+    ],
+    "answer": 1,
+    "explanation": "'ingenuity' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: ingenuity",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'ingenuity'।"
+  },
+  {
+    "id": "v09-093",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "His excuse was so ___ that nobody believed it.",
+    "options": [
+      "solid",
+      "strong",
+      "valid",
+      "flimsy"
+    ],
+    "answer": 3,
+    "explanation": "'flimsy' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: flimsy",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'flimsy'।"
+  },
+  {
+    "id": "v09-094",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The company ___ its staff with bonuses.",
+    "options": [
+      "punished",
+      "dismissed",
+      "rewarded",
+      "ignored"
+    ],
+    "answer": 2,
+    "explanation": "'rewarded' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: rewarded",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'rewarded'।"
+  },
+  {
+    "id": "v09-095",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The sprinter's ___ made him the favourite.",
+    "options": [
+      "fatigue",
+      "agility",
+      "sloth",
+      "frailty"
+    ],
+    "answer": 1,
+    "explanation": "'agility' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: agility",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'agility'।"
+  },
+  {
+    "id": "v09-096",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The shopkeeper was ___ and refused to reduce the price.",
+    "options": [
+      "yielding",
+      "eager",
+      "fluid",
+      "adamant"
+    ],
+    "answer": 3,
+    "explanation": "'adamant' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: adamant",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'adamant'।"
+  },
+  {
+    "id": "v09-097",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He was ___ with grief after losing his mother.",
+    "options": [
+      "overjoyed",
+      "overwhelmed",
+      "amused",
+      "bored"
+    ],
+    "answer": 1,
+    "explanation": "'overwhelmed' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: overwhelmed",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'overwhelmed'।"
+  },
+  {
+    "id": "v09-098",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A good clerk must be ___ when handling confidential records.",
+    "options": [
+      "talkative",
+      "careless",
+      "discreet",
+      "rude"
+    ],
+    "answer": 2,
+    "explanation": "'discreet' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: discreet",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'discreet'।"
+  },
+  {
+    "id": "v09-099",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ heat of the sun made it hard to stay outside.",
+    "options": [
+      "soothing",
+      "mild",
+      "pleasant",
+      "scorching"
+    ],
+    "answer": 3,
+    "explanation": "'scorching' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: scorching",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'scorching'।"
+  },
+  {
+    "id": "v09-100",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The new employee felt ___ among strangers.",
+    "options": [
+      "comfortable",
+      "ill at ease",
+      "relaxed",
+      "confident"
+    ],
+    "answer": 1,
+    "explanation": "'ill at ease' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: ill at ease",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'ill at ease'।"
+  },
+  {
+    "id": "v09-101",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The government plans to ___ the old law with a new one.",
+    "options": [
+      "retain",
+      "respect",
+      "replace",
+      "revere"
+    ],
+    "answer": 2,
+    "explanation": "'replace' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: replace",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'replace'।"
+  },
+  {
+    "id": "v09-102",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The minister ___ the scheme with great pomp.",
+    "options": [
+      "abolished",
+      "inaugurated",
+      "mocked",
+      "feared"
+    ],
+    "answer": 1,
+    "explanation": "'inaugurated' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: inaugurated",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'inaugurated'।"
+  },
+  {
+    "id": "v09-103",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Her ___ was evident when she refused every offer of help.",
+    "options": [
+      "laziness",
+      "fear",
+      "greed",
+      "independence"
+    ],
+    "answer": 3,
+    "explanation": "'independence' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: independence",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'independence'।"
+  },
+  {
+    "id": "v09-104",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The traveller was ___ after the long journey.",
+    "options": [
+      "energetic",
+      "fresh",
+      "exhausted",
+      "lively"
+    ],
+    "answer": 2,
+    "explanation": "'exhausted' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: exhausted",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'exhausted'।"
+  },
+  {
+    "id": "v09-105",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "It is ___ to cross a busy road without looking.",
+    "options": [
+      "safe",
+      "hazardous",
+      "wise",
+      "prudent"
+    ],
+    "answer": 1,
+    "explanation": "'hazardous' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: hazardous",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'hazardous'।"
+  },
+  {
+    "id": "v09-106",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The lawyer's argument was so ___ that the jury was convinced.",
+    "options": [
+      "weak",
+      "vague",
+      "feeble",
+      "cogent"
+    ],
+    "answer": 3,
+    "explanation": "'cogent' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: cogent",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'cogent'।"
+  },
+  {
+    "id": "v09-107",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The scandal ___ the reputation of the party.",
+    "options": [
+      "enhanced",
+      "tarnished",
+      "polished",
+      "promoted"
+    ],
+    "answer": 1,
+    "explanation": "'tarnished' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: tarnished",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'tarnished'।"
+  },
+  {
+    "id": "v09-108",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The orphan was brought up with great ___ by his uncle.",
+    "options": [
+      "cruelty",
+      "neglect",
+      "tenderness",
+      "hatred"
+    ],
+    "answer": 2,
+    "explanation": "'tenderness' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: tenderness",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'tenderness'।"
+  },
+  {
+    "id": "v09-109",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The rebels were ___ into submission by the army.",
+    "options": [
+      "encouraged",
+      "rewarded",
+      "praised",
+      "subdued"
+    ],
+    "answer": 3,
+    "explanation": "'subdued' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: subdued",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'subdued'।"
+  },
+  {
+    "id": "v09-110",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He made a ___ attempt to hide his nervousness.",
+    "options": [
+      "futile",
+      "successful",
+      "clever",
+      "wise"
+    ],
+    "answer": 0,
+    "explanation": "'futile' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: futile",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'futile'।"
+  },
+  {
+    "id": "v09-111",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The chef is ___ about his recipes and never shares them.",
+    "options": [
+      "open",
+      "secretive",
+      "generous",
+      "careless"
+    ],
+    "answer": 1,
+    "explanation": "'secretive' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: secretive",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'secretive'।"
+  },
+  {
+    "id": "v09-112",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ student topped the university.",
+    "options": [
+      "dull",
+      "lazy",
+      "brilliant",
+      "obtuse"
+    ],
+    "answer": 2,
+    "explanation": "'brilliant' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: brilliant",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'brilliant'।"
+  },
+  {
+    "id": "v09-113",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The tax reform was ___ by the opposition as unjust.",
+    "options": [
+      "lauded",
+      "welcomed",
+      "hailed",
+      "denounced"
+    ],
+    "answer": 3,
+    "explanation": "'denounced' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: denounced",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'denounced'।"
+  },
+  {
+    "id": "v09-114",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The rain was a ___ for the parched fields.",
+    "options": [
+      "curse",
+      "blessing",
+      "loss",
+      "damage"
+    ],
+    "answer": 1,
+    "explanation": "'blessing' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: blessing",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'blessing'।"
+  },
+  {
+    "id": "v09-115",
+    "chapter": "v09",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She was ___ by the sudden news and could not speak.",
+    "options": [
+      "dumbfounded",
+      "amused",
+      "pleased",
+      "relaxed"
+    ],
+    "answer": 0,
+    "explanation": "'dumbfounded' is the most appropriate word fitting the tone and context of the sentence.",
+    "rule": "Vocabulary in Context: dumbfounded",
+    "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'dumbfounded'।"
+  }
+]

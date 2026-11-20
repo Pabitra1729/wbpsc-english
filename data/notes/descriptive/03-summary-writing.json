@@ -1,0 +1,60 @@
+{
+  "id": "d03",
+  "title": "Summary Writing Techniques",
+  "intro": "Summary Writing in descriptive examinations requires condensing the overarching substance of an argumentative, narrative, or informational text into approximately one-third of its volume while retaining its key assertions, main conclusions, and overall tone without needing an explicit title.",
+  "bengali": "Summary Writing (সারমর্ম লিখন): Précis Writing-এর সাথে এর মূল পার্থক্য হলো Précis-এ কঠোরভাবে শব্দসংখ্যা গণনা ও Title দেওয়া বাধ্যতামূলক, যেখানে Summary-তে মূল ভাবের প্রাতিষ্ঠানিক সংক্ষিপ্তসার নিজের ভাষায় তুলে ধরাই প্রধান উদ্দেশ্য।",
+  "rules": [
+    {
+      "rule": "THE CORE ARGUMENT EXTRACTION: Identify the primary thesis sentence of each paragraph and synthesize them into a continuous, logical narrative.",
+      "examples": [
+        "Underline the single most important thematic sentence from each paragraph.",
+        "Synthesize these core points using cohesive sentence linkers (Furthermore, Consequently, Therefore)."
+      ],
+      "exceptions": [
+        "Do not include supporting data, footnotes, or peripheral digressions in a summary."
+      ]
+    },
+    {
+      "rule": "OBJECTIVE REPHRASING IN OWN VOCABULARY: Paraphrase the author's ideas using fresh vocabulary without introducing extraneous personal viewpoints.",
+      "examples": [
+        "Source: 'The relentless felling of ancient timber stands has unleashed cataclysmic erosion along the riverbanks.'",
+        "Summary: 'Deforestation has accelerated severe soil erosion along rivers.'"
+      ],
+      "exceptions": [
+        "Essential technical terms or proper nouns (names of treaties, places) may be retained intact."
+      ]
+    },
+    {
+      "rule": "CONCISENESS AND ECONOMY: Replace lengthy dependent clauses with compact prepositional phrases or single precise adjectives.",
+      "examples": [
+        "Source: 'A person who is incapable of making mistakes' -> Summary: 'An infallible person.'",
+        "Source: 'At that point in time when the clock struck twelve' -> Summary: 'At noon.'"
+      ],
+      "exceptions": [
+        "Ensure clarity is not sacrificed for extreme brevity."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Quoting lines verbatim directly from the original passage.",
+    "Inserting personal commentary or moral advice not present in the original text.",
+    "Writing a summary that is nearly as long as the original passage.",
+    "Focusing on minor illustrative anecdotes instead of the overarching argument."
+  ],
+  "examTricks": [
+    "The Clause-to-Phrase Condensation: Compress subordinate clauses into gerunds or participial phrases to cut word count by 40%.",
+    "The Topic Sentence Formula: The first and last sentences of each paragraph provide 80% of your summary material.",
+    "One-third Target: Aim for roughly 30-35% of the original passage length."
+  ],
+  "memoryTricks": [
+    "EXTRACT the marrow, discard the bone.",
+    "PARAPHRASE, don't copy-paste."
+  ],
+  "revision": [
+    "Capture central message in 1/3rd volume.",
+    "Use your own original words.",
+    "Omit examples, repetition, and statistics.",
+    "No personal opinions or external additions.",
+    "Maintain logical flow with linkers (However, Therefore)."
+  ]
+}

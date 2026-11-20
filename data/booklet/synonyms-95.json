@@ -1,0 +1,667 @@
+[
+  {
+    "num": 1,
+    "term": "Abandon",
+    "meaning": "Synonym: Forsake",
+    "bengali": "ত্যাগ করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 2,
+    "term": "Abate",
+    "meaning": "Synonym: Subside",
+    "bengali": "হ্রাস পাওয়া / কমা",
+    "category": "Synonym"
+  },
+  {
+    "num": 3,
+    "term": "Abundant",
+    "meaning": "Synonym: Plentiful",
+    "bengali": "প্রচুর / পর্যাপ্ত",
+    "category": "Synonym"
+  },
+  {
+    "num": 4,
+    "term": "Acumen",
+    "meaning": "Synonym: Keenness",
+    "bengali": "অর্জন করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 5,
+    "term": "Adept",
+    "meaning": "Synonym: Skilful",
+    "bengali": "প্রতিকূলতা / দুর্দশা",
+    "category": "Synonym"
+  },
+  {
+    "num": 6,
+    "term": "Adversity",
+    "meaning": "Synonym: Hardship",
+    "bengali": "বিত্তবান / ধনী",
+    "category": "Synonym"
+  },
+  {
+    "num": 7,
+    "term": "Allay",
+    "meaning": "Synonym: Soothe",
+    "bengali": "চটপটে / ক্ষিপ্র",
+    "category": "Synonym"
+  },
+  {
+    "num": 8,
+    "term": "Ameliorate",
+    "meaning": "Synonym: Improve",
+    "bengali": "উপশম বা লাঘব করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 9,
+    "term": "Amiable",
+    "meaning": "Synonym: Friendly",
+    "bengali": "অস্পষ্ট / দ্ব্যর্থবোধক",
+    "category": "Synonym"
+  },
+  {
+    "num": 10,
+    "term": "Anguish",
+    "meaning": "Synonym: Agony",
+    "bengali": "অমায়িক / বন্ধুভাবাপন্ন",
+    "category": "Synonym"
+  },
+  {
+    "num": 11,
+    "term": "Apathy",
+    "meaning": "Synonym: Indifference",
+    "bengali": "ধ্বংস করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 12,
+    "term": "Arduous",
+    "meaning": "Synonym: Difficult",
+    "bengali": "বেনামী / নামহীন",
+    "category": "Synonym"
+  },
+  {
+    "num": 13,
+    "term": "Audacious",
+    "meaning": "Synonym: Bold",
+    "bengali": "পূর্বাভাস পাওয়া",
+    "category": "Synonym"
+  },
+  {
+    "num": 14,
+    "term": "Austere",
+    "meaning": "Synonym: Stern",
+    "bengali": "স্পষ্ট / প্রতীয়মান",
+    "category": "Synonym"
+  },
+  {
+    "num": 15,
+    "term": "Baffle",
+    "meaning": "Synonym: Puzzle",
+    "bengali": "উৎসাহী / উদ্দীপ্ত",
+    "category": "Synonym"
+  },
+  {
+    "num": 16,
+    "term": "Benevolent",
+    "meaning": "Synonym: Kind",
+    "bengali": "উদ্ধত / অহংকারী",
+    "category": "Synonym"
+  },
+  {
+    "num": 17,
+    "term": "Blunder",
+    "meaning": "Synonym: Mistake",
+    "bengali": "বিস্মিত করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 18,
+    "term": "Brisk",
+    "meaning": "Synonym: Quick",
+    "bengali": "খাঁটি / আসল",
+    "category": "Synonym"
+  },
+  {
+    "num": 19,
+    "term": "Callous",
+    "meaning": "Synonym: Heartless",
+    "bengali": "দয়ালু / হিতৈষী",
+    "category": "Synonym"
+  },
+  {
+    "num": 20,
+    "term": "Candid",
+    "meaning": "Synonym: Frank",
+    "bengali": "মারাত্মক ভুল",
+    "category": "Synonym"
+  },
+  {
+    "num": 21,
+    "term": "Cease",
+    "meaning": "Synonym: Stop",
+    "bengali": "সংক্ষিপ্ত",
+    "category": "Synonym"
+  },
+  {
+    "num": 22,
+    "term": "Coerce",
+    "meaning": "Synonym: Force",
+    "bengali": "ভঙ্গুর",
+    "category": "Synonym"
+  },
+  {
+    "num": 23,
+    "term": "Conceal",
+    "meaning": "Synonym: Hide",
+    "bengali": "বিপর্যয় / দুর্যোগ",
+    "category": "Synonym"
+  },
+  {
+    "num": 24,
+    "term": "Concur",
+    "meaning": "Synonym: Agree",
+    "bengali": "অকপট / স্পষ্টভাষী",
+    "category": "Synonym"
+  },
+  {
+    "num": 25,
+    "term": "Condone",
+    "meaning": "Synonym: Forgive",
+    "bengali": "সতর্ক / সাবধানী",
+    "category": "Synonym"
+  },
+  {
+    "num": 26,
+    "term": "Contempt",
+    "meaning": "Synonym: Scorn",
+    "bengali": "বিরতি / অবসান",
+    "category": "Synonym"
+  },
+  {
+    "num": 27,
+    "term": "Copious",
+    "meaning": "Synonym: Plentiful",
+    "bengali": "খসখসে / স্থূল",
+    "category": "Synonym"
+  },
+  {
+    "num": 28,
+    "term": "Cunning",
+    "meaning": "Synonym: Crafty",
+    "bengali": "শুরু করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 29,
+    "term": "Deter",
+    "meaning": "Synonym: Discourage",
+    "bengali": "যোগ্য / দক্ষ",
+    "category": "Synonym"
+  },
+  {
+    "num": 30,
+    "term": "Devout",
+    "meaning": "Synonym: Pious",
+    "bengali": "গোপন করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 31,
+    "term": "Dilemma",
+    "meaning": "Synonym: Predicament",
+    "bengali": "নিন্দা করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 32,
+    "term": "Diligent",
+    "meaning": "Synonym: Industrious",
+    "bengali": "সীমাবদ্ধ রাখা",
+    "category": "Synonym"
+  },
+  {
+    "num": 33,
+    "term": "Dubious",
+    "meaning": "Synonym: Doubtful",
+    "bengali": "ষড়যন্ত্র করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 34,
+    "term": "Elated",
+    "meaning": "Synonym: Overjoyed",
+    "bengali": "সাহসী",
+    "category": "Synonym"
+  },
+  {
+    "num": 35,
+    "term": "Eloquent",
+    "meaning": "Synonym: Fluent",
+    "bengali": "ছাঁটাই বা সংক্ষিপ্ত করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 36,
+    "term": "Elude",
+    "meaning": "Synonym: Evade",
+    "bengali": "প্রতারণা",
+    "category": "Synonym"
+  },
+  {
+    "num": 37,
+    "term": "Emancipate",
+    "meaning": "Synonym: Liberate",
+    "bengali": "ঘাটতিযুক্ত",
+    "category": "Synonym"
+  },
+  {
+    "num": 38,
+    "term": "Eminent",
+    "meaning": "Synonym: Distinguished",
+    "bengali": "ইচ্ছাকৃত",
+    "category": "Synonym"
+  },
+  {
+    "num": 39,
+    "term": "Endeavour",
+    "meaning": "Synonym: Attempt",
+    "bengali": "কোমল / নাজুক",
+    "category": "Synonym"
+  },
+  {
+    "num": 40,
+    "term": "Fabricate",
+    "meaning": "Synonym: Invent",
+    "bengali": "ভেঙে ফেলা / ধ্বংস করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 41,
+    "term": "Feeble",
+    "meaning": "Synonym: Weak",
+    "bengali": "ঘন / নিবিড়",
+    "category": "Synonym"
+  },
+  {
+    "num": 42,
+    "term": "Fervent",
+    "meaning": "Synonym: Passionate",
+    "bengali": "ঘৃণা করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 43,
+    "term": "Frugal",
+    "meaning": "Synonym: Thrifty",
+    "bengali": "পরিশ্রমী",
+    "category": "Synonym"
+  },
+  {
+    "num": 44,
+    "term": "Futile",
+    "meaning": "Synonym: Useless",
+    "bengali": "কমানো / হ্রাস পাওয়া",
+    "category": "Synonym"
+  },
+  {
+    "num": 45,
+    "term": "Garrulous",
+    "meaning": "Synonym: Talkative",
+    "bengali": "প্রকাশ বা ফাঁস করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 46,
+    "term": "Gaudy",
+    "meaning": "Synonym: Showy",
+    "bengali": "তাচ্ছিল্য / অবজ্ঞা",
+    "category": "Synonym"
+  },
+  {
+    "num": 47,
+    "term": "Gratify",
+    "meaning": "Synonym: Satisfy",
+    "bengali": "সন্দেহজনক",
+    "category": "Synonym"
+  },
+  {
+    "num": 48,
+    "term": "Hamper",
+    "meaning": "Synonym: Hinder",
+    "bengali": "তন্দ্রাচ্ছন্ন",
+    "category": "Synonym"
+  },
+  {
+    "num": 49,
+    "term": "Haughty",
+    "meaning": "Synonym: Arrogant",
+    "bengali": "ব্যগ্র / আগ্রহী",
+    "category": "Synonym"
+  },
+  {
+    "num": 50,
+    "term": "Hostile",
+    "meaning": "Synonym: Antagonistic",
+    "bengali": "খামখেয়ালী / অদ্ভুত",
+    "category": "Synonym"
+  },
+  {
+    "num": 51,
+    "term": "Humble",
+    "meaning": "Synonym: Modest",
+    "bengali": "বিস্তারিত / বিশদ",
+    "category": "Synonym"
+  },
+  {
+    "num": 52,
+    "term": "Illustrious",
+    "meaning": "Synonym: Famous",
+    "bengali": "বাগ্মী / স্পষ্টভাষী",
+    "category": "Synonym"
+  },
+  {
+    "num": 53,
+    "term": "Immense",
+    "meaning": "Synonym: Huge",
+    "bengali": "প্রখ্যাত / বিশিষ্ট",
+    "category": "Synonym"
+  },
+  {
+    "num": 54,
+    "term": "Impetuous",
+    "meaning": "Synonym: Hasty",
+    "bengali": "প্রচেষ্টা চালানো",
+    "category": "Synonym"
+  },
+  {
+    "num": 55,
+    "term": "Inept",
+    "meaning": "Synonym: Clumsy",
+    "bengali": "বিশাল / প্রকাণ্ড",
+    "category": "Synonym"
+  },
+  {
+    "num": 56,
+    "term": "Innocuous",
+    "meaning": "Synonym: Harmless",
+    "bengali": "প্রলুব্ধ করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 57,
+    "term": "Jeopardy",
+    "meaning": "Synonym: Danger",
+    "bengali": "ন্যায্য / সমদর্শী",
+    "category": "Synonym"
+  },
+  {
+    "num": 58,
+    "term": "Jovial",
+    "meaning": "Synonym: Cheerful",
+    "bengali": "নির্মূল করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 59,
+    "term": "Keen",
+    "meaning": "Synonym: Eager",
+    "bengali": "চিরন্তন / অনন্ত",
+    "category": "Synonym"
+  },
+  {
+    "num": 60,
+    "term": "Lament",
+    "meaning": "Synonym: Mourn",
+    "bengali": "অনবদ্য / চমৎকার",
+    "category": "Synonym"
+  },
+  {
+    "num": 61,
+    "term": "Lavish",
+    "meaning": "Synonym: Extravagant",
+    "bengali": "বানিয়ে তোলা / জাল করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 62,
+    "term": "Lethargic",
+    "meaning": "Synonym: Sluggish",
+    "bengali": "দুর্বল",
+    "category": "Synonym"
+  },
+  {
+    "num": 63,
+    "term": "Lucid",
+    "meaning": "Synonym: Clear",
+    "bengali": "বাস্তবায়নযোগ্য",
+    "category": "Synonym"
+  },
+  {
+    "num": 64,
+    "term": "Meagre",
+    "meaning": "Synonym: Scanty",
+    "bengali": "ত্রুটিহীন",
+    "category": "Synonym"
+  },
+  {
+    "num": 65,
+    "term": "Meticulous",
+    "meaning": "Synonym: Painstaking",
+    "bengali": "ভবিষ্যদ্বাণী করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 66,
+    "term": "Mundane",
+    "meaning": "Synonym: Ordinary",
+    "bengali": "ভয়ঙ্কর / দুর্ভেদ্য",
+    "category": "Synonym"
+  },
+  {
+    "num": 67,
+    "term": "Nefarious",
+    "meaning": "Synonym: Wicked",
+    "bengali": "মিতব্যয়ী",
+    "category": "Synonym"
+  },
+  {
+    "num": 68,
+    "term": "Notorious",
+    "meaning": "Synonym: Infamous",
+    "bengali": "ক্ষিপ্ত / ক্রুদ্ধ",
+    "category": "Synonym"
+  },
+  {
+    "num": 69,
+    "term": "Novel",
+    "meaning": "Synonym: New",
+    "bengali": "ব্যর্থ / পণ্ড",
+    "category": "Synonym"
+  },
+  {
+    "num": 70,
+    "term": "Oblivious",
+    "meaning": "Synonym: Unaware",
+    "bengali": "উদার / দানশীল",
+    "category": "Synonym"
+  },
+  {
+    "num": 71,
+    "term": "Obstinate",
+    "meaning": "Synonym: Stubborn",
+    "bengali": "বিষাদ / অন্ধকার",
+    "category": "Synonym"
+  },
+  {
+    "num": 72,
+    "term": "Opulent",
+    "meaning": "Synonym: Wealthy",
+    "bengali": "বিপজ্জনক",
+    "category": "Synonym"
+  },
+  {
+    "num": 73,
+    "term": "Pacify",
+    "meaning": "Synonym: Appease",
+    "bengali": "হাস্যকর / প্রফুল্ল",
+    "category": "Synonym"
+  },
+  {
+    "num": 74,
+    "term": "Perilous",
+    "meaning": "Synonym: Hazardous",
+    "bengali": "শত্রুভাবাপন্ন",
+    "category": "Synonym"
+  },
+  {
+    "num": 75,
+    "term": "Placid",
+    "meaning": "Synonym: Calm",
+    "bengali": "বিনয়ী / নম্র",
+    "category": "Synonym"
+  },
+  {
+    "num": 76,
+    "term": "Pragmatic",
+    "meaning": "Synonym: Practical",
+    "bengali": "মায়া / বিভ্রান্তি",
+    "category": "Synonym"
+  },
+  {
+    "num": 77,
+    "term": "Prudent",
+    "meaning": "Synonym: Wise",
+    "bengali": "অসীম / বিশাল",
+    "category": "Synonym"
+  },
+  {
+    "num": 78,
+    "term": "Quell",
+    "meaning": "Synonym: Suppress",
+    "bengali": "ক্ষতিসাধন করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 79,
+    "term": "Rebuke",
+    "meaning": "Synonym: Reprimand",
+    "bengali": "নিঃস্ব / হতদরিদ্র",
+    "category": "Synonym"
+  },
+  {
+    "num": 80,
+    "term": "Reluctant",
+    "meaning": "Synonym: Unwilling",
+    "bengali": "অনিচ্ছাকৃত ভুল",
+    "category": "Synonym"
+  },
+  {
+    "num": 81,
+    "term": "Ruthless",
+    "meaning": "Synonym: Merciless",
+    "bengali": "অযোগ্য / অক্ষম",
+    "category": "Synonym"
+  },
+  {
+    "num": 82,
+    "term": "Sagacious",
+    "meaning": "Synonym: Shrewd",
+    "bengali": "অলস / কুঁড়ে",
+    "category": "Synonym"
+  },
+  {
+    "num": 83,
+    "term": "Scrutinize",
+    "meaning": "Synonym: Examine",
+    "bengali": "কুখ্যাত",
+    "category": "Synonym"
+  },
+  {
+    "num": 84,
+    "term": "Serene",
+    "meaning": "Synonym: Peaceful",
+    "bengali": "জটিল",
+    "category": "Synonym"
+  },
+  {
+    "num": 85,
+    "term": "Stagnant",
+    "meaning": "Synonym: Motionless",
+    "bengali": "অপরাজয়",
+    "category": "Synonym"
+  },
+  {
+    "num": 86,
+    "term": "Tedious",
+    "meaning": "Synonym: Boring",
+    "bengali": "কিশোর / তরুণ",
+    "category": "Synonym"
+  },
+  {
+    "num": 87,
+    "term": "Tenacious",
+    "meaning": "Synonym: Persistent",
+    "bengali": "আত্মীয়তা / সম্পর্ক",
+    "category": "Synonym"
+  },
+  {
+    "num": 88,
+    "term": "Trivial",
+    "meaning": "Synonym: Petty",
+    "bengali": "শোক প্রকাশ করা",
+    "category": "Synonym"
+  },
+  {
+    "num": 89,
+    "term": "Ubiquitous",
+    "meaning": "Synonym: Omnipresent",
+    "bengali": "মারাত্মক / প্রাণঘাতী",
+    "category": "Synonym"
+  },
+  {
+    "num": 90,
+    "term": "Vacant",
+    "meaning": "Synonym: Empty",
+    "bengali": "সুস্পষ্ট / প্রাঞ্জল",
+    "category": "Synonym"
+  },
+  {
+    "num": 91,
+    "term": "Vanish",
+    "meaning": "Synonym: Disappear",
+    "bengali": "মহিমান্বিত / জাঁকজমকপূর্ণ",
+    "category": "Synonym"
+  },
+  {
+    "num": 92,
+    "term": "Verbose",
+    "meaning": "Synonym: Wordy",
+    "bengali": "অতি সতর্ক / নিখুঁত",
+    "category": "Synonym"
+  },
+  {
+    "num": 93,
+    "term": "Vigilant",
+    "meaning": "Synonym: Watchful",
+    "bengali": "কুখ্যাত",
+    "category": "Synonym"
+  },
+  {
+    "num": 94,
+    "term": "Wary",
+    "meaning": "Synonym: Cautious",
+    "bengali": "সতর্ক / সজাগ",
+    "category": "Synonym"
+  },
+  {
+    "num": 95,
+    "term": "Wrath",
+    "meaning": "Synonym: Anger",
+    "bengali": "তীব্র ক্রোধ",
+    "category": "Synonym"
+  }
+]

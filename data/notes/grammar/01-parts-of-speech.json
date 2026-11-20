@@ -1,0 +1,119 @@
+{
+  "id": "g01",
+  "title": "Parts of Speech",
+  "intro": "Every single English word belongs to one of eight functional categories (Noun, Pronoun, Adjective, Verb, Adverb, Preposition, Conjunction, Interjection) based entirely on its job in the sentence. In the WBPSC Clerkship examination, questions rarely ask for simple definitions; instead, they test words that change their part of speech depending on grammatical context, word formation suffixes, and words that look like one category but function as another.",
+  "bengali": "ইংরেজি ব্যাকরণে একটি শব্দ বাক্যে কী ভূমিকা পালন করছে, তার ভিত্তিতে শব্দগুলিকে আটটি শ্রেণীতে (Parts of Speech) ভাগ করা হয়: Noun, Pronoun, Adjective, Verb, Adverb, Preposition, Conjunction এবং Interjection।\n\nWBPSC Clerkship পরীক্ষায় সরাসরি সংজ্ঞা জানতে চাওয়া হয় না। এখানে সবচেয়ে বেশি প্রশ্ন আসে 'Functional Shift' বা প্রেক্ষাপট পরিবর্তনের ওপর। অর্থাৎ, একই শব্দ বিভিন্ন বাক্যে আলাদা Parts of Speech হিসেবে ব্যবহৃত হয়। যেমন: 'He ran fast' (এখানে fast হলো Adverb), কিন্তু 'He is a fast runner' (এখানে fast হলো Adjective), আবার 'He broke his fast' (এখানে fast হলো Noun)।\n\nবাংলা মাধ্যমের শিক্ষার্থীদের বিশেষ করে Adjective ও Adverb-এর পার্থক্য নিয়ে সতর্ক থাকতে হবে। বাংলায় আমরা বিশেষ্য ও ক্রিয়ার ক্ষেত্রে একই ধরনের বিশেষণ ব্যবহার করলেও ইংরেজিতে Adjective কেবল Noun/Pronoun-কে বিশেষায়িত করে এবং Adverb ক্রিয়া (Verb), বিশেষণ (Adjective) অথবা অন্য কোনো ক্রিয়াবিশেষণকে বিশেষায়িত করে।",
+  "rules": [
+    {
+      "rule": "A word's Part of Speech is determined by its FUNCTION in the sentence, not by its spelling or appearance.",
+      "examples": [
+        "Noun: He broke his day-long fast at sunset.",
+        "Verb: Devotees fast on religious occasions.",
+        "Adjective: We took the fast train to Howrah.",
+        "Adverb: The express train travels very fast."
+      ],
+      "exceptions": [
+        "Never categorize an isolated word without analyzing its surrounding grammatical syntax."
+      ]
+    },
+    {
+      "rule": "Words ending in '-ly' are usually Adverbs of manner, but many are ADJECTIVES when '-ly' is added to a Noun.",
+      "examples": [
+        "Friendly (Noun friend + ly = Adjective): He gave a friendly advice.",
+        "Lovely, cowardly, brotherly, scholarly, miserly, orderly are all ADJECTIVES.",
+        "Quickly, silently, boldly (Adjective + ly = Adverb of manner): He acted quickly."
+      ],
+      "exceptions": [
+        "To turn 'friendly' or 'miserly' into an adverb, use a phrase: 'in a friendly manner' or 'in a miserly way'."
+      ]
+    },
+    {
+      "rule": "'Before', 'After', and 'Since' can function as Prepositions, Conjunctions, or Adverbs depending on what follows them.",
+      "examples": [
+        "Preposition (followed by Noun): He arrived before sunrise.",
+        "Conjunction (joins two clauses): Wash your hands before you eat lunch.",
+        "Adverb (modifies verb without object): I have seen this monument before."
+      ],
+      "exceptions": [
+        "If followed by a clause (Subject + Verb), the word is always a Conjunction."
+      ]
+    },
+    {
+      "rule": "Stative and Linking Verbs (look, seem, taste, smell, sound, feel, become) are modified by ADJECTIVES, never adverbs.",
+      "examples": [
+        "The rose smells sweet (NOT sweetly; sweet describes the rose).",
+        "The soup tastes delicious (NOT deliciously).",
+        "She looked angry at the meeting (describing her appearance)."
+      ],
+      "exceptions": [
+        "When these verbs denote physical action rather than perception, adverbs apply: 'He looked angrily at the culprit'."
+      ]
+    },
+    {
+      "rule": "'Enough' acts as an ADJECTIVE before a noun, but as an ADVERB after an adjective or adverb.",
+      "examples": [
+        "Adjective (precedes Noun): He does not have enough money to buy the car.",
+        "Adverb (follows Adjective): She is intelligent enough to solve this puzzle (NOT enough intelligent)."
+      ],
+      "exceptions": [
+        "Position error with 'enough' is one of the top recurring error detection patterns in WBPSC."
+      ]
+    },
+    {
+      "rule": "Word Formation Suffixes reliably indicate grammatical categories across parts of speech.",
+      "examples": [
+        "Noun suffixes: -tion (action), -ment (development), -ness (kindness), -ity (integrity), -ance/-ence (guidance).",
+        "Adjective suffixes: -able/-ible (capable), -ous (courageous), -ful (careful), -less (careless), -ive (creative).",
+        "Verb suffixes: -ify (clarify), -ize/-ise (organize), -en (widen, strengthen)."
+      ],
+      "exceptions": [
+        "Some words keep the identical form across Noun and Verb: record, present, conduct (stress shift dictates category in spoken English)."
+      ]
+    },
+    {
+      "rule": "'Like' is a Preposition (takes noun/pronoun); 'As' is a Conjunction (takes a clause with a verb).",
+      "examples": [
+        "He runs like his father (Preposition + Noun).",
+        "He runs as his father does (Conjunction + Clause)."
+      ],
+      "exceptions": [
+        "Never write 'He speaks like I do'; use 'He speaks as I do' or 'He speaks like me'."
+      ]
+    },
+    {
+      "rule": "Interjections express sudden bursts of emotion and stand grammatically independent from the rest of the sentence.",
+      "examples": [
+        "Alas! We missed the scheduled train by two minutes.",
+        "Hurrah! The candidate has secured top rank in the Clerkship exam."
+      ],
+      "exceptions": [
+        "Interjections always take an exclamation mark (!) immediately after or at the sentence end."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'She behaves very friendly' instead of 'She behaves in a friendly manner' (friendly is an adjective, not an adverb).",
+    "Writing 'She is enough tall to be selected' instead of 'She is tall enough to be selected' (enough follows the adjective).",
+    "Using 'The flower smells sweetly' instead of 'The flower smells sweet' (linking verb takes adjective).",
+    "Confusing 'advice' (Noun) with 'advise' (Verb) in sentence correction exercises.",
+    "Writing 'He did like I told him' instead of 'He did as I told him' (as introduces clauses)."
+  ],
+  "examTricks": [
+    "The 'Enough' placement formula: Adjective + ENOUGH + Noun (e.g., 'rich enough to have enough cars').",
+    "Linking verbs formula: Sense Verbs (look, sound, smell, taste, feel) + Adjective (NOT -ly adverb).",
+    "Noun + '-ly' = Adjective (friend + ly, love + ly, brother + ly, father + ly, cost + ly).",
+    "Adjective + '-ly' = Adverb (quick + ly, slow + ly, beautiful + ly, silent + ly)."
+  ],
+  "memoryTricks": [
+    "AD-VERB adds to a VERB; AD-JECTIVE injects into a NOUN.",
+    "ENOUGH hugs the noun from the FRONT, but follows the adjective from the BACK."
+  ],
+  "revision": [
+    "8 Parts of Speech: Noun, Pronoun, Adjective, Verb, Adverb, Preposition, Conjunction, Interjection.",
+    "Friendly, miserly, cowardly, lovely are Adjectives.",
+    "The soup tastes good; the rose smells sweet.",
+    "Tall enough (Adjective + Enough); Enough money (Enough + Noun).",
+    "Fast, hard, late can function as both Adjective and Adverb without changing spelling.",
+    "Like + Noun/Pronoun; As + Subject + Verb."
+  ]
+}

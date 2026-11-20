@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g13-001",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Change: 'Rina writes a letter.'",
+    "options": [
+      "A letter wrote Rina.",
+      "A letter is written by Rina.",
+      "A letter was writing Rina.",
+      "Rina was letter."
+    ],
+    "answer": 1,
+    "explanation": "The present simple passive uses is/are + past participle.",
+    "rule": "Active to passive",
+    "bengaliHint": "present passive."
+  },
+  {
+    "id": "g13-002",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Change: 'The boys played football.'",
+    "options": [
+      "Football played boys.",
+      "Football was played by the boys.",
+      "Football is played boys.",
+      "Football plays."
+    ],
+    "answer": 1,
+    "explanation": "The object football becomes subject and uses was played.",
+    "rule": "Past passive",
+    "bengaliHint": "was + past participle."
+  },
+  {
+    "id": "g13-003",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which sentence is passive?",
+    "options": [
+      "He repairs cars.",
+      "Cars are repaired by him.",
+      "He is repairing.",
+      "Repair is easy."
+    ],
+    "answer": 1,
+    "explanation": "Cars are repaired uses be plus past participle.",
+    "rule": "Passive form",
+    "bengaliHint": "be + participle."
+  },
+  {
+    "id": "g13-004",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Change: 'They are building a bridge.'",
+    "options": [
+      "A bridge built them.",
+      "A bridge is built.",
+      "A bridge is being built.",
+      "A bridge was built."
+    ],
+    "answer": 2,
+    "explanation": "Present continuous passive uses is being built.",
+    "rule": "Continuous passive",
+    "bengaliHint": "is being + participle."
+  },
+  {
+    "id": "g13-005",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Change: 'Can he solve the problem?'",
+    "options": [
+      "Can solved be the problem?",
+      "Can the problem be solved by him?",
+      "The problem can solve.",
+      "The problem solved."
+    ],
+    "answer": 1,
+    "explanation": "Modal passive uses can be solved.",
+    "rule": "Modal passive",
+    "bengaliHint": "modal + be + participle."
+  },
+  {
+    "id": "g13-006",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Change: 'She has completed the work.'",
+    "options": [
+      "The work is completed.",
+      "The work has been completed.",
+      "The work have completed.",
+      "The work had complete."
+    ],
+    "answer": 1,
+    "explanation": "Present perfect passive uses has been completed.",
+    "rule": "Perfect passive",
+    "bengaliHint": "has been + participle."
+  },
+  {
+    "id": "g13-007",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'Someone has stolen my fountain pen.'",
+    "options": [
+      "My fountain pen was stolen by someone.",
+      "My fountain pen has been stolen.",
+      "My fountain pen had been stolen.",
+      "My fountain pen is stolen."
+    ],
+    "answer": 1,
+    "explanation": "Present perfect passive formula: has/have + been + V3. Vague agents like 'someone' or 'somebody' are dropped in standard passive voice.",
+    "rule": "Present Perfect Passive: has/have been + V3",
+    "bengaliHint": "Present perfect-এর passive-এ 'has been stolen' বসে এবং 'by someone' বাদ যায়।"
+  },
+  {
+    "id": "g13-008",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'Who wrote this famous poem?'",
+    "options": [
+      "By whom this famous poem was written?",
+      "By whom was this famous poem written?",
+      "Who was written this famous poem by?",
+      "Whom wrote this famous poem?"
+    ],
+    "answer": 1,
+    "explanation": "Interrogative passive with 'who': 'By whom + auxiliary was + subject + V3?'. Note inversion (auxiliary before subject).",
+    "rule": "Interrogative Passive: By whom + auxiliary + subject + V3?",
+    "bengaliHint": "'Who'-এর রূপান্তর 'By whom was this poem written?' হবে।"
+  },
+  {
+    "id": "g13-009",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'Shut the window.'",
+    "options": [
+      "The window should be shut.",
+      "Let the window be shut.",
+      "You are requested to shut window.",
+      "Let shut the window."
+    ],
+    "answer": 1,
+    "explanation": "Imperative sentences expressing a command are converted using: 'Let + subject + be + past participle (V3)'.",
+    "rule": "Imperative Passive: Let + object + be + V3",
+    "bengaliHint": "আদেশসূচক বাক্যের passive-এ 'Let the window be shut' বসে।"
+  },
+  {
+    "id": "g13-010",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'They are constructing a new highway.'",
+    "options": [
+      "A new highway is constructed by them.",
+      "A new highway was being constructed.",
+      "A new highway is being constructed by them.",
+      "A new highway has been constructed."
+    ],
+    "answer": 2,
+    "explanation": "Present continuous passive: is/am/are + being + V3 ('is being constructed').",
+    "rule": "Present Continuous Passive: is/are being + V3",
+    "bengaliHint": "Continuous tense-এর passive-এ 'being' যুক্ত হয়।"
+  },
+  {
+    "id": "g13-011",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'The results surprised everyone.'",
+    "options": [
+      "Everyone was surprised by the results.",
+      "Everyone was surprised at the results.",
+      "Everyone was surprised with the results.",
+      "Everyone had been surprised by the results."
+    ],
+    "answer": 1,
+    "explanation": "'Surprise', 'astonish', 'alarm' govern the preposition 'at' when converted to passive voice, not 'by'.",
+    "rule": "Passive preposition: surprised at (an event/result)",
+    "bengaliHint": "'Surprise'-এর passive-এ 'by'-এর পরিবর্তে 'at' বসে।"
+  },
+  {
+    "id": "g13-012",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'Please maintain silence in the reading room.'",
+    "options": [
+      "Let silence be maintained in the reading room.",
+      "You are requested to maintain silence in the reading room.",
+      "Silence must maintain in the reading room.",
+      "Silence was requested in reading room."
+    ],
+    "answer": 1,
+    "explanation": "Sentences with 'please' convert to passive with 'You are requested to + V1'.",
+    "rule": "Polite imperative passive: You are requested to + V1",
+    "bengaliHint": "'Please' থাকলে 'You are requested to' দিয়ে passive শুরু হয়।"
+  },
+  {
+    "id": "g13-013",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'The doctor advised him to take complete bed rest.'",
+    "options": [
+      "He was advised to take complete bed rest by the doctor.",
+      "He had advised by doctor to take rest.",
+      "Complete bed rest was advised to him doctor.",
+      "He was being advised to take bed rest."
+    ],
+    "answer": 0,
+    "explanation": "Simple past active (advised) converts to 'was/were advised + to-infinitive + by agent'.",
+    "rule": "Past Simple Passive: was/were + V3 + infinitive",
+    "bengaliHint": "Simple past passive: 'He was advised to take...'।"
+  },
+  {
+    "id": "g13-014",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Active Voice: 'The match was won by our team.'",
+    "options": [
+      "Our team won the match.",
+      "Our team has won the match.",
+      "Our team had won the match.",
+      "Our team wins the match."
+    ],
+    "answer": 0,
+    "explanation": "'was won' is simple past passive, so the active form is the simple past verb 'won'.",
+    "rule": "Passive to Active: was won -> won",
+    "bengaliHint": "'Was won' অতীত রূপ, তাই Active-এ 'won' হবে।"
+  },
+  {
+    "id": "g13-015",
+    "chapter": "g13",
+    "type": "transform",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive Voice: 'One should keep one's promises.'",
+    "options": [
+      "One's promises should be kept by one.",
+      "Promises should be kept.",
+      "Promises must keep by oneself.",
+      "One should be kept promises."
+    ],
+    "answer": 1,
+    "explanation": "In general moral statements with indefinite 'one', the agent is redundant and omitted: 'Promises should be kept'.",
+    "rule": "Passive of indefinite subject: drop 'by one'",
+    "bengaliHint": "অনির্দিষ্ট 'one' থাকলে passive-এ 'Promises should be kept' হয়।"
+  },
+  {
+    "id": "g13-016",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'The magistrate heard the case.'",
+    "options": [
+      "The case was heard by the magistrate.",
+      "The case is heard by the magistrate.",
+      "The case had heard by magistrate.",
+      "The case was being heard."
+    ],
+    "answer": 0,
+    "explanation": "Simple past passive: was/were + V3 ('was heard').",
+    "rule": "Simple Past Passive",
+    "bengaliHint": "Simple past-এর passive-এ 'was heard' বসে।"
+  },
+  {
+    "id": "g13-017",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'The police are interrogating the suspect.'",
+    "options": [
+      "The suspect is being interrogated by the police.",
+      "The suspect was interrogated by police.",
+      "The suspect has been interrogated.",
+      "The suspect is interrogated."
+    ],
+    "answer": 0,
+    "explanation": "Present continuous passive: is/are being + V3.",
+    "rule": "Present Continuous Passive",
+    "bengaliHint": "Continuous-এর passive-এ 'being' যুক্ত হয়।"
+  },
+  {
+    "id": "g13-018",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Open the gate.'",
+    "options": [
+      "Let the gate be opened.",
+      "The gate must open.",
+      "You open the gate.",
+      "Let open the gate."
+    ],
+    "answer": 0,
+    "explanation": "Imperative passive formula: Let + object + be + V3.",
+    "rule": "Imperative Passive with 'Let'",
+    "bengaliHint": "আদেশসূচক বাক্যে 'Let... be opened' হয়।"
+  },
+  {
+    "id": "g13-019",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'I know him well.'",
+    "options": [
+      "He is known to me well.",
+      "He is known by me well.",
+      "He was known to me.",
+      "He has been known to me."
+    ],
+    "answer": 0,
+    "explanation": "'Know' takes the preposition 'to' in passive voice, never 'by'.",
+    "rule": "Known takes preposition 'to' in passive",
+    "bengaliHint": "'Know'-এর passive-এ 'to' বসে, 'by' নয়।"
+  },
+  {
+    "id": "g13-020",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Her melodious voice pleased everyone.'",
+    "options": [
+      "Everyone was pleased with her melodious voice.",
+      "Everyone was pleased by her voice.",
+      "Everyone is pleased with voice.",
+      "Everyone was being pleased."
+    ],
+    "answer": 0,
+    "explanation": "'Pleased' takes 'with' for qualities and behavior in passive voice.",
+    "rule": "Pleased takes 'with' in passive",
+    "bengaliHint": "'Pleased'-এর passive-এ 'with' বসে।"
+  },
+  {
+    "id": "g13-021",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Who taught you English grammar?'",
+    "options": [
+      "By whom were you taught English grammar?",
+      "By whom you were taught grammar?",
+      "Who was taught grammar to you?",
+      "Whom taught you grammar?"
+    ],
+    "answer": 0,
+    "explanation": "Interrogative passive: By whom + auxiliary + subject + V3?",
+    "rule": "Interrogative passive with 'who'",
+    "bengaliHint": "'Who' থাকলে 'By whom were you taught...' হয়।"
+  },
+  {
+    "id": "g13-022",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Active: 'The letter was delivered by the postman.'",
+    "options": [
+      "The postman delivered the letter.",
+      "The postman delivers the letter.",
+      "The postman has delivered letter.",
+      "The postman had delivered letter."
+    ],
+    "answer": 0,
+    "explanation": "'Was delivered' converts back to simple past 'delivered'.",
+    "rule": "Passive to Active transformation",
+    "bengaliHint": "অতীতের active রূপ 'delivered' হবে।"
+  },
+  {
+    "id": "g13-023",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'They have renovated the heritage building.'",
+    "options": [
+      "The heritage building has been renovated.",
+      "The heritage building was renovated.",
+      "The heritage building had renovated.",
+      "The heritage building is renovated."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect passive: has/have been + V3.",
+    "rule": "Present Perfect Passive",
+    "bengaliHint": "Present perfect passive: 'has been renovated'।"
+  },
+  {
+    "id": "g13-024",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Do not pluck the flowers.'",
+    "options": [
+      "Let the flowers not be plucked.",
+      "Flowers must not pluck.",
+      "The flowers are not plucked.",
+      "You do not pluck flowers."
+    ],
+    "answer": 0,
+    "explanation": "Negative imperative passive: Let + object + not + be + V3.",
+    "rule": "Negative Imperative Passive",
+    "bengaliHint": "নিষেধাজ্ঞায় 'Let the flowers not be plucked' হয়।"
+  },
+  {
+    "id": "g13-025",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'We must respect our national flag.'",
+    "options": [
+      "Our national flag must be respected.",
+      "Our national flag was respected.",
+      "Our national flag is respected.",
+      "Our national flag must respect."
+    ],
+    "answer": 0,
+    "explanation": "Modal passive formula: modal + be + V3 ('must be respected').",
+    "rule": "Modal Passive: modal + be + V3",
+    "bengaliHint": "Modal-এর passive-এ 'must be respected' বসে।"
+  },
+  {
+    "id": "g13-026",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'The magistrate heard the case.'",
+    "options": [
+      "The case was heard by the magistrate.",
+      "The case is heard by the magistrate.",
+      "The case had heard by magistrate.",
+      "The case was being heard."
+    ],
+    "answer": 0,
+    "explanation": "Simple past passive: was/were + V3 ('was heard').",
+    "rule": "Simple Past Passive",
+    "bengaliHint": "Simple past-এর passive-এ 'was heard' বসে।"
+  },
+  {
+    "id": "g13-027",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'The police are interrogating the suspect.'",
+    "options": [
+      "The suspect is being interrogated by the police.",
+      "The suspect was interrogated by police.",
+      "The suspect has been interrogated.",
+      "The suspect is interrogated."
+    ],
+    "answer": 0,
+    "explanation": "Present continuous passive: is/are being + V3.",
+    "rule": "Present Continuous Passive",
+    "bengaliHint": "Continuous-এর passive-এ 'being' যুক্ত হয়।"
+  },
+  {
+    "id": "g13-028",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Open the gate.'",
+    "options": [
+      "Let the gate be opened.",
+      "The gate must open.",
+      "You open the gate.",
+      "Let open the gate."
+    ],
+    "answer": 0,
+    "explanation": "Imperative passive formula: Let + object + be + V3.",
+    "rule": "Imperative Passive with 'Let'",
+    "bengaliHint": "আদেশসূচক বাক্যে 'Let... be opened' হয়।"
+  },
+  {
+    "id": "g13-029",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'I know him well.'",
+    "options": [
+      "He is known to me well.",
+      "He is known by me well.",
+      "He was known to me.",
+      "He has been known to me."
+    ],
+    "answer": 0,
+    "explanation": "'Know' takes the preposition 'to' in passive voice, never 'by'.",
+    "rule": "Known takes preposition 'to' in passive",
+    "bengaliHint": "'Know'-এর passive-এ 'to' বসে, 'by' নয়।"
+  },
+  {
+    "id": "g13-030",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Her melodious voice pleased everyone.'",
+    "options": [
+      "Everyone was pleased with her melodious voice.",
+      "Everyone was pleased by her voice.",
+      "Everyone is pleased with voice.",
+      "Everyone was being pleased."
+    ],
+    "answer": 0,
+    "explanation": "'Pleased' takes 'with' for qualities and behavior in passive voice.",
+    "rule": "Pleased takes 'with' in passive",
+    "bengaliHint": "'Pleased'-এর passive-এ 'with' বসে।"
+  },
+  {
+    "id": "g13-031",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Who taught you English grammar?'",
+    "options": [
+      "By whom were you taught English grammar?",
+      "By whom you were taught grammar?",
+      "Who was taught grammar to you?",
+      "Whom taught you grammar?"
+    ],
+    "answer": 0,
+    "explanation": "Interrogative passive: By whom + auxiliary + subject + V3?",
+    "rule": "Interrogative passive with 'who'",
+    "bengaliHint": "'Who' থাকলে 'By whom were you taught...' হয়।"
+  },
+  {
+    "id": "g13-032",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Active: 'The letter was delivered by the postman.'",
+    "options": [
+      "The postman delivered the letter.",
+      "The postman delivers the letter.",
+      "The postman has delivered letter.",
+      "The postman had delivered letter."
+    ],
+    "answer": 0,
+    "explanation": "'Was delivered' converts back to simple past 'delivered'.",
+    "rule": "Passive to Active transformation",
+    "bengaliHint": "অতীতের active রূপ 'delivered' হবে।"
+  },
+  {
+    "id": "g13-033",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'They have renovated the heritage building.'",
+    "options": [
+      "The heritage building has been renovated.",
+      "The heritage building was renovated.",
+      "The heritage building had renovated.",
+      "The heritage building is renovated."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect passive: has/have been + V3.",
+    "rule": "Present Perfect Passive",
+    "bengaliHint": "Present perfect passive: 'has been renovated'।"
+  },
+  {
+    "id": "g13-034",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Do not pluck the flowers.'",
+    "options": [
+      "Let the flowers not be plucked.",
+      "Flowers must not pluck.",
+      "The flowers are not plucked.",
+      "You do not pluck flowers."
+    ],
+    "answer": 0,
+    "explanation": "Negative imperative passive: Let + object + not + be + V3.",
+    "rule": "Negative Imperative Passive",
+    "bengaliHint": "নিষেধাজ্ঞায় 'Let the flowers not be plucked' হয়।"
+  },
+  {
+    "id": "g13-035",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'We must respect our national flag.'",
+    "options": [
+      "Our national flag must be respected.",
+      "Our national flag was respected.",
+      "Our national flag is respected.",
+      "Our national flag must respect."
+    ],
+    "answer": 0,
+    "explanation": "Modal passive formula: modal + be + V3 ('must be respected').",
+    "rule": "Modal Passive: modal + be + V3",
+    "bengaliHint": "Modal-এর passive-এ 'must be respected' বসে।"
+  },
+  {
+    "id": "g13-036",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'The magistrate heard the case.'",
+    "options": [
+      "The case was heard by the magistrate.",
+      "The case is heard by the magistrate.",
+      "The case had heard by magistrate.",
+      "The case was being heard."
+    ],
+    "answer": 0,
+    "explanation": "Simple past passive: was/were + V3 ('was heard').",
+    "rule": "Simple Past Passive",
+    "bengaliHint": "Simple past-এর passive-এ 'was heard' বসে।"
+  },
+  {
+    "id": "g13-037",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'The police are interrogating the suspect.'",
+    "options": [
+      "The suspect is being interrogated by the police.",
+      "The suspect was interrogated by police.",
+      "The suspect has been interrogated.",
+      "The suspect is interrogated."
+    ],
+    "answer": 0,
+    "explanation": "Present continuous passive: is/are being + V3.",
+    "rule": "Present Continuous Passive",
+    "bengaliHint": "Continuous-এর passive-এ 'being' যুক্ত হয়।"
+  },
+  {
+    "id": "g13-038",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Open the gate.'",
+    "options": [
+      "Let the gate be opened.",
+      "The gate must open.",
+      "You open the gate.",
+      "Let open the gate."
+    ],
+    "answer": 0,
+    "explanation": "Imperative passive formula: Let + object + be + V3.",
+    "rule": "Imperative Passive with 'Let'",
+    "bengaliHint": "আদেশসূচক বাক্যে 'Let... be opened' হয়।"
+  },
+  {
+    "id": "g13-039",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'I know him well.'",
+    "options": [
+      "He is known to me well.",
+      "He is known by me well.",
+      "He was known to me.",
+      "He has been known to me."
+    ],
+    "answer": 0,
+    "explanation": "'Know' takes the preposition 'to' in passive voice, never 'by'.",
+    "rule": "Known takes preposition 'to' in passive",
+    "bengaliHint": "'Know'-এর passive-এ 'to' বসে, 'by' নয়।"
+  },
+  {
+    "id": "g13-040",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Her melodious voice pleased everyone.'",
+    "options": [
+      "Everyone was pleased with her melodious voice.",
+      "Everyone was pleased by her voice.",
+      "Everyone is pleased with voice.",
+      "Everyone was being pleased."
+    ],
+    "answer": 0,
+    "explanation": "'Pleased' takes 'with' for qualities and behavior in passive voice.",
+    "rule": "Pleased takes 'with' in passive",
+    "bengaliHint": "'Pleased'-এর passive-এ 'with' বসে।"
+  },
+  {
+    "id": "g13-041",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Who taught you English grammar?'",
+    "options": [
+      "By whom were you taught English grammar?",
+      "By whom you were taught grammar?",
+      "Who was taught grammar to you?",
+      "Whom taught you grammar?"
+    ],
+    "answer": 0,
+    "explanation": "Interrogative passive: By whom + auxiliary + subject + V3?",
+    "rule": "Interrogative passive with 'who'",
+    "bengaliHint": "'Who' থাকলে 'By whom were you taught...' হয়।"
+  },
+  {
+    "id": "g13-042",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Active: 'The letter was delivered by the postman.'",
+    "options": [
+      "The postman delivered the letter.",
+      "The postman delivers the letter.",
+      "The postman has delivered letter.",
+      "The postman had delivered letter."
+    ],
+    "answer": 0,
+    "explanation": "'Was delivered' converts back to simple past 'delivered'.",
+    "rule": "Passive to Active transformation",
+    "bengaliHint": "অতীতের active রূপ 'delivered' হবে।"
+  },
+  {
+    "id": "g13-043",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'They have renovated the heritage building.'",
+    "options": [
+      "The heritage building has been renovated.",
+      "The heritage building was renovated.",
+      "The heritage building had renovated.",
+      "The heritage building is renovated."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect passive: has/have been + V3.",
+    "rule": "Present Perfect Passive",
+    "bengaliHint": "Present perfect passive: 'has been renovated'।"
+  },
+  {
+    "id": "g13-044",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'Do not pluck the flowers.'",
+    "options": [
+      "Let the flowers not be plucked.",
+      "Flowers must not pluck.",
+      "The flowers are not plucked.",
+      "You do not pluck flowers."
+    ],
+    "answer": 0,
+    "explanation": "Negative imperative passive: Let + object + not + be + V3.",
+    "rule": "Negative Imperative Passive",
+    "bengaliHint": "নিষেধাজ্ঞায় 'Let the flowers not be plucked' হয়।"
+  },
+  {
+    "id": "g13-045",
+    "chapter": "g13",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Convert to Passive: 'We must respect our national flag.'",
+    "options": [
+      "Our national flag must be respected.",
+      "Our national flag was respected.",
+      "Our national flag is respected.",
+      "Our national flag must respect."
+    ],
+    "answer": 0,
+    "explanation": "Modal passive formula: modal + be + V3 ('must be respected').",
+    "rule": "Modal Passive: modal + be + V3",
+    "bengaliHint": "Modal-এর passive-এ 'must be respected' বসে।"
+  }
+]

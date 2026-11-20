@@ -1,0 +1,1554 @@
+{
+  "id": "v05",
+  "title": "Phrasal Verbs",
+  "intro": "A phrasal verb combines a standard verb with one or two prepositions/particles to generate a brand new idiomatic meaning. In WBPSC Clerkship, phrasal verbs built on 'break', 'bring', 'call', 'come', 'give', 'look', 'put', 'run', and 'take' appear routinely.",
+  "bengali": "Phrasal Verbs (বা Group Verbs) হলো মূল Verb-এর সাথে Preposition বা Adverb যুক্ত হয়ে গঠিত নতুন অর্থপূর্ণ ক্রিয়াপদ। যেমন: 'Look' মানে তাকানো, কিন্তু 'Look into' মানে তদন্ত করা (investigate), 'Look for' মানে খোঁজা (search), এবং 'Look down upon' মানে ঘৃণা করা (despise)। ক্লার্কশিপ পরীক্ষায় phrasal verbs সবচেয়ে স্কোরিং কিন্তু অবহেলা করলে ভুলের সম্ভাবনাও বেশি।",
+  "rules": [
+    {
+      "rule": "The 'BREAK' Family of Phrasal Verbs:",
+      "examples": [
+        "Break down: Mechanical failure or emotional collapse ('The bus broke down on Vidyasagar Setu').",
+        "Break into: Enter a building illegally by force ('Thieves broke into the godown').",
+        "Break out: Sudden eruption of war, fire, or epidemic ('Dengue broke out in the municipality').",
+        "Break through: Make a major discovery or overcome an obstacle ('Scientists achieved a breakthrough').",
+        "Break up: Terminate a relationship or disperse a meeting."
+      ],
+      "exceptions": [
+        "Do not use 'break in' when referring to entering a specific premises forcefully; use 'break into'."
+      ]
+    },
+    {
+      "rule": "The 'CALL' Family of Phrasal Verbs:",
+      "examples": [
+        "Call off: Cancel a scheduled event ('The strike was called off after negotiations').",
+        "Call on/upon: Visit a person formally ('The minister called on the Governor').",
+        "Call at: Visit a place briefly ('The ship called at Colombo port').",
+        "Call for: Demand or require as necessary ('Your misconduct calls for an explanation').",
+        "Call up: Recollect memories or summon for military duty."
+      ],
+      "exceptions": [
+        "'Call out' means to summon assistance or shout publicly."
+      ]
+    },
+    {
+      "rule": "The 'LOOK' Family of Phrasal Verbs:",
+      "examples": [
+        "Look into: Investigate thoroughly ('The police are looking into the embezzlement').",
+        "Look for: Search for a misplaced object or employment ('He is looking for a government job').",
+        "Look after: Care for someone ('She looks after her ailing grandmother').",
+        "Look down upon: Regard with contempt or superiority ('Never look down upon the impoverished').",
+        "Look forward to: Anticipate with pleasure (governs V-ing: 'looking forward to receiving your response')."
+      ],
+      "exceptions": [
+        "'Look over' means inspect quickly; 'Look through' means examine thoroughly from start to finish."
+      ]
+    },
+    {
+      "rule": "The 'PUT' Family of Phrasal Verbs:",
+      "examples": [
+        "Put off: Postpone or delay ('The committee put off the meeting until Friday').",
+        "Put out: Extinguish a flame or fire ('The firemen put out the blaze').",
+        "Put up with: Tolerate or endure patiently ('I cannot put up with this insolence').",
+        "Put on: Wear apparel or pretend ('He put on a solemn expression').",
+        "Put down: Suppress by force or write down in a notebook."
+      ],
+      "exceptions": [
+        "Do not confuse 'put out' (extinguish) with 'blow out' (extinguish by breath/wind)."
+      ]
+    },
+    {
+      "rule": "The 'BRING' and 'GIVE' Families of Phrasal Verbs:",
+      "examples": [
+        "Bring up: Rear/educate a child, or introduce a topic for discussion.",
+        "Bring about: Cause to happen ('Reforms brought about economic revival').",
+        "Give up: Renounce, abandon a habit ('He gave up smoking').",
+        "Give in: Surrender, yield to pressure ('The rebels finally gave in').",
+        "Give away: Distribute gifts/prizes or betray a secret."
+      ],
+      "exceptions": [
+        "'Give out' means emit or become exhausted."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Call of the strike' instead of 'Call off' (off with double 'f').",
+    "Writing 'Put off the fire' instead of 'Put out the fire' (Put off = postpone; Put out = extinguish).",
+    "Writing 'Look at' instead of 'Look into' for an investigation.",
+    "Confusing 'Break into' (forceful entry) with 'Break out' (spread of disease/fire).",
+    "Writing 'Put up with' when simply wearing clothes is intended ('put on')."
+  ],
+  "examTricks": [
+    "Investigate = Look INTO.",
+    "Cancel = Call OFF.",
+    "Postpone = Put OFF.",
+    "Extinguish = Put OUT.",
+    "Tolerate = Put UP WITH.",
+    "Spread (Disease/War/Fire) = Break OUT."
+  ],
+  "memoryTricks": [
+    "PUT OUT the light (fire goes OUT).",
+    "PUT OFF the meeting (push it OFF to later).",
+    "CALL OFF the strike (strike is OFF)."
+  ],
+  "revision": [
+    "Call off = cancel; Put off = postpone.",
+    "Put out = extinguish; Put up with = tolerate.",
+    "Break into = enter by force; Break out = spread suddenly.",
+    "Look after = take care of; Look into = investigate.",
+    "Give in = surrender; Give up = abandon."
+  ],
+  "bookletTitle": "WBPSC Clerkship Official 290 Phrasal Verbs Directory",
+  "bookletType": "phrasal-verbs",
+  "bookletList": [
+    {
+      "term": "Back out",
+      "meaning": "Withdraw from a promise or agreement",
+      "bengali": "প্রতিশ্রুতি থেকে পিছিয়ে আসা"
+    },
+    {
+      "term": "Break down",
+      "meaning": "Stop working; collapse emotionally",
+      "bengali": "অকেজো হওয়া / কান্নায় ভেঙে পড়া"
+    },
+    {
+      "term": "Bring about",
+      "meaning": "Cause to happen",
+      "bengali": "ঘটন ঘটানো / কারণে পরিণত হওয়া"
+    },
+    {
+      "term": "Bring up",
+      "meaning": "Raise a child; mention a topic",
+      "bengali": "স্থগিত বা বাতিল করা"
+    },
+    {
+      "term": "Call off",
+      "meaning": "Cancel",
+      "bengali": "চালিয়ে যাওয়া"
+    },
+    {
+      "term": "Call on",
+      "meaning": "Visit",
+      "bengali": "তাল মিলিয়ে সমান হওয়া"
+    },
+    {
+      "term": "Carry out",
+      "meaning": "Perform or complete",
+      "bengali": "পরিষ্কার করা / সমাধান করা"
+    },
+    {
+      "term": "Come across",
+      "meaning": "Find by chance",
+      "bengali": "হঠাৎ দেখা পাওয়া"
+    },
+    {
+      "term": "Cut down",
+      "meaning": "Reduce",
+      "bengali": "ছাঁটাই করা বা কমানো"
+    },
+    {
+      "term": "Draw up",
+      "meaning": "Prepare a document",
+      "bengali": "বিলোপ সাধন করা"
+    },
+    {
+      "term": "Fall through",
+      "meaning": "Fail to happen",
+      "bengali": "অপ্রত্যাশিতভাবে বেড়াতে আসা"
+    },
+    {
+      "term": "Get along",
+      "meaning": "Have a good relationship",
+      "bengali": "ঝগড়া বা বিবাদ করা"
+    },
+    {
+      "term": "Give in",
+      "meaning": "Surrender",
+      "bengali": "বোঝা বা সমাধান করা"
+    },
+    {
+      "term": "Give up",
+      "meaning": "Quit; stop trying",
+      "bengali": "কারও সাথে মিলেমিশে থাকা"
+    },
+    {
+      "term": "Go through",
+      "meaning": "Examine; experience",
+      "bengali": "নতি স্বীকার করা"
+    },
+    {
+      "term": "Hold on",
+      "meaning": "Wait",
+      "bengali": "অপেক্ষা করা"
+    },
+    {
+      "term": "Keep up",
+      "meaning": "Maintain the pace",
+      "bengali": "তাল বজায় রাখা"
+    },
+    {
+      "term": "Look after",
+      "meaning": "Take care of",
+      "bengali": "দেখাশোনা বা যত্ন নেওয়া"
+    },
+    {
+      "term": "Look down on",
+      "meaning": "Despise",
+      "bengali": "উদ্ধার করা বা বুঝতে পারা"
+    },
+    {
+      "term": "Look into",
+      "meaning": "Investigate",
+      "bengali": "মারা যাওয়া"
+    },
+    {
+      "term": "Look up to",
+      "meaning": "Respect",
+      "bengali": "স্থগিত রাখা"
+    },
+    {
+      "term": "Make out",
+      "meaning": "Understand or see with difficulty",
+      "bengali": "সহ্য করা"
+    },
+    {
+      "term": "Make up",
+      "meaning": "Invent; become friends again",
+      "bengali": "হঠাৎ মুখোমুখি হওয়া"
+    },
+    {
+      "term": "Pass away",
+      "meaning": "Die",
+      "bengali": "স্থাপন বা প্রতিষ্ঠা করা"
+    },
+    {
+      "term": "Point out",
+      "meaning": "Indicate",
+      "bengali": "পিতামাতার সদৃশ হওয়া"
+    },
+    {
+      "term": "Pull through",
+      "meaning": "Recover from illness or difficulty",
+      "bengali": "প্রত্যাখ্যান করা"
+    },
+    {
+      "term": "Put off",
+      "meaning": "Postpone",
+      "bengali": "সমাধান করা বা ব্যায়াম করা"
+    },
+    {
+      "term": "Put up with",
+      "meaning": "Tolerate",
+      "bengali": "অনুরোধ করা"
+    },
+    {
+      "term": "Run into",
+      "meaning": "Meet by chance",
+      "bengali": "ভেঙে প্রবেশ করা"
+    },
+    {
+      "term": "Run out of",
+      "meaning": "Use up the supply of",
+      "bengali": "ঘটে যাওয়া"
+    },
+    {
+      "term": "Set off",
+      "meaning": "Begin a journey",
+      "bengali": "অনুসন্ধান করা"
+    },
+    {
+      "term": "Set up",
+      "meaning": "Establish",
+      "bengali": "বিদায় জানানো"
+    },
+    {
+      "term": "Stand for",
+      "meaning": "Represent",
+      "bengali": "প্রকাশ করা / তৈরি করা"
+    },
+    {
+      "term": "Take after",
+      "meaning": "Resemble an elder family member",
+      "bengali": "শেষ হওয়া বা ফুরিয়ে যাওয়া"
+    },
+    {
+      "term": "Take off",
+      "meaning": "Leave the ground; remove",
+      "bengali": "আশ্রয় নেওয়া"
+    },
+    {
+      "term": "Take over",
+      "meaning": "Assume control",
+      "bengali": "চালু করা"
+    },
+    {
+      "term": "Turn down",
+      "meaning": "Reject",
+      "bengali": "বন্ধ করা"
+    },
+    {
+      "term": "Turn up",
+      "meaning": "Arrive or appear",
+      "bengali": "দায়িত্ব গ্রহণ করা"
+    },
+    {
+      "term": "Wipe out",
+      "meaning": "Destroy completely",
+      "bengali": "পালন পোষণ করা"
+    },
+    {
+      "term": "Work out",
+      "meaning": "Solve; exercise",
+      "bengali": "ব্যায়াম করা / সফল সমাধান পাওয়া"
+    },
+    {
+      "term": "Ask out",
+      "meaning": "invite someone on a date",
+      "bengali": "ডেটে যেতে আমন্ত্রণ জানানো"
+    },
+    {
+      "term": "Back up",
+      "meaning": "support; make a copy",
+      "bengali": "সমর্থন করা; কপি রাখা"
+    },
+    {
+      "term": "Bear out",
+      "meaning": "confirm; support as true",
+      "bengali": "সত্য প্রমাণ করা"
+    },
+    {
+      "term": "Blow up",
+      "meaning": "explode; lose temper",
+      "bengali": "বিস্ফোরিত হওয়া; রেগে যাওয়া"
+    },
+    {
+      "term": "Break down",
+      "meaning": "stop working; collapse",
+      "bengali": "বিকল হওয়া; ভেঙে পড়া"
+    },
+    {
+      "term": "Break in",
+      "meaning": "enter by force; interrupt",
+      "bengali": "জোর করে ঢোকা; বাধা দেওয়া"
+    },
+    {
+      "term": "Break into",
+      "meaning": "enter forcibly",
+      "bengali": "জোরপূর্বক প্রবেশ করা"
+    },
+    {
+      "term": "Break off",
+      "meaning": "end suddenly",
+      "bengali": "হঠাৎ থামিয়ে দেওয়া"
+    },
+    {
+      "term": "Break out",
+      "meaning": "start suddenly (war, fire)",
+      "bengali": "হঠাৎ শুরু হওয়া"
+    },
+    {
+      "term": "Break up",
+      "meaning": "end a relationship; disperse",
+      "bengali": "সম্পর্ক শেষ করা; ছত্রভঙ্গ হওয়া"
+    },
+    {
+      "term": "Bring about",
+      "meaning": "cause to happen",
+      "bengali": "ঘটানো"
+    },
+    {
+      "term": "Bring back",
+      "meaning": "return; recall",
+      "bengali": "ফিরিয়ে আনা; স্মরণ করানো"
+    },
+    {
+      "term": "Bring down",
+      "meaning": "cause to fall; reduce",
+      "bengali": "পতন ঘটানো; কমানো"
+    },
+    {
+      "term": "Bring forth",
+      "meaning": "produce; give birth",
+      "bengali": "উৎপন্ন করা; জন্ম দেওয়া"
+    },
+    {
+      "term": "Bring in",
+      "meaning": "introduce; earn",
+      "bengali": "প্রবর্তন করা; আয় করা"
+    },
+    {
+      "term": "Bring off",
+      "meaning": "succeed in doing",
+      "bengali": "সফলভাবে সম্পন্ন করা"
+    },
+    {
+      "term": "Bring out",
+      "meaning": "publish; reveal",
+      "bengali": "প্রকাশ করা"
+    },
+    {
+      "term": "Bring up",
+      "meaning": "raise a child; mention",
+      "bengali": "লালনপালন করা; উত্থাপন করা"
+    },
+    {
+      "term": "Brush up",
+      "meaning": "improve a skill",
+      "bengali": "দক্ষতা ঝালিয়ে নেওয়া"
+    },
+    {
+      "term": "Build up",
+      "meaning": "increase gradually",
+      "bengali": "ধীরে ধীরে গড়ে তোলা"
+    },
+    {
+      "term": "Burn down",
+      "meaning": "destroy by fire",
+      "bengali": "আগুনে পুড়িয়ে ধ্বংস করা"
+    },
+    {
+      "term": "Burn out",
+      "meaning": "become exhausted",
+      "bengali": "ক্লান্ত হয়ে পড়া"
+    },
+    {
+      "term": "Call at",
+      "meaning": "visit a place",
+      "bengali": "কোথাও যাওয়া"
+    },
+    {
+      "term": "Call back",
+      "meaning": "return a phone call",
+      "bengali": "পাল্টা ফোন করা"
+    },
+    {
+      "term": "Call for",
+      "meaning": "demand; require",
+      "bengali": "দাবি করা; প্রয়োজন হওয়া"
+    },
+    {
+      "term": "Call in",
+      "meaning": "summon; visit",
+      "bengali": "ডেকে পাঠানো"
+    },
+    {
+      "term": "Call off",
+      "meaning": "cancel",
+      "bengali": "বাতিল করা"
+    },
+    {
+      "term": "Call on",
+      "meaning": "visit a person; request",
+      "bengali": "দেখা করতে যাওয়া; অনুরোধ করা"
+    },
+    {
+      "term": "Call up",
+      "meaning": "telephone; summon for service",
+      "bengali": "ফোন করা; তলব করা"
+    },
+    {
+      "term": "Calm down",
+      "meaning": "become peaceful",
+      "bengali": "শান্ত হওয়া"
+    },
+    {
+      "term": "Carry on",
+      "meaning": "continue",
+      "bengali": "চালিয়ে যাওয়া"
+    },
+    {
+      "term": "Carry out",
+      "meaning": "perform; execute",
+      "bengali": "সম্পাদন করা"
+    },
+    {
+      "term": "Catch up",
+      "meaning": "reach the same level",
+      "bengali": "নাগাল পাওয়া"
+    },
+    {
+      "term": "Check in",
+      "meaning": "register on arrival",
+      "bengali": "নাম নথিভুক্ত করা"
+    },
+    {
+      "term": "Check out",
+      "meaning": "leave; examine",
+      "bengali": "ছেড়ে যাওয়া; পরীক্ষা করা"
+    },
+    {
+      "term": "Cheer up",
+      "meaning": "become happier",
+      "bengali": "আনন্দিত হওয়া"
+    },
+    {
+      "term": "Chip in",
+      "meaning": "contribute money",
+      "bengali": "চাঁদা দেওয়া"
+    },
+    {
+      "term": "Clean up",
+      "meaning": "make tidy",
+      "bengali": "পরিষ্কার করা"
+    },
+    {
+      "term": "Clear off",
+      "meaning": "go away",
+      "bengali": "সরে পড়া"
+    },
+    {
+      "term": "Clear up",
+      "meaning": "make clear; tidy",
+      "bengali": "পরিষ্কার করা; মীমাংসা করা"
+    },
+    {
+      "term": "Close down",
+      "meaning": "stop operating",
+      "bengali": "বন্ধ করে দেওয়া"
+    },
+    {
+      "term": "Come about",
+      "meaning": "happen",
+      "bengali": "ঘটা"
+    },
+    {
+      "term": "Come across",
+      "meaning": "find by chance",
+      "bengali": "হঠাৎ খুঁজে পাওয়া"
+    },
+    {
+      "term": "Come along",
+      "meaning": "accompany; progress",
+      "bengali": "সঙ্গে আসা; অগ্রসর হওয়া"
+    },
+    {
+      "term": "Come back",
+      "meaning": "return",
+      "bengali": "ফিরে আসা"
+    },
+    {
+      "term": "Come by",
+      "meaning": "obtain; visit",
+      "bengali": "সংগ্রহ করা"
+    },
+    {
+      "term": "Come down with",
+      "meaning": "become ill with",
+      "bengali": "অসুখে পড়া"
+    },
+    {
+      "term": "Come forward",
+      "meaning": "volunteer",
+      "bengali": "এগিয়ে আসা"
+    },
+    {
+      "term": "Come off",
+      "meaning": "succeed; happen",
+      "bengali": "সফল হওয়া"
+    },
+    {
+      "term": "Come out",
+      "meaning": "be published; become known",
+      "bengali": "প্রকাশিত হওয়া"
+    },
+    {
+      "term": "Come over",
+      "meaning": "visit",
+      "bengali": "বেড়াতে আসা"
+    },
+    {
+      "term": "Come round",
+      "meaning": "regain consciousness; visit",
+      "bengali": "জ্ঞান ফিরে পাওয়া"
+    },
+    {
+      "term": "Come up",
+      "meaning": "arise; approach",
+      "bengali": "উপস্থিত হওয়া"
+    },
+    {
+      "term": "Come up with",
+      "meaning": "think of (an idea)",
+      "bengali": "উদ্ভাবন করা"
+    },
+    {
+      "term": "Count on",
+      "meaning": "rely on",
+      "bengali": "ভরসা করা"
+    },
+    {
+      "term": "Cut back",
+      "meaning": "reduce",
+      "bengali": "হ্রাস করা"
+    },
+    {
+      "term": "Cut down",
+      "meaning": "reduce; fell",
+      "bengali": "কমানো; কেটে ফেলা"
+    },
+    {
+      "term": "Cut in",
+      "meaning": "interrupt",
+      "bengali": "মাঝখানে ঢুকে পড়া"
+    },
+    {
+      "term": "Cut off",
+      "meaning": "disconnect; isolate",
+      "bengali": "বিচ্ছিন্ন করা"
+    },
+    {
+      "term": "Cut out",
+      "meaning": "remove; stop",
+      "bengali": "বাদ দেওয়া"
+    },
+    {
+      "term": "Cut up",
+      "meaning": "chop into pieces",
+      "bengali": "টুকরো টুকরো করা"
+    },
+    {
+      "term": "Deal with",
+      "meaning": "handle",
+      "bengali": "মোকাবিলা করা"
+    },
+    {
+      "term": "Do away with",
+      "meaning": "abolish",
+      "bengali": "বিলোপ করা"
+    },
+    {
+      "term": "Do up",
+      "meaning": "fasten; renovate",
+      "bengali": "বেঁধে দেওয়া; সংস্কার করা"
+    },
+    {
+      "term": "Do without",
+      "meaning": "manage without",
+      "bengali": "ছাড়া চালিয়ে নেওয়া"
+    },
+    {
+      "term": "Draw up",
+      "meaning": "prepare a document",
+      "bengali": "খসড়া তৈরি করা"
+    },
+    {
+      "term": "Dress up",
+      "meaning": "wear formal clothes",
+      "bengali": "সাজগোজ করা"
+    },
+    {
+      "term": "Drop in",
+      "meaning": "visit casually",
+      "bengali": "হঠাৎ দেখা করতে যাওয়া"
+    },
+    {
+      "term": "Drop off",
+      "meaning": "fall asleep; deliver",
+      "bengali": "ঘুমিয়ে পড়া; পৌঁছে দেওয়া"
+    },
+    {
+      "term": "Drop out",
+      "meaning": "quit (school)",
+      "bengali": "পড়াশোনা ছেড়ে দেওয়া"
+    },
+    {
+      "term": "End up",
+      "meaning": "finally become",
+      "bengali": "শেষ পর্যন্ত হওয়া"
+    },
+    {
+      "term": "Fall apart",
+      "meaning": "break into pieces",
+      "bengali": "ভেঙে পড়া"
+    },
+    {
+      "term": "Fall back on",
+      "meaning": "rely on in need",
+      "bengali": "আশ্রয় নেওয়া"
+    },
+    {
+      "term": "Fall behind",
+      "meaning": "fail to keep pace",
+      "bengali": "পিছিয়ে পড়া"
+    },
+    {
+      "term": "Fall for",
+      "meaning": "fall in love; be tricked",
+      "bengali": "প্রেমে পড়া; প্রতারিত হওয়া"
+    },
+    {
+      "term": "Fall out",
+      "meaning": "quarrel",
+      "bengali": "ঝগড়া করা"
+    },
+    {
+      "term": "Fall through",
+      "meaning": "fail to happen",
+      "bengali": "ব্যর্থ হওয়া"
+    },
+    {
+      "term": "Figure out",
+      "meaning": "understand; solve",
+      "bengali": "বুঝতে পারা; সমাধান করা"
+    },
+    {
+      "term": "Fill in",
+      "meaning": "complete a form; substitute",
+      "bengali": "পূরণ করা"
+    },
+    {
+      "term": "Fill out",
+      "meaning": "complete (form)",
+      "bengali": "ফর্ম পূরণ করা"
+    },
+    {
+      "term": "Fill up",
+      "meaning": "make full",
+      "bengali": "পূর্ণ করা"
+    },
+    {
+      "term": "Find out",
+      "meaning": "discover",
+      "bengali": "খুঁজে বের করা"
+    },
+    {
+      "term": "Get about",
+      "meaning": "move around",
+      "bengali": "ঘুরে বেড়ানো"
+    },
+    {
+      "term": "Get across",
+      "meaning": "make understood",
+      "bengali": "বুঝিয়ে দেওয়া"
+    },
+    {
+      "term": "Get ahead",
+      "meaning": "make progress",
+      "bengali": "এগিয়ে যাওয়া"
+    },
+    {
+      "term": "Get along",
+      "meaning": "have a good relationship",
+      "bengali": "মিলেমিশে চলা"
+    },
+    {
+      "term": "Get away",
+      "meaning": "escape",
+      "bengali": "পালিয়ে যাওয়া"
+    },
+    {
+      "term": "Get back",
+      "meaning": "return; recover",
+      "bengali": "ফিরে পাওয়া"
+    },
+    {
+      "term": "Get by",
+      "meaning": "manage to survive",
+      "bengali": "কোনোমতে চালিয়ে নেওয়া"
+    },
+    {
+      "term": "Get down",
+      "meaning": "depress; descend",
+      "bengali": "হতাশ করা; নামা"
+    },
+    {
+      "term": "Get in",
+      "meaning": "enter; arrive",
+      "bengali": "ঢোকা; পৌঁছানো"
+    },
+    {
+      "term": "Get off",
+      "meaning": "leave a vehicle",
+      "bengali": "নেমে পড়া"
+    },
+    {
+      "term": "Get on",
+      "meaning": "board; progress",
+      "bengali": "চড়া; উন্নতি করা"
+    },
+    {
+      "term": "Get out",
+      "meaning": "leave; escape",
+      "bengali": "বেরিয়ে যাওয়া"
+    },
+    {
+      "term": "Get over",
+      "meaning": "recover from",
+      "bengali": "সেরে ওঠা"
+    },
+    {
+      "term": "Get through",
+      "meaning": "finish; survive",
+      "bengali": "উত্তীর্ণ হওয়া"
+    },
+    {
+      "term": "Get up",
+      "meaning": "rise from bed",
+      "bengali": "ঘুম থেকে ওঠা"
+    },
+    {
+      "term": "Give away",
+      "meaning": "donate; reveal",
+      "bengali": "দান করে দেওয়া; ফাঁস করা"
+    },
+    {
+      "term": "Give back",
+      "meaning": "return",
+      "bengali": "ফেরত দেওয়া"
+    },
+    {
+      "term": "Give in",
+      "meaning": "surrender",
+      "bengali": "হার মানা"
+    },
+    {
+      "term": "Give off",
+      "meaning": "emit",
+      "bengali": "নির্গত করা"
+    },
+    {
+      "term": "Give out",
+      "meaning": "distribute; stop working",
+      "bengali": "বিতরণ করা"
+    },
+    {
+      "term": "Give up",
+      "meaning": "quit; abandon",
+      "bengali": "ছেড়ে দেওয়া"
+    },
+    {
+      "term": "Go ahead",
+      "meaning": "proceed",
+      "bengali": "এগিয়ে যাওয়া"
+    },
+    {
+      "term": "Go along with",
+      "meaning": "agree with",
+      "bengali": "মেনে নেওয়া"
+    },
+    {
+      "term": "Go away",
+      "meaning": "leave",
+      "bengali": "চলে যাওয়া"
+    },
+    {
+      "term": "Go back",
+      "meaning": "return",
+      "bengali": "ফিরে যাওয়া"
+    },
+    {
+      "term": "Go by",
+      "meaning": "pass (time)",
+      "bengali": "অতিবাহিত হওয়া"
+    },
+    {
+      "term": "Go down",
+      "meaning": "decrease; sink",
+      "bengali": "কমে যাওয়া; ডুবে যাওয়া"
+    },
+    {
+      "term": "Go for",
+      "meaning": "choose; attack",
+      "bengali": "বেছে নেওয়া; আক্রমণ করা"
+    },
+    {
+      "term": "Go in for",
+      "meaning": "take part in",
+      "bengali": "অংশ নেওয়া"
+    },
+    {
+      "term": "Go off",
+      "meaning": "explode; go bad",
+      "bengali": "বিস্ফোরিত হওয়া; পচে যাওয়া"
+    },
+    {
+      "term": "Go on",
+      "meaning": "continue",
+      "bengali": "চলতে থাকা"
+    },
+    {
+      "term": "Go out",
+      "meaning": "leave home; be extinguished",
+      "bengali": "বাইরে যাওয়া; নিভে যাওয়া"
+    },
+    {
+      "term": "Go over",
+      "meaning": "examine",
+      "bengali": "খুঁটিয়ে দেখা"
+    },
+    {
+      "term": "Go through",
+      "meaning": "experience; examine",
+      "bengali": "অভিজ্ঞতা লাভ করা"
+    },
+    {
+      "term": "Go up",
+      "meaning": "increase",
+      "bengali": "বেড়ে যাওয়া"
+    },
+    {
+      "term": "Go with",
+      "meaning": "match; accompany",
+      "bengali": "মানানো; সঙ্গে যাওয়া"
+    },
+    {
+      "term": "Grow up",
+      "meaning": "become adult",
+      "bengali": "বড় হওয়া"
+    },
+    {
+      "term": "Hand down",
+      "meaning": "pass to next generation",
+      "bengali": "উত্তরাধিকার সূত্রে দেওয়া"
+    },
+    {
+      "term": "Hand in",
+      "meaning": "submit",
+      "bengali": "জমা দেওয়া"
+    },
+    {
+      "term": "Hand out",
+      "meaning": "distribute",
+      "bengali": "বিলি করা"
+    },
+    {
+      "term": "Hand over",
+      "meaning": "give control",
+      "bengali": "হস্তান্তর করা"
+    },
+    {
+      "term": "Hang on",
+      "meaning": "wait; hold tight",
+      "bengali": "অপেক্ষা করা"
+    },
+    {
+      "term": "Hang up",
+      "meaning": "end a call",
+      "bengali": "ফোন কেটে দেওয়া"
+    },
+    {
+      "term": "Hold back",
+      "meaning": "restrain",
+      "bengali": "আটকে রাখা"
+    },
+    {
+      "term": "Hold down",
+      "meaning": "keep (a job)",
+      "bengali": "ধরে রাখা"
+    },
+    {
+      "term": "Hold on",
+      "meaning": "wait; grip",
+      "bengali": "অপেক্ষা করা"
+    },
+    {
+      "term": "Hold out",
+      "meaning": "last; offer",
+      "bengali": "টিকে থাকা"
+    },
+    {
+      "term": "Hold up",
+      "meaning": "delay; rob",
+      "bengali": "দেরি করানো; ছিনতাই করা"
+    },
+    {
+      "term": "Hurry up",
+      "meaning": "act quickly",
+      "bengali": "তাড়াতাড়ি করা"
+    },
+    {
+      "term": "Iron out",
+      "meaning": "resolve problems",
+      "bengali": "সমস্যা মিটিয়ে ফেলা"
+    },
+    {
+      "term": "Join in",
+      "meaning": "participate",
+      "bengali": "যোগ দেওয়া"
+    },
+    {
+      "term": "Keep away",
+      "meaning": "stay at distance",
+      "bengali": "দূরে থাকা"
+    },
+    {
+      "term": "Keep back",
+      "meaning": "withhold",
+      "bengali": "চেপে রাখা"
+    },
+    {
+      "term": "Keep down",
+      "meaning": "control; suppress",
+      "bengali": "দমিয়ে রাখা"
+    },
+    {
+      "term": "Keep off",
+      "meaning": "avoid",
+      "bengali": "এড়িয়ে চলা"
+    },
+    {
+      "term": "Keep on",
+      "meaning": "continue",
+      "bengali": "চালিয়ে যাওয়া"
+    },
+    {
+      "term": "Keep out",
+      "meaning": "not allow entry",
+      "bengali": "ঢুকতে না দেওয়া"
+    },
+    {
+      "term": "Keep up",
+      "meaning": "maintain pace",
+      "bengali": "তাল মিলিয়ে চলা"
+    },
+    {
+      "term": "Keep up with",
+      "meaning": "stay equal with",
+      "bengali": "সমান তালে চলা"
+    },
+    {
+      "term": "Knock down",
+      "meaning": "demolish; hit",
+      "bengali": "ভেঙে ফেলা"
+    },
+    {
+      "term": "Knock out",
+      "meaning": "make unconscious",
+      "bengali": "অজ্ঞান করে দেওয়া"
+    },
+    {
+      "term": "Lay down",
+      "meaning": "establish (rules)",
+      "bengali": "নিয়ম স্থির করা"
+    },
+    {
+      "term": "Lay off",
+      "meaning": "dismiss from work",
+      "bengali": "ছাঁটাই করা"
+    },
+    {
+      "term": "Lay out",
+      "meaning": "arrange; spend",
+      "bengali": "সাজিয়ে রাখা"
+    },
+    {
+      "term": "Leave behind",
+      "meaning": "forget; outpace",
+      "bengali": "পেছনে ফেলে যাওয়া"
+    },
+    {
+      "term": "Leave out",
+      "meaning": "omit",
+      "bengali": "বাদ দেওয়া"
+    },
+    {
+      "term": "Let down",
+      "meaning": "disappoint",
+      "bengali": "হতাশ করা"
+    },
+    {
+      "term": "Let in",
+      "meaning": "allow to enter",
+      "bengali": "ঢুকতে দেওয়া"
+    },
+    {
+      "term": "Let off",
+      "meaning": "excuse; fire",
+      "bengali": "ছেড়ে দেওয়া"
+    },
+    {
+      "term": "Let on",
+      "meaning": "reveal a secret",
+      "bengali": "গোপন কথা ফাঁস করা"
+    },
+    {
+      "term": "Let out",
+      "meaning": "release",
+      "bengali": "ছেড়ে দেওয়া"
+    },
+    {
+      "term": "Let up",
+      "meaning": "become less intense",
+      "bengali": "কমে আসা"
+    },
+    {
+      "term": "Light up",
+      "meaning": "illuminate",
+      "bengali": "আলোকিত করা"
+    },
+    {
+      "term": "Look after",
+      "meaning": "take care of",
+      "bengali": "যত্ন নেওয়া"
+    },
+    {
+      "term": "Look back",
+      "meaning": "recall the past",
+      "bengali": "অতীতের দিকে তাকানো"
+    },
+    {
+      "term": "Look down on",
+      "meaning": "despise",
+      "bengali": "অবজ্ঞা করা"
+    },
+    {
+      "term": "Look for",
+      "meaning": "search",
+      "bengali": "খোঁজা"
+    },
+    {
+      "term": "Look forward to",
+      "meaning": "anticipate eagerly",
+      "bengali": "অপেক্ষায় থাকা"
+    },
+    {
+      "term": "Look in",
+      "meaning": "visit briefly",
+      "bengali": "ঢু মারা"
+    },
+    {
+      "term": "Look into",
+      "meaning": "investigate",
+      "bengali": "তদন্ত করা"
+    },
+    {
+      "term": "Look on",
+      "meaning": "watch without taking part",
+      "bengali": "দর্শক হয়ে দেখা"
+    },
+    {
+      "term": "Look out",
+      "meaning": "be careful",
+      "bengali": "সাবধান হওয়া"
+    },
+    {
+      "term": "Look over",
+      "meaning": "examine quickly",
+      "bengali": "চোখ বুলিয়ে দেখা"
+    },
+    {
+      "term": "Look up",
+      "meaning": "search in a book",
+      "bengali": "অভিধানে খোঁজা"
+    },
+    {
+      "term": "Look up to",
+      "meaning": "respect",
+      "bengali": "শ্রদ্ধা করা"
+    },
+    {
+      "term": "Make for",
+      "meaning": "move towards",
+      "bengali": "অভিমুখে যাওয়া"
+    },
+    {
+      "term": "Make off",
+      "meaning": "run away",
+      "bengali": "পালিয়ে যাওয়া"
+    },
+    {
+      "term": "Make out",
+      "meaning": "understand; see",
+      "bengali": "বুঝতে পারা"
+    },
+    {
+      "term": "Make over",
+      "meaning": "transfer ownership",
+      "bengali": "হস্তান্তর করা"
+    },
+    {
+      "term": "Make up",
+      "meaning": "invent; reconcile",
+      "bengali": "বানানো; মিটমাট করা"
+    },
+    {
+      "term": "Make up for",
+      "meaning": "compensate",
+      "bengali": "ক্ষতিপূরণ করা"
+    },
+    {
+      "term": "Mix up",
+      "meaning": "confuse",
+      "bengali": "গুলিয়ে ফেলা"
+    },
+    {
+      "term": "Move in",
+      "meaning": "start living in",
+      "bengali": "নতুন বাসায় ওঠা"
+    },
+    {
+      "term": "Move on",
+      "meaning": "proceed to next",
+      "bengali": "এগিয়ে চলা"
+    },
+    {
+      "term": "Move out",
+      "meaning": "leave a home",
+      "bengali": "বাসা ছাড়া"
+    },
+    {
+      "term": "Note down",
+      "meaning": "write briefly",
+      "bengali": "লিখে রাখা"
+    },
+    {
+      "term": "Own up",
+      "meaning": "confess",
+      "bengali": "স্বীকার করা"
+    },
+    {
+      "term": "Pass away",
+      "meaning": "die",
+      "bengali": "মারা যাওয়া"
+    },
+    {
+      "term": "Pass by",
+      "meaning": "go past",
+      "bengali": "পাশ দিয়ে যাওয়া"
+    },
+    {
+      "term": "Pass on",
+      "meaning": "transfer",
+      "bengali": "হস্তান্তর করা"
+    },
+    {
+      "term": "Pass out",
+      "meaning": "faint; distribute",
+      "bengali": "অজ্ঞান হওয়া"
+    },
+    {
+      "term": "Pay back",
+      "meaning": "repay",
+      "bengali": "শোধ করা"
+    },
+    {
+      "term": "Pay off",
+      "meaning": "clear a debt; succeed",
+      "bengali": "ঋণ শোধ করা; ফল দেওয়া"
+    },
+    {
+      "term": "Pick out",
+      "meaning": "choose",
+      "bengali": "বেছে নেওয়া"
+    },
+    {
+      "term": "Pick up",
+      "meaning": "lift; learn casually",
+      "bengali": "তুলে নেওয়া; শিখে ফেলা"
+    },
+    {
+      "term": "Point out",
+      "meaning": "indicate",
+      "bengali": "নির্দেশ করা"
+    },
+    {
+      "term": "Pull down",
+      "meaning": "demolish",
+      "bengali": "ভেঙে ফেলা"
+    },
+    {
+      "term": "Pull in",
+      "meaning": "arrive (train)",
+      "bengali": "ঢোকা"
+    },
+    {
+      "term": "Pull off",
+      "meaning": "achieve with difficulty",
+      "bengali": "কঠিন কাজে সফল হওয়া"
+    },
+    {
+      "term": "Pull out",
+      "meaning": "withdraw",
+      "bengali": "সরে আসা"
+    },
+    {
+      "term": "Pull through",
+      "meaning": "recover",
+      "bengali": "সেরে ওঠা"
+    },
+    {
+      "term": "Pull up",
+      "meaning": "stop (vehicle)",
+      "bengali": "থামানো"
+    },
+    {
+      "term": "Put aside",
+      "meaning": "save",
+      "bengali": "সরিয়ে রাখা"
+    },
+    {
+      "term": "Put away",
+      "meaning": "store",
+      "bengali": "তুলে রাখা"
+    },
+    {
+      "term": "Put back",
+      "meaning": "return to place",
+      "bengali": "যথাস্থানে রাখা"
+    },
+    {
+      "term": "Put down",
+      "meaning": "suppress; write",
+      "bengali": "দমন করা; লিখে রাখা"
+    },
+    {
+      "term": "Put forward",
+      "meaning": "propose",
+      "bengali": "প্রস্তাব করা"
+    },
+    {
+      "term": "Put in",
+      "meaning": "install; submit",
+      "bengali": "বসানো; জমা দেওয়া"
+    },
+    {
+      "term": "Put off",
+      "meaning": "postpone",
+      "bengali": "পিছিয়ে দেওয়া"
+    },
+    {
+      "term": "Put on",
+      "meaning": "wear; stage",
+      "bengali": "পরা; মঞ্চস্থ করা"
+    },
+    {
+      "term": "Put out",
+      "meaning": "extinguish",
+      "bengali": "নিভিয়ে দেওয়া"
+    },
+    {
+      "term": "Put up",
+      "meaning": "accommodate; erect",
+      "bengali": "আশ্রয় দেওয়া; খাড়া করা"
+    },
+    {
+      "term": "Put up with",
+      "meaning": "tolerate",
+      "bengali": "সহ্য করা"
+    },
+    {
+      "term": "Reach out",
+      "meaning": "extend a hand",
+      "bengali": "হাত বাড়ানো"
+    },
+    {
+      "term": "Ring up",
+      "meaning": "telephone",
+      "bengali": "ফোন করা"
+    },
+    {
+      "term": "Rule out",
+      "meaning": "exclude",
+      "bengali": "বাতিল করা"
+    },
+    {
+      "term": "Run across",
+      "meaning": "meet by chance",
+      "bengali": "হঠাৎ দেখা হওয়া"
+    },
+    {
+      "term": "Run away",
+      "meaning": "flee",
+      "bengali": "পালিয়ে যাওয়া"
+    },
+    {
+      "term": "Run down",
+      "meaning": "criticize; hit",
+      "bengali": "নিন্দা করা; চাপা দেওয়া"
+    },
+    {
+      "term": "Run into",
+      "meaning": "meet by chance",
+      "bengali": "হঠাৎ মুখোমুখি হওয়া"
+    },
+    {
+      "term": "Run out of",
+      "meaning": "have none left",
+      "bengali": "ফুরিয়ে যাওয়া"
+    },
+    {
+      "term": "Run over",
+      "meaning": "knock down",
+      "bengali": "চাপা দেওয়া"
+    },
+    {
+      "term": "Run through",
+      "meaning": "rehearse",
+      "bengali": "ঝালিয়ে নেওয়া"
+    },
+    {
+      "term": "Save up",
+      "meaning": "collect money",
+      "bengali": "সঞ্চয় করা"
+    },
+    {
+      "term": "See off",
+      "meaning": "bid farewell",
+      "bengali": "বিদায় জানানো"
+    },
+    {
+      "term": "See through",
+      "meaning": "detect the truth",
+      "bengali": "আসল রূপ বুঝে ফেলা"
+    },
+    {
+      "term": "Sell out",
+      "meaning": "sell completely",
+      "bengali": "সব বিক্রি হয়ে যাওয়া"
+    },
+    {
+      "term": "Send for",
+      "meaning": "ask to come",
+      "bengali": "ডেকে পাঠানো"
+    },
+    {
+      "term": "Set about",
+      "meaning": "begin",
+      "bengali": "শুরু করা"
+    },
+    {
+      "term": "Set aside",
+      "meaning": "reserve",
+      "bengali": "আলাদা করে রাখা"
+    },
+    {
+      "term": "Set back",
+      "meaning": "delay",
+      "bengali": "পিছিয়ে দেওয়া"
+    },
+    {
+      "term": "Set down",
+      "meaning": "write; land",
+      "bengali": "লিখে রাখা; নামিয়ে দেওয়া"
+    },
+    {
+      "term": "Set off",
+      "meaning": "start a journey",
+      "bengali": "যাত্রা শুরু করা"
+    },
+    {
+      "term": "Set out",
+      "meaning": "begin a journey",
+      "bengali": "রওনা হওয়া"
+    },
+    {
+      "term": "Set up",
+      "meaning": "establish",
+      "bengali": "প্রতিষ্ঠা করা"
+    },
+    {
+      "term": "Settle down",
+      "meaning": "live quietly",
+      "bengali": "থিতু হওয়া"
+    },
+    {
+      "term": "Show off",
+      "meaning": "display proudly",
+      "bengali": "জাহির করা"
+    },
+    {
+      "term": "Show up",
+      "meaning": "appear",
+      "bengali": "হাজির হওয়া"
+    },
+    {
+      "term": "Shut down",
+      "meaning": "close",
+      "bengali": "বন্ধ করে দেওয়া"
+    },
+    {
+      "term": "Shut up",
+      "meaning": "be silent",
+      "bengali": "চুপ করা"
+    },
+    {
+      "term": "Sit down",
+      "meaning": "take a seat",
+      "bengali": "বসা"
+    },
+    {
+      "term": "Slow down",
+      "meaning": "reduce speed",
+      "bengali": "গতি কমানো"
+    },
+    {
+      "term": "Sort out",
+      "meaning": "solve; arrange",
+      "bengali": "সমাধান করা; গুছিয়ে ফেলা"
+    },
+    {
+      "term": "Stand by",
+      "meaning": "support; wait",
+      "bengali": "পাশে দাঁড়ানো"
+    },
+    {
+      "term": "Stand for",
+      "meaning": "represent",
+      "bengali": "প্রতিনিধিত্ব করা"
+    },
+    {
+      "term": "Stand out",
+      "meaning": "be prominent",
+      "bengali": "আলাদা হয়ে ফুটে ওঠা"
+    },
+    {
+      "term": "Stand up for",
+      "meaning": "defend",
+      "bengali": "পক্ষ নেওয়া"
+    },
+    {
+      "term": "Take after",
+      "meaning": "resemble",
+      "bengali": "চেহারায় মিল থাকা"
+    },
+    {
+      "term": "Take apart",
+      "meaning": "dismantle",
+      "bengali": "খুলে ফেলা"
+    },
+    {
+      "term": "Take away",
+      "meaning": "remove",
+      "bengali": "নিয়ে যাওয়া"
+    },
+    {
+      "term": "Take back",
+      "meaning": "withdraw statement",
+      "bengali": "কথা ফিরিয়ে নেওয়া"
+    },
+    {
+      "term": "Take down",
+      "meaning": "write; dismantle",
+      "bengali": "লিখে নেওয়া; নামিয়ে ফেলা"
+    },
+    {
+      "term": "Take in",
+      "meaning": "deceive; absorb",
+      "bengali": "ঠকানো; আত্মস্থ করা"
+    },
+    {
+      "term": "Take off",
+      "meaning": "remove; leave ground",
+      "bengali": "খুলে ফেলা; উড়ে ওঠা"
+    },
+    {
+      "term": "Take on",
+      "meaning": "accept; employ",
+      "bengali": "গ্রহণ করা; নিয়োগ করা"
+    },
+    {
+      "term": "Take out",
+      "meaning": "remove",
+      "bengali": "বের করে নেওয়া"
+    },
+    {
+      "term": "Take over",
+      "meaning": "assume control",
+      "bengali": "দায়িত্ব নেওয়া"
+    },
+    {
+      "term": "Take to",
+      "meaning": "begin to like",
+      "bengali": "পছন্দ করতে শুরু করা"
+    }
+  ]
+}

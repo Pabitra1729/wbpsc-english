@@ -1,0 +1,231 @@
+{
+  "id": "g14",
+  "title": "Direct & Indirect Speech (Narration) Mastery",
+  "intro": "Comprehensive study notes covering the SON pronoun rule, tense backshift, modal changes, exceptions for universal truths and habits, changes in words of time and place, and transformation across all 5 sentence types (Assertive, Interrogative, Imperative, Optative, Exclamatory) as per WBPSC Clerkship syllabus.",
+  "bengali": "Direct ও Indirect Speech (Narration Change) সম্পূর্ণ নির্দেশিকা (WBPSC Clerkship স্পেশাল):\n1. **Narration পরিবর্তনের মূল ৬টি ধাপ**:\n   • ধাপ ১: Inverted Commas (\"...\") তুলে দিয়ে বাক্যের ধরন অনুযায়ী সঠিক Conjunction বসান (Assertive-এ that; Yes/No প্রশ্নে if/whether; Wh- প্রশ্নে Wh-শব্দটি নিজে; Imperative-এ to/not to; Optative-এ that; Exclamatory-এ that)।\n   • ধাপ ২: Reporting Verb পরিবর্তন করুন (said to → told/asked/ordered/requested/advised/exclaimed/prayed)।\n   • ধাপ ৩: Pronoun পরিবর্তন করুন **SON নিয়ম** মেনে:\n     - **S (Subject)**: First Person (I, we, my, our) পরিবর্তিত হয় Reporting Verb-এর **Subject** অনুসারে।\n     - **O (Object)**: Second Person (you, your) পরিবর্তিত হয় Reporting Verb-এর **Object** অনুসারে।\n     - **N (No change)**: Third Person (he, she, it, they, his, her, their, নাম) **অপরিবর্তিত** থাকে।\n   • ধাপ ৪: Reporting Verb যদি **Past Tense**-এ থাকে, তবে Reported Speech-এর Tense পরিবর্তন (Backshift) করুন।\n   • ধাপ ৫: নিকটবর্তী সময় ও স্থান নির্দেশক শব্দকে দূরবর্তী শব্দে পরিবর্তন করুন (now → then, today → that day, tomorrow → the next day, yesterday → the previous day, here → there, this → that)।\n   • ধাপ ৬: বাক্যটিকে সর্বদা Assertive (Statement) আকারে রূপান্তর করুন এবং শেষে পূর্ণচ্ছেদ (.) দিন (প্রশ্নবোধক বা বিস্ময়সূচক চিহ্ন উঠে যাবে)।\n\n2. **যেসব ক্ষেত্রে Tense পরিবর্তন হয় না (গুরুত্বপূর্ণ ব্যতিরেক)**:\n   • Reporting Verb যদি Present বা Future Tense-এ থাকে (He says / will say → Tense অপরিবর্তিত)।\n   • চিরন্তন সত্য (Universal Truth): The earth moves round the sun.\n   • অভ্যাসগত কাজ (Habitual Action / Permanent Fact): I go for a walk every morning.\n   • ঐতিহাসিক সত্য (Historical Fact): Akbar was born in 1542.\n   • কাল্পনিক শর্ত (Unreal Past / 2nd or 3rd Conditional): If I were rich, I would help you.\n   • Past Perfect Tense অপরিবর্তিত থাকে (had met → had met)।\n\n3. **বাক্যের ধরন অনুসারে Reporting Verb ও Conjunction তালিকা**:\n   • **Assertive**: said → said, said to → told | Conjunction: that\n   • **Interrogative (Yes/No)**: asked / enquired / wanted to know | Conjunction: if / whether\n   • **Interrogative (Wh-)**: asked / enquired | Conjunction: Wh-word itself (what, where, why, who, how)\n   • **Imperative (Command/Request/Advice)**: ordered / requested / advised / warned / forbade | Conjunction: to + V1 / not to + V1\n   • **Suggestion (Let us / Shall we)**: suggested / proposed | that + subject + should + V1\n   • **Optative (ইচ্ছা বা প্রার্থনা)**: wished / prayed / blessed / cursed | that + subject + might + V1\n   • **Exclamatory**: exclaimed with joy / sorrow / wonder / disgust / applauded | Conjunction: that",
+  "rules": [
+    {
+      "rule": "The Core Framework & Pronouns: The SON Rule (B1, B2, B3)",
+      "examples": [
+        "Reporting verb is outside the quotes; Reported speech is inside the quotes: He said (reporting verb), 'I am happy' (reported speech).",
+        "S (Subject): First person pronouns match the subject of the reporting verb: He said, 'I am happy.' → He said that he was happy.",
+        "O (Object): Second person pronouns match the object of the reporting verb: He said to me, 'You are late.' → He told me that I was late.",
+        "N (No Change): Third person pronouns do not change: She said, 'He is tall.' → She said that he was tall.",
+        "Second person shift: Ravi said to Mohan, 'You are late.' → Ravi told Mohan that he was late."
+      ],
+      "exceptions": [
+        "Said without listener stays 'said'. Said to + listener changes to 'told' + object (never 'told to')."
+      ]
+    },
+    {
+      "rule": "Tense Backshifts & Modal Changes (B4)",
+      "examples": [
+        "Simple Present → Simple Past: am/is/are, V1 → was/were, V2 (He said, 'I work.' → He said that he worked).",
+        "Present Continuous → Past Continuous: am/is/are + V-ing → was/were + V-ing (He said, 'I am reading.' → He said that he was reading).",
+        "Present Perfect → Past Perfect: has/have + V3 → had + V3 (She said, 'I have finished.' → She said that she had finished).",
+        "Present Perfect Continuous → Past Perfect Continuous: has/have been + V-ing → had been + V-ing.",
+        "Simple Past → Past Perfect: V2 → had + V3 (He said, 'I wrote a letter.' → He said that he had written a letter).",
+        "Past Continuous → Past Perfect Continuous: was/were + V-ing → had been + V-ing (He said, 'I was writing.' → He said that he had been writing).",
+        "Past Perfect → Past Perfect (No change): had + V3 → had + V3 (She said, 'I had seen him.' → She said that she had seen him).",
+        "Modals: will → would; shall → would (should for duty/advice); can → could; may → might; must → had to (for necessity) / must (for duty).",
+        "No Change for Past Modals: could, would, should, might, ought to, used to stay unchanged."
+      ],
+      "exceptions": [
+        "If the reporting verb is in the present (says) or future (will say), the tense inside NEVER changes: He says, 'I am busy' → He says that he is busy."
+      ]
+    },
+    {
+      "rule": "When the Tense Does NOT Change (B5)",
+      "examples": [
+        "Reporting verb in present/future: He says, 'I am busy.' → He says that he is busy.",
+        "Universal truth: The teacher said, 'The earth moves round the sun.' → The teacher said that the earth moves round the sun.",
+        "Habitual action / permanent fact: She said, 'I go for a walk every morning.' → She said that she goes for a walk every morning.",
+        "Historical fact: The teacher said, 'Akbar was born in 1542.' → The teacher said that Akbar was born in 1542.",
+        "Second/third conditional: He said, 'If I were rich, I would help you.' → He said that if he were rich, he would help me.",
+        "Past perfect tense: She said, 'I had met him before.' → She said that she had met him before."
+      ],
+      "exceptions": [
+        "Even when reporting verb is in the past, scientific truths and geographical facts retain their present tense."
+      ]
+    },
+    {
+      "rule": "Changes in Words of Time and Place (B6)",
+      "examples": [
+        "now → then",
+        "today → that day",
+        "tonight → that night",
+        "this morning → that morning",
+        "tomorrow → the next day / the following day",
+        "yesterday → the previous day / the day before",
+        "last night → the previous night",
+        "last week → the previous week / the week before",
+        "next week → the following week / the next week",
+        "ago → before",
+        "the day before yesterday → two days before",
+        "the day after tomorrow → in two days' time",
+        "here → there; this → that; these → those",
+        "thus → so; hence → thence; come → go; hither → thither"
+      ],
+      "exceptions": [
+        "If the speech is reported on the very same day in the same place, 'today' or 'here' may remain unchanged."
+      ]
+    },
+    {
+      "rule": "Assertive Sentences (Statements) (B8)",
+      "examples": [
+        "He said, 'I am reading a book.' → He said that he was reading a book.",
+        "She said to me, 'I will help you.' → She told me that she would help me.",
+        "They said, 'We have finished the work.' → They said that they had finished the work.",
+        "He said, 'I do not know the answer.' → He said that he did not know the answer.",
+        "Ravi said to Mohan, 'I saw you yesterday.' → Ravi told Mohan that he had seen him the day before.",
+        "She said, 'I am going to Delhi tomorrow.' → She said that she was going to Delhi the next day."
+      ],
+      "exceptions": [
+        "Negative statements remain negative: do not know → did not know."
+      ]
+    },
+    {
+      "rule": "Interrogative Sentences: Yes/No & Wh- Questions (B9)",
+      "examples": [
+        "Yes/No (Use if/whether + statement order): He said to me, 'Are you ill?' → He asked me if I was ill.",
+        "Yes/No: She said to him, 'Do you like tea?' → She asked him whether he liked tea.",
+        "Yes/No: The teacher said to the boy, 'Have you finished the work?' → The teacher asked the boy if he had finished the work.",
+        "Yes/No: Mother said to me, 'Can you swim?' → Mother asked me if I could swim.",
+        "Yes/No: I said to her, 'Did you see the film?' → I asked her if she had seen the film.",
+        "Wh-Question (Keep Wh-word + statement order): He said to me, 'Where do you live?' → He asked me where I lived.",
+        "Wh-Question: She said to him, 'What is your name?' → She asked him what his name was.",
+        "Wh-Question: The teacher said to the girl, 'Why are you crying?' → The teacher asked the girl why she was crying.",
+        "Wh-Question: He said, 'Who broke the glass?' → He asked who had broken the glass.",
+        "Wh-Question: I said to the boy, 'Whom did you meet yesterday?' → I asked the boy whom he had met the previous day.",
+        "Wh-Question: She said to me, 'How are you going to reach there?' → She asked me how I was going to reach there."
+      ],
+      "exceptions": [
+        "Remove do/does/did in affirmative indirect questions and use statement order (Subject + Verb), NOT question order (He asked where I lived, NOT where did I live)."
+      ]
+    },
+    {
+      "rule": "Imperative Sentences: Command, Request, Advice, Prohibition, Suggestion (B10)",
+      "examples": [
+        "Command: The captain said to the soldiers, 'Fire!' → The captain ordered the soldiers to fire.",
+        "Command: He said to the servant, 'Bring me a glass of water.' → He ordered the servant to bring him a glass of water.",
+        "Request: She said to him, 'Kindly lend me your pen.' → She requested him to lend her his pen.",
+        "Request: The boy said to the teacher, 'Please forgive me.' → The boy begged the teacher to forgive him.",
+        "Request: He said to me, 'Will you please help me?' → He requested me to help him.",
+        "Advice: The doctor said to the patient, 'Avoid oily food.' → The doctor advised the patient to avoid oily food.",
+        "Warning: He said to me, 'Beware of dogs.' → He warned me to beware of dogs.",
+        "Prohibition: The teacher said to the boys, 'Do not make a noise.' → The teacher forbade the boys to make a noise. / The teacher told the boys not to make a noise.",
+        "Invitation: She said to me, 'Come to my party.' → She invited me to her party.",
+        "Suggestion (Let us): He said to me, 'Let us go for a walk.' → He suggested that we should go for a walk.",
+        "Suggestion (Shall we): She said, 'Shall we go to the park?' → She suggested going to the park. / She proposed that they should go to the park.",
+        "Offer (Shall I): He said to her, 'Shall I carry your bag?' → He offered to carry her bag.",
+        "Permission (Let me): The prisoner said, 'Let me go.' → The prisoner requested that he should be allowed to go."
+      ],
+      "exceptions": [
+        "When using 'forbade', do NOT use 'not' (The teacher forbade the boys to make a noise, NOT forbade not to make a noise)."
+      ]
+    },
+    {
+      "rule": "Optative, Exclamatory, Greetings & Conversational Phrases (B11, B12, B13)",
+      "examples": [
+        "Optative (Wish/Prayer): He said, 'May you live long!' → He wished that I might live long.",
+        "Optative: The mother said to her son, 'May God bless you.' → The mother prayed that God might bless her son.",
+        "Optative: The old man said, 'May you prosper!' → The old man blessed him, wishing that he might prosper.",
+        "Optative (Wishes): He said, 'Would that I were a king!' → He wished that he were a king.",
+        "Optative: She said, 'If only I were rich!' → She wished that she were rich.",
+        "Exclamatory (Joy): He said, 'Hurrah! We have won the match.' → He exclaimed with joy that they had won the match.",
+        "Exclamatory (Sorrow): She said, 'Alas! I am ruined.' → She exclaimed with sorrow that she was ruined.",
+        "Exclamatory (Wonder): He said, 'What a beautiful scene!' → He exclaimed with wonder that it was a very beautiful scene.",
+        "Exclamatory: The boy said, 'How foolish I was!' → The boy exclaimed that he had been very foolish.",
+        "Exclamatory: The teacher said, 'Bravo! Well done!' → The teacher applauded him, saying that he had done well.",
+        "Greetings: He said to me, 'Good morning.' → He greeted me, saying good morning.",
+        "Greetings: She said to him, 'Good night.' → She wished him good night.",
+        "Short Phrases: He said to her, 'Thank you.' → He thanked her.",
+        "Short Phrases: They said to him, 'Congratulations!' → They congratulated him.",
+        "Short Phrases: He said, 'Sorry.' → He apologised.",
+        "Short Phrases: He said to them, 'Farewell.' → He bade them farewell.",
+        "Short Phrases: The host said to the guests, 'Welcome.' → The host welcomed the guests.",
+        "Short Phrases: He said, 'Yes, sir.' → He replied in the affirmative.",
+        "Short Phrases: He said, 'No.' → He replied in the negative."
+      ],
+      "exceptions": [
+        "Always replace exclamation words (Hurrah, Alas, Bravo, Fie, Oh) with the corresponding adverbial phrase (exclaimed with joy/sorrow/disgust) and use 'that'."
+      ]
+    },
+    {
+      "rule": "Mixed Sentences, Reporting Verbs Catalogue & Special Cases (B14, B15, B16, B17)",
+      "examples": [
+        "Mixed Sentences: She said to me, 'What are you doing? Go home at once.' → She asked me what I was doing and ordered me to go home at once.",
+        "Mixed Sentences: He said, 'I am tired. Please let me rest.' → He said that he was tired and requested that he should be allowed to rest.",
+        "Mixed Sentences: The teacher said, 'Sit down, Ravi. You are late.' → The teacher told Ravi to sit down and said that he was late.",
+        "Promise: He said, 'I will give you a prize.' → He promised to give me a prize.",
+        "Denial: She said, 'I did not take the book.' → She denied having taken the book.",
+        "Admission: He said, 'I broke the window.' → He confessed that he had broken the window.",
+        "Threat: The man said to me, 'I will kill you.' → The man threatened to kill me.",
+        "Quotation First: 'I am hungry,' he said. → He said that he was hungry.",
+        "Polite Request: She said to him, 'Would you pass the salt?' → She requested him to pass the salt.",
+        "Must (Obligation): The teacher said, 'You must obey the rules.' → The teacher said that I must obey the rules.",
+        "Must (Necessity): He said, 'I must go now.' → He said that he had to go then.",
+        "Indirect to Direct: He asked me where I lived. → He said to me, 'Where do you live?'",
+        "Indirect to Direct: She exclaimed with joy that she had passed. → She said, 'Hurrah! I have passed.'"
+      ],
+      "exceptions": [
+        "When reversing from indirect to direct, remember to restore the quotation marks, comma, capital letter, and appropriate punctuation mark (?, !)."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He told to me that he was ill.",
+      "right": "He told me that he was ill. / He said to me that he was ill.",
+      "note": "'Told' is a transitive verb and takes an object directly without 'to'."
+    },
+    {
+      "wrong": "She asked me that where I was going.",
+      "right": "She asked me where I was going.",
+      "note": "Never use 'that' before wh-question words (where, what, why, when) in indirect speech."
+    },
+    {
+      "wrong": "The teacher asked who was absent yesterday.",
+      "right": "The teacher asked who had been absent the day before.",
+      "note": "Simple past ('was') changes to past perfect ('had been'), and 'yesterday' changes to 'the day before'."
+    },
+    {
+      "wrong": "He asked me where did I live.",
+      "right": "He asked me where I lived.",
+      "note": "Indirect questions use statement word order (Subject + Verb), never question order with auxiliary 'did'."
+    },
+    {
+      "wrong": "The officer forbade the soldiers not to fire.",
+      "right": "The officer forbade the soldiers to fire.",
+      "note": "'Forbade' already contains a negative meaning. Adding 'not' makes a double negative error."
+    },
+    {
+      "wrong": "The teacher said that the earth was round.",
+      "right": "The teacher said that the earth is round.",
+      "note": "Universal and scientific truths remain in simple present tense regardless of the reporting verb."
+    }
+  ],
+  "examTricks": [
+    "SON Rule Shortcut: 1st person → Subject | 2nd person → Object | 3rd person → No Change.",
+    "Question Order Elimination: In options for indirect questions, immediately cross out any option where the auxiliary verb is before the subject (e.g. 'where was he going').",
+    "Time Word Filter: Check if 'yesterday' became 'the previous day' and 'tomorrow' became 'the next day'; incorrect options often forget this change.",
+    "Say vs Tell Rule: 'Said' has no object; 'Told' MUST have an object; 'Told to' is ALWAYS grammatically wrong.",
+    "Universal Truth Trap: If the reported clause is a scientific law (oil floats on water, earth revolves), its present tense NEVER changes."
+  ],
+  "memoryTricks": [
+    "SON Formula: S = 1st person to Subject, O = 2nd person to Object, N = 3rd person No change.",
+    "No-That in Wh-: Never say 'that where' or 'that why'.",
+    "Forbade = No Not: Forbade already means prohibited; never add 'not'.",
+    "Past + Past = Past Perfect: Simple Past changes to Past Perfect (had + V3)."
+  ],
+  "revision": [
+    "Pronouns follow SON: first person → subject, second person → object, third person → no change.",
+    "Questions: asked + if / whether (yes / no) or asked + wh-word (wh- questions). Always use statement order.",
+    "Commands, requests, advice: ordered / requested / advised + object + to + verb.",
+    "Prohibition: forbade or ordered / told + not to (never combine forbade with not).",
+    "Let us: suggested / proposed that we/they should.",
+    "Wishes & Prayers: wished / prayed that ... might.",
+    "Exclamations: exclaimed with joy / sorrow / wonder that ...",
+    "No tense change for universal truths, habits, historical facts, or when the reporting verb is in the present or future tense."
+  ]
+}

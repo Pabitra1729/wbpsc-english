@@ -1,0 +1,77 @@
+{
+  "id": "d01",
+  "title": "Newspaper & Official Report Writing",
+  "intro": "Report Writing in WBPSC Clerkship Part-II evaluates your ability to document an event, accident, natural calamity, or social campaign objectively, accurately, and in standard newspaper format within 150-200 words. Marks are allotted for Title (2 marks), Byline and Dateline (2 marks), factual 3-paragraph structural development (8 marks), and grammatical accuracy/register (3 marks) out of 15 marks.",
+  "bengali": "WBPSC Clerkship Part-II (Descriptive)-তে Report Writing (সংবাদ প্রতিবেদন) একটি অত্যন্ত ফলপ্রসূ বিষয়। এখানে একটি নির্দিষ্ট ঘটনা, দুর্ঘটনা, প্রাকৃতিক দুর্যোগ বা সামাজিক অনুষ্ঠান নিয়ে ১৫০ থেকে ২০০ শব্দের মধ্যে একটি প্রাতিষ্ঠানিক প্রতিবেদন লিখতে হয়।\n\nWBPSC-তে সর্বোচ্চ নম্বর (১৪/১৫) পাওয়ার পরীক্ষিত কাঠামো:\n১. Headline / Title (শিরোনাম): স্পষ্ট, আকর্ষণীয় এবং সম্পূর্ণ Capital letters-এ লেখা ভালো (যেমন: 'DEVASTATING FIRE AT BURRABAZAR WAREHOUSE')। শিরোনামের শেষে কখনো দাঁড়ি বা ফুলস্টপ (.) দেবেন না।\n২. Byline ও Dateline (স্থান ও তারিখ):\n   - Headline-এর নিচে লিখবেন: 'By a Staff Reporter' (কখনো নিজের আসল নাম লিখবেন না)।\n   - তার পরের লাইনে: 'Kolkata, 15th August:' (বা প্রদত্ত স্থান ও তারিখ)।\n৩. আদর্শ ৩-প্যারাগ্রাফ বিন্যাস:\n   - প্যারাগ্রাফ ১ (Lead Paragraph - 5 Ws): ঘটনাটি কী (What), কোথায় (Where), কখন (When) এবং কী ক্ষতি বা ঘটনা ঘটেছে তার সারসংক্ষেপ। যেমন: 'A major fire broke out yesterday around 3:00 PM at...'\n   - প্যারাগ্রাফ ২ (Detailed Sequence & Eyewitnesses): ঘটনার বিস্তারিত কারণ, কীভাবে আগুন ছড়াল, প্রত্যক্ষদর্শীদের বক্তব্য, দমকল বা পুলিশের ভূমিকা।\n   - প্যারাগ্রাফ ৩ (Rescue, Relief & Official Action): উদ্ধারকাজ, আহতদের হাসপাতালে ভর্তি, সরকারি ক্ষতিপূরণ ঘোষণা বা তদন্ত কমিটি গঠন।\n৪. ব্যাকরণগত সতর্কতা:\n   - প্রতিবেদন সর্বদা Third Person (He/They/The police) এবং Passive Voice-এ লিখতে হবে। ভুলেও 'I' বা 'We' লিখবেন না।\n   - প্রধানত Simple Past (V2) এবং Past Perfect Tense ব্যবহার করবেন।",
+  "rules": [
+    {
+      "rule": "HEADLINE ARCHITECTURE: Craft a concise, bold title in present tense or passive past, without ending punctuation.",
+      "examples": [
+        "Accident / Calamity: 'TWELVE INJURED IN TRAGIC BUS COLLISION ON NH-34'",
+        "Fire Outbreak: 'MASSIVE BLAZE GUTS PACKAGING WAREHOUSE IN HOWRAH'",
+        "Social / Institutional Event: 'BLOOD DONATION CAMP ORGANIZED BY DISTRICT RED CROSS'",
+        "Natural Disaster: 'CYCLONE REMAL BATTERS COASTAL SUNDARBANS: THOUSANDS EVACUATED'"
+      ],
+      "exceptions": [
+        "Never put a full stop (.) at the end of a report headline; question marks or exclamation marks are also strictly prohibited in official reports."
+      ]
+    },
+    {
+      "rule": "BYLINE AND DATELINE PROTOCOL: Follow the standardized PSC format on separate lines directly beneath the headline.",
+      "examples": [
+        "Line 1 (Headline): SEVERE CYCLONE WREAKS HAVOC IN COASTAL BENGAL",
+        "Line 2 (Byline): By a Staff Reporter",
+        "Line 3 (Dateline): Canning, 26th May: (Text begins immediately after the colon)."
+      ],
+      "exceptions": [
+        "Never use your real name or personal roll number in competitive exam answer scripts unless specifically instructed; always use 'By a Staff Reporter' or 'By Special Correspondent'."
+      ]
+    },
+    {
+      "rule": "THE 3-PARAGRAPH INVERTED PYRAMID FORMULA (150-200 Words):",
+      "examples": [
+        "Paragraph 1 (The Lead / 5 Ws): What happened, where, when, who was involved, and the immediate casualty or scope of the event.",
+        "Paragraph 2 (Narrative & Sequence): The progression of events, suspected cause (short-circuit / reckless driving), eyewitness accounts, and firefighting / police mobilization.",
+        "Paragraph 3 (Reactions, Relief & Official Remedial Measures): Rescue operations, hospitalization of the injured, government ex-gratia compensation announced, and administrative inquiry ordered."
+      ],
+      "exceptions": [
+        "Keep Paragraph 1 strictly factual; keep personal commentary, moral lectures, or emotional poetry strictly out of a newspaper report."
+      ]
+    },
+    {
+      "rule": "VOICE AND REGISTER CONVENTIONS: Use strictly third-person pronouns and objective passive constructions; maintain predominantly Past Simple and Past Perfect tenses.",
+      "examples": [
+        "Correct: 'The injured were promptly rushed to the district hospital where three are reported critical.'",
+        "Incorrect: 'I saw that people were crying and I helped the police take them to hospital.'",
+        "Correct: 'A high-level inquiry headed by the Additional District Magistrate has been constituted to ascertain the exact cause.'"
+      ],
+      "exceptions": [
+        "Quotes from eyewitnesses or officials are placed within quotation marks in direct speech: '\"The fire spread with alarming speed,\" said a local shopkeeper'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing in the first person ('I saw', 'We went to the spot') instead of third-person journalistic passive.",
+    "Writing personal emotional sermons ('Oh, what a tragedy! God save them') instead of objective reporting.",
+    "Forgetting the headline or dateline, which loses 3-4 marks immediately in PSC grading rubrics.",
+    "Exceeding the word limit beyond 220 words or writing less than 120 words.",
+    "Mixing past and present tenses incoherently."
+  ],
+  "examTricks": [
+    "The Essential Reporting Phrase Bank for Paragraph 3: 'A high-level administrative inquiry has been ordered', 'Ex-gratia compensation of ₹2 lakh was announced by the state government', 'The situation was brought under control after three hours of intense firefighting'.",
+    "The Headline Caps Trick: Write the entire headline in CAPITAL LETTERS to make it stand out prominently on the page.",
+    "The Inverted Pyramid: Put all key facts in Paragraph 1 so an examiner scanning your script gives full content marks within 15 seconds."
+  ],
+  "memoryTricks": [
+    "H-B-D: Headline -> Byline -> Dateline.",
+    "5 Ws in Para 1: What, Where, When, Who, Why."
+  ],
+  "revision": [
+    "Capitalized bold headline, no full stop.",
+    "By a Staff Reporter / Place, Date: format.",
+    "3-Paragraph structure: Lead (5 Ws) -> Body (Sequence) -> Conclusion (Relief/Inquiry).",
+    "Passive voice and Simple Past tense predominance.",
+    "Third-person only: no 'I', 'we', or 'my'.",
+    "Strictly 150-200 words."
+  ]
+}

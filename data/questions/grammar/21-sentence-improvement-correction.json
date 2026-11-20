@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g21-001",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve: 'The news are interesting.'",
+    "options": [
+      "The news is interesting.",
+      "The news were interesting.",
+      "A news is interesting.",
+      "The news am interesting."
+    ],
+    "answer": 0,
+    "explanation": "News is grammatically singular and takes is.",
+    "rule": "Uncountable agreement",
+    "bengaliHint": "news singular."
+  },
+  {
+    "id": "g21-002",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve: 'He is good in mathematics.'",
+    "options": [
+      "good on",
+      "good at",
+      "good for",
+      "good from"
+    ],
+    "answer": 1,
+    "explanation": "Good at is the standard collocation for ability in a subject.",
+    "rule": "Fixed preposition",
+    "bengaliHint": "good at."
+  },
+  {
+    "id": "g21-003",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve: 'She said that she is tired.'",
+    "options": [
+      "said that is tired",
+      "said that she was tired",
+      "says that she tired",
+      "saying she tired"
+    ],
+    "answer": 1,
+    "explanation": "After the past reporting verb said, the tense is normally backshifted.",
+    "rule": "Reported tense",
+    "bengaliHint": "said→was."
+  },
+  {
+    "id": "g21-004",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve: 'Walking down the road, a dog was seen.'",
+    "options": [
+      "Walking down the road, she saw a dog.",
+      "A dog walking saw the road.",
+      "Walking, the road saw dog.",
+      "The road walking saw."
+    ],
+    "answer": 0,
+    "explanation": "The participial phrase should refer to the subject performing the action.",
+    "rule": "Modifier placement",
+    "bengaliHint": "কে walking করছে?"
+  },
+  {
+    "id": "g21-005",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve: 'This plan is more better.'",
+    "options": [
+      "This plan is most best.",
+      "This plan is better.",
+      "This plan is more good.",
+      "This plan better."
+    ],
+    "answer": 1,
+    "explanation": "Better is already comparative and must not be combined with more.",
+    "rule": "No double comparison",
+    "bengaliHint": "more better নয়."
+  },
+  {
+    "id": "g21-006",
+    "chapter": "g21",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the underlined phrase: 'He made a blunder mistake in the calculation.'",
+    "options": [
+      "He committed a blunder in the calculation.",
+      "He made a big blunder mistake.",
+      "He did a blunder mistake.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "A 'blunder' already means a grave or stupid mistake. 'Blunder mistake' is a redundant error. Additionally, one 'commits' or 'makes' a blunder.",
+    "rule": "Superfluous expression: blunder means big mistake",
+    "bengaliHint": "'Blunder'-এর অর্থই বড় ভুল, তাই 'blunder mistake' বলা ভুল।"
+  },
+  {
+    "id": "g21-007",
+    "chapter": "g21",
+    "type": "correction",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the underlined phrase: 'The boy was trembling with cold.'",
+    "options": [
+      "trembling from cold",
+      "shivering with cold",
+      "shivering from cold",
+      "No improvement"
+    ],
+    "answer": 1,
+    "explanation": "One 'shivers' with cold or fever; one 'trembles' with fear, rage, or weakness.",
+    "rule": "Collocation: shiver with cold vs tremble with fear",
+    "bengaliHint": "ঠান্ডা বা জ্বরে কাঁপলে 'shiver with cold' বলা হয়।"
+  },
+  {
+    "id": "g21-008",
+    "chapter": "g21",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She insists to go there alone.'",
+    "options": [
+      "She insists on going there alone.",
+      "She insists in going there alone.",
+      "She insists to going there alone.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Insist' governs the preposition 'on' followed by a gerund ('insists on going').",
+    "rule": "Fixed preposition: insist on + gerund (-ing)",
+    "bengaliHint": "'Insist'-এর পর preposition 'on' ও gerund (going) বসে।"
+  },
+  {
+    "id": "g21-009",
+    "chapter": "g21",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'I have seen him yesterday at the market.'",
+    "options": [
+      "I saw him yesterday at the market.",
+      "I had seen him yesterday at the market.",
+      "I was seeing him yesterday.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Past time adverbs like 'yesterday', 'ago', 'last night' require the Simple Past tense ('saw'), not the Present Perfect ('have seen').",
+    "rule": "Past time markers take Simple Past tense",
+    "bengaliHint": "'Yesterday' থাকলে Present Perfect নয়, Simple Past (saw) হবে।"
+  },
+  {
+    "id": "g21-010",
+    "chapter": "g21",
+    "type": "correction",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He prevented me to sign the agreement.'",
+    "options": [
+      "He prevented me from signing the agreement.",
+      "He prevented me for signing the agreement.",
+      "He prevented me against signing the agreement.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent', 'prohibit', 'deter' take the preposition 'from' followed by a gerund ('prevented me from signing').",
+    "rule": "Fixed preposition: prevent + object + from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from + gerund' বসে।"
+  },
+  {
+    "id": "g21-011",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-012",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-013",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-014",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-015",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g21-016",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-017",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-018",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-019",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-020",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g21-021",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-022",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-023",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-024",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-025",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g21-026",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-027",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-028",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-029",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-030",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g21-031",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-032",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-033",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-034",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-035",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g21-036",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-037",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-038",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-039",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-040",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  },
+  {
+    "id": "g21-041",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'The criminal was hung yesterday.'",
+    "options": [
+      "The criminal was hanged yesterday.",
+      "The criminal was hanging yesterday.",
+      "The criminal has been hung.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Execution by the neck is 'hanged', not 'hung'.",
+    "rule": "Hang (execute) -> hanged",
+    "bengaliHint": "ফাঁসি দেওয়া অর্থে 'hanged' বসে।"
+  },
+  {
+    "id": "g21-042",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'She is more clever than wise.'",
+    "options": [
+      "She is more clever than wise.",
+      "She is cleverer than wise.",
+      "She is clever than wiser.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When comparing two qualities in the same person, use 'more + positive degree', not '-er' (She is more clever than wise).",
+    "rule": "Comparison of two qualities in one person: more + positive",
+    "bengaliHint": "একই ব্যক্তির দুটি গুণের তুলনায় 'more clever' সঠিক।"
+  },
+  {
+    "id": "g21-043",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He died from malaria.'",
+    "options": [
+      "He died of malaria.",
+      "He died with malaria.",
+      "He died by malaria.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "Death from disease takes 'died of'.",
+    "rule": "Die of a disease",
+    "bengaliHint": "রোগে মৃত্যু বোঝাতে 'died of' বসে।"
+  },
+  {
+    "id": "g21-044",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'Scarcely had he left than it rained.'",
+    "options": [
+      "Scarcely had he left when it rained.",
+      "Scarcely he left when it rained.",
+      "Scarcely did he leave then it rained.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Scarcely' pairs with 'when', not 'than'.",
+    "rule": "Scarcely... when",
+    "bengaliHint": "'Scarcely'-র সাথে 'when' বসে।"
+  },
+  {
+    "id": "g21-045",
+    "chapter": "g21",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Improve the sentence: 'He is senior than me in rank.'",
+    "options": [
+      "He is senior to me in rank.",
+      "He is more senior than me.",
+      "He is senior from me.",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes 'to', never 'than'.",
+    "rule": "Senior to",
+    "bengaliHint": "'Senior'-এর সাথে 'to' বসে।"
+  }
+]

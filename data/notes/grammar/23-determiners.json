@@ -1,0 +1,94 @@
+{
+  "id": "g23",
+  "title": "Determiners & Quantifiers",
+  "intro": "Determiners are words placed before nouns to clarify their reference, quantity, possession, or specificity. In the WBPSC Clerkship examination, questions test tricky quantifier distinctions ('some' vs 'any', 'each' vs 'every', 'all' vs 'whole', 'much' vs 'many', and 'either' vs 'neither').",
+  "bengali": "Determiners হলো এমন নির্দেশক শব্দ যা কোনো Noun-এর পূর্বে বসে সেই Noun-টি নির্দিষ্ট না অনির্দিষ্ট, তার পরিমাণ কত বা কার মালিকানাধীন তা নির্ধারণ করে।\n\nWBPSC Clerkship পরীক্ষায় Determiners থেকে যেসব প্রশ্ন বারবার আসে:\n১. Some বনাম Any:\n   - Some: মূলত হ্যাঁ-বোধক (Affirmative) বাক্যে ব্যবহৃত হয়। যেমন: 'I have some urgent work.' তবে অনুরোধ বা প্রস্তাব বোঝাতে প্রশ্নেও 'some' বসে: 'Will you have some tea?'\n   - Any: না-বোধক (Negative) ও সাধারণ প্রশ্নবোধক (Interrogative) বাক্যে ব্যবহৃত হয়। যেমন: 'I don't have any money', 'Do you have any doubt?'\n   - 'Hardly', 'Scarcely', 'Without'-এর পরে সর্বদা 'any' বসে (কারণ এরা নিজেরাই নেতিবাচক): 'He completed the work without any help.'\n২. Each বনাম Every:\n   - Each: দুই বা ততোধিক ব্যক্তি বা বস্তুর মধ্যে প্রত্যেককে আলাদাভাবে (Individual focus) বোঝাতে বসে।\n   - Every: তিন বা ততোধিক ব্যক্তি বা বস্তুর সবাইকে সামগ্রিকভাবে (Group focus) বোঝাতে বসে। দুইয়ের ক্ষেত্রে 'Every' কখনো বসে না (e.g., 'Each of the two boys', NOT: Every of the two).\n৩. All বনাম Whole:\n   - Whole-এর পূর্বে 'The' বসে: 'The whole country was rejoicing.'\n   - All-এর পরে 'The' বসে: 'All the students were present.'\n৪. Much (পরিমাণ - Uncountable Noun) বনাম Many (সংখ্যা - Countable Plural Noun): 'Much water', 'Many books'।",
+  "rules": [
+    {
+      "rule": "'SOME' is used in Affirmative statements and in Polite Requests / Offers expecting a 'Yes'; 'ANY' is used in Negative statements and General Questions.",
+      "examples": [
+        "Affirmative: I have some important documents to submit to the director.",
+        "Polite Offer (expecting yes): Would you like some hot coffee? (NOT: any coffee).",
+        "Polite Request: Could you lend me some money?",
+        "Negative: He did not give me any information regarding the examination.",
+        "Interrogative: Do you have any objection to this proposal?"
+      ],
+      "exceptions": [
+        "After restrictive/negative words like 'Hardly', 'Scarcely', 'Barely', and 'Without', use 'ANY': 'He left without any money', 'She has hardly any friends'."
+      ]
+    },
+    {
+      "rule": "'EACH' refers to two or more entities considered individually; 'EVERY' refers to three or more entities considered collectively as a complete group.",
+      "examples": [
+        "For exactly two: 'Each of the two applicants was interviewed' (NOT: Every of the two).",
+        "Individual emphasis: 'Each student received a personalized certificate.'",
+        "Group generality: 'Every citizen must obey the law.'",
+        "Part of speech: 'Each' can function as a Pronoun ('Each was given a medal'), but 'Every' is ONLY a Determiner and can never stand alone without a noun."
+      ],
+      "exceptions": [
+        "Never write 'Every of the candidates'—'Every' must be followed by a noun or take 'Everyone of'."
+      ]
+    },
+    {
+      "rule": "Position of 'THE' with 'ALL' and 'WHOLE': 'The' precedes 'WHOLE', but 'The' follows 'ALL'.",
+      "examples": [
+        "The + WHOLE + Singular Noun: 'The whole country celebrated the cricket victory.'",
+        "ALL + The + Plural / Uncountable Noun: 'All the candidates assembled in the hall.'",
+        "Incorrect: Whole the world -> Correct: The whole world.",
+        "Incorrect: The all boys -> Correct: All the boys."
+      ],
+      "exceptions": [
+        "Before proper nouns, write 'the whole of': 'The whole of West Bengal'."
+      ]
+    },
+    {
+      "rule": "'MUCH' modifies Uncountable Nouns denoting quantity; 'MANY' modifies Countable Plural Nouns denoting number.",
+      "examples": [
+        "Much patience, much courage, much information, much water.",
+        "Many applicants, many challenges, many files, many candidates.",
+        "Correct: He does not have much experience in administration."
+      ],
+      "exceptions": [
+        "'A great deal of' or 'A large amount of' modifies uncountable nouns; 'A large number of' modifies countable nouns."
+      ]
+    },
+    {
+      "rule": "'EITHER' and 'NEITHER' denote choice between exactly TWO entities; for three or more entities, use 'ANY' / 'NONE'.",
+      "examples": [
+        "Between two: 'You may take either of the two routes to Howrah' (one of two).",
+        "Between two: 'Neither of the two candidates was selected' (none of two).",
+        "For three or more: 'None of the five applicants was selected' (NOT: Neither of the five).",
+        "For three or more: 'You can choose any of the four options' (NOT: either of the four)."
+      ],
+      "exceptions": [
+        "Using 'neither' or 'either' for three or more entities is an immediate error in WBPSC."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Neither of the three boys came' instead of 'None of the three boys came' (neither is strictly for two).",
+    "Writing 'He did it without some help' instead of 'without any help' (without demands any).",
+    "Writing 'All the whole world' or 'Whole the city' instead of 'The whole city'.",
+    "Saying 'Can you give me any water?' instead of 'some water' (polite requests use some).",
+    "Writing 'Every of the two candidates' instead of 'Each of the two candidates' (every cannot be used for two)."
+  ],
+  "examTricks": [
+    "The 'Two vs Three+' Rule: Two entities = Either / Neither / Each. Three or more = Any / None / All / Every.",
+    "The 'Some in Questions' Hack: If offering food, drink, or politely requesting -> ALWAYS use SOME ('Would you like some tea?').",
+    "The 'Without/Hardly' Magnet: Hardly, scarcely, without -> ALWAYS attracts ANY.",
+    "The 'The' Position: THE whole world; ALL THE boys."
+  ],
+  "memoryTricks": [
+    "THE comes BEFORE Whole, but AFTER All.",
+    "NEITHER for TWO; NONE for the CREW."
+  ],
+  "revision": [
+    "Some = Affirmative + Polite requests (Would you like some coffee?).",
+    "Any = Negative + Questions + after hardly/without.",
+    "Each = 2 or more (individual); Every = 3 or more (group).",
+    "The whole + singular noun; All the + plural noun.",
+    "Much = Quantity (uncountable); Many = Number (countable).",
+    "Either / Neither = exactly 2; Any / None = 3 or more.",
+    "Neither takes singular verb: Neither of the two books is good."
+  ]
+}

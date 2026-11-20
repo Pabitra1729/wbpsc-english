@@ -1,0 +1,716 @@
+[
+  {
+    "num": 1,
+    "term": "Achilles' heel",
+    "meaning": "A person's weak point",
+    "bengali": "দুর্বল দিক",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 2,
+    "term": "Apple of one's eye",
+    "meaning": "A dearly loved person",
+    "bengali": "নয়নের মণি / অতি আদরের ব্যক্তি",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 3,
+    "term": "At loggerheads",
+    "meaning": "In strong disagreement",
+    "bengali": "তীব্র মতবিরোধে লিপ্ত",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 4,
+    "term": "At sixes and sevens",
+    "meaning": "In a state of confusion",
+    "bengali": "কিংকর্তব্যবিমূঢ় / দিশেহারা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 5,
+    "term": "Bad blood",
+    "meaning": "Ill feeling between people",
+    "bengali": "পুনরায় প্রথম অবস্থায় ফিরে যাওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 6,
+    "term": "Beat about the bush",
+    "meaning": "Avoid coming to the point",
+    "bengali": "তিক্ত শত্রুতা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 7,
+    "term": "Bell the cat",
+    "meaning": "Undertake a risky task on behalf of others",
+    "bengali": "কুসুমাস্তীর্ণ শয্যা / আরামদায়ক অবস্থা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 8,
+    "term": "Between the devil and the deep sea",
+    "meaning": "In a dilemma with two bad choices",
+    "bengali": "ঘুরিয়ে ফিরিয়ে কথা বলা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 9,
+    "term": "Bite the bullet",
+    "meaning": "Face a painful situation bravely",
+    "bengali": "কারারুদ্ধ / জেলে বন্দি",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 10,
+    "term": "A blessing in disguise",
+    "meaning": "Something that seems bad at first but turns out good",
+    "bengali": "অন্যায় আঘাত হানা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 11,
+    "term": "Blow one's own trumpet",
+    "meaning": "Boast about oneself",
+    "bengali": "অপ্রিয় পরিস্থিতি মেনে নেওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 12,
+    "term": "A bolt from the blue",
+    "meaning": "A sudden, completely unexpected event",
+    "bengali": "নিজের ঢাক নিজে পেটানো",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 13,
+    "term": "Bread and butter",
+    "meaning": "One's livelihood",
+    "bengali": "বিবাদের মূল কারণ",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 14,
+    "term": "Break the ice",
+    "meaning": "Start a conversation in an awkward situation",
+    "bengali": "আড়ষ্টতা ভেঙে কথা শুরু করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 15,
+    "term": "Build castles in the air",
+    "meaning": "Indulge in daydreams",
+    "bengali": "রাত জেগে কঠোর পরিশ্রম করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 16,
+    "term": "Burn the midnight oil",
+    "meaning": "Work or study late into the night",
+    "bengali": "বিবাদ মিটিয়ে বন্ধুত্ব করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 17,
+    "term": "Bury the hatchet",
+    "meaning": "Make peace after a quarrel",
+    "bengali": "অনিয়মিতভাবে / মাঝে মাঝে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 18,
+    "term": "By and large",
+    "meaning": "Generally; on the whole",
+    "bengali": "যে কোনো প্রকারে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 19,
+    "term": "By leaps and bounds",
+    "meaning": "Very rapidly",
+    "bengali": "অত্যন্ত দ্রুতগতিতে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 20,
+    "term": "Call it a day",
+    "meaning": "Stop working for the day",
+    "bengali": "স্পষ্ট ও অকপট কথা বলা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 21,
+    "term": "Carry coals to Newcastle",
+    "meaning": "Do something unnecessary",
+    "bengali": "দিনের মতো কাজ শেষ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 22,
+    "term": "Cock and bull story",
+    "meaning": "An unbelievable story",
+    "bengali": "হাতে-নাতে ধরা পড়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 23,
+    "term": "Cry over spilt milk",
+    "meaning": "Regret what cannot be undone",
+    "bengali": "পিতামাতার স্বভাবের মতো",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 24,
+    "term": "Cry wolf",
+    "meaning": "Raise a false alarm",
+    "bengali": "আজগুবি গাঁজাখুরি গল্প",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 25,
+    "term": "Cut a sorry figure",
+    "meaning": "Make a poor impression",
+    "bengali": "হঠাৎ সাহস হারিয়ে ফেলা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 26,
+    "term": "Dark horse",
+    "meaning": "A person with unknown abilities who surprises everyone",
+    "bengali": "মায়াকান্না / কৃত্রিম কান্না",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 27,
+    "term": "A drop in the ocean",
+    "meaning": "A very small amount compared with what is needed",
+    "bengali": "অতীত ক্ষতি নিয়ে বৃথা অনুশোচনা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 28,
+    "term": "Eat humble pie",
+    "meaning": "Apologise humbly",
+    "bengali": "মিথ্যা বিপদের ভয় দেখানো",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 29,
+    "term": "Face the music",
+    "meaning": "Accept the consequences or punishment",
+    "bengali": "নিজের পছন্দের বিষয়",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 30,
+    "term": "Fall flat",
+    "meaning": "Fail to produce the expected effect",
+    "bengali": "অপ্রত্যাশিত প্রতিভাবান ব্যক্তি",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 31,
+    "term": "Fish in troubled waters",
+    "meaning": "Take advantage of a confused situation",
+    "bengali": "মহাসমুদ্রে এক ফোঁটা জল / অতি সামান্য",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 32,
+    "term": "Flash in the pan",
+    "meaning": "A brief success that is not repeated",
+    "bengali": "সুসময়ের বন্ধু",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 33,
+    "term": "Fool's paradise",
+    "meaning": "A state of false happiness",
+    "bengali": "গৌরবের নতুন পালক",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 34,
+    "term": "From pillar to post",
+    "meaning": "From one place to another",
+    "bengali": "অস্বস্তিকর পরিস্থিতিতে পড়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 35,
+    "term": "Get cold feet",
+    "meaning": "Lose courage at the last moment",
+    "bengali": "হঠাৎ প্রচণ্ড রেগে যাওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 36,
+    "term": "Give up the ghost",
+    "meaning": "Die",
+    "bengali": "এক স্থান থেকে অন্য স্থানে ছোটাছুটি",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 37,
+    "term": "Go the extra mile",
+    "meaning": "Make an additional effort",
+    "bengali": "ভয় পাওয়া / দ্বিধান্বিত হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 38,
+    "term": "Go to the dogs",
+    "meaning": "Be ruined",
+    "bengali": "সুন্দর কথা বলার সহজাত ক্ষমতা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 39,
+    "term": "Hand in glove",
+    "meaning": "In close association",
+    "bengali": "সঠিক সময়ে একদম খাঁটি কথা বলা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 40,
+    "term": "Hard and fast",
+    "meaning": "Fixed and strict",
+    "bengali": "অতি সংক্ষেপে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 41,
+    "term": "Have an axe to grind",
+    "meaning": "Have a selfish motive",
+    "bengali": "অত্যন্ত উৎফুল্ল মেজাজে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 42,
+    "term": "High and dry",
+    "meaning": "Stranded and helpless",
+    "bengali": "একেবারে শেষ মুহূর্তে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 43,
+    "term": "Hit the nail on the head",
+    "meaning": "Say exactly the right thing",
+    "bengali": "এক ঢিলে দুই পাখি মারা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 44,
+    "term": "Hold water",
+    "meaning": "Be logical and valid",
+    "bengali": "বিপদে ফেলে পালিয়ে যাওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 45,
+    "term": "A hot potato",
+    "meaning": "A controversial issue that is risky to handle",
+    "bengali": "গোপন তথ্য ফাঁস করে দেওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 46,
+    "term": "Hue and cry",
+    "meaning": "A loud public protest",
+    "bengali": "কোনোমতে দিন গুজরান করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 47,
+    "term": "In a nutshell",
+    "meaning": "In brief",
+    "bengali": "কদাচিৎ / ডুমুরের ফুল",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 48,
+    "term": "In hot water",
+    "meaning": "In trouble",
+    "bengali": "স্মরণীয় শুভ দিন",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 49,
+    "term": "Keep one's fingers crossed",
+    "meaning": "Hope for good luck",
+    "bengali": "গোপন কথা ফাঁস করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 50,
+    "term": "Keep the wolf from the door",
+    "meaning": "Avoid starvation",
+    "bengali": "সামান্য কারণে তুলকালাম কাণ্ড",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 51,
+    "term": "Kill two birds with one stone",
+    "meaning": "Achieve two aims with one effort",
+    "bengali": "সন্দেহের চোখে দেখা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 52,
+    "term": "The last straw",
+    "meaning": "The final thing that makes a situation unbearable",
+    "bengali": "সুখে-দুঃখে সর্বাবস্থায়",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 53,
+    "term": "Leave no stone unturned",
+    "meaning": "Try every possible means",
+    "bengali": "কথা কানে না তোলা / অগ্রাহ্য করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 54,
+    "term": "Lend a hand",
+    "meaning": "Help",
+    "bengali": "অসুস্থ বা দুর্বল বোধ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 55,
+    "term": "Let the cat out of the bag",
+    "meaning": "Reveal a secret",
+    "bengali": "পণ্ডশ্রম",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 56,
+    "term": "The lion's share",
+    "meaning": "The largest part",
+    "bengali": "চূড়ান্ত মাহেন্দ্রক্ষণ",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 57,
+    "term": "Make hay while the sun shines",
+    "meaning": "Use an opportunity while it lasts",
+    "bengali": "অপ্রত্যাশিত ভাগ্যলাভ",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 58,
+    "term": "Man of straw",
+    "meaning": "A person of no substance",
+    "bengali": "উপযুক্ত ব্যক্তি উপযুক্ত স্থানে",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 59,
+    "term": "Method in madness",
+    "meaning": "Order beneath apparent craziness",
+    "bengali": "একমত হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 60,
+    "term": "Moot point",
+    "meaning": "A debatable question",
+    "bengali": "নাক গলানো / হস্তক্ষেপ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 61,
+    "term": "Now and then",
+    "meaning": "Occasionally",
+    "bengali": "সহজসাধ্য কাজ / খুব সহজ",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 62,
+    "term": "Null and void",
+    "meaning": "Having no legal force",
+    "bengali": "সন্দেহজনক কিছু আঁচ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 63,
+    "term": "Odds and ends",
+    "meaning": "Miscellaneous small items",
+    "bengali": "গোপন শত্রু",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 64,
+    "term": "Once in a blue moon",
+    "meaning": "Very rarely",
+    "bengali": "দ্বিধাদ্বন্দ্বে থাকা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 65,
+    "term": "Out and out",
+    "meaning": "Completely",
+    "bengali": "অন্যের কৃতিত্ব চুরি করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 66,
+    "term": "Out of the blue",
+    "meaning": "Unexpectedly",
+    "bengali": "অনমনীয় থাকা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 67,
+    "term": "Over the moon",
+    "meaning": "Extremely happy",
+    "bengali": "উত্তেজনাপূর্ণ চরম মুহূর্ত",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 68,
+    "term": "Part and parcel",
+    "meaning": "An essential part",
+    "bengali": "সুনাম রক্ষা করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 69,
+    "term": "Pay lip service",
+    "meaning": "Express support without acting on it",
+    "bengali": "বিপদের ঝুঁকি নেওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 70,
+    "term": "A piece of cake",
+    "meaning": "Something very easy",
+    "bengali": "অসম্ভব প্রত্যাশা করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 71,
+    "term": "Play second fiddle",
+    "meaning": "Take a subordinate role",
+    "bengali": "কঠোর শাসন করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 72,
+    "term": "Pour oil on troubled waters",
+    "meaning": "Calm a quarrel",
+    "bengali": "লজ্জায় লাল হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 73,
+    "term": "Pull someone's leg",
+    "meaning": "Tease or joke with someone",
+    "bengali": "ব্যর্থতায় পর্যবসিত হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 74,
+    "term": "Raining cats and dogs",
+    "meaning": "Raining very heavily",
+    "bengali": "উদ্বেগহীন শান্ত থাকা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 75,
+    "term": "Rank and file",
+    "meaning": "Ordinary members of a group",
+    "bengali": "কৌতূহলবশত বিপদ ডেকে আনা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 76,
+    "term": "Read between the lines",
+    "meaning": "Understand the hidden meaning",
+    "bengali": "অসম্ভব কোনো কিছু কল্পনা করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 77,
+    "term": "A red-letter day",
+    "meaning": "A memorable, joyful day",
+    "bengali": "সতর্ক দৃষ্টি রাখা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 78,
+    "term": "Rest on one's laurels",
+    "meaning": "Be satisfied with past success",
+    "bengali": "ভুল পথে অনুসন্ধান চালানো",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 79,
+    "term": "Rise to the occasion",
+    "meaning": "Show the ability to handle a situation",
+    "bengali": "অতীত স্মৃতি রোমন্থন করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 80,
+    "term": "Rub shoulders with",
+    "meaning": "Mix with",
+    "bengali": "নিজের স্বার্থ উদ্ধার করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 81,
+    "term": "Run of the mill",
+    "meaning": "Ordinary",
+    "bengali": "আসল বিষয়ে আসা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 82,
+    "term": "Safe and sound",
+    "meaning": "Unharmed",
+    "bengali": "সতর্কতা অবলম্বন করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 83,
+    "term": "See eye to eye",
+    "meaning": "Agree completely",
+    "bengali": "কষ্ট সহ্য করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 84,
+    "term": "Show the white feather",
+    "meaning": "Show cowardice",
+    "bengali": "অতি কষ্টে জীবনধারণ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 85,
+    "term": "Smell a rat",
+    "meaning": "Suspect that something is wrong",
+    "bengali": "ধূমপানের মতো নিঃশেষ হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 86,
+    "term": "Spick and span",
+    "meaning": "Clean and tidy",
+    "bengali": "কোনো সিদ্ধান্তের অপেক্ষায় থাকা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 87,
+    "term": "Spill the beans",
+    "meaning": "Reveal a secret",
+    "bengali": "অন্যের কথায় প্রভাবিত হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 88,
+    "term": "Split hairs",
+    "meaning": "Make petty distinctions",
+    "bengali": "বিপদে পাশে থাকা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 89,
+    "term": "Stand on ceremony",
+    "meaning": "Behave in a formal way",
+    "bengali": "সমস্যা এড়িয়ে যাওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 90,
+    "term": "Take the bull by the horns",
+    "meaning": "Face a difficulty boldly",
+    "bengali": "অসম্ভব আশা ত্যাগ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 91,
+    "term": "Take to heart",
+    "meaning": "Feel something deeply",
+    "bengali": "নিজের ভুলে ফেঁসে যাওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 92,
+    "term": "Throw in the towel",
+    "meaning": "Give up",
+    "bengali": "হাল ছেড়ে দেওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 93,
+    "term": "Time and again",
+    "meaning": "Repeatedly",
+    "bengali": "আশা জাগানিয়া দিক",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 94,
+    "term": "Tooth and nail",
+    "meaning": "With all one's strength",
+    "bengali": "পরিস্থিতি পর্যবেক্ষণ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 95,
+    "term": "Turn a deaf ear",
+    "meaning": "Refuse to listen",
+    "bengali": "স্পষ্টবাদী হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 96,
+    "term": "Under the weather",
+    "meaning": "Slightly ill",
+    "bengali": "সুযোগ হাতছাড়া না করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 97,
+    "term": "Ups and downs",
+    "meaning": "Changes in fortune",
+    "bengali": "ধীরে সুস্থে এগিয়ে চলা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 98,
+    "term": "Wash one's dirty linen in public",
+    "meaning": "Discuss private quarrels in public",
+    "bengali": "বিপদের মুখোমুখি হওয়া",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 99,
+    "term": "A white elephant",
+    "meaning": "A costly possession that is useless",
+    "bengali": "ভুল বুঝতে পারা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 100,
+    "term": "Wild goose chase",
+    "meaning": "A futile search",
+    "bengali": "ধৈর্য ধারণ করা",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 101,
+    "term": "With flying colours",
+    "meaning": "With great success",
+    "bengali": "সফলতার চূড়ায় পৌঁছানো",
+    "category": "Idiom / Phrase"
+  },
+  {
+    "num": 102,
+    "term": "Zero hour",
+    "meaning": "The critical moment",
+    "bengali": "চূড়ান্ত সময় / ডেডলাইন",
+    "category": "Idiom / Phrase"
+  }
+]

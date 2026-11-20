@@ -1,0 +1,368 @@
+/* ==========================================================================
+   TEST ENGINE & RESULT STYLES - WBPSC Clerkship English
+   Precision CBT (Computer-Based Test) & Performance Analytics
+   ========================================================================== */
+
+.quiz-shell {
+  margin-top: 1.5rem;
+}
+
+.test-layout {
+  max-width: 1180px;
+}
+
+/* ==========================================================================
+   TEST HEADER & COUNTDOWN TIMER
+   ========================================================================== */
+
+.test-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.75rem;
+  padding: 1.35rem 2rem;
+  border-radius: var(--radius-xl);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  position: relative;
+}
+
+.test-header h1 {
+  margin: 0.25rem 0 0;
+  font-size: clamp(1.35rem, 2.5vw, 1.75rem);
+  font-weight: 850;
+  color: var(--text);
+  letter-spacing: -0.02em;
+}
+
+.timer {
+  font-size: 1.65rem;
+  font-weight: 850;
+  font-variant-numeric: tabular-nums;
+  color: var(--primary);
+  background: var(--primary-soft);
+  padding: 0.45rem 1.15rem;
+  border-radius: var(--radius-md);
+  border: 1.5px solid var(--primary-border);
+  letter-spacing: 0.08em;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  box-shadow: var(--shadow-xs);
+  transition: all var(--transition-fast);
+}
+
+.timer.warning {
+  color: var(--warning);
+  background: var(--warning-soft);
+  border-color: var(--warning-border);
+}
+
+.timer.danger {
+  color: var(--danger);
+  background: var(--danger-soft);
+  border-color: var(--danger-border);
+  animation: timerPulse 1s infinite alternate;
+}
+
+@keyframes timerPulse {
+  from { transform: scale(1); }
+  to { transform: scale(1.03); box-shadow: 0 0 12px var(--danger-glow); }
+}
+
+/* ==========================================================================
+   TEST BODY & QUESTION AREA
+   ========================================================================== */
+
+.test-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 310px;
+  gap: 1.75rem;
+  align-items: start;
+}
+
+#question-area {
+  padding: 2.25rem;
+  border-radius: var(--radius-xl);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+}
+
+.question-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+  margin-bottom: 1.5rem;
+  font-size: 0.92rem;
+  color: var(--muted);
+  font-weight: 650;
+}
+
+#question-area h2 {
+  font-size: clamp(1.2rem, 2.2vw, 1.45rem);
+  font-weight: 750;
+  line-height: 1.55;
+  margin: 0.5rem 0 1.5rem;
+  color: var(--text);
+}
+
+.test-options {
+  display: grid;
+  gap: 0.85rem;
+  margin: 1.75rem 0;
+}
+
+.test-option {
+  text-align: left;
+  padding: 1.1rem 1.4rem;
+  border-radius: var(--radius-md);
+  font-size: 1.04rem;
+  font-weight: 550;
+  border: 1.5px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  transition: all var(--transition-fast);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+.test-option:hover {
+  background: var(--surface-subtle);
+  border-color: var(--primary);
+  transform: translateX(3px);
+}
+
+.test-option.selected {
+  border-color: var(--primary) !important;
+  background: var(--primary-soft) !important;
+  color: var(--primary) !important;
+  font-weight: 750;
+  box-shadow: 0 0 0 1px var(--primary) inset;
+}
+
+.test-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+
+.test-actions > div {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+/* ==========================================================================
+   QUESTION PALETTE & SIDEBAR
+   ========================================================================== */
+
+.test-sidebar {
+  position: sticky;
+  top: 1.75rem;
+  padding: 1.75rem;
+  border-radius: var(--radius-xl);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+}
+
+.test-sidebar h2 {
+  font-size: 1.15rem;
+  font-weight: 800;
+  margin: 0 0 1.15rem;
+  letter-spacing: -0.015em;
+  color: var(--text);
+}
+
+.palette {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.6rem;
+}
+
+.palette-item {
+  aspect-ratio: 1;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  color: var(--text-secondary);
+  font-weight: 750;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  display: grid;
+  place-items: center;
+  user-select: none;
+}
+
+.palette-item:hover {
+  border-color: var(--primary);
+  transform: scale(1.06);
+}
+
+.palette-item.answered {
+  background: var(--success) !important;
+  color: #ffffff !important;
+  border-color: var(--success) !important;
+  box-shadow: 0 2px 4px var(--success-glow);
+}
+
+.palette-item.marked {
+  background: var(--warning-soft) !important;
+  border: 2px dashed var(--warning) !important;
+  color: var(--warning) !important;
+  font-weight: 800;
+}
+
+.palette-item.current {
+  border: 2.5px solid var(--primary) !important;
+  box-shadow: 0 0 0 3px var(--primary-glow);
+  transform: scale(1.05);
+}
+
+.palette-legend {
+  display: grid;
+  gap: 0.6rem;
+  margin: 1.5rem 0 1.25rem;
+  font-size: 0.84rem;
+  font-weight: 650;
+  color: var(--text-secondary);
+}
+
+.palette-legend span {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.status {
+  width: 16px;
+  height: 16px;
+  border-radius: var(--radius-xs);
+  display: inline-block;
+  border: 1.5px solid var(--border);
+  flex-shrink: 0;
+}
+
+.status.answered {
+  background: var(--success);
+  border-color: var(--success);
+}
+
+.status.marked {
+  background: var(--warning-soft);
+  border: 2px dashed var(--warning);
+}
+
+.status.current {
+  border: 2.5px solid var(--primary);
+  background: var(--primary-soft);
+}
+
+.full-width {
+  width: 100%;
+}
+
+/* ==========================================================================
+   RESULT & PERFORMANCE ANALYTICS PAGE
+   ========================================================================== */
+
+.result-summary {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.topic-row {
+  display: grid;
+  grid-template-columns: minmax(190px, 1fr) 2fr 75px;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 0.85rem 0;
+  padding: 0.95rem 1.25rem;
+  background: var(--surface-subtle);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  transition: all var(--transition-fast);
+}
+
+.topic-row:hover {
+  background: var(--surface);
+  border-color: var(--primary-border);
+  box-shadow: var(--shadow-xs);
+}
+
+.progress {
+  height: 10px;
+  border-radius: var(--radius-pill);
+  background: var(--border);
+  overflow: hidden;
+}
+
+.progress i {
+  display: block;
+  height: 100%;
+  background: var(--gradient-brand);
+  border-radius: var(--radius-pill);
+  transition: width 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.solution-item {
+  padding: 1.35rem 1.65rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--border);
+  margin-bottom: 1.25rem;
+  background: var(--surface);
+  box-shadow: var(--shadow-xs);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.solution-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.solution-item.correct {
+  border-left-color: var(--success);
+}
+
+.solution-item.wrong {
+  border-left-color: var(--danger);
+}
+
+.solution-item.unattempted {
+  border-left-color: var(--warning);
+}
+
+@media (max-width: 900px) {
+  .test-body {
+    grid-template-columns: 1fr;
+  }
+
+  .test-sidebar {
+    position: static;
+  }
+
+  .palette {
+    grid-template-columns: repeat(8, 1fr);
+  }
+
+  .topic-row {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+}

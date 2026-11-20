@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "v06-001",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct spelling.",
+    "options": [
+      "colour",
+      "culour",
+      "coloor",
+      "colouar"
+    ],
+    "answer": 0,
+    "explanation": "Colour is the standard British/Indian English spelling.",
+    "rule": "British spelling",
+    "bengaliHint": "রং—British form."
+  },
+  {
+    "id": "v06-002",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correct spelling.",
+    "options": [
+      "commitee",
+      "committee",
+      "committe",
+      "committi"
+    ],
+    "answer": 1,
+    "explanation": "Committee is spelled with double m and double t.",
+    "rule": "Double letters",
+    "bengaliHint": "committee."
+  },
+  {
+    "id": "v06-003",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct spelling.",
+    "options": [
+      "seperate",
+      "seprate",
+      "separate",
+      "separete"
+    ],
+    "answer": 2,
+    "explanation": "Separate uses a before t and e in the second syllable.",
+    "rule": "Common spelling pattern",
+    "bengaliHint": "separate."
+  },
+  {
+    "id": "v06-004",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "accommodation",
+      "acommodation",
+      "accomodation",
+      "accomadation"
+    ],
+    "answer": 0,
+    "explanation": "Accommodation has double c and double m.",
+    "rule": "Silent visual pattern",
+    "bengaliHint": "double c + double m."
+  },
+  {
+    "id": "v06-005",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Accommadation"
+    ],
+    "answer": 1,
+    "explanation": "Correct spelling is 'Accommodation' (double 'c', double 'm').",
+    "rule": "Spelling rule: Accommodation has double 'c' and double 'm'",
+    "bengaliHint": "'Accommodation'-এ দুটি 'c' এবং দুটি 'm' থাকে।"
+  },
+  {
+    "id": "v06-006",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Privilege",
+      "Privelege",
+      "Priviledge",
+      "Privlege"
+    ],
+    "answer": 0,
+    "explanation": "Correct spelling is 'Privilege' (P-R-I-V-I-L-E-G-E, no 'd').",
+    "rule": "Spelling: Privilege has no 'd'",
+    "bengaliHint": "'Privilege' বানানে কোনো 'd' নেই।"
+  },
+  {
+    "id": "v06-007",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Bureaucracy",
+      "Beurocracy",
+      "Bureaucrasy",
+      "Bureacracy"
+    ],
+    "answer": 0,
+    "explanation": "Correct spelling is 'Bureaucracy' (B-U-R-E-A-U-C-R-A-C-Y).",
+    "rule": "Spelling: Bureaucracy",
+    "bengaliHint": "আমলাতন্ত্র বানান: 'Bureaucracy' (bureau + cracy)।"
+  },
+  {
+    "id": "v06-008",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Mischievious",
+      "Mischievous",
+      "Mischevous",
+      "Mischivous"
+    ],
+    "answer": 1,
+    "explanation": "Correct spelling is 'Mischievous' (three syllables: mis-chie-vous; there is no 'i' after 'v').",
+    "rule": "Spelling: Mischievous ends in -vous, not -vious",
+    "bengaliHint": "'Mischievous' বানানে 'v'-এর পর কোনো 'i' থাকে না।"
+  },
+  {
+    "id": "v06-009",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Questionaire",
+      "Questionnaire",
+      "Questionair",
+      "Questionnare"
+    ],
+    "answer": 1,
+    "explanation": "Correct spelling is 'Questionnaire' (double 'n' before '-aire').",
+    "rule": "Spelling: Questionnaire has double 'n'",
+    "bengaliHint": "'Questionnaire'-এ 'question' শব্দের পর দুটি 'n' এবং 'aire' বসে।"
+  },
+  {
+    "id": "v06-010",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Occurrence",
+      "Occurence",
+      "Ocurrence",
+      "Occurance"
+    ],
+    "answer": 0,
+    "explanation": "Correct spelling is 'Occurrence' (double 'c', double 'r', ending in '-ence').",
+    "rule": "Spelling: Occurrence has double 'c', double 'r', and ends in -ence",
+    "bengaliHint": "'Occurrence'-এ দুটি 'c' এবং দুটি 'r' থাকে।"
+  },
+  {
+    "id": "v06-011",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-012",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-013",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-014",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-015",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-016",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-017",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-018",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-019",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-020",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-021",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-022",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-023",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-024",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-025",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-026",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-027",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-028",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-029",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-030",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-031",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-032",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-033",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-034",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-035",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-036",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-037",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-038",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-039",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-040",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-041",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Committee",
+      "Comittee",
+      "Committe",
+      "Comitte"
+    ],
+    "answer": 0,
+    "explanation": "'Committee' has double 'm', double 't', and double 'e' (C-O-M-M-I-T-T-E-E).",
+    "rule": "Spelling: Committee (double m, t, e)",
+    "bengaliHint": "'Committee' বানানে দুটি m, দুটি t এবং দুটি e থাকে।"
+  },
+  {
+    "id": "v06-042",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Embarrass",
+      "Embaras",
+      "Embarass",
+      "Emberrass"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+    "rule": "Spelling: Embarrass (double r, double s)",
+    "bengaliHint": "'Embarrass' বানানে দুটি r এবং দুটি s থাকে।"
+  },
+  {
+    "id": "v06-043",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Sepperate"
+    ],
+    "answer": 0,
+    "explanation": "'Separate' is spelled with 'a' in the middle (S-E-P-A-R-A-T-E).",
+    "rule": "Spelling: Separate (has 'a' not 'e' in middle)",
+    "bengaliHint": "'Separate' বানানের মাঝে 'a' থাকে।"
+  },
+  {
+    "id": "v06-044",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Conscientous",
+      "Conscensious"
+    ],
+    "answer": 0,
+    "explanation": "'Conscientious' is spelled C-O-N-S-C-I-E-N-T-I-O-U-S.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "কর্তব্যপরায়ণ বানান: 'Conscientious'।"
+  },
+  {
+    "id": "v06-045",
+    "chapter": "v06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Guarantee",
+      "Garantee",
+      "Gaurantee",
+      "Guarentee"
+    ],
+    "answer": 0,
+    "explanation": "'Guarantee' begins with G-U-A-R-A-N-T-E-E.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee' শুরু হয় 'gua' দিয়ে।"
+  },
+  {
+    "id": "v06-046",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Accomadation"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Accommodation'.",
+    "rule": "Spelling: Accommodation",
+    "bengaliHint": "'Accommodation'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-047",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Neccessary",
+      "Necesary",
+      "Necessary",
+      "Neccesary"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Necessary'.",
+    "rule": "Spelling: Necessary",
+    "bengaliHint": "'Necessary'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-048",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Embarass",
+      "Embarrass",
+      "Embarras",
+      "Embarrase"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Embarrass'.",
+    "rule": "Spelling: Embarrass",
+    "bengaliHint": "'Embarrass'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-049",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Occurence",
+      "Ocurrence",
+      "Occurrence",
+      "Occurance"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Occurrence'.",
+    "rule": "Spelling: Occurrence",
+    "bengaliHint": "'Occurrence'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-050",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Seperate",
+      "Separate",
+      "Separete",
+      "Sepparate"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Separate'.",
+    "rule": "Spelling: Separate",
+    "bengaliHint": "'Separate'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-051",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Definately",
+      "Definitly",
+      "Definitely",
+      "Defanitely"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Definitely'.",
+    "rule": "Spelling: Definitely",
+    "bengaliHint": "'Definitely'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-052",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Priviledge",
+      "Privilege",
+      "Privelege",
+      "Privilage"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Privilege'.",
+    "rule": "Spelling: Privilege",
+    "bengaliHint": "'Privilege'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-053",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Conscience",
+      "Consience",
+      "Conscions",
+      "Concience"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is 'Conscience'.",
+    "rule": "Spelling: Conscience",
+    "bengaliHint": "'Conscience'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-054",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Maintainance",
+      "Maintenence",
+      "Maintenance",
+      "Maintanance"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Maintenance'.",
+    "rule": "Spelling: Maintenance",
+    "bengaliHint": "'Maintenance'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-055",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Rythm",
+      "Rhythm",
+      "Rhythem",
+      "Rhytm"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Rhythm'.",
+    "rule": "Spelling: Rhythm",
+    "bengaliHint": "'Rhythm'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-056",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Millenium",
+      "Millennium",
+      "Milennium",
+      "Millenum"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Millennium'.",
+    "rule": "Spelling: Millennium",
+    "bengaliHint": "'Millennium'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-057",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Perseverence",
+      "Perseverance",
+      "Persaverance",
+      "Perserverance"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Perseverance'.",
+    "rule": "Spelling: Perseverance",
+    "bengaliHint": "'Perseverance'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-058",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Comittee",
+      "Commitee",
+      "Committee",
+      "Comittie"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Committee'.",
+    "rule": "Spelling: Committee",
+    "bengaliHint": "'Committee'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-059",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Assassination",
+      "Asassination",
+      "Assasination",
+      "Assassanation"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is 'Assassination'.",
+    "rule": "Spelling: Assassination",
+    "bengaliHint": "'Assassination'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-060",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Questionaire",
+      "Questionnaire",
+      "Quesstionnaire",
+      "Questionnare"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Questionnaire'.",
+    "rule": "Spelling: Questionnaire",
+    "bengaliHint": "'Questionnaire'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-061",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Paralel",
+      "Parallel",
+      "Parralel",
+      "Parellel"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Parallel'.",
+    "rule": "Spelling: Parallel",
+    "bengaliHint": "'Parallel'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-062",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Independant",
+      "Independent",
+      "Independint",
+      "Indipendent"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Independent'.",
+    "rule": "Spelling: Independent",
+    "bengaliHint": "'Independent'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-063",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Gaurantee",
+      "Garantee",
+      "Guarentee",
+      "Guarantee"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is 'Guarantee'.",
+    "rule": "Spelling: Guarantee",
+    "bengaliHint": "'Guarantee'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-064",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Reccomend",
+      "Recommend",
+      "Recomend",
+      "Recomment"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Recommend'.",
+    "rule": "Spelling: Recommend",
+    "bengaliHint": "'Recommend'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-065",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Beaurocracy",
+      "Bureaucrasy",
+      "Bureaucracy",
+      "Buraucracy"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Bureaucracy'.",
+    "rule": "Spelling: Bureaucracy",
+    "bengaliHint": "'Bureaucracy'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-066",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Pronounciation",
+      "Pronunciation",
+      "Pronunciaton",
+      "Pronuciation"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Pronunciation'.",
+    "rule": "Spelling: Pronunciation",
+    "bengaliHint": "'Pronunciation'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-067",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Aquaintance",
+      "Acquaintence",
+      "Acquaintance",
+      "Acqaintance"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Acquaintance'.",
+    "rule": "Spelling: Acquaintance",
+    "bengaliHint": "'Acquaintance'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-068",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Conscientious",
+      "Consientious",
+      "Conscentious",
+      "Conscienscious"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is 'Conscientious'.",
+    "rule": "Spelling: Conscientious",
+    "bengaliHint": "'Conscientious'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-069",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Supercede",
+      "Supersede",
+      "Superceed",
+      "Supersead"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Supersede'.",
+    "rule": "Spelling: Supersede",
+    "bengaliHint": "'Supersede'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-070",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Rendezvouz",
+      "Rendevous",
+      "Rendezvous",
+      "Rendezvus"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Rendezvous'.",
+    "rule": "Spelling: Rendezvous",
+    "bengaliHint": "'Rendezvous'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-071",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Acheivement",
+      "Achievment",
+      "Achievement",
+      "Achivement"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Achievement'.",
+    "rule": "Spelling: Achievement",
+    "bengaliHint": "'Achievement'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-072",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Apparant",
+      "Apparent",
+      "Aparent",
+      "Apparrent"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Apparent'.",
+    "rule": "Spelling: Apparent",
+    "bengaliHint": "'Apparent'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-073",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Calender",
+      "Calandar",
+      "Calendar",
+      "Calendre"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Calendar'.",
+    "rule": "Spelling: Calendar",
+    "bengaliHint": "'Calendar'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-074",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Catagory",
+      "Category",
+      "Cateogry",
+      "Categorey"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Category'.",
+    "rule": "Spelling: Category",
+    "bengaliHint": "'Category'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-075",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Cemetary",
+      "Cematery",
+      "Cemmetery",
+      "Cemetery"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is 'Cemetery'.",
+    "rule": "Spelling: Cemetery",
+    "bengaliHint": "'Cemetery'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-076",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Changable",
+      "Changeable",
+      "Changible",
+      "Chaingeable"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Changeable'.",
+    "rule": "Spelling: Changeable",
+    "bengaliHint": "'Changeable'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-077",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Collegue",
+      "Colleague",
+      "Colleage",
+      "Collaegue"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Colleague'.",
+    "rule": "Spelling: Colleague",
+    "bengaliHint": "'Colleague'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-078",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Comittment",
+      "Commitment",
+      "Commitmant",
+      "Commitement"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Commitment'.",
+    "rule": "Spelling: Commitment",
+    "bengaliHint": "'Commitment'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-079",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Competion",
+      "Compitition",
+      "Competition",
+      "Competetion"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Competition'.",
+    "rule": "Spelling: Competition",
+    "bengaliHint": "'Competition'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-080",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Concious",
+      "Conscious",
+      "Consious",
+      "Concsious"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Conscious'.",
+    "rule": "Spelling: Conscious",
+    "bengaliHint": "'Conscious'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-081",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Critisism",
+      "Critcism",
+      "Criticizm",
+      "Criticism"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is 'Criticism'.",
+    "rule": "Spelling: Criticism",
+    "bengaliHint": "'Criticism'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-082",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Curiousity",
+      "Curiosity",
+      "Curiocity",
+      "Curosity"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Curiosity'.",
+    "rule": "Spelling: Curiosity",
+    "bengaliHint": "'Curiosity'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-083",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Disipline",
+      "Discipline",
+      "Dicipline",
+      "Discepline"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Discipline'.",
+    "rule": "Spelling: Discipline",
+    "bengaliHint": "'Discipline'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-084",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Dissappoint",
+      "Disapoint",
+      "Disappoint",
+      "Disappiont"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Disappoint'.",
+    "rule": "Spelling: Disappoint",
+    "bengaliHint": "'Disappoint'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-085",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Enviroment",
+      "Environmant",
+      "Environment",
+      "Envirenment"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Environment'.",
+    "rule": "Spelling: Environment",
+    "bengaliHint": "'Environment'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-086",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Exagerate",
+      "Exaggerate",
+      "Exagerrate",
+      "Exaggarate"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Exaggerate'.",
+    "rule": "Spelling: Exaggerate",
+    "bengaliHint": "'Exaggerate'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-087",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Existance",
+      "Existence",
+      "Existense",
+      "Exsistence"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Existence'.",
+    "rule": "Spelling: Existence",
+    "bengaliHint": "'Existence'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-088",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Familar",
+      "Familier",
+      "Familiar",
+      "Famillar"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Familiar'.",
+    "rule": "Spelling: Familiar",
+    "bengaliHint": "'Familiar'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-089",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Febuary",
+      "Feburary",
+      "February",
+      "Februery"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'February'.",
+    "rule": "Spelling: February",
+    "bengaliHint": "'February'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-090",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Foriegn",
+      "Foreign",
+      "Forein",
+      "Forreign"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Foreign'.",
+    "rule": "Spelling: Foreign",
+    "bengaliHint": "'Foreign'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-091",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Goverment",
+      "Govenment",
+      "Government",
+      "Governmant"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Government'.",
+    "rule": "Spelling: Government",
+    "bengaliHint": "'Government'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-092",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Grammer",
+      "Grammar",
+      "Gramar",
+      "Grammmar"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Grammar'.",
+    "rule": "Spelling: Grammar",
+    "bengaliHint": "'Grammar'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-093",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Harrass",
+      "Harass",
+      "Haras",
+      "Harrasse"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Harass'.",
+    "rule": "Spelling: Harass",
+    "bengaliHint": "'Harass'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-094",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Hieght",
+      "Heigth",
+      "Height",
+      "Hight"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Height'.",
+    "rule": "Spelling: Height",
+    "bengaliHint": "'Height'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-095",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Humourous",
+      "Humorus",
+      "Humerous",
+      "Humorous"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is 'Humorous'.",
+    "rule": "Spelling: Humorous",
+    "bengaliHint": "'Humorous'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-096",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Hygeine",
+      "Hygiene",
+      "Hygine",
+      "Higiene"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Hygiene'.",
+    "rule": "Spelling: Hygiene",
+    "bengaliHint": "'Hygiene'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-097",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Imediately",
+      "Immediatly",
+      "Immediately",
+      "Immidiately"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Immediately'.",
+    "rule": "Spelling: Immediately",
+    "bengaliHint": "'Immediately'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-098",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Inteligence",
+      "Intelligence",
+      "Intelligance",
+      "Intellegence"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Intelligence'.",
+    "rule": "Spelling: Intelligence",
+    "bengaliHint": "'Intelligence'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-099",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Interupt",
+      "Interrupt",
+      "Interrept",
+      "Intterupt"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Interrupt'.",
+    "rule": "Spelling: Interrupt",
+    "bengaliHint": "'Interrupt'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-100",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Jewelery",
+      "Jewellery",
+      "Jwellery",
+      "Jewelary"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Jewellery'.",
+    "rule": "Spelling: Jewellery",
+    "bengaliHint": "'Jewellery'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-101",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Knowlege",
+      "Knowledge",
+      "Knowldge",
+      "Nowledge"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Knowledge'.",
+    "rule": "Spelling: Knowledge",
+    "bengaliHint": "'Knowledge'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-102",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Libary",
+      "Liberary",
+      "Library",
+      "Librery"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Library'.",
+    "rule": "Spelling: Library",
+    "bengaliHint": "'Library'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-103",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Lightnng",
+      "Lightning",
+      "Lightining",
+      "Ligtning"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Lightning'.",
+    "rule": "Spelling: Lightning",
+    "bengaliHint": "'Lightning'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-104",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Mischievious",
+      "Mischevous",
+      "Mischievous",
+      "Mischeivous"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Mischievous'.",
+    "rule": "Spelling: Mischievous",
+    "bengaliHint": "'Mischievous'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-105",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Nieghbour",
+      "Neighbour",
+      "Neigbour",
+      "Nighbour"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Neighbour'.",
+    "rule": "Spelling: Neighbour",
+    "bengaliHint": "'Neighbour'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-106",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Noticable",
+      "Noticeable",
+      "Noticible",
+      "Notiseable"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Noticeable'.",
+    "rule": "Spelling: Noticeable",
+    "bengaliHint": "'Noticeable'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-107",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Ocassion",
+      "Occassion",
+      "Occasion",
+      "Ocasion"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Occasion'.",
+    "rule": "Spelling: Occasion",
+    "bengaliHint": "'Occasion'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-108",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Oportunity",
+      "Opportunity",
+      "Opportunty",
+      "Oppurtunity"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Opportunity'.",
+    "rule": "Spelling: Opportunity",
+    "bengaliHint": "'Opportunity'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-109",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Parliment",
+      "Parlament",
+      "Parliament",
+      "Parliamant"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Parliament'.",
+    "rule": "Spelling: Parliament",
+    "bengaliHint": "'Parliament'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-110",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Posession",
+      "Possession",
+      "Possesion",
+      "Possesssion"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Possession'.",
+    "rule": "Spelling: Possession",
+    "bengaliHint": "'Possession'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-111",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Predjudice",
+      "Prejudice",
+      "Prejudise",
+      "Prejuduce"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Prejudice'.",
+    "rule": "Spelling: Prejudice",
+    "bengaliHint": "'Prejudice'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-112",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Recieve",
+      "Receeve",
+      "Receive",
+      "Receve"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Receive'.",
+    "rule": "Spelling: Receive",
+    "bengaliHint": "'Receive'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-113",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Refrence",
+      "Referance",
+      "Reference",
+      "Refference"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Reference'.",
+    "rule": "Spelling: Reference",
+    "bengaliHint": "'Reference'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-114",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Restaurant",
+      "Resturant",
+      "Restarant",
+      "Restraunt"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is 'Restaurant'.",
+    "rule": "Spelling: Restaurant",
+    "bengaliHint": "'Restaurant'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-115",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Schedual",
+      "Shedule",
+      "Scedule",
+      "Schedule"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is 'Schedule'.",
+    "rule": "Spelling: Schedule",
+    "bengaliHint": "'Schedule'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-116",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Secratary",
+      "Secretary",
+      "Secretery",
+      "Sekretary"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Secretary'.",
+    "rule": "Spelling: Secretary",
+    "bengaliHint": "'Secretary'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-117",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Succede",
+      "Suceed",
+      "Succeed",
+      "Sucseed"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Succeed'.",
+    "rule": "Spelling: Succeed",
+    "bengaliHint": "'Succeed'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-118",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Tommorow",
+      "Tomorrow",
+      "Tomorow",
+      "Tommorrow"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Tomorrow'.",
+    "rule": "Spelling: Tomorrow",
+    "bengaliHint": "'Tomorrow'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-119",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Wierd",
+      "Weird",
+      "Weerd",
+      "Wierde"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Weird'.",
+    "rule": "Spelling: Weird",
+    "bengaliHint": "'Weird'-এর সঠিক বানান নির্দেশ করুন।"
+  },
+  {
+    "id": "v06-120",
+    "chapter": "v06",
+    "type": "spelling",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Wensday",
+      "Wedensday",
+      "Wednesday",
+      "Wenesday"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Wednesday'.",
+    "rule": "Spelling: Wednesday",
+    "bengaliHint": "'Wednesday'-এর সঠিক বানান নির্দেশ করুন।"
+  }
+]

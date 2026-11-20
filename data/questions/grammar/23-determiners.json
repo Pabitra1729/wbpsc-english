@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g23-001",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the demonstrative determiner: 'Those books are mine.'",
+    "options": [
+      "those",
+      "books",
+      "are",
+      "mine"
+    ],
+    "answer": 0,
+    "explanation": "Those determines books and indicates distance or separation.",
+    "rule": "Demonstrative determiner",
+    "bengaliHint": "নির্দিষ্টগুলো কোন books?"
+  },
+  {
+    "id": "g23-002",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the possessive determiner.",
+    "options": [
+      "mine",
+      "theirs",
+      "my",
+      "hers"
+    ],
+    "answer": 2,
+    "explanation": "My precedes a noun and functions as a possessive determiner.",
+    "rule": "Possessive determiner",
+    "bengaliHint": "noun-এর আগে my."
+  },
+  {
+    "id": "g23-003",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: ___ students came.",
+    "options": [
+      "Much",
+      "Many",
+      "Little",
+      "A little"
+    ],
+    "answer": 1,
+    "explanation": "Many is used with countable plural students.",
+    "rule": "Countable quantifier",
+    "bengaliHint": "students countable."
+  },
+  {
+    "id": "g23-004",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: He has ___ time.",
+    "options": [
+      "many",
+      "few",
+      "little",
+      "fewest"
+    ],
+    "answer": 2,
+    "explanation": "Little is used with uncountable time.",
+    "rule": "Uncountable quantifier",
+    "bengaliHint": "time uncountable."
+  },
+  {
+    "id": "g23-005",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which option gives a positive meaning?",
+    "options": [
+      "few",
+      "little",
+      "a few",
+      "the few"
+    ],
+    "answer": 2,
+    "explanation": "A few means some and is more positive than few.",
+    "rule": "Few/a few contrast",
+    "bengaliHint": "a few = কিছু আছে."
+  },
+  {
+    "id": "g23-006",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correct determiner pair.",
+    "options": [
+      "many water",
+      "much water",
+      "much waters",
+      "many waters"
+    ],
+    "answer": 1,
+    "explanation": "Much is used with uncountable water.",
+    "rule": "Determiner countability",
+    "bengaliHint": "water uncountable."
+  },
+  {
+    "id": "g23-007",
+    "chapter": "g23",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "There is ___ milk left in the jug, so we cannot make tea.",
+    "options": [
+      "little",
+      "a little",
+      "the little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' (without 'a') has a negative meaning, signifying hardly any or almost none.",
+    "rule": "Little (scarcely any, negative) vs A little (some, positive)",
+    "bengaliHint": "'Little' প্রায় নেই বললেই চলে এমন নেতিবাচক অর্থ দেয়।"
+  },
+  {
+    "id": "g23-008",
+    "chapter": "g23",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ knowledge is a dangerous thing.",
+    "options": [
+      "Little",
+      "A little",
+      "The little",
+      "Few"
+    ],
+    "answer": 1,
+    "explanation": "The well-known English proverb is 'A little knowledge is a dangerous thing' (having a small, incomplete amount of knowledge).",
+    "rule": "Standard proverb: 'A little knowledge is a dangerous thing'",
+    "bengaliHint": "প্রচলিত প্রবাদ: 'A little knowledge is a dangerous thing'।"
+  },
+  {
+    "id": "g23-009",
+    "chapter": "g23",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He squandered ___ money he had received from his ancestral inheritance.",
+    "options": [
+      "little",
+      "a little",
+      "the little",
+      "many"
+    ],
+    "answer": 2,
+    "explanation": "'The little' means not much, but all that there is. Since he spent all of what he had, 'the little' is correct.",
+    "rule": "'The little' means all of that small amount available",
+    "bengaliHint": "যেটুকু অল্প ছিল তার সম্পূর্ণটাই নষ্ট করা বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-010",
+    "chapter": "g23",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ students attended the special lecture because of the continuous downpour.",
+    "options": [
+      "Few",
+      "A few",
+      "The few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'Few' has a negative meaning (almost no students attended) and is used with countable plural nouns.",
+    "rule": "Few (almost none, negative) with countable nouns",
+    "bengaliHint": "বৃষ্টির জন্য ছাত্রছাত্রী প্রায় আসেনি বললেই চলে; তাই নেতিবাচক 'few' বসবে।"
+  },
+  {
+    "id": "g23-011",
+    "chapter": "g23",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Would you like ___ more coffee?",
+    "options": [
+      "some",
+      "any",
+      "few",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In polite offers or requests where a positive answer is expected, 'some' is used instead of 'any'.",
+    "rule": "'Some' used in polite offers and requests",
+    "bengaliHint": "ভদ্র অনুরোধ বা অফার করার সময় প্রশ্নে 'some' বসে।"
+  },
+  {
+    "id": "g23-012",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-013",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-014",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-015",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-016",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ candidate was assigned an individual roll number.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "'Each' focuses on individual members of a group considered separately.",
+    "rule": "Each for individual members separately",
+    "bengaliHint": "প্রত্যেককে আলাদাভাবে বোঝাতে 'each' বসে।"
+  },
+  {
+    "id": "g23-017",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-018",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-019",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-020",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-021",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ candidate was assigned an individual roll number.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "'Each' focuses on individual members of a group considered separately.",
+    "rule": "Each for individual members separately",
+    "bengaliHint": "প্রত্যেককে আলাদাভাবে বোঝাতে 'each' বসে।"
+  },
+  {
+    "id": "g23-022",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-023",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-024",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-025",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-026",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ candidate was assigned an individual roll number.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "'Each' focuses on individual members of a group considered separately.",
+    "rule": "Each for individual members separately",
+    "bengaliHint": "প্রত্যেককে আলাদাভাবে বোঝাতে 'each' বসে।"
+  },
+  {
+    "id": "g23-027",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-028",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-029",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-030",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-031",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ candidate was assigned an individual roll number.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "'Each' focuses on individual members of a group considered separately.",
+    "rule": "Each for individual members separately",
+    "bengaliHint": "প্রত্যেককে আলাদাভাবে বোঝাতে 'each' বসে।"
+  },
+  {
+    "id": "g23-032",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-033",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-034",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-035",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-036",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "___ candidate was assigned an individual roll number.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "'Each' focuses on individual members of a group considered separately.",
+    "rule": "Each for individual members separately",
+    "bengaliHint": "প্রত্যেককে আলাদাভাবে বোঝাতে 'each' বসে।"
+  },
+  {
+    "id": "g23-037",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-038",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-039",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-040",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  },
+  {
+    "id": "g23-041",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ candidate was assigned an individual roll number.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "'Each' focuses on individual members of a group considered separately.",
+    "rule": "Each for individual members separately",
+    "bengaliHint": "প্রত্যেককে আলাদাভাবে বোঝাতে 'each' বসে।"
+  },
+  {
+    "id": "g23-042",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "There is ___ point in discussing this closed matter further.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": 0,
+    "explanation": "'Little' denotes negative sense (hardly any point), used with uncountable 'point'.",
+    "rule": "Little (negative sense)",
+    "bengaliHint": "কোনো লাভ নেই এমন নেতিবাচক অর্থে 'little' বসে।"
+  },
+  {
+    "id": "g23-043",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "___ friends he had in Kolkata helped him during the crisis.",
+    "options": [
+      "The few",
+      "A few",
+      "Few",
+      "Little"
+    ],
+    "answer": 0,
+    "explanation": "'The few' means not many, but all that there were.",
+    "rule": "The few (all of that small count)",
+    "bengaliHint": "যে কজন অল্প বন্ধু ছিল তাদের সবাই বোঝাতে 'the few' বসে।"
+  },
+  {
+    "id": "g23-044",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Have you ___ questions to ask regarding the syllabus?",
+    "options": [
+      "any",
+      "some",
+      "little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "In interrogative sentences, 'any' is used rather than 'some'.",
+    "rule": "'Any' used in interrogative sentences",
+    "bengaliHint": "সাধারণ প্রশ্নবোধক বাক্যে 'any' বসে।"
+  },
+  {
+    "id": "g23-045",
+    "chapter": "g23",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He drank ___ water that remained in the jug.",
+    "options": [
+      "the little",
+      "little",
+      "a little",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "'The little' means not much, but all that was available.",
+    "rule": "The little (all that remained)",
+    "bengaliHint": "অবশিষ্ট সমস্ত অল্প জল বোঝাতে 'the little' বসে।"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g16-001",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: If he calls, I ___.",
+    "options": [
+      "would answer",
+      "answered",
+      "will answer",
+      "had answered"
+    ],
+    "answer": 2,
+    "explanation": "This is a first conditional with present in if-clause and will in result.",
+    "rule": "First conditional",
+    "bengaliHint": "present/will."
+  },
+  {
+    "id": "g16-002",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: If I had time, I ___.",
+    "options": [
+      "will help",
+      "would help",
+      "have helped",
+      "had helped"
+    ],
+    "answer": 1,
+    "explanation": "This unreal present condition uses would in the result.",
+    "rule": "Second conditional",
+    "bengaliHint": "past/would."
+  },
+  {
+    "id": "g16-003",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: If she had studied, she ___.",
+    "options": [
+      "would pass",
+      "would have passed",
+      "passes",
+      "will pass"
+    ],
+    "answer": 1,
+    "explanation": "The third conditional uses would have plus past participle.",
+    "rule": "Third conditional",
+    "bengaliHint": "past perfect/would have."
+  },
+  {
+    "id": "g16-004",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: ___ it rains, the match will continue.",
+    "options": [
+      "If",
+      "Unless",
+      "Unlesss",
+      "If not rain"
+    ],
+    "answer": 1,
+    "explanation": "Unless means if not; if it does not rain, it continues.",
+    "rule": "Unless",
+    "bengaliHint": "unless = if not."
+  },
+  {
+    "id": "g16-005",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which sentence is correct?",
+    "options": [
+      "If I will know, I will tell.",
+      "If I knew, I would tell.",
+      "If I knew, I will tell.",
+      "If I had know, I would tell."
+    ],
+    "answer": 1,
+    "explanation": "The standard second conditional uses past in if-clause and would in result.",
+    "rule": "Unreal present",
+    "bengaliHint": "if-এর পর knew."
+  },
+  {
+    "id": "g16-006",
+    "chapter": "g16",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If it rains tomorrow, we ___ the football match.",
+    "options": [
+      "postpone",
+      "will postpone",
+      "would postpone",
+      "postponed"
+    ],
+    "answer": 1,
+    "explanation": "First conditional formula: If + Simple Present (rains) -> Simple Future (will postpone).",
+    "rule": "First conditional: If + present, will + base verb",
+    "bengaliHint": "ভবিষ্যতের সম্ভাবনা বোঝাতে 'If + present' থাকলে 'will + verb' বসে।"
+  },
+  {
+    "id": "g16-007",
+    "chapter": "g16",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If I ___ you, I would accept the administrative job immediately.",
+    "options": [
+      "was",
+      "were",
+      "am",
+      "had been"
+    ],
+    "answer": 1,
+    "explanation": "Second conditional / hypothetical condition: 'If I were you' uses subjunctive 'were' regardless of person or number.",
+    "rule": "Hypothetical condition uses subjunctive 'were'",
+    "bengaliHint": "কাল্পনিক পরিস্থিতিতে 'If I were you' বসে।"
+  },
+  {
+    "id": "g16-008",
+    "chapter": "g16",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Had the fire brigade arrived in time, the warehouse ___ saved.",
+    "options": [
+      "could be",
+      "would have been",
+      "will be",
+      "had been"
+    ],
+    "answer": 1,
+    "explanation": "Inverted third conditional: 'Had + subject + V3' corresponds to 'would have been + V3' in the main clause.",
+    "rule": "Inverted third conditional: Had + V3 -> would have been V3",
+    "bengaliHint": "'Had arrived' থাকলে প্রধান বাক্যে 'would have been saved' বসে।"
+  },
+  {
+    "id": "g16-009",
+    "chapter": "g16",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Find the error: (A) If you will come (B) to my house (C) I will help you (D) No error",
+    "options": [
+      "If you will come",
+      "to my house",
+      "I will help you",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "The condition clause (if-clause) never takes 'will' or 'shall'. It must be in simple present: 'If you come to my house'.",
+    "rule": "No future tense (will/shall) inside the conditional if-clause",
+    "bengaliHint": "If-যুক্ত ক্লজে 'will' বা 'shall' বসে না, simple present হয়।"
+  },
+  {
+    "id": "g16-010",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which type of conditional expresses universal scientific facts? (e.g. 'If water reaches 100°C, it boils.')",
+    "options": [
+      "Zero conditional",
+      "First conditional",
+      "Second conditional",
+      "Third conditional"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional uses Simple Present in both clauses to state general scientific truths or universal laws.",
+    "rule": "Zero conditional: If + present, present",
+    "bengaliHint": "চিরন্তন বৈজ্ঞানিক সত্যের শর্তকে Zero conditional বলে।"
+  },
+  {
+    "id": "g16-011",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-012",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-013",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-014",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-015",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g16-016",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-017",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-018",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-019",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-020",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g16-021",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-022",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-023",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-024",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-025",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g16-026",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-027",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-028",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-029",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-030",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g16-031",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-032",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-033",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-034",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-035",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g16-036",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-037",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-038",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-039",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-040",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  },
+  {
+    "id": "g16-041",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "If he ___ hard, he will secure the scholarship.",
+    "options": [
+      "works",
+      "will work",
+      "worked",
+      "would work"
+    ],
+    "answer": 0,
+    "explanation": "First conditional if-clause takes Simple Present ('works'), not future tense.",
+    "rule": "First conditional: If + present",
+    "bengaliHint": "If-যুক্ত ক্লজে Simple Present বসে।"
+  },
+  {
+    "id": "g16-042",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If I had wings, I ___ fly across the blue mountains.",
+    "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+    ],
+    "answer": 0,
+    "explanation": "Second conditional (unreal present): If + simple past (had) -> would + base verb.",
+    "rule": "Second conditional: If + past, would + verb",
+    "bengaliHint": "অবাস্তব কল্পনায় 'would + verb' বসে।"
+  },
+  {
+    "id": "g16-043",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Had the doctor arrived earlier, the patient ___ saved.",
+    "options": [
+      "might have been",
+      "may be",
+      "could be",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Inverted third conditional: 'Had + V3' pairs with 'might/would have been + V3'.",
+    "rule": "Inverted third conditional",
+    "bengaliHint": "'Had arrived' থাকলে পরের অংশে 'might have been' বসে।"
+  },
+  {
+    "id": "g16-044",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Unless you ___ punctually, you will miss the morning train.",
+    "options": [
+      "leave",
+      "do not leave",
+      "will leave",
+      "left"
+    ],
+    "answer": 0,
+    "explanation": "'Unless' already contains negative force (if not); do not add 'not' or future auxiliaries.",
+    "rule": "Unless takes positive present verb",
+    "bengaliHint": "'Unless'-এর সাথে 'not' বসে না।"
+  },
+  {
+    "id": "g16-045",
+    "chapter": "g16",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "If water freezes, it ___ into ice.",
+    "options": [
+      "turns",
+      "will turn",
+      "turned",
+      "would turn"
+    ],
+    "answer": 0,
+    "explanation": "Zero conditional expressing physical truth uses Simple Present in both clauses.",
+    "rule": "Zero conditional for scientific law",
+    "bengaliHint": "চিরন্তন প্রাকৃতিক সত্যে Simple Present বসে।"
+  }
+]

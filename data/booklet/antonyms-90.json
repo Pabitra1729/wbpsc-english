@@ -1,0 +1,632 @@
+[
+  {
+    "num": 1,
+    "term": "Absent",
+    "meaning": "Antonym: Present",
+    "bengali": "অনুপস্থিত vs উপস্থিত",
+    "category": "Antonym"
+  },
+  {
+    "num": 2,
+    "term": "Abundant",
+    "meaning": "Antonym: Scanty",
+    "bengali": "প্রচুর vs স্বল্প / অপর্যাপ্ত",
+    "category": "Antonym"
+  },
+  {
+    "num": 3,
+    "term": "Accept",
+    "meaning": "Antonym: Reject",
+    "bengali": "গ্রহণ করা vs বর্জন করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 4,
+    "term": "Admire",
+    "meaning": "Antonym: Despise",
+    "bengali": "সক্রিয় vs নিষ্ক্রিয়",
+    "category": "Antonym"
+  },
+  {
+    "num": 5,
+    "term": "Adversity",
+    "meaning": "Antonym: Prosperity",
+    "bengali": "প্রশংসা করা vs ঘৃণা করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 6,
+    "term": "Affluence",
+    "meaning": "Antonym: Poverty",
+    "bengali": "অগ্রসর হওয়া vs পিছু হটা",
+    "category": "Antonym"
+  },
+  {
+    "num": 7,
+    "term": "Amateur",
+    "meaning": "Antonym: Professional",
+    "bengali": "সমৃদ্ধি vs দারিদ্র্য",
+    "category": "Antonym"
+  },
+  {
+    "num": 8,
+    "term": "Ancient",
+    "meaning": "Antonym: Modern",
+    "bengali": "একমত হওয়া vs দ্বিমত হওয়া",
+    "category": "Antonym"
+  },
+  {
+    "num": 9,
+    "term": "Approve",
+    "meaning": "Antonym: Disapprove",
+    "bengali": "বিদেশি vs স্বদেশি",
+    "category": "Antonym"
+  },
+  {
+    "num": 10,
+    "term": "Arrogant",
+    "meaning": "Antonym: Modest",
+    "bengali": "অপেশাদার vs পেশাদার",
+    "category": "Antonym"
+  },
+  {
+    "num": 11,
+    "term": "Artificial",
+    "meaning": "Antonym: Natural",
+    "bengali": "প্রাচীন vs আধুনিক",
+    "category": "Antonym"
+  },
+  {
+    "num": 12,
+    "term": "Ascend",
+    "meaning": "Antonym: Descend",
+    "bengali": "স্পষ্ট vs লুক্কায়িত",
+    "category": "Antonym"
+  },
+  {
+    "num": 13,
+    "term": "Attract",
+    "meaning": "Antonym: Repel",
+    "bengali": "আগমন vs প্রস্থান",
+    "category": "Antonym"
+  },
+  {
+    "num": 14,
+    "term": "Benevolent",
+    "meaning": "Antonym: Malevolent",
+    "bengali": "অহংকারী vs বিনয়ী",
+    "category": "Antonym"
+  },
+  {
+    "num": 15,
+    "term": "Blame",
+    "meaning": "Antonym: Praise",
+    "bengali": "আরোহণ vs অবতরণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 16,
+    "term": "Bold",
+    "meaning": "Antonym: Timid",
+    "bengali": "আক্রমণ করা vs রক্ষা করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 17,
+    "term": "Brave",
+    "meaning": "Antonym: Cowardly",
+    "bengali": "আকর্ষণ করা vs বিকর্ষণ করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 18,
+    "term": "Brief",
+    "meaning": "Antonym: Lengthy",
+    "bengali": "খাঁটি vs নকল",
+    "category": "Antonym"
+  },
+  {
+    "num": 19,
+    "term": "Candid",
+    "meaning": "Antonym: Deceitful",
+    "bengali": "অনুর্বর vs উর্বর",
+    "category": "Antonym"
+  },
+  {
+    "num": 20,
+    "term": "Cheap",
+    "meaning": "Antonym: Expensive",
+    "bengali": "সুন্দর vs কুৎসিত",
+    "category": "Antonym"
+  },
+  {
+    "num": 21,
+    "term": "Combine",
+    "meaning": "Antonym: Separate",
+    "bengali": "হিতৈষী vs অনিষ্টকারী",
+    "category": "Antonym"
+  },
+  {
+    "num": 22,
+    "term": "Complex",
+    "meaning": "Antonym: Simple",
+    "bengali": "তিক্ত vs মধুর",
+    "category": "Antonym"
+  },
+  {
+    "num": 23,
+    "term": "Compulsory",
+    "meaning": "Antonym: Optional",
+    "bengali": "ভোঁতা vs ধারালো",
+    "category": "Antonym"
+  },
+  {
+    "num": 24,
+    "term": "Conceal",
+    "meaning": "Antonym: Reveal",
+    "bengali": "সাহসী vs ভীরু",
+    "category": "Antonym"
+  },
+  {
+    "num": 25,
+    "term": "Condemn",
+    "meaning": "Antonym: Applaud",
+    "bengali": "বীরত্ব vs কাপুরুষতা",
+    "category": "Antonym"
+  },
+  {
+    "num": 26,
+    "term": "Constant",
+    "meaning": "Antonym: Variable",
+    "bengali": "সংক্ষিপ্ত vs দীর্ঘ",
+    "category": "Antonym"
+  },
+  {
+    "num": 27,
+    "term": "Courage",
+    "meaning": "Antonym: Cowardice",
+    "bengali": "প্রশস্ত vs সংকীর্ণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 28,
+    "term": "Cruel",
+    "meaning": "Antonym: Kind",
+    "bengali": "শান্ত vs উত্তাল",
+    "category": "Antonym"
+  },
+  {
+    "num": 29,
+    "term": "Defend",
+    "meaning": "Antonym: Attack",
+    "bengali": "যত্নবান vs অসতর্ক",
+    "category": "Antonym"
+  },
+  {
+    "num": 30,
+    "term": "Deliberate",
+    "meaning": "Antonym: Accidental",
+    "bengali": "সস্তা vs মূল্যবান",
+    "category": "Antonym"
+  },
+  {
+    "num": 31,
+    "term": "Dense",
+    "meaning": "Antonym: Sparse",
+    "bengali": "প্রফুল্ল vs বিষণ্ণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 32,
+    "term": "Departure",
+    "meaning": "Antonym: Arrival",
+    "bengali": "পরিষ্কার vs নোংরা",
+    "category": "Antonym"
+  },
+  {
+    "num": 33,
+    "term": "Diligent",
+    "meaning": "Antonym: Lazy",
+    "bengali": "চালাক vs বোকা",
+    "category": "Antonym"
+  },
+  {
+    "num": 34,
+    "term": "Domestic",
+    "meaning": "Antonym: Foreign",
+    "bengali": "স্থূল vs সূক্ষ্ম",
+    "category": "Antonym"
+  },
+  {
+    "num": 35,
+    "term": "Dull",
+    "meaning": "Antonym: Sharp",
+    "bengali": "ঠান্ডা vs গরম",
+    "category": "Antonym"
+  },
+  {
+    "num": 36,
+    "term": "Empty",
+    "meaning": "Antonym: Full",
+    "bengali": "যুক্ত করা vs পৃথক করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 37,
+    "term": "Ephemeral",
+    "meaning": "Antonym: Eternal",
+    "bengali": "আরাম vs অস্বস্তি",
+    "category": "Antonym"
+  },
+  {
+    "num": 38,
+    "term": "Evil",
+    "meaning": "Antonym: Virtuous",
+    "bengali": "সাধারণ vs বিরল",
+    "category": "Antonym"
+  },
+  {
+    "num": 39,
+    "term": "Expand",
+    "meaning": "Antonym: Contract",
+    "bengali": "জটিল vs সহজ",
+    "category": "Antonym"
+  },
+  {
+    "num": 40,
+    "term": "Exterior",
+    "meaning": "Antonym: Interior",
+    "bengali": "গোপন করা vs প্রকাশ করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 41,
+    "term": "Fake",
+    "meaning": "Antonym: Genuine",
+    "bengali": "নির্মাণ করা vs ধ্বংস করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 42,
+    "term": "Fertile",
+    "meaning": "Antonym: Barren",
+    "bengali": "সাহস vs ভয়",
+    "category": "Antonym"
+  },
+  {
+    "num": 43,
+    "term": "Fiction",
+    "meaning": "Antonym: Fact",
+    "bengali": "নিষ্ঠুর vs দয়ালু",
+    "category": "Antonym"
+  },
+  {
+    "num": 44,
+    "term": "Frequent",
+    "meaning": "Antonym: Rare",
+    "bengali": "অন্ধকার vs আলো",
+    "category": "Antonym"
+  },
+  {
+    "num": 45,
+    "term": "Gather",
+    "meaning": "Antonym: Scatter",
+    "bengali": "গভীর vs অগভীর",
+    "category": "Antonym"
+  },
+  {
+    "num": 46,
+    "term": "Generous",
+    "meaning": "Antonym: Stingy",
+    "bengali": "পরাজয় vs জয়",
+    "category": "Antonym"
+  },
+  {
+    "num": 47,
+    "term": "Gloomy",
+    "meaning": "Antonym: Cheerful",
+    "bengali": "নির্দিষ্ট vs অস্পষ্ট",
+    "category": "Antonym"
+  },
+  {
+    "num": 48,
+    "term": "Guilty",
+    "meaning": "Antonym: Innocent",
+    "bengali": "চাহিদা vs জোগান",
+    "category": "Antonym"
+  },
+  {
+    "num": 49,
+    "term": "Harmony",
+    "meaning": "Antonym: Discord",
+    "bengali": "হতাশা vs আশা",
+    "category": "Antonym"
+  },
+  {
+    "num": 50,
+    "term": "Hasty",
+    "meaning": "Antonym: Leisurely",
+    "bengali": "কঠিন vs সহজ",
+    "category": "Antonym"
+  },
+  {
+    "num": 51,
+    "term": "Hostile",
+    "meaning": "Antonym: Friendly",
+    "bengali": "হ্রাস পাওয়া vs বৃদ্ধি পাওয়া",
+    "category": "Antonym"
+  },
+  {
+    "num": 52,
+    "term": "Humble",
+    "meaning": "Antonym: Arrogant",
+    "bengali": "ভাগ করা vs একত্রিত করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 53,
+    "term": "Idle",
+    "meaning": "Antonym: Busy",
+    "bengali": "নিষ্প্রভ vs উজ্জ্বল",
+    "category": "Antonym"
+  },
+  {
+    "num": 54,
+    "term": "Imprison",
+    "meaning": "Antonym: Release",
+    "bengali": "তাড়াতাড়ি vs দেরিতে",
+    "category": "Antonym"
+  },
+  {
+    "num": 55,
+    "term": "Include",
+    "meaning": "Antonym: Exclude",
+    "bengali": "খালি vs পূর্ণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 56,
+    "term": "Inferior",
+    "meaning": "Antonym: Superior",
+    "bengali": "বিশাল vs অতি ক্ষুদ্র",
+    "category": "Antonym"
+  },
+  {
+    "num": 57,
+    "term": "Inflate",
+    "meaning": "Antonym: Deflate",
+    "bengali": "প্রবেশ vs প্রস্থান",
+    "category": "Antonym"
+  },
+  {
+    "num": 58,
+    "term": "Joy",
+    "meaning": "Antonym: Sorrow",
+    "bengali": "প্রসারিত vs সংকুচিত",
+    "category": "Antonym"
+  },
+  {
+    "num": 59,
+    "term": "Lenient",
+    "meaning": "Antonym: Strict",
+    "bengali": "বাহ্যিক vs অভ্যন্তরীণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 60,
+    "term": "Lofty",
+    "meaning": "Antonym: Lowly",
+    "bengali": "ব্যর্থতা vs সাফল্য",
+    "category": "Antonym"
+  },
+  {
+    "num": 61,
+    "term": "Majority",
+    "meaning": "Antonym: Minority",
+    "bengali": "বিশ্বস্ত vs বিশ্বাসঘাতক",
+    "category": "Antonym"
+  },
+  {
+    "num": 62,
+    "term": "Maximum",
+    "meaning": "Antonym: Minimum",
+    "bengali": "বিখ্যাত vs অখ্যাত",
+    "category": "Antonym"
+  },
+  {
+    "num": 63,
+    "term": "Mild",
+    "meaning": "Antonym: Harsh",
+    "bengali": "দ্রুত vs ধীর",
+    "category": "Antonym"
+  },
+  {
+    "num": 64,
+    "term": "Mortal",
+    "meaning": "Antonym: Immortal",
+    "bengali": "প্রাণঘাতী vs ক্ষতিহীন",
+    "category": "Antonym"
+  },
+  {
+    "num": 65,
+    "term": "Negligent",
+    "meaning": "Antonym: Careful",
+    "bengali": "সম্ভবপর vs অসম্ভব",
+    "category": "Antonym"
+  },
+  {
+    "num": 66,
+    "term": "Novice",
+    "meaning": "Antonym: Expert",
+    "bengali": "দুর্বল vs বলিষ্ঠ",
+    "category": "Antonym"
+  },
+  {
+    "num": 67,
+    "term": "Obscure",
+    "meaning": "Antonym: Clear",
+    "bengali": "নমনীয় vs অনমনীয়",
+    "category": "Antonym"
+  },
+  {
+    "num": 68,
+    "term": "Often",
+    "meaning": "Antonym: Seldom",
+    "bengali": "বিদেশি vs দেশীয়",
+    "category": "Antonym"
+  },
+  {
+    "num": 69,
+    "term": "Optimistic",
+    "meaning": "Antonym: Pessimistic",
+    "bengali": "ক্ষমা করা vs দোষারোপ করা",
+    "category": "Antonym"
+  },
+  {
+    "num": 70,
+    "term": "Polite",
+    "meaning": "Antonym: Rude",
+    "bengali": "ভাগ্যবান vs দুর্ভাগ্যজনক",
+    "category": "Antonym"
+  },
+  {
+    "num": 71,
+    "term": "Prodigal",
+    "meaning": "Antonym: Thrifty",
+    "bengali": "স্বাধীনতা vs বন্দিদশা",
+    "category": "Antonym"
+  },
+  {
+    "num": 72,
+    "term": "Rapid",
+    "meaning": "Antonym: Slow",
+    "bengali": "টাটকা vs বাসি",
+    "category": "Antonym"
+  },
+  {
+    "num": 73,
+    "term": "Reluctant",
+    "meaning": "Antonym: Eager",
+    "bengali": "বন্ধু vs শত্রু",
+    "category": "Antonym"
+  },
+  {
+    "num": 74,
+    "term": "Rigid",
+    "meaning": "Antonym: Flexible",
+    "bengali": "উদার vs কৃপণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 75,
+    "term": "Rural",
+    "meaning": "Antonym: Urban",
+    "bengali": "নম্র vs রূঢ়",
+    "category": "Antonym"
+  },
+  {
+    "num": 76,
+    "term": "Sane",
+    "meaning": "Antonym: Insane",
+    "bengali": "খাঁটি vs কৃত্রিম",
+    "category": "Antonym"
+  },
+  {
+    "num": 77,
+    "term": "Scarce",
+    "meaning": "Antonym: Abundant",
+    "bengali": "বিষাদ vs উল্লাস",
+    "category": "Antonym"
+  },
+  {
+    "num": 78,
+    "term": "Strengthen",
+    "meaning": "Antonym: Weaken",
+    "bengali": "দোষী vs নির্দোষ",
+    "category": "Antonym"
+  },
+  {
+    "num": 79,
+    "term": "Sturdy",
+    "meaning": "Antonym: Frail",
+    "bengali": "কঠিন vs নরম",
+    "category": "Antonym"
+  },
+  {
+    "num": 80,
+    "term": "Sweet",
+    "meaning": "Antonym: Bitter",
+    "bengali": "ঐক্য vs অনৈক্য",
+    "category": "Antonym"
+  },
+  {
+    "num": 81,
+    "term": "Temporary",
+    "meaning": "Antonym: Permanent",
+    "bengali": "ভারী vs হালকা",
+    "category": "Antonym"
+  },
+  {
+    "num": 82,
+    "term": "Tranquil",
+    "meaning": "Antonym: Turbulent",
+    "bengali": "নায়ক vs খলনায়ক",
+    "category": "Antonym"
+  },
+  {
+    "num": 83,
+    "term": "Transparent",
+    "meaning": "Antonym: Opaque",
+    "bengali": "সৎ vs অসৎ",
+    "category": "Antonym"
+  },
+  {
+    "num": 84,
+    "term": "Vague",
+    "meaning": "Antonym: Precise",
+    "bengali": "সম্মান vs লজ্জা",
+    "category": "Antonym"
+  },
+  {
+    "num": 85,
+    "term": "Valid",
+    "meaning": "Antonym: Invalid",
+    "bengali": "শত্রুতাপূর্ণ vs বন্ধুত্বপূর্ণ",
+    "category": "Antonym"
+  },
+  {
+    "num": 86,
+    "term": "Vice",
+    "meaning": "Antonym: Virtue",
+    "bengali": "বিশাল vs ক্ষুদ্র",
+    "category": "Antonym"
+  },
+  {
+    "num": 87,
+    "term": "Victory",
+    "meaning": "Antonym: Defeat",
+    "bengali": "আমদানি vs রপ্তানি",
+    "category": "Antonym"
+  },
+  {
+    "num": 88,
+    "term": "Wisdom",
+    "meaning": "Antonym: Folly",
+    "bengali": "কনিষ্ঠ vs জ্যেষ্ঠ",
+    "category": "Antonym"
+  },
+  {
+    "num": 89,
+    "term": "Zeal",
+    "meaning": "Antonym: Apathy",
+    "bengali": "ন্যায়বিচার vs অন্যায়",
+    "category": "Antonym"
+  },
+  {
+    "num": 90,
+    "term": "Zenith",
+    "meaning": "Antonym: Nadir",
+    "bengali": "শীর্ষবিন্দু vs পাদবিন্দু",
+    "category": "Antonym"
+  }
+]

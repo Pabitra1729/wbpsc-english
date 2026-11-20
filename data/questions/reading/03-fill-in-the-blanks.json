@@ -1,0 +1,812 @@
+[
+  {
+    "id": "r03-001",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The district magistrate was fully aware ___ the impending flood danger.",
+    "options": [
+      "with",
+      "of",
+      "about",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "The adjective 'aware' consistently governs the preposition 'of'.",
+    "rule": "Fixed preposition: aware of",
+    "bengaliHint": "'Aware' শব্দের সাথে সর্বদা 'of' বসে।"
+  },
+  {
+    "id": "r03-002",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Hardly had the bell rung ___ the students hurried out of the examination hall.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "while"
+    ],
+    "answer": 1,
+    "explanation": "'Hardly / Scarcely' is paired with 'when' (whereas 'No sooner' takes 'than').",
+    "rule": "Correlative pair: Hardly... when",
+    "bengaliHint": "বাক্যের শুরুতে 'Hardly had' থাকলে সংযোজক হিসেবে 'when' ব্যবহৃত হয়।"
+  },
+  {
+    "id": "r03-003",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The police had to ___ force to disperse the unruly mob at the crossroads.",
+    "options": [
+      "resort to",
+      "apply on",
+      "yield to",
+      "fall into"
+    ],
+    "answer": 0,
+    "explanation": "'Resort to' means to turn to a strategy or action, especially as a last measure (e.g. resort to force).",
+    "rule": "Phrasal verb / Collocation: resort to force",
+    "bengaliHint": "বাধ্য হয়ে কোনো চরম ব্যবস্থার সাহায্য নেওয়া অর্থে 'resort to' বসে।"
+  },
+  {
+    "id": "r03-004",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The elderly gentleman preferred walking ___ taking a crowded commuter bus.",
+    "options": [
+      "than",
+      "to",
+      "rather",
+      "instead"
+    ],
+    "answer": 1,
+    "explanation": "The verb 'prefer' takes the preposition 'to' when comparing two gerunds or nouns (e.g. preferred X to Y). Never use 'than' with prefer.",
+    "rule": "Prefer takes 'to', never 'than'",
+    "bengaliHint": "'Prefer'-এর পর তুলনার ক্ষেত্রে 'than' নয়, 'to' বসে।"
+  },
+  {
+    "id": "r03-005",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The officer was ___ with bribery charges after a thorough departmental inquiry.",
+    "options": [
+      "accused",
+      "charged",
+      "blamed",
+      "convicted"
+    ],
+    "answer": 1,
+    "explanation": "One is 'charged with' a crime / offense, whereas one is 'accused of' a crime.",
+    "rule": "Prepositional collocation: charged with vs accused of",
+    "bengaliHint": "'With' থাকায় এখানে 'charged' হবে; 'of' থাকলে 'accused' হতো।"
+  },
+  {
+    "id": "r03-006",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He has been suffering from fever ___ last Monday.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "in"
+    ],
+    "answer": 1,
+    "explanation": "'Since' denotes a specific point of time in the past when the action began in perfect tenses.",
+    "rule": "Point of time takes 'since'",
+    "bengaliHint": "অতীতের নির্দিষ্ট কোনো সময় (Point of time) থেকে শুরু হওয়া বোঝাতে 'since' বসে।"
+  },
+  {
+    "id": "r03-007",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The newly recruited clerk was proficient ___ English drafting and correspondence.",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "One is 'proficient in' a subject, language, or branch of knowledge.",
+    "rule": "Fixed preposition: proficient in",
+    "bengaliHint": "কোনো ভাষা বা বিষয়ে দক্ষ বোঝাতে 'proficient in' বসে।"
+  },
+  {
+    "id": "r03-008",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He is senior ___ me by three years in the government service.",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "of"
+    ],
+    "answer": 1,
+    "explanation": "Comparative adjectives ending in -ior (senior, junior, superior, inferior) govern 'to', not 'than'.",
+    "rule": "Latin comparative: senior to",
+    "bengaliHint": "'Senior'-এর সাথে সর্বদা 'to' বসে, 'than' নয়।"
+  },
+  {
+    "id": "r03-009",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The corrupt official was caught red-handed and accused ___ accepting bribes.",
+    "options": [
+      "for",
+      "of",
+      "with",
+      "in"
+    ],
+    "answer": 1,
+    "explanation": "One is 'accused of' an offense (whereas one is 'charged with' a crime).",
+    "rule": "Fixed preposition: accused of vs charged with",
+    "bengaliHint": "'Accused'-এর সাথে 'of' বসে; 'charged'-এর সাথে 'with' বসে।"
+  },
+  {
+    "id": "r03-010",
+    "chapter": "r03",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A good citizen must always abide ___ the rules and regulations of the land.",
+    "options": [
+      "by",
+      "with",
+      "to",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "'Abide by' is an idiomatic fixed prepositional phrase meaning to conform to or obey.",
+    "rule": "Fixed preposition: abide by = obey / comply with",
+    "bengaliHint": "আইন বা নিয়ম মেনে চলা বোঝাতে 'abide by' বসে।"
+  },
+  {
+    "id": "r03-011",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-012",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-013",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-014",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-015",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  },
+  {
+    "id": "r03-016",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-017",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-018",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-019",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-020",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  },
+  {
+    "id": "r03-021",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-022",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-023",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-024",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-025",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  },
+  {
+    "id": "r03-026",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-027",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-028",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-029",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-030",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  },
+  {
+    "id": "r03-031",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-032",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-033",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-034",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-035",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  },
+  {
+    "id": "r03-036",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-037",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-038",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-039",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-040",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  },
+  {
+    "id": "r03-041",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He was prevented ___ leaving the country pending investigation.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "'Prevent' is followed by 'from' + gerund (-ing).",
+    "rule": "Prevent from + V-ing",
+    "bengaliHint": "'Prevent'-এর পর 'from' বসে।"
+  },
+  {
+    "id": "r03-042",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She is capable ___ handling independent clerical assignments.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' takes the preposition 'of'.",
+    "rule": "Capable of + gerund",
+    "bengaliHint": "'Capable'-এর সাথে 'of' বসে।"
+  },
+  {
+    "id": "r03-043",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The candidate was disqualified ___ producing forged documents.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "against"
+    ],
+    "answer": 0,
+    "explanation": "One is disqualified 'for' committing a breach or offense.",
+    "rule": "Disqualified for a reason",
+    "bengaliHint": "অপরাধের কারণে বহিষ্কৃত হলে 'disqualified for' বসে।"
+  },
+  {
+    "id": "r03-044",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He took great pride ___ his son's academic achievements.",
+    "options": [
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "Noun 'pride' takes 'in' ('take pride in'); adjective 'proud' takes 'of' ('proud of').",
+    "rule": "Pride in vs Proud of",
+    "bengaliHint": "গর্ব অনুভব করা (Noun) অর্থে 'pride in' বসে।"
+  },
+  {
+    "id": "r03-045",
+    "chapter": "r03",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The climate of Burdwan is conducive ___ agricultural productivity.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "'Conducive' (helpful or favorable to) takes the preposition 'to'.",
+    "rule": "Fixed preposition: conducive to",
+    "bengaliHint": "অনুকূল বোঝাতে 'conducive to' বসে।"
+  }
+]

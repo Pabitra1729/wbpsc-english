@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Previous Year Questions (PYQs) · WBPSC Clerkship</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/test.css">
+  <script>
+    try {
+      document.documentElement.dataset.theme = JSON.parse(localStorage.getItem("wbpsc-theme") || '"light"');
+    } catch(e) {
+      document.documentElement.dataset.theme = "light";
+    }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+  <main id="main" class="page">
+    <header class="page-header">
+      <div style="display:flex; align-items:center; gap:0.5rem; flex-wrap:wrap; margin-bottom:0.4rem;">
+        <span class="badge badge-section">WBPSC CLERKSHIP EXAMINATION</span>
+        <span class="badge badge-success">✓ 100% Verified Official Papers</span>
+        <span class="badge badge-count">300 Total MCQs · 3 Full Shifts</span>
+      </div>
+      <h1>Previous Year Questions (PYQs)</h1>
+      <p>Complete official question papers from WBPSC Clerkship (2023 & 2019). Practice all 100 questions of 2023 Shift 1, 2019 Shift 1, and 2019 Shift 2 interactively with instant evaluation, official answer keys, and step-by-step arithmetic solutions.</p>
+    </header>
+
+    <!-- SHIFT SELECTION HERO CONTROLS -->
+    <section class="card" style="margin-bottom:1.5rem; padding:1.5rem 1.75rem; border-top:4px solid var(--primary); background:var(--surface);">
+      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1.25rem; margin-bottom:1.25rem;">
+        <div>
+          <span class="section-sub">Choose Examination Shift</span>
+          <h2 id="active-shift-title" style="font-size:1.4rem; font-weight:800; margin:0.2rem 0 0.3rem;">2023 Shift 1 (100 Questions)</h2>
+          <p id="active-shift-desc" style="margin:0; color:var(--text-secondary); font-size:0.95rem;">
+            Official Session-I (Series A) · Part I: English (1–30), Part II: General Studies & Arithmetic (31–100).
+          </p>
+        </div>
+        
+        <!-- Primary Shift Buttons -->
+        <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+          <button id="btn-shift-2023-s1" class="btn primary shift-select-btn active" type="button" style="padding:0.7rem 1.4rem; font-size:1rem; font-weight:700;">
+            🏛️ 2023 Shift 1 (100 MCQs)
+          </button>
+          <button id="btn-shift-1" class="btn secondary shift-select-btn" type="button" style="padding:0.7rem 1.4rem; font-size:1rem; font-weight:700;">
+            🏛️ 2019 Shift 1 (100 MCQs)
+          </button>
+          <button id="btn-shift-2" class="btn secondary shift-select-btn" type="button" style="padding:0.7rem 1.4rem; font-size:1rem; font-weight:700;">
+            🏛️ 2019 Shift 2 (100 MCQs)
+          </button>
+        </div>
+      </div>
+
+      <!-- Live Test Simulation Actions -->
+      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.75rem; padding-top:1rem; border-top:1px solid var(--border);">
+        <div style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+          <a id="btn-take-full-test" class="btn primary" href="test.html?type=pyq-2019-s1-full&count=100">
+            ⚡ Take Full 100-Question Exam (90 Mins CBT)
+          </a>
+          <a id="btn-take-eng-test" class="btn secondary" href="test.html?type=pyq-2019-s1&count=30">
+            📝 Practice English Only (30 Qs · 30 Mins)
+          </a>
+        </div>
+        <div style="display:flex; align-items:center; gap:0.6rem;">
+          <label style="display:flex; align-items:center; gap:0.4rem; font-size:0.9rem; cursor:pointer; user-select:none;">
+            <input type="checkbox" id="chk-reveal-answers" style="cursor:pointer; width:16px; height:16px;">
+            <span>Always Show Official Answers</span>
+          </label>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION FILTER TABS (WITHIN SELECTED SHIFT) -->
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.25rem;">
+      <div class="booklet-tabs" style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+        <button class="btn primary sec-filter-btn active" data-sec="all" type="button">All 100 MCQs</button>
+        <button class="btn secondary sec-filter-btn" data-sec="generalStudies" type="button">Part A: General Studies (40 Qs)</button>
+        <button class="btn secondary sec-filter-btn" data-sec="arithmetic" type="button">Part B: Arithmetic (30 Qs with Solutions)</button>
+        <button class="btn secondary sec-filter-btn" data-sec="english" type="button">Part C: English (30 Qs)</button>
+      </div>
+
+      <!-- Quick Search Bar -->
+      <div style="flex:1; max-width:320px; min-width:240px;">
+        <input type="search" id="pyq-search-input" placeholder="🔎 Search by keyword or question number..." style="width:100%; padding:0.55rem 1rem; border-radius:var(--radius-pill); border:1.5px solid var(--border); background:var(--surface); color:var(--text); font-size:0.92rem;" autocomplete="off">
+      </div>
+    </div>
+
+    <!-- Status Bar -->
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem; font-size:0.92rem; color:var(--muted);">
+      <span id="pyq-showing-count">Showing 100 of 100 questions</span>
+      <span id="pyq-score-counter" style="font-weight:700; color:var(--primary);">Solved: 0 / 100</span>
+    </div>
+
+    <!-- QUESTIONS LIST CONTAINER -->
+    <div id="pyq-container" aria-live="polite"></div>
+
+    <!-- Bottom Actions -->
+    <div style="text-align:center; margin-top:2.5rem; padding:1.5rem; background:var(--surface); border-radius:var(--radius-md); border:1px solid var(--border);">
+      <h3 style="margin:0 0 0.5rem; font-size:1.15rem;">Ready to test yourself under real exam conditions?</h3>
+      <p style="margin:0 0 1rem; color:var(--text-secondary); font-size:0.95rem;">Experience authentic computer-based testing with official timing, negative marking, and performance analytics.</p>
+      <div style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap;">
+        <a id="btn-bottom-full" class="btn primary" href="test.html?type=pyq-2019-s1-full&count=100">Start 100-Question CBT Mock Exam</a>
+        <a class="btn secondary" href="mock-tests.html">Explore All Mock Tests</a>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/storage.js"></script>
+  <script src="js/bookmarks.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    (() => {
+      let shift2023s1Questions = [];
+      let shift1Questions = [];
+      let shift2Questions = [];
+      let currentShift = "2023-s1"; // "2023-s1", "2019-s1", "2019-s2"
+      let currentSection = "all"; // "all", "generalStudies", "arithmetic", "english"
+      let searchKeyword = "";
+      let revealAlways = false;
+
+      // Track user attempts for this session
+      const userAnswers = {};
+
+      const shiftTitle = document.querySelector("#active-shift-title");
+      const shiftDesc = document.querySelector("#active-shift-desc");
+      const btnShift2023s1 = document.querySelector("#btn-shift-2023-s1");
+      const btnShift1 = document.querySelector("#btn-shift-1");
+      const btnShift2 = document.querySelector("#btn-shift-2");
+      const btnTakeFull = document.querySelector("#btn-take-full-test");
+      const btnTakeEng = document.querySelector("#btn-take-eng-test");
+      const btnBottomFull = document.querySelector("#btn-bottom-full");
+      const secBtns = document.querySelectorAll(".sec-filter-btn");
+      const chkReveal = document.querySelector("#chk-reveal-answers");
+      const searchInput = document.querySelector("#pyq-search-input");
+      const container = document.querySelector("#pyq-container");
+      const showingCount = document.querySelector("#pyq-showing-count");
+      const scoreCounter = document.querySelector("#pyq-score-counter");
+
+      async function init() {
+        try {
+          const [r2023s1, r1, r2] = await Promise.all([
+            fetch("data/pyq/2023-shift1-100.json"),
+            fetch("data/pyq/2019-shift1-100.json"),
+            fetch("data/pyq/2019-shift2-100.json")
+          ]);
+          if (r2023s1.ok) shift2023s1Questions = await r2023s1.json();
+          if (r1.ok) shift1Questions = await r1.json();
+          if (r2.ok) shift2Questions = await r2.json();
+        } catch (e) {
+          console.warn("Could not load shift datasets", e);
+        }
+        render();
+      }
+
+      function updateShiftControls() {
+        if (currentShift === "2023-s1") {
+          shiftTitle.textContent = "2023 Shift 1 (100 Questions)";
+          shiftDesc.textContent = "Official Session-I (Series A) · Part I: English (1–30), Part II: General Studies & Arithmetic (31–100).";
+          btnShift2023s1.className = "btn primary shift-select-btn active";
+          btnShift1.className = "btn secondary shift-select-btn";
+          btnShift2.className = "btn secondary shift-select-btn";
+          btnTakeFull.href = "test.html?type=pyq-2023-s1-full&count=100";
+          btnTakeEng.href = "test.html?type=pyq-2023-s1&count=30";
+          btnBottomFull.href = "test.html?type=pyq-2023-s1-full&count=100";
+          btnBottomFull.textContent = "Start 2023 Shift 1 (100 Qs) Mock Exam";
+        } else if (currentShift === "2019-s1") {
+          shiftTitle.textContent = "2019 Shift 1 (100 Questions)";
+          shiftDesc.textContent = "Test Booklet Series A (DBF/19) · General Studies (1–40), Arithmetic (41–70), English (71–100).";
+          btnShift1.className = "btn primary shift-select-btn active";
+          btnShift2023s1.className = "btn secondary shift-select-btn";
+          btnShift2.className = "btn secondary shift-select-btn";
+          btnTakeFull.href = "test.html?type=pyq-2019-s1-full&count=100";
+          btnTakeEng.href = "test.html?type=pyq-2019-s1&count=30";
+          btnBottomFull.href = "test.html?type=pyq-2019-s1-full&count=100";
+          btnBottomFull.textContent = "Start 2019 Shift 1 (100 Qs) Mock Exam";
+        } else {
+          shiftTitle.textContent = "2019 Shift 2 (100 Questions)";
+          shiftDesc.textContent = "Official 2nd Shift Paper · General Studies (1–40), Arithmetic (41–70), English (71–100).";
+          btnShift2.className = "btn primary shift-select-btn active";
+          btnShift2023s1.className = "btn secondary shift-select-btn";
+          btnShift1.className = "btn secondary shift-select-btn";
+          btnTakeFull.href = "test.html?type=pyq-2019-s2-full&count=100";
+          btnTakeEng.href = "test.html?type=pyq-2019-s2&count=30";
+          btnBottomFull.href = "test.html?type=pyq-2019-s2-full&count=100";
+          btnBottomFull.textContent = "Start 2019 Shift 2 (100 Qs) Mock Exam";
+        }
+      }
+
+      function render() {
+        updateShiftControls();
+        const activeList = (currentShift === "2023-s1") 
+          ? shift2023s1Questions 
+          : (currentShift === "2019-s1" ? shift1Questions : shift2Questions);
+        const qTerm = searchKeyword.toLowerCase();
+
+        const filtered = activeList.filter(q => {
+          // Section filter
+          if (currentSection !== "all" && q.section !== currentSection) return false;
+          // Search filter
+          if (!qTerm) return true;
+          return (q.qNum && String(q.qNum) === qTerm) ||
+                 (q.question && q.question.toLowerCase().includes(qTerm)) ||
+                 (q.explanation && q.explanation.toLowerCase().includes(qTerm)) ||
+                 (q.options && q.options.some(opt => opt.toLowerCase().includes(qTerm)));
+        });
+
+        const shiftDisplayLabel = currentShift === "2023-s1" ? "2023 Shift 1" : (currentShift === "2019-s1" ? "2019 Shift 1" : "2019 Shift 2");
+        showingCount.textContent = `Showing ${filtered.length} of ${activeList.length} questions in ${shiftDisplayLabel}`;
+
+        // Count solved in current shift
+        let solvedCount = 0;
+        let correctCount = 0;
+        activeList.forEach(q => {
+          if (userAnswers[q.id] !== undefined) {
+            solvedCount++;
+            if (userAnswers[q.id] === q.answer) correctCount++;
+          }
+        });
+        scoreCounter.textContent = `Solved: ${solvedCount} / ${activeList.length} (Score: ${correctCount} Correct)`;
+
+        if (filtered.length === 0) {
+          container.innerHTML = `
+            <article class="card" style="text-align:center; padding:2.5rem 1.5rem;">
+              <p style="font-size:1.1rem; color:var(--muted); margin:0;">No questions match your current search or section filter.</p>
+            </article>
+          `;
+          return;
+        }
+
+        container.innerHTML = filtered.map((q) => {
+          const userChoice = userAnswers[q.id];
+          const hasAttempted = userChoice !== undefined;
+          const isCorrect = userChoice === q.answer;
+          const shouldShowFeedback = hasAttempted || revealAlways;
+
+          let sectionBadgeClass = "badge-neutral";
+          let sectionLabel = "Question";
+          if (q.section === "generalStudies") { sectionBadgeClass = "badge-primary"; sectionLabel = "General Studies"; }
+          else if (q.section === "arithmetic") { sectionBadgeClass = "badge-count"; sectionLabel = "Arithmetic"; }
+          else if (q.section === "english") { sectionBadgeClass = "badge-success"; sectionLabel = "English"; }
+
+          return `
+            <article class="card pyq-question-card" id="card-${q.id}" style="margin-bottom:1.25rem; border:1px solid var(--border); transition:all 0.2s ease;">
+              <div class="meta-row" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+                <div style="display:flex; gap:0.4rem; flex-wrap:wrap; align-items:center;">
+                  <span class="badge ${sectionBadgeClass}" style="font-weight:700;">Q. ${q.qNum}</span>
+                  <span class="badge badge-neutral">${sectionLabel}</span>
+                  <span class="badge" style="background:var(--success-soft); color:var(--success); font-weight:700;">✓ Official ${(q.year && q.year.startsWith("2023")) ? "2023" : "2019"}</span>
+                </div>
+                <button class="btn secondary bookmark-btn" type="button" style="padding:0.25rem 0.65rem; font-size:0.8rem;" data-id="${q.id}">
+                  ${WBPSCBookmarks.has("q-" + q.id) ? "★ Bookmarked" : "☆ Bookmark"}
+                </button>
+              </div>
+
+              <h2 style="font-size:1.1rem; line-height:1.5; font-weight:600; margin:0 0 1rem;">${q.question}</h2>
+
+              <!-- Interactive Option Buttons -->
+              <div class="interactive-options-list" style="display:grid; gap:0.5rem; margin-bottom:1rem;">
+                ${(q.options || []).map((opt, i) => {
+                  let optStyle = "background:var(--surface); border:1.5px solid var(--border); color:var(--text);";
+                  let tag = "";
+
+                  if (shouldShowFeedback) {
+                    if (i === q.answer) {
+                      optStyle = "background:var(--success-soft); border:1.5px solid var(--success); color:var(--success); font-weight:700;";
+                      tag = " ✓ (Official Answer Key)";
+                    } else if (hasAttempted && i === userChoice && !isCorrect) {
+                      optStyle = "background:var(--danger-soft, #fee2e2); border:1.5px solid var(--danger); color:var(--danger); font-weight:700;";
+                      tag = " ✗ (Your Choice)";
+                    }
+                  } else if (hasAttempted && i === userChoice) {
+                    optStyle = "background:var(--primary-soft, #e0e7ff); border:1.5px solid var(--primary); font-weight:700;";
+                  }
+
+                  return `
+                    <button class="btn pyq-opt-btn" type="button" data-qid="${q.id}" data-opt="${i}" style="text-align:left; justify-content:flex-start; padding:0.65rem 1rem; border-radius:8px; font-size:0.95rem; cursor:pointer; transition:all 0.15s ease; ${optStyle}">
+                      <span style="font-weight:700; margin-right:0.5rem; width:22px; display:inline-block;">(${String.fromCharCode(65 + i)})</span>
+                      <span>${opt}${tag}</span>
+                    </button>
+                  `;
+                }).join("")}
+              </div>
+
+              <!-- Explanation & Solution Drawer (revealed on attempt or toggle) -->
+              <div class="pyq-explanation-drawer ${shouldShowFeedback ? "" : "hidden"}" style="background:var(--surface-subtle); border-left:3px solid var(--primary); padding:0.85rem 1.15rem; border-radius:6px; margin-top:0.75rem;">
+                <div style="margin-bottom:0.4rem; font-size:0.95rem; line-height:1.5;">
+                  <strong style="color:var(--success);">Official Key: Option (${String.fromCharCode(65 + q.answer)})</strong> — <span>${q.options[q.answer]}</span>
+                </div>
+                ${q.solution ? `
+                  <div style="margin-bottom:0.4rem; font-size:0.92rem; background:var(--surface); padding:0.6rem 0.8rem; border-radius:4px; border:1px solid var(--border-subtle);">
+                    <strong>Step-by-Step Solution:</strong> ${q.solution}
+                  </div>
+                ` : ""}
+                <p style="margin:0 0 0.35rem; font-size:0.92rem; color:var(--text); line-height:1.5;">
+                  <strong>Explanation:</strong> ${q.explanation}
+                </p>
+                ${q.bengaliHint ? `
+                  <p style="margin:0; font-size:0.92rem; font-family:'Noto Sans Bengali', sans-serif; color:var(--primary); line-height:1.6;">
+                    <strong>বাংলা সহায়িকা:</strong> ${q.bengaliHint}
+                  </p>
+                ` : ""}
+              </div>
+            </article>
+          `;
+        }).join("");
+
+        // Attach listeners to interactive options
+        container.querySelectorAll(".pyq-opt-btn").forEach(btn => {
+          btn.addEventListener("click", () => {
+            const qId = btn.dataset.qid;
+            const optIdx = parseInt(btn.dataset.opt, 10);
+            userAnswers[qId] = optIdx;
+            render();
+          });
+        });
+
+        // Attach bookmark listeners
+        container.querySelectorAll(".bookmark-btn").forEach(btn => {
+          btn.addEventListener("click", () => {
+            const qId = btn.dataset.id;
+            WBPSCBookmarks.toggle("q-" + qId);
+            btn.textContent = WBPSCBookmarks.has("q-" + qId) ? "★ Bookmarked" : "☆ Bookmark";
+          });
+        });
+      }
+
+      // Shift Buttons
+      btnShift2023s1.addEventListener("click", () => {
+        currentShift = "2023-s1";
+        render();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      btnShift1.addEventListener("click", () => {
+        currentShift = "2019-s1";
+        render();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      btnShift2.addEventListener("click", () => {
+        currentShift = "2019-s2";
+        render();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      // Section Filter Buttons
+      secBtns.forEach(btn => {
+        btn.addEventListener("click", () => {
+          secBtns.forEach(b => { b.className = "btn secondary sec-filter-btn"; });
+          btn.className = "btn primary sec-filter-btn active";
+          currentSection = btn.dataset.sec;
+          render();
+        });
+      });
+
+      // Search Listener
+      searchInput.addEventListener("input", () => {
+        searchKeyword = searchInput.value.trim();
+        render();
+      });
+
+      // Always Reveal Answers Checkbox
+      chkReveal.addEventListener("change", () => {
+        revealAlways = chkReveal.checked;
+        render();
+      });
+
+      init();
+    })();
+  </script>
+</body>
+</html>

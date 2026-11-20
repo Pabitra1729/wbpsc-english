@@ -1,0 +1,812 @@
+[
+  {
+    "id": "v04-001",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'break the ice' mean?",
+    "options": [
+      "start a social conversation",
+      "break a piece of ice",
+      "stop a conversation",
+      "freeze water"
+    ],
+    "answer": 0,
+    "explanation": "Break the ice means to make people feel more comfortable at the start.",
+    "rule": "Idiomatic meaning",
+    "bengaliHint": "শুরুতে কথোপকথন শুরু করা।"
+  },
+  {
+    "id": "v04-002",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'once in a blue moon' mean?",
+    "options": [
+      "very rarely",
+      "every night",
+      "very loudly",
+      "very slowly"
+    ],
+    "answer": 0,
+    "explanation": "It describes something that happens very rarely.",
+    "rule": "Time idiom",
+    "bengaliHint": "খুব কম।"
+  },
+  {
+    "id": "v04-003",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does 'back to square one' mean?",
+    "options": [
+      "return to the starting point",
+      "enter a square room",
+      "buy a map",
+      "finish a task"
+    ],
+    "answer": 0,
+    "explanation": "It means to begin again after a failure or change of plan.",
+    "rule": "Restart idiom",
+    "bengaliHint": "আবার শুরু করা।"
+  },
+  {
+    "id": "v04-004",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of the idiom 'To burn the midnight oil'?",
+    "options": [
+      "To waste fuel unnecessarily",
+      "To study or work hard late into the night",
+      "To cause an accidental fire",
+      "To celebrate late at night"
+    ],
+    "answer": 1,
+    "explanation": "'To burn the midnight oil' means to work or study late into the night.",
+    "rule": "Idiom meaning: burn midnight oil = work late",
+    "bengaliHint": "দেরি রাত পর্যন্ত কঠোর পড়াশোনা বা কাজ করা।"
+  },
+  {
+    "id": "v04-005",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does the idiom 'A piece of cake' mean?",
+    "options": [
+      "A delicious dessert",
+      "A very easy and simple task",
+      "A small financial portion",
+      "A complicated recipe"
+    ],
+    "answer": 1,
+    "explanation": "'A piece of cake' is an informal idiom denoting something easily accomplished.",
+    "rule": "Idiom meaning: piece of cake = very easy task",
+    "bengaliHint": "অত্যন্ত সহজ কোনো কাজ বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-006",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To cry over spilt milk'?",
+    "options": [
+      "To complain about an accident in the kitchen",
+      "To lament over past mistakes that cannot be undone",
+      "To clean up dairy spills quickly",
+      "To cry loudly in public"
+    ],
+    "answer": 1,
+    "explanation": "'To cry over spilt milk' means to regret or feel distressed about an unavoidable past loss that cannot be reversed.",
+    "rule": "Idiom meaning: regret irrecoverable loss",
+    "bengaliHint": "যা ঘটে গেছে এবং সংশোধন করা অসম্ভব, তা নিয়ে অযথা বিলাপ করা।"
+  },
+  {
+    "id": "v04-007",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does the idiom 'To leave no stone unturned' mean?",
+    "options": [
+      "To search for archaeological artifacts",
+      "To try every possible means to achieve an objective",
+      "To pave a new street with stones",
+      "To clear rocks from an agricultural field"
+    ],
+    "answer": 1,
+    "explanation": "'To leave no stone unturned' means to spare no effort and try all possible options.",
+    "rule": "Idiom: leave no stone unturned = try every effort",
+    "bengaliHint": "কোনো চেষ্টারই ত্রুটি না রাখা বা সর্বশক্তি নিয়োগ করা।"
+  },
+  {
+    "id": "v04-008",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'A blessing in disguise'?",
+    "options": [
+      "A misfortune that eventually results in something good",
+      "A monk wearing ordinary civilian clothes",
+      "A deceitful enemy pretending to be an ally",
+      "A formal religious benediction"
+    ],
+    "answer": 0,
+    "explanation": "'A blessing in disguise' refers to an apparent misfortune that yields unexpected positive results.",
+    "rule": "Idiom: blessing in disguise = apparent misfortune yielding good",
+    "bengaliHint": "আপাতদৃষ্টিতে ক্ষতি মনে হলেও পরে যার দ্বারা মঙ্গল ঘটে।"
+  },
+  {
+    "id": "v04-009",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Once in a blue moon'?",
+    "options": [
+      "During a lunar eclipse",
+      "Very rarely or almost never",
+      "Every full moon night",
+      "Regularly and punctually"
+    ],
+    "answer": 1,
+    "explanation": "'Once in a blue moon' means on very rare occasions; seldom.",
+    "rule": "Idiom: once in blue moon = very rarely",
+    "bengaliHint": "ডুমুরের ফুল বা অতি কদাচিৎ ঘটা কোনো বিষয়।"
+  },
+  {
+    "id": "v04-010",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-011",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-012",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-013",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-014",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-015",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-016",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-017",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-018",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-019",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-020",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-021",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-022",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-023",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-024",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-025",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-026",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-027",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-028",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-029",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-030",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-031",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-032",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-033",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-034",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-035",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-036",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-037",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-038",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-039",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-040",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  },
+  {
+    "id": "v04-041",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What does 'To spill the beans' mean?",
+    "options": [
+      "To reveal a secret prematurely",
+      "To cook food",
+      "To waste agricultural produce",
+      "To drop groceries"
+    ],
+    "answer": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "rule": "Idiom: spill the beans = reveal secret",
+    "bengaliHint": "গোপন তথ্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": "v04-042",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the meaning of 'To bite the bullet'?",
+    "options": [
+      "To face a difficult situation with courage",
+      "To get angry",
+      "To purchase ammunition",
+      "To chew metallic objects"
+    ],
+    "answer": 0,
+    "explanation": "'To bite the bullet' means to face a grim, unavoidable situation with fortitude.",
+    "rule": "Idiom: bite the bullet = face adversity bravely",
+    "bengaliHint": "কঠিন পরিস্থিতি সাহসের সাথে মেনে নেওয়া।"
+  },
+  {
+    "id": "v04-043",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the meaning of 'Through thick and thin'?",
+    "options": [
+      "Under all conditions and adversities",
+      "During winter and summer",
+      "In obesity and health",
+      "Quickly and slowly"
+    ],
+    "answer": 0,
+    "explanation": "'Through thick and thin' means through all difficulties and circumstances.",
+    "rule": "Idiom: through thick and thin = in all conditions",
+    "bengaliHint": "সুখে-দুঃখে সর্বাবস্থায় পাশে থাকা।"
+  },
+  {
+    "id": "v04-044",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What does 'To hit the nail on the head' mean?",
+    "options": [
+      "To describe exactly what is causing a situation",
+      "To injure one's finger",
+      "To construct wooden furniture",
+      "To guess randomly"
+    ],
+    "answer": 0,
+    "explanation": "'To hit the nail on the head' means to say or do something exactly right.",
+    "rule": "Idiom: hit nail on head = state accurately",
+    "bengaliHint": "যথার্থ কথাটি বলা বা আসল বিষয়টি ধরা।"
+  },
+  {
+    "id": "v04-045",
+    "chapter": "v04",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the meaning of 'At the eleventh hour'?",
+    "options": [
+      "At the very last moment",
+      "Early in the morning",
+      "At midnight",
+      "After the scheduled time"
+    ],
+    "answer": 0,
+    "explanation": "'At the eleventh hour' means at the very last moment before it is too late.",
+    "rule": "Idiom: at the eleventh hour = last moment",
+    "bengaliHint": "শেষ মুহূর্তে বোঝাতে এই বাগধারাটি বসে।"
+  }
+]

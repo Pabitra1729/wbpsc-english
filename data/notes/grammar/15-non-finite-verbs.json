@@ -1,0 +1,91 @@
+{
+  "id": "g15",
+  "title": "Non-Finite Verbs (Infinitives, Gerunds & Participles)",
+  "intro": "Non-finite verbs do not show tense, person, or number, and cannot serve as the sole main verb of a sentence. They encompass Infinitives (to + V1 / bare V1), Gerunds (V-ing functioning as a noun), and Participles (Present/Past functioning as adjectives). In the WBPSC Clerkship examination, questions test dangling participles, bare infinitives, verbs followed strictly by gerunds, and possessive case before gerunds.",
+  "bengali": "Non-Finite Verbs (অসমাপিকা ক্রিয়া) হলো এমন ক্রিয়াপদ যা বাক্যের Subject-এর Number, Person বা Tense দ্বারা সীমাবদ্ধ বা পরিবর্তিত হয় না। এরা প্রধানত তিন প্রকার: Infinitive (to + V1), Gerund (V-ing যা Noun-এর কাজ করে), এবং Participle (যা Adjective-এর কাজ করে)।\n\nWBPSC Clerkship পরীক্ষায় Non-Finite Verbs থেকে যেসব প্রশ্ন বারবার আসে:\n১. Dangling Participle (ঝুলন্ত বা ভুলভাবে সংযুক্ত Participle):\n   বাক্যে Participle Phrase দিয়ে শুরু হলে তার ঠিক পরেই সেই Noun/Pronoun-কে বসাতে হবে যে কাজটি করছে। যেমন: 'Walking in the garden, a snake bit him' সম্পূর্ণ ভুল (কারণ মনে হচ্ছে সাপটি বাগানে হাঁটছিল)। সঠিক বাক্য: 'While he was walking in the garden, a snake bit him' অথবা 'Walking in the garden, he was bitten by a snake.'\n২. Bare Infinitive (বিনা 'to'-তে Infinitive):\n   কিছু নির্দিষ্ট Verb যেমন: Bid, let, make, hear, see, watch, notice-এর পরে Active Voice-এ 'to' ছাড়া শুধু Verb-এর মূল রূপ (V1) বসে। যেমন: 'I saw him cross the road' (NOT: to cross), 'She made me cry' (NOT: to cry)।\n৩. Gerund-এর পূর্বে Possessive Case:\n   Gerund (V-ing)-এর আগে কোনো Noun বা Pronoun বসলে তা সর্বদা Possessive Case (my, his, her, their, Ram's) হবে, Objective Case (me, him, them, Ram) হবে না। যেমন: 'I did not like his coming late' (NOT: him coming late)।\n৪. নির্দিষ্ট কিছু শব্দের পরে সর্বদা GERUND বসে:\n   Avoid, enjoy, mind, postpone, admit, deny, finish, stop, withstand, practice, 'look forward to', 'used to' (অভ্যস্ত অর্থে), 'with a view to'-এর পরে সর্বদা V-ing (Gerund) বসে।",
+  "rules": [
+    {
+      "rule": "DANGLING PARTICIPLE TRAP: A participial phrase modifying a subject must be logically attached to the subject immediately following the comma.",
+      "examples": [
+        "Incorrect: Being a rainy day, we decided to stay at home (Implies 'we' were the rainy day).",
+        "Correct: It being a rainy day, we decided to stay at home.",
+        "Incorrect: Walking along the railway track, a speeding train crushed him.",
+        "Correct: While he was walking along the railway track, a speeding train crushed him."
+      ],
+      "exceptions": [
+        "Absolute constructions (weather, day, time) require an independent dummy subject 'It': 'It being a holiday...', 'It being Sunday...'."
+      ]
+    },
+    {
+      "rule": "BARE INFINITIVES (Infinitive without 'TO') are mandatory after verbs of perception (see, hear, watch, notice) and verbs like BID, LET, MAKE in active voice.",
+      "examples": [
+        "I heard her sing a classical melody (NOT: to sing).",
+        "The police made the driver halt the vehicle (NOT: to halt).",
+        "Let him express his administrative grievance (NOT: to express)."
+      ],
+      "exceptions": [
+        "When 'Make', 'Hear', or 'See' is transformed into the PASSIVE VOICE, 'to' is restored: 'He was made to halt the vehicle', 'She was heard to sing'."
+      ]
+    },
+    {
+      "rule": "POSSESSIVE CASE BEFORE GERUND: A noun or pronoun modifying a Gerund must be in the possessive case (my, his, her, their, our, your, Ram's).",
+      "examples": [
+        "I object to his coming late to the secretariat (NOT: him coming late).",
+        "The committee appreciated Mohan's clearing the examination (NOT: Mohan clearing).",
+        "There is no point in our waiting here indefinitely (NOT: us waiting)."
+      ],
+      "exceptions": [
+        "When using plural nouns ending in 's' or abstract non-personal entities, objective case is occasionally acceptable in modern English, but possessive remains standard in WBPSC."
+      ]
+    },
+    {
+      "rule": "Verbs and phrases that MUST be followed by a GERUND (V-ing), NEVER an infinitive:",
+      "examples": [
+        "Avoid, enjoy, mind, postpone, risk, admit, deny, consider, finish, prevent, abstain from.",
+        "Idiomatic phrases: Look forward to, accustomed to, with a view to, addicted to, can't help.",
+        "Correct: Would you mind closing the window? (NOT: to close).",
+        "Correct: He visited the district headquarters with a view to meeting the magistrate."
+      ],
+      "exceptions": [
+        "Verbs like 'remember', 'stop', and 'forget' can take either infinitive or gerund, but with distinct meanings: 'Stop smoking' (quit habit) vs 'Stop to smoke' (pause in order to smoke)."
+      ]
+    },
+    {
+      "rule": "BARE INFINITIVES after modal auxiliaries and semi-modal phrases:",
+      "examples": [
+        "After: Had better, would rather, would sooner, sooner than.",
+        "Correct: You had better leave for the examination center now (NOT: had better to leave).",
+        "Correct: I would rather resign than compromise on my integrity (Bare infinitive 'resign' and 'compromise')."
+      ],
+      "exceptions": [
+        "'Had better' looks like a past tense, but refers to urgent present advice and takes a bare infinitive."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Writing 'Being a cold morning, I stayed indoors' instead of 'It being a cold morning' (dangling participle).",
+    "Writing 'I saw him to steal the wallet' instead of 'I saw him steal' (bare infinitive after saw).",
+    "Saying 'I don't like you coming late' instead of 'your coming late' (possessive before gerund).",
+    "Writing 'He had better to consult a doctor' instead of 'had better consult' (had better takes bare infinitive).",
+    "Writing 'I look forward to meet you' instead of 'meeting you' (look forward to takes gerund)."
+  ],
+  "examTricks": [
+    "The 'Dangling Participle' Test: Ask 'WHO was doing the action in the -ing phrase?' If the subject after the comma wasn't doing it, insert 'It being' or 'While [subject] was...'.",
+    "The 'Possessive + Gerund' Rule: Pronoun before -ing must be MY, HIS, HER, OUR, YOUR, THEIR.",
+    "The 'Had Better / Would Rather' Pair: Always followed by V1 without 'to'.",
+    "The 'Make/Let/Hear' Check: Active = V1 (no 'to'). Passive = was made + TO + V1."
+  ],
+  "memoryTricks": [
+    "IT BEING for days and weather, keeps the participle together.",
+    "GERUND loves POSSESSIVE (His reading, my writing)."
+  ],
+  "revision": [
+    "Dangling Participle: It being a rainy day (not 'Being a rainy day').",
+    "Make, let, see, hear + Bare Infinitive (no 'to').",
+    "Passive of make: was made TO + V1.",
+    "Possessive case before Gerund: his coming, our going.",
+    "Look forward to, with a view to, used to + V-ing.",
+    "Had better, would rather + Bare Infinitive.",
+    "Avoid, enjoy, mind, finish + Gerund."
+  ]
+}

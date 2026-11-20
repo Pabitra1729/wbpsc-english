@@ -1,0 +1,75 @@
+{
+  "id": "d02",
+  "title": "Précis Writing & Summarization",
+  "intro": "Précis Writing evaluates a candidate's ability to condense an expansive passage to approximately one-third of its original length while preserving its essential core ideas, logical coherence, and tone in clear, concise, original language. In WBPSC Clerkship Part-II, Précis Writing carries 15 marks with strict penalties for verbatim copying, exceeding word limits, or omitting an apt title.",
+  "bengali": "Précis Writing (সারসংক্ষেপ লিখন): WBPSC Clerkship Part-II-র একটি অত্যন্ত গুরুত্বপূর্ণ অংশ। এখানে প্রায় ১৫০-২০০ শব্দের একটি গদ্যাংশকে তার এক-তৃতীয়াংশ (One-Third / প্রায় ৫০-৬৫ শব্দে) আকারে সংক্ষেপ করে নিজের ভাষায় লিখতে হয়।\n\nWBPSC-তে Précis-এ সর্বোচ্চ নম্বর পাওয়ার ৬টি সোনালী নিয়ম:\n১. উপযুক্ত শিরোনাম (Suitable Title): Précis-এর শুরুতে অবশ্যই একটি মানানসই, সংক্ষিপ্ত ও আকর্ষণীয় Title দিতে হবে (Title-এর জন্য আলাদা ২-৩ নম্বর থাকে)। Title-টি Capitalized হবে এবং কোনো দাঁড়ি থাকবে না। যেমন: 'The Importance of Discipline in Life'।\n২. এক-তৃতীয়াংশ শব্দসীমা (The 1/3rd Rule): যদি মূল প্যাসেজে ১৫০টি শব্দ থাকে, তবে Précis হবে ৫০ শব্দ (±৫ শব্দ গ্রহণযোগ্য, অর্থাৎ ৪৫ থেকে ৫৫ শব্দ)।\n৩. নিজস্ব ভাষায় প্রকাশ (Use Your Own Words): মূল প্যাসেজের বাক্য হুবহু ধার করে (Copy-paste) লিখলে নম্বর শূন্য দেওয়া হতে পারে। শব্দ ও বাক্যগঠন নিজের হতে হবে।\n৪. বর্জনীয় বিষয়সমূহ (What to Omit):\n   - উদাহরণ (Examples), রূপক (Metaphors), অলঙ্কার ও তুলনা বাদ দিতে হবে।\n   - পুনরাবৃত্তি (Repetitions) ও পরিসংখ্যান বাদ দিতে হবে।\n   - কোনো উদ্ধৃতি (Quotations) রাখা যাবে না।\n৫. সম্পূর্ণ পরোক্ষ উক্তি ও Third Person: সর্বদা Third Person এবং Indirect Speech-এ লিখতে হবে। 'I', 'You' বা 'The author says that' লেখা যাবে না।\n৬. নিজস্ব কোনো মতামত বা মন্তব্য যোগ না করা: প্যাসেজের বাইরের কোনো অতিরিক্ত জ্ঞান বা নিজের ব্যক্তিগত মতামত দেওয়া সম্পূর্ণ নিষিদ্ধ।",
+  "rules": [
+    {
+      "rule": "THE ONE-THIRD WORD COUNT RULE: Count the total words in the source text, divide by three, and keep the précis strictly within ±5 words of that target.",
+      "examples": [
+        "Original Passage = 180 words -> Target Précis = 60 words (Permissible range: 55 to 65 words).",
+        "Original Passage = 150 words -> Target Précis = 50 words (Permissible range: 45 to 55 words)."
+      ],
+      "exceptions": [
+        "Always state the actual word count at the bottom right corner of your fair draft: 'Word count: 52'."
+      ]
+    },
+    {
+      "rule": "TITLE FORMULATION PROTOCOL: Every précis must be crowned with a concise, appropriate title that encapsulates the primary thesis.",
+      "examples": [
+        "Good: 'True Education and Moral Character'",
+        "Good: 'The Perils of Environmental Degradation'",
+        "Good: 'Punctuality: The Foundation of Civilized Life'"
+      ],
+      "exceptions": [
+        "Avoid vague one-word titles like 'Discipline' or 'Life'; make it descriptive: 'Discipline in Public Administration'."
+      ]
+    },
+    {
+      "rule": "WHAT TO STRICTLY EXCLUDE: Eliminate all decorative, redundant, and illustrative elements from the original text.",
+      "examples": [
+        "Omit: All historical anecdotes, personal examples, and rhetorical questions.",
+        "Omit: Poetic metaphors, similes, and decorative idioms.",
+        "Omit: Repetitive statements that reiterate the same core point in different words.",
+        "Omit: Quotations and speech marks (convert to summarized indirect sense)."
+      ],
+      "exceptions": [
+        "Retain only the core logical skeleton of arguments."
+      ]
+    },
+    {
+      "rule": "OBJECTIVE THIRD-PERSON CONVENTION: Write in a single unified paragraph, in the third person, using indirect narration without attributing phrases.",
+      "examples": [
+        "Do NOT write: 'In this passage the author explains that books are our best friends and I agree with him.'",
+        "Write: 'Books serve as lifelong companions, offering timeless wisdom and spiritual solace during solitude.'"
+      ],
+      "exceptions": [
+        "Never insert personal pronouns ('I', 'We', 'You') or meta-commentary like 'According to the writer'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Copying verbatim sentences directly from the passage (causes massive penalty).",
+    "Forgetting to write a title (loses 2-3 marks automatically).",
+    "Writing 'The writer says that...' or 'In this passage...' (wastes 10% of word count on useless padding).",
+    "Writing multiple paragraphs (a précis must ALWAYS be a single continuous paragraph).",
+    "Exceeding the word limit by more than 10 words."
+  ],
+  "examTricks": [
+    "The 3-Pass Technique: Pass 1: Read to understand the central message. Pass 2: Underline 3-4 core sentences and cross out all examples and adjectives. Pass 3: Combine those core points in your own words.",
+    "The Rough Draft to Fair Draft Routine: Always draft on rough sheet first, count words, edit out filler, and then write the final clean copy.",
+    "The Title from the First Sentence Trick: The first sentence almost always contains the noun phrase that makes the perfect title."
+  ],
+  "memoryTricks": [
+    "ONE THIRD length, ONE SINGLE paragraph, ONE SOLID title.",
+    "NO EXAMPLES, NO QUOTES, NO 'I'."
+  ],
+  "revision": [
+    "1/3rd of original word count (±5 words).",
+    "Compulsory thematic title.",
+    "Single paragraph only.",
+    "Third-person indirect narrative.",
+    "Zero examples, illustrations, quotations, or personal opinions.",
+    "Paraphrase in your own original words."
+  ]
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g06-001",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which word is a proper noun?",
+    "options": [
+      "river",
+      "Kolkata",
+      "team",
+      "honesty"
+    ],
+    "answer": 1,
+    "explanation": "Kolkata names a particular place.",
+    "rule": "Proper noun",
+    "bengaliHint": "নির্দিষ্ট স্থান।"
+  },
+  {
+    "id": "g06-002",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the abstract noun.",
+    "options": [
+      "chair",
+      "Rina",
+      "courage",
+      "school"
+    ],
+    "answer": 2,
+    "explanation": "Courage names a quality and cannot usually be seen or counted.",
+    "rule": "Abstract noun",
+    "bengaliHint": "একটি গুণ।"
+  },
+  {
+    "id": "g06-003",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which is a collective noun?",
+    "options": [
+      "army",
+      "shoe",
+      "garden",
+      "peace"
+    ],
+    "answer": 0,
+    "explanation": "Army names a group as a unit.",
+    "rule": "Collective noun",
+    "bengaliHint": "গোষ্ঠীর নাম।"
+  },
+  {
+    "id": "g06-004",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the countable noun.",
+    "options": [
+      "milk",
+      "water",
+      "advice",
+      "question"
+    ],
+    "answer": 3,
+    "explanation": "Question can take singular and plural forms.",
+    "rule": "Countable noun",
+    "bengaliHint": "এক বা একাধিক করা যায়।"
+  },
+  {
+    "id": "g06-005",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the correct pair.",
+    "options": [
+      "much students",
+      "many water",
+      "many students",
+      "much books"
+    ],
+    "answer": 2,
+    "explanation": "Many is used with countable plural nouns.",
+    "rule": "Quantity agreement",
+    "bengaliHint": "students countable।"
+  },
+  {
+    "id": "g06-006",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which sentence is correct?",
+    "options": [
+      "He gave me advices.",
+      "The committee have disagreed.",
+      "He gave me advice.",
+      "All informations are useful."
+    ],
+    "answer": 2,
+    "explanation": "Advice is an uncountable noun and needs no plural s.",
+    "rule": "Uncountable noun",
+    "bengaliHint": "advice-এর plural -s হয় না।"
+  },
+  {
+    "id": "g06-007",
+    "chapter": "g06",
+    "type": "error",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the incorrect part: (A) The furnitures in (B) this heritage office (C) are ancient (D) No error",
+    "options": [
+      "The furnitures in",
+      "this heritage office",
+      "are ancient",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "'Furniture' is an uncountable noun and does not take plural -s. It should be 'The furniture in this heritage office is ancient'.",
+    "rule": "Uncountable noun: furniture takes singular verb",
+    "bengaliHint": "'Furniture' uncountable noun; এর সাথে 's' যুক্ত হয় না।"
+  },
+  {
+    "id": "g06-008",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "What is the plural form of the compound noun 'Commander-in-chief'?",
+    "options": [
+      "Commander-in-chiefs",
+      "Commanders-in-chief",
+      "Commanders-in-chiefs",
+      "Commander-ins-chief"
+    ],
+    "answer": 1,
+    "explanation": "In compound nouns formed with prepositions, the principal root word ('commander') takes the plural suffix -s.",
+    "rule": "Pluralization of compound nouns: pluralize root noun",
+    "bengaliHint": "মূল শব্দ 'Commander'-এর সাথে 's' যুক্ত হবে।"
+  },
+  {
+    "id": "g06-009",
+    "chapter": "g06",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The jury ___ divided in their opinions regarding the verdict.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "answer": 1,
+    "explanation": "When members of a collective noun act individually or disagree ('divided in their opinions'), a plural verb ('were') is used.",
+    "rule": "Noun of Multitude takes plural verb when divided",
+    "bengaliHint": "Collective noun-এর সদস্যরা ভিন্ন মত পোষণ করলে plural verb 'were' বসে।"
+  },
+  {
+    "id": "g06-010",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the grammatically correct sentence regarding the noun 'scenery':",
+    "options": [
+      "The sceneries of Darjeeling are breathtaking.",
+      "The scenery of Darjeeling is breathtaking.",
+      "The scenery of Darjeeling are breathtaking.",
+      "A scenery of Darjeeling are breathtaking."
+    ],
+    "answer": 1,
+    "explanation": "'Scenery' is an uncountable noun and has no plural form 'sceneries'. It always takes a singular verb.",
+    "rule": "Uncountable noun: scenery takes singular verb",
+    "bengaliHint": "'Scenery' শব্দটি সর্বদা singular হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": "g06-011",
+    "chapter": "g06",
+    "type": "correction",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Correct the sentence: 'She bought two dozens bananas from the market.'",
+    "options": [
+      "She bought two dozen bananas from the market.",
+      "She bought two dozens of bananas from the market.",
+      "She bought two dozen of bananas from the market.",
+      "She bought dozens two bananas from the market."
+    ],
+    "answer": 0,
+    "explanation": "When dozen, score, hundred, thousand are preceded by a specific numeral (two), they do not take -s.",
+    "rule": "Numeral + Dozen/Hundred + Noun (no -s on dozen)",
+    "bengaliHint": "নির্দিষ্ট সংখ্যার পর 'dozen'-এ 's' হয় না।"
+  },
+  {
+    "id": "g06-012",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the feminine gender form of 'Bachelor'?",
+    "options": [
+      "Spinster",
+      "Widow",
+      "Bachelorette",
+      "Matron"
+    ],
+    "answer": 0,
+    "explanation": "In formal examination grammar, the traditional feminine equivalent of 'bachelor' is 'spinster' (or maid).",
+    "rule": "Gender conversion: Bachelor - Spinster",
+    "bengaliHint": "অবিবাহিত পুরুষের বিপরীত অবিবাহিত নারী (Spinster)।"
+  },
+  {
+    "id": "g06-013",
+    "chapter": "g06",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The cattle ___ grazing peacefully in the green pasture.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "answer": 1,
+    "explanation": "'Cattle' is singular in form but always plural in meaning and grammar; it always takes a plural verb ('are').",
+    "rule": "Nouns plural in meaning taking plural verbs: cattle, poultry, people",
+    "bengaliHint": "'Cattle' দেখতে singular হলেও সর্বদা plural verb গ্রহণ করে।"
+  },
+  {
+    "id": "g06-014",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which of the following nouns has the same form in both singular and plural?",
+    "options": [
+      "Ox",
+      "Sheep",
+      "Foot",
+      "Mouse"
+    ],
+    "answer": 1,
+    "explanation": "'Sheep', 'deer', and 'fish' retain the exact same spelling in both singular and plural (one sheep, ten sheep).",
+    "rule": "Nouns with identical singular and plural forms",
+    "bengaliHint": "'Sheep'-এর singular ও plural রূপ একই থাকে।"
+  },
+  {
+    "id": "g06-015",
+    "chapter": "g06",
+    "type": "error",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Find the error: (A) My spectacles (B) is missing (C) from the table (D) No error",
+    "options": [
+      "My spectacles",
+      "is missing",
+      "from the table",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Spectacles' consists of two symmetrical parts and always takes a plural verb ('are missing') unless preceded by 'a pair of'.",
+    "rule": "Spectacles, scissors, trousers take plural verbs",
+    "bengaliHint": "'Spectacles' সর্বদা plural verb (are) গ্রহণ করে।"
+  },
+  {
+    "id": "g06-016",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ of the Himalayas is magnificent.",
+    "options": [
+      "scenery",
+      "sceneries",
+      "scenic",
+      "sceneris"
+    ],
+    "answer": 0,
+    "explanation": "'Scenery' is uncountable and has no plural form.",
+    "rule": "Uncountable noun: scenery",
+    "bengaliHint": "Scenery-র কোনো বহুবচন রূপ হয় না।"
+  },
+  {
+    "id": "g06-017",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He gave me much valuable ___.",
+    "options": [
+      "information",
+      "informations",
+      "informs",
+      "informationes"
+    ],
+    "answer": 0,
+    "explanation": "'Information' is an uncountable noun and never takes plural -s.",
+    "rule": "Uncountable noun: information",
+    "bengaliHint": "Information-এর সাথে 's' বসে না।"
+  },
+  {
+    "id": "g06-018",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "All his ___ was lost in transit at the airport.",
+    "options": [
+      "luggage",
+      "luggages",
+      "luggage's",
+      "luggaging"
+    ],
+    "answer": 0,
+    "explanation": "'Luggage' and 'baggage' are uncountable nouns.",
+    "rule": "Uncountable noun: luggage",
+    "bengaliHint": "Luggage একটি uncountable noun।"
+  },
+  {
+    "id": "g06-019",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The police caught the thief red-handed; the police ___ investigating.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "'Police' is a plural noun and takes a plural verb.",
+    "rule": "Plural noun: police takes plural verb",
+    "bengaliHint": "Police সর্বদা plural verb গ্রহণ করে।"
+  },
+  {
+    "id": "g06-020",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "His ___ are grey.",
+    "options": [
+      "hair",
+      "hairs",
+      "hair's",
+      "haire"
+    ],
+    "answer": 0,
+    "explanation": "'Hair' considered as a whole is uncountable and singular; when referred to individually it can be counted.",
+    "rule": "Hair as mass noun",
+    "bengaliHint": "মাথার সমস্ত চুল বোঝাতে 'hair' বসে।"
+  },
+  {
+    "id": "g06-021",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ of the machinery was thoroughly inspected.",
+    "options": [
+      "parts",
+      "part",
+      "parties",
+      "partial"
+    ],
+    "answer": 0,
+    "explanation": "'Machinery' is uncountable, but 'parts' is countable.",
+    "rule": "Machinery vs parts",
+    "bengaliHint": "Machinery uncountable।"
+  },
+  {
+    "id": "g06-022",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Ravi lost five ___ rupee notes.",
+    "options": [
+      "hundred",
+      "hundreds",
+      "hundredth",
+      "hundreds of"
+    ],
+    "answer": 0,
+    "explanation": "When a numeral precedes hundred/thousand, no -s is added: 'five hundred rupee notes'.",
+    "rule": "Compound numeral adjective takes singular",
+    "bengaliHint": "নির্দিষ্ট সংখ্যার পর hundred-এ 's' হয় না।"
+  },
+  {
+    "id": "g06-023",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ of sheep crossed the mountain road.",
+    "options": [
+      "flock",
+      "herd",
+      "pack",
+      "swarm"
+    ],
+    "answer": 0,
+    "explanation": "Collective noun for sheep/birds is 'flock'. For cattle it is 'herd'.",
+    "rule": "Collective noun: flock of sheep",
+    "bengaliHint": "ভেড়ার দলকে 'flock' বলে।"
+  },
+  {
+    "id": "g06-024",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A ___ of wolves was seen roaming the forest.",
+    "options": [
+      "pack",
+      "herd",
+      "flock",
+      "litter"
+    ],
+    "answer": 0,
+    "explanation": "Collective noun for wolves and hounds is 'pack'.",
+    "rule": "Collective noun: pack of wolves",
+    "bengaliHint": "নেকড়ের দলকে 'pack' বলে।"
+  },
+  {
+    "id": "g06-025",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "What is the plural of 'Passer-by'?",
+    "options": [
+      "Passers-by",
+      "Passer-bys",
+      "Passers-bys",
+      "Passerby"
+    ],
+    "answer": 0,
+    "explanation": "In compound nouns, pluralize the principal noun: 'Passers-by'.",
+    "rule": "Plural of compound noun with preposition",
+    "bengaliHint": "প্রধান শব্দ 'passer'-এ 's' যুক্ত হয়।"
+  },
+  {
+    "id": "g06-026",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ of the Himalayas is magnificent.",
+    "options": [
+      "scenery",
+      "sceneries",
+      "scenic",
+      "sceneris"
+    ],
+    "answer": 0,
+    "explanation": "'Scenery' is uncountable and has no plural form.",
+    "rule": "Uncountable noun: scenery",
+    "bengaliHint": "Scenery-র কোনো বহুবচন রূপ হয় না।"
+  },
+  {
+    "id": "g06-027",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He gave me much valuable ___.",
+    "options": [
+      "information",
+      "informations",
+      "informs",
+      "informationes"
+    ],
+    "answer": 0,
+    "explanation": "'Information' is an uncountable noun and never takes plural -s.",
+    "rule": "Uncountable noun: information",
+    "bengaliHint": "Information-এর সাথে 's' বসে না।"
+  },
+  {
+    "id": "g06-028",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "All his ___ was lost in transit at the airport.",
+    "options": [
+      "luggage",
+      "luggages",
+      "luggage's",
+      "luggaging"
+    ],
+    "answer": 0,
+    "explanation": "'Luggage' and 'baggage' are uncountable nouns.",
+    "rule": "Uncountable noun: luggage",
+    "bengaliHint": "Luggage একটি uncountable noun।"
+  },
+  {
+    "id": "g06-029",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The police caught the thief red-handed; the police ___ investigating.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "'Police' is a plural noun and takes a plural verb.",
+    "rule": "Plural noun: police takes plural verb",
+    "bengaliHint": "Police সর্বদা plural verb গ্রহণ করে।"
+  },
+  {
+    "id": "g06-030",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "His ___ are grey.",
+    "options": [
+      "hair",
+      "hairs",
+      "hair's",
+      "haire"
+    ],
+    "answer": 0,
+    "explanation": "'Hair' considered as a whole is uncountable and singular; when referred to individually it can be counted.",
+    "rule": "Hair as mass noun",
+    "bengaliHint": "মাথার সমস্ত চুল বোঝাতে 'hair' বসে।"
+  },
+  {
+    "id": "g06-031",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ of the machinery was thoroughly inspected.",
+    "options": [
+      "parts",
+      "part",
+      "parties",
+      "partial"
+    ],
+    "answer": 0,
+    "explanation": "'Machinery' is uncountable, but 'parts' is countable.",
+    "rule": "Machinery vs parts",
+    "bengaliHint": "Machinery uncountable।"
+  },
+  {
+    "id": "g06-032",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Ravi lost five ___ rupee notes.",
+    "options": [
+      "hundred",
+      "hundreds",
+      "hundredth",
+      "hundreds of"
+    ],
+    "answer": 0,
+    "explanation": "When a numeral precedes hundred/thousand, no -s is added: 'five hundred rupee notes'.",
+    "rule": "Compound numeral adjective takes singular",
+    "bengaliHint": "নির্দিষ্ট সংখ্যার পর hundred-এ 's' হয় না।"
+  },
+  {
+    "id": "g06-033",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ of sheep crossed the mountain road.",
+    "options": [
+      "flock",
+      "herd",
+      "pack",
+      "swarm"
+    ],
+    "answer": 0,
+    "explanation": "Collective noun for sheep/birds is 'flock'. For cattle it is 'herd'.",
+    "rule": "Collective noun: flock of sheep",
+    "bengaliHint": "ভেড়ার দলকে 'flock' বলে।"
+  },
+  {
+    "id": "g06-034",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A ___ of wolves was seen roaming the forest.",
+    "options": [
+      "pack",
+      "herd",
+      "flock",
+      "litter"
+    ],
+    "answer": 0,
+    "explanation": "Collective noun for wolves and hounds is 'pack'.",
+    "rule": "Collective noun: pack of wolves",
+    "bengaliHint": "নেকড়ের দলকে 'pack' বলে।"
+  },
+  {
+    "id": "g06-035",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the plural of 'Passer-by'?",
+    "options": [
+      "Passers-by",
+      "Passer-bys",
+      "Passers-bys",
+      "Passerby"
+    ],
+    "answer": 0,
+    "explanation": "In compound nouns, pluralize the principal noun: 'Passers-by'.",
+    "rule": "Plural of compound noun with preposition",
+    "bengaliHint": "প্রধান শব্দ 'passer'-এ 's' যুক্ত হয়।"
+  },
+  {
+    "id": "g06-036",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The ___ of the Himalayas is magnificent.",
+    "options": [
+      "scenery",
+      "sceneries",
+      "scenic",
+      "sceneris"
+    ],
+    "answer": 0,
+    "explanation": "'Scenery' is uncountable and has no plural form.",
+    "rule": "Uncountable noun: scenery",
+    "bengaliHint": "Scenery-র কোনো বহুবচন রূপ হয় না।"
+  },
+  {
+    "id": "g06-037",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He gave me much valuable ___.",
+    "options": [
+      "information",
+      "informations",
+      "informs",
+      "informationes"
+    ],
+    "answer": 0,
+    "explanation": "'Information' is an uncountable noun and never takes plural -s.",
+    "rule": "Uncountable noun: information",
+    "bengaliHint": "Information-এর সাথে 's' বসে না।"
+  },
+  {
+    "id": "g06-038",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "All his ___ was lost in transit at the airport.",
+    "options": [
+      "luggage",
+      "luggages",
+      "luggage's",
+      "luggaging"
+    ],
+    "answer": 0,
+    "explanation": "'Luggage' and 'baggage' are uncountable nouns.",
+    "rule": "Uncountable noun: luggage",
+    "bengaliHint": "Luggage একটি uncountable noun।"
+  },
+  {
+    "id": "g06-039",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The police caught the thief red-handed; the police ___ investigating.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "'Police' is a plural noun and takes a plural verb.",
+    "rule": "Plural noun: police takes plural verb",
+    "bengaliHint": "Police সর্বদা plural verb গ্রহণ করে।"
+  },
+  {
+    "id": "g06-040",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "His ___ are grey.",
+    "options": [
+      "hair",
+      "hairs",
+      "hair's",
+      "haire"
+    ],
+    "answer": 0,
+    "explanation": "'Hair' considered as a whole is uncountable and singular; when referred to individually it can be counted.",
+    "rule": "Hair as mass noun",
+    "bengaliHint": "মাথার সমস্ত চুল বোঝাতে 'hair' বসে।"
+  },
+  {
+    "id": "g06-041",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ___ of the machinery was thoroughly inspected.",
+    "options": [
+      "parts",
+      "part",
+      "parties",
+      "partial"
+    ],
+    "answer": 0,
+    "explanation": "'Machinery' is uncountable, but 'parts' is countable.",
+    "rule": "Machinery vs parts",
+    "bengaliHint": "Machinery uncountable।"
+  },
+  {
+    "id": "g06-042",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Ravi lost five ___ rupee notes.",
+    "options": [
+      "hundred",
+      "hundreds",
+      "hundredth",
+      "hundreds of"
+    ],
+    "answer": 0,
+    "explanation": "When a numeral precedes hundred/thousand, no -s is added: 'five hundred rupee notes'.",
+    "rule": "Compound numeral adjective takes singular",
+    "bengaliHint": "নির্দিষ্ট সংখ্যার পর hundred-এ 's' হয় না।"
+  },
+  {
+    "id": "g06-043",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The ___ of sheep crossed the mountain road.",
+    "options": [
+      "flock",
+      "herd",
+      "pack",
+      "swarm"
+    ],
+    "answer": 0,
+    "explanation": "Collective noun for sheep/birds is 'flock'. For cattle it is 'herd'.",
+    "rule": "Collective noun: flock of sheep",
+    "bengaliHint": "ভেড়ার দলকে 'flock' বলে।"
+  },
+  {
+    "id": "g06-044",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A ___ of wolves was seen roaming the forest.",
+    "options": [
+      "pack",
+      "herd",
+      "flock",
+      "litter"
+    ],
+    "answer": 0,
+    "explanation": "Collective noun for wolves and hounds is 'pack'.",
+    "rule": "Collective noun: pack of wolves",
+    "bengaliHint": "নেকড়ের দলকে 'pack' বলে।"
+  },
+  {
+    "id": "g06-045",
+    "chapter": "g06",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What is the plural of 'Passer-by'?",
+    "options": [
+      "Passers-by",
+      "Passer-bys",
+      "Passers-bys",
+      "Passerby"
+    ],
+    "answer": 0,
+    "explanation": "In compound nouns, pluralize the principal noun: 'Passers-by'.",
+    "rule": "Plural of compound noun with preposition",
+    "bengaliHint": "প্রধান শব্দ 'passer'-এ 's' যুক্ত হয়।"
+  }
+]

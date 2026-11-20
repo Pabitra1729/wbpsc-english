@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g19-001",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: She is ready, ___ she?",
+    "options": [
+      "is",
+      "isn't",
+      "doesn't",
+      "aren't"
+    ],
+    "answer": 1,
+    "explanation": "A positive statement takes a negative tag.",
+    "rule": "Positive statement tag",
+    "bengaliHint": "positive→negative."
+  },
+  {
+    "id": "g19-002",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: They are absent, ___ they?",
+    "options": [
+      "are",
+      "aren't",
+      "isn't",
+      "doesn't"
+    ],
+    "answer": 1,
+    "explanation": "The auxiliary are reverses to aren't.",
+    "rule": "Question tag agreement",
+    "bengaliHint": "are→aren't."
+  },
+  {
+    "id": "g19-003",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: You know him, ___ you?",
+    "options": [
+      "do",
+      "don't",
+      "did",
+      "didn't"
+    ],
+    "answer": 1,
+    "explanation": "Know has no auxiliary, so present simple uses don't.",
+    "rule": "Do in question tags",
+    "bengaliHint": "know-এর tag—don't."
+  },
+  {
+    "id": "g19-004",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: I am late, ___ I?",
+    "options": [
+      "amn't",
+      "aren't",
+      "isn't",
+      "don't"
+    ],
+    "answer": 1,
+    "explanation": "The fixed tag for I am is aren't I.",
+    "rule": "I am exception",
+    "bengaliHint": "I am→aren't I."
+  },
+  {
+    "id": "g19-005",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Complete: He went yesterday, ___ he?",
+    "options": [
+      "didn't",
+      "doesn't",
+      "isn't",
+      "wasn't"
+    ],
+    "answer": 0,
+    "explanation": "The simple past auxiliary is did.",
+    "rule": "Past question tag",
+    "bengaliHint": "went→didn't."
+  },
+  {
+    "id": "g19-006",
+    "chapter": "g19",
+    "type": "fill",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She sings melodiously, ___?",
+    "options": [
+      "doesn't she",
+      "does she",
+      "isn't she",
+      "did she"
+    ],
+    "answer": 0,
+    "explanation": "A positive sentence in Simple Present tense takes a negative tag with auxiliary 'does' ('doesn't she?').",
+    "rule": "Positive present statement takes negative tag: doesn't she?",
+    "bengaliHint": "Affirmative বাক্যের শেষে Negative tag (doesn't she) বসে।"
+  },
+  {
+    "id": "g19-007",
+    "chapter": "g19",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I am your reliable friend, ___?",
+    "options": [
+      "amn't I",
+      "aren't I",
+      "am I",
+      "isn't I"
+    ],
+    "answer": 1,
+    "explanation": "In modern standard English, the negative question tag for 'I am' is 'aren't I?' ('amn't I' does not exist in standard grammar).",
+    "rule": "Negative question tag for 'I am' is 'aren't I?'",
+    "bengaliHint": "'I am'-এর negative tag হিসেবে 'aren't I' বসে।"
+  },
+  {
+    "id": "g19-008",
+    "chapter": "g19",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Let's go for a walk in the botanical garden, ___?",
+    "options": [
+      "shall we",
+      "will we",
+      "can we",
+      "shan't we"
+    ],
+    "answer": 0,
+    "explanation": "Suggestions starting with 'Let's' (Let us) take the standard question tag 'shall we?'.",
+    "rule": "Question tag for 'Let's' is 'shall we?'",
+    "bengaliHint": "'Let's' যুক্ত প্রস্তাবসূচক বাক্যের tag হলো 'shall we?'।"
+  },
+  {
+    "id": "g19-009",
+    "chapter": "g19",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He hardly visits his ancestral home, ___?",
+    "options": [
+      "doesn't he",
+      "does he",
+      "isn't he",
+      "has he"
+    ],
+    "answer": 1,
+    "explanation": "Words like 'hardly', 'scarcely', 'seldom', 'rarely' have negative meaning. Therefore, they take a positive question tag ('does he?').",
+    "rule": "Negative words (hardly, seldom) take positive tags",
+    "bengaliHint": "'Hardly' নেতিবাচক হওয়ায় এর tag পজিটিভ (does he) হবে।"
+  },
+  {
+    "id": "g19-010",
+    "chapter": "g19",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Nobody answered the telephone, ___?",
+    "options": [
+      "did he",
+      "did they",
+      "didn't they",
+      "do they"
+    ],
+    "answer": 1,
+    "explanation": "Indefinite pronouns like 'nobody', 'everybody', 'someone' take the plural pronoun 'they' in the question tag. Since 'nobody' is negative, the tag is positive ('did they?').",
+    "rule": "Nobody takes plural pronoun 'they' with positive tag",
+    "bengaliHint": "'Nobody' নেতিবাচক এবং এর সর্বনাম 'they' হওয়ায় tag হবে 'did they?'।"
+  },
+  {
+    "id": "g19-011",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-012",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-013",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-014",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-015",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  },
+  {
+    "id": "g19-016",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-017",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-018",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-019",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-020",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  },
+  {
+    "id": "g19-021",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-022",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-023",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-024",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-025",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  },
+  {
+    "id": "g19-026",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-027",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-028",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-029",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-030",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  },
+  {
+    "id": "g19-031",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-032",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-033",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-034",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-035",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  },
+  {
+    "id": "g19-036",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-037",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-038",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-039",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-040",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  },
+  {
+    "id": "g19-041",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'Open the door, ___?'",
+    "options": [
+      "will you",
+      "do you",
+      "don't you",
+      "shall you"
+    ],
+    "answer": 0,
+    "explanation": "Positive imperative requests or commands take 'will you?' (or 'won't you?').",
+    "rule": "Imperative question tag: will you?",
+    "bengaliHint": "আদেশ বা অনুরোধের tag হলো 'will you?'।"
+  },
+  {
+    "id": "g19-042",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Add question tag: 'Everything is fine, ___?'",
+    "options": [
+      "isn't it",
+      "aren't they",
+      "is it",
+      "wasn't it"
+    ],
+    "answer": 0,
+    "explanation": "'Everything', 'something', 'nothing' take the singular pronoun 'it' in question tags.",
+    "rule": "Inanimate indefinite pronouns take 'it'",
+    "bengaliHint": "'Everything'-এর ক্ষেত্রে pronoun 'it' বসে।"
+  },
+  {
+    "id": "g19-043",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'Nothing was accomplished, ___?'",
+    "options": [
+      "was it",
+      "wasn't it",
+      "were they",
+      "weren't they"
+    ],
+    "answer": 0,
+    "explanation": "'Nothing' is already negative and takes the pronoun 'it', requiring a positive tag ('was it?').",
+    "rule": "Negative subject 'nothing' takes positive tag",
+    "bengaliHint": "'Nothing' নেতিবাচক হওয়ায় tag পজিটিভ (was it) হবে।"
+  },
+  {
+    "id": "g19-044",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Add question tag: 'You used to play football, ___?'",
+    "options": [
+      "didn't you",
+      "usedn't you",
+      "haven't you",
+      "weren't you"
+    ],
+    "answer": 0,
+    "explanation": "The marginal modal 'used to' takes 'didn't you?' as its modern standard question tag.",
+    "rule": "Question tag for 'used to': didn't you?",
+    "bengaliHint": "'Used to'-র সাধারণ প্রশ্ন tag হলো 'didn't you?'।"
+  },
+  {
+    "id": "g19-045",
+    "chapter": "g19",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Add question tag: 'There are many problems, ___?'",
+    "options": [
+      "aren't there",
+      "aren't they",
+      "isn't there",
+      "are there"
+    ],
+    "answer": 0,
+    "explanation": "Introductory 'there' is repeated in the question tag: 'aren't there?'.",
+    "rule": "Introductory 'there' is retained in question tag",
+    "bengaliHint": "বাক্যের শুরুতে 'there' থাকলে tag-এও 'there' বসে।"
+  }
+]

@@ -1,0 +1,614 @@
+{
+  "id": "v03",
+  "title": "One-Word Substitution",
+  "intro": "One-word substitution (OWS) replaces a descriptive phrase, clause, or definition with a single concise lexical term. In the WBPSC Clerkship examination, questions are rigorously drawn from root clusters: systems of governance (-cracy / -archy), categories of killing (-cide), specific phobias (-phobia) and manias (-mania), medical specialists (-logist), terms for personalities, and specialized habitats/enclosures.",
+  "bengali": "One-Word Substitution (এক কথায় প্রকাশ) হলো একটি দীর্ঘ বক্তব্য বা সংজ্ঞাকে একটিমাত্র যথোপযুক্ত শব্দে রূপান্তরিত করা।\n\nWBPSC Clerkship পরীক্ষায় OWS সহজে মনে রাখার এবং ১০০% নির্ভুল উত্তর করার বৈজ্ঞানিক উপায়:\n১. Root Word (মূল শব্দাংশ) ধরে প্রস্তুতি:\n   - শাসনব্যবস্থা (-cracy / -archy): Bureaucracy (আমলাতন্ত্র), Plutocracy (ধনিকতন্ত্র), Oligarchy (গোষ্ঠীতন্ত্র), Autocracy (একনায়কতন্ত্র), Theocracy (ধর্মগুরুতন্ত্র), Anarchy (নৈরাজ্য)।\n   - হত্যা (-cide): Patricide (পিতৃহত্যা), Matricide (মাতৃহত্যা), Fratricide (ভ্রাতৃহত্যা), Regicide (রাজহত্যা), Homicide (নরহত্যা), Uxoricide (পত্নীহত্যা)।\n   - ভীতি (-phobia): Claustrophobia (আবদ্ধ স্থানের ভয়), Agoraphobia (খোলামেলা জনবহুল জায়গার ভয়), Acrophobia (উচ্চতার ভয়), Hydrophobia (জলাতঙ্ক)।\n   - স্থান ও সংগ্রহশালা (-ary / -arium): Apiary (মৌমাছি পালন কেন্দ্র), Aviary (পাখি শালা), Arsenal (অস্ত্রাগার), Mortuary (মর্গ বা শবগার)।\n২. বিভ্রান্তিকর ব্যক্তিত্বের পার্থক্য:\n   - Altruist (পরোপকারী) বনাম Egoist (স্বার্থপর)।\n   - Polyglot (বহুভাষাবিদ) বনাম Linguist (ভাষাবিজ্ঞানী)।\n   - Infallible (যিনি কখনো ভুল করেন না) বনাম Invincible (যাঁকে পরাজিত করা যায় না)।",
+  "rules": [
+    {
+      "rule": "ROOTS OF GOVERNANCE AND POWER (-cracy / -archy): Suffixes denoting who wields supreme authority.",
+      "examples": [
+        "Democracy: Government by the elected people.",
+        "Bureaucracy: Government by official civil servants and administrators.",
+        "Plutocracy: Government controlled by the wealthy classes.",
+        "Aristocracy: Government by the inherited noble nobility.",
+        "Oligarchy: Government controlled by a small dominant cartel or clique.",
+        "Autocracy / Monarchy: Absolute governance concentrated in a single sovereign.",
+        "Theocracy: Government directed by religious clergy or divine law.",
+        "Anarchy: The total absence of government, law, and civil order."
+      ],
+      "exceptions": [
+        "Meritocracy is governance where positions and power are distributed solely by demonstrated merit and examination competence."
+      ]
+    },
+    {
+      "rule": "ROOTS OF KILLING AND EXTERMINATION (-cide, from Latin 'caedere' to slaughter):",
+      "examples": [
+        "Patricide: The murder of one's father; Matricide: The murder of one's mother.",
+        "Fratricide: The murder of one's brother; Sororicide: The murder of one's sister.",
+        "Uxoricide: The murder of one's wife; Mariticide: The murder of one's husband.",
+        "Filicide: The murder of one's son or daughter; Infanticide: The murder of an infant.",
+        "Regicide: The assassination of a reigning king or monarch.",
+        "Genocide: The systematic annihilation of an entire ethnic, racial, or national group.",
+        "Homicide: The killing of one human being by another."
+      ],
+      "exceptions": [
+        "Do not confuse 'Fratricide' (brother) with 'Patricide' (father)."
+      ]
+    },
+    {
+      "rule": "ROOTS OF AVERSION AND FEAR (-phobia, irrational persistent dread):",
+      "examples": [
+        "Claustrophobia: Pathological terror of enclosed, confined spaces (lifts, small rooms).",
+        "Acrophobia: Extreme fear of heights and elevated structures.",
+        "Agoraphobia: Fear of crowded public assemblies or vast open fields.",
+        "Hydrophobia: Severe dread of water (classic symptom of rabies).",
+        "Xenophobia: Irrational fear or hatred of foreigners and strangers.",
+        "Bibliophobia: Aversion or deep hatred towards books and reading.",
+        "Nyctophobia: Morbid dread of darkness and night."
+      ],
+      "exceptions": [
+        "The opposite suffix is '-philia' (love / passionate affinity): Bibliophile (book lover), Francophile (lover of French culture)."
+      ]
+    },
+    {
+      "rule": "SPECIALIZED MEDICAL PRACTITIONERS AND SCIENTISTS (-ist / -logist):",
+      "examples": [
+        "Cardiologist: Heart specialist; Dermatologist: Skin specialist.",
+        "Ophthalmologist: Specialist doctor in medical and surgical eye diseases.",
+        "Orthopedist: Specialist in bones, joints, and musculoskeletal systems.",
+        "Neurologist: Specialist in the brain and nervous disorders.",
+        "Pediatrician: Medical specialist in the care and diseases of children.",
+        "Oncologist: Medical specialist in tumors and cancer treatment.",
+        "Philologist: Scholar who studies language history, literature, and linguistics."
+      ],
+      "exceptions": [
+        "An 'Optician' makes or sells spectacles; an 'Ophthalmologist' is the licensed medical physician who treats eye diseases."
+      ]
+    },
+    {
+      "rule": "HABITATS, SHELTERS, AND RECEPTACLES (-ary, -arium, -ory):",
+      "examples": [
+        "Apiary: A place where bees are kept in hives for honey production.",
+        "Aviary: A large enclosure or cage for keeping birds.",
+        "Aquarium: A transparent tank of water where fish and water creatures are maintained.",
+        "Arsenal: A fortified establishment for storing or manufacturing arms and munitions.",
+        "Mortuary / Morgue: A facility where human corpses are preserved awaiting autopsy or cremation.",
+        "Granary: A storehouse for threshed grain.",
+        "Sanatorium: A medical facility for chronic illness or convalescence."
+      ],
+      "exceptions": [
+        "Mnemonic: Apiary = Apis (Latin for bee); Aviary = Avis (Latin for bird, as in aviation)."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Confusing 'Apiary' (bees) with 'Aviary' (birds).",
+    "Confusing 'Infallible' (never makes mistakes) with 'Invincible' (cannot be conquered).",
+    "Confusing 'Altruist' (unselfishly dedicated to others) with 'Egoist' (self-centered).",
+    "Confusing 'Polyglot' (speaks many languages) with 'Linguist' (scientific analyst of grammar).",
+    "Confusing 'Omnipotent' (all-powerful), 'Omniscient' (all-knowing), and 'Omnipresent' (present everywhere)."
+  ],
+  "examTricks": [
+    "Aviation = Birds -> AVIARY = Birds. Apiculture = Bees -> APIARY = Bees.",
+    "Omni- Trio: Omni-POTENT = Power; Omni-SCIENT = Science/Knowledge; Omni-PRESENT = Presence everywhere.",
+    "Loqu- Root (Speech): Somniloquist = talks in sleep; Eloquent = speaks fluently; Loquacious = talkative.",
+    "Ambul- Root (Walk): Somnambulist = walks in sleep; Perambulate = walk around."
+  ],
+  "memoryTricks": [
+    "AVIARY flies with the BIRDS.",
+    "CIDE means HOMICIDE (Killing).",
+    "PHIL loves, MIS hates."
+  ],
+  "revision": [
+    "Apiary = bees; Aviary = birds; Arsenal = weapons; Granary = grain.",
+    "Infallible = incapable of error; Invincible = unconquerable.",
+    "Plutocracy = rich; Bureaucracy = officials; Autocracy = single ruler.",
+    "Patricide = father; Matricide = mother; Fratricide = brother; Regicide = king.",
+    "Claustrophobia = closed spaces; Acrophobia = heights; Xenophobia = foreigners.",
+    "Altruist = unselfish helper; Misanthrope = hater of mankind.",
+    "Polyglot = speaks many languages; Contemporary = living at the same time."
+  ],
+  "bookletTitle": "WBPSC Clerkship Top 100 One-Word Substitutions Directory",
+  "bookletList": [
+    {
+      "term": "Acrophobia",
+      "meaning": "Fear of heights",
+      "bengali": "উচ্চতাভীতি"
+    },
+    {
+      "term": "Agoraphobia",
+      "meaning": "Fear of open spaces",
+      "bengali": "উন্মুক্ত বা জনাকীর্ণ স্থানের ভীতি"
+    },
+    {
+      "term": "Altruist",
+      "meaning": "One who works selflessly for the welfare of others",
+      "bengali": "পরোপকারী ব্যক্তি"
+    },
+    {
+      "term": "Amateur",
+      "meaning": "One who does something for pleasure, not as a profession",
+      "bengali": "উভমুখী স্বভাবের ব্যক্তি"
+    },
+    {
+      "term": "Ambidextrous",
+      "meaning": "One who can use both hands equally well",
+      "bengali": "নৈরাজ্যবাদী"
+    },
+    {
+      "term": "Anarchy",
+      "meaning": "Absence of government or law",
+      "bengali": "নৃতত্ত্ববিদ"
+    },
+    {
+      "term": "Anthropology",
+      "meaning": "Study of human origin and development",
+      "bengali": "প্রত্নতত্ত্ব সংগ্রাহক"
+    },
+    {
+      "term": "Antidote",
+      "meaning": "A remedy that counters poison",
+      "bengali": "জলচর প্রাণীর কৃত্রিম জলাশয়"
+    },
+    {
+      "term": "Archaeology",
+      "meaning": "Study of ancient remains",
+      "bengali": "সালিশকারী / মধ্যস্থতাকারী"
+    },
+    {
+      "term": "Archives",
+      "meaning": "A place where public records are kept",
+      "bengali": "অস্ত্রাগার"
+    },
+    {
+      "term": "Astronomy",
+      "meaning": "Study of heavenly bodies",
+      "bengali": "কৃচ্ছ্রসাধনকারী / তপস্বী"
+    },
+    {
+      "term": "Atheist",
+      "meaning": "One who does not believe in God",
+      "bengali": "নাস্তিক"
+    },
+    {
+      "term": "Auditor",
+      "meaning": "An official who examines accounts",
+      "bengali": "আত্মজীবনী"
+    },
+    {
+      "term": "Autobiography",
+      "meaning": "Life story of a person written by himself",
+      "bengali": "স্বৈরতন্ত্র"
+    },
+    {
+      "term": "Autocracy",
+      "meaning": "Government by one person with absolute power",
+      "bengali": "বইপ্রেমী / গ্রন্থকীট"
+    },
+    {
+      "term": "Aviary",
+      "meaning": "A place where birds are kept",
+      "bengali": "দ্বিভাষিক"
+    },
+    {
+      "term": "Bibliophile",
+      "meaning": "A lover of books",
+      "bengali": "জীবনী"
+    },
+    {
+      "term": "Biennial",
+      "meaning": "Happening every two years",
+      "bengali": "সুদৃশ্য রাজপথ"
+    },
+    {
+      "term": "Bilingual",
+      "meaning": "A person who can speak two languages",
+      "bengali": "সুন্দর হস্তলিপিবিদ্যা"
+    },
+    {
+      "term": "Bureaucracy",
+      "meaning": "Government by officials",
+      "bengali": "নরমাংসভোজী"
+    },
+    {
+      "term": "Calligraphy",
+      "meaning": "Art of beautiful handwriting",
+      "bengali": "মাংসাশী প্রাণী"
+    },
+    {
+      "term": "Cartography",
+      "meaning": "Science or art of making maps",
+      "bengali": "শতবর্ষজীবী ব্যক্তি"
+    },
+    {
+      "term": "Choir",
+      "meaning": "A group of singers",
+      "bengali": "ব্যক্তিগত গাড়িচালক"
+    },
+    {
+      "term": "Claustrophobia",
+      "meaning": "Fear of closed places",
+      "bengali": "আবদ্ধ স্থানের ভীতি"
+    },
+    {
+      "term": "Connoisseur",
+      "meaning": "An expert judge in matters of art or taste",
+      "bengali": "সমসাময়িক"
+    },
+    {
+      "term": "Democracy",
+      "meaning": "Government by the people",
+      "bengali": "রোগমুক্তির পথে থাকা ব্যক্তি"
+    },
+    {
+      "term": "Edible",
+      "meaning": "That which can be eaten",
+      "bengali": "বিশ্বনাগরিক"
+    },
+    {
+      "term": "Egoist",
+      "meaning": "One who thinks only of himself",
+      "bengali": "মানবচরিত্রের সততায় অবিশ্বাসী"
+    },
+    {
+      "term": "Elegy",
+      "meaning": "A poem of lament for the dead",
+      "bengali": "গণতন্ত্র"
+    },
+    {
+      "term": "Emigrant",
+      "meaning": "A person who leaves his own country to settle in another",
+      "bengali": "চর্মরোগবিদ্যা"
+    },
+    {
+      "term": "Entomology",
+      "meaning": "Study of insects",
+      "bengali": "শৌখিন অপেশাদার ব্যক্তি"
+    },
+    {
+      "term": "Ephemeral",
+      "meaning": "Lasting for a very short time",
+      "bengali": "বাস্তুবিদ্যা"
+    },
+    {
+      "term": "Epic",
+      "meaning": "A long narrative poem about heroic deeds",
+      "bengali": "আত্মকেন্দ্রিক ব্যক্তি"
+    },
+    {
+      "term": "Epigram",
+      "meaning": "A short witty saying",
+      "bengali": "যোগ্য বা উপযুক্ত"
+    },
+    {
+      "term": "Epilogue",
+      "meaning": "The concluding part of a play",
+      "bengali": "দেশত্যাগী"
+    },
+    {
+      "term": "Epitaph",
+      "meaning": "Inscription on a tomb",
+      "bengali": "কীটপতঙ্গবিদ্যা"
+    },
+    {
+      "term": "Etymology",
+      "meaning": "Study of the origin of words",
+      "bengali": "ক্ষণস্থায়ী"
+    },
+    {
+      "term": "Extempore",
+      "meaning": "A speech delivered without preparation",
+      "bengali": "সমাধিলিপি"
+    },
+    {
+      "term": "Fleet",
+      "meaning": "A group of ships",
+      "bengali": "ঘোড়াসদৃশ / অশ্বসংক্রান্ত"
+    },
+    {
+      "term": "Fragile",
+      "meaning": "That which can be easily broken",
+      "bengali": "শব্দব্যুৎপত্তিবিদ্যা"
+    },
+    {
+      "term": "Fratricide",
+      "meaning": "Murder of one's brother",
+      "bengali": "উচ্চ প্রশংসামূলক রচনা"
+    },
+    {
+      "term": "Genocide",
+      "meaning": "Mass killing of a whole race or group",
+      "bengali": "দোষমুক্ত করা"
+    },
+    {
+      "term": "Gourmet",
+      "meaning": "A person with refined taste in food",
+      "bengali": "তাৎক্ষণিক প্রস্তুতিহীন বক্তৃতা"
+    },
+    {
+      "term": "Hermit",
+      "meaning": "One who lives alone, away from society",
+      "bengali": "খুঁতখুঁতে"
+    },
+    {
+      "term": "Hydrophobia",
+      "meaning": "Fear of water",
+      "bengali": "অদৃষ্টবাদী / নিয়তিবাদী"
+    },
+    {
+      "term": "Illegible",
+      "meaning": "That which cannot be read",
+      "bengali": "প্রাণিকুল"
+    },
+    {
+      "term": "Immigrant",
+      "meaning": "A person who enters a foreign country to settle there",
+      "bengali": "উদ্ভিদকুল"
+    },
+    {
+      "term": "Immortal",
+      "meaning": "That which can never die",
+      "bengali": "পলাতক"
+    },
+    {
+      "term": "Inaudible",
+      "meaning": "That which cannot be heard",
+      "bengali": "বংশবৃত্তান্তবিদ্যা"
+    },
+    {
+      "term": "Incorrigible",
+      "meaning": "One who cannot be corrected",
+      "bengali": "অতিভোজী / পেটুক"
+    },
+    {
+      "term": "Inevitable",
+      "meaning": "That which cannot be avoided",
+      "bengali": "দলবদ্ধভাবে বসবাসকারী"
+    },
+    {
+      "term": "Infanticide",
+      "meaning": "Killing of an infant",
+      "bengali": "তৃণভোজী প্রাণী"
+    },
+    {
+      "term": "Inimitable",
+      "meaning": "That which cannot be imitated",
+      "bengali": "বিজাতীয় / অসমসত্ত্ব"
+    },
+    {
+      "term": "Insatiable",
+      "meaning": "That which cannot be satisfied",
+      "bengali": "ষড়ভুজ"
+    },
+    {
+      "term": "Insolvent",
+      "meaning": "One who is unable to pay his debts",
+      "bengali": "সমজাতীয়"
+    },
+    {
+      "term": "Invincible",
+      "meaning": "That which cannot be defeated",
+      "bengali": "জলাতঙ্ক"
+    },
+    {
+      "term": "Invisible",
+      "meaning": "That which cannot be seen",
+      "bengali": "ভণ্ড বা কপট ব্যক্তি"
+    },
+    {
+      "term": "Matricide",
+      "meaning": "Murder of one's mother",
+      "bengali": "প্রচলিত প্রথা ভঙ্গকারী"
+    },
+    {
+      "term": "Misanthrope",
+      "meaning": "One who hates mankind",
+      "bengali": "অপাঠ্য"
+    },
+    {
+      "term": "Miser",
+      "meaning": "One who hoards money greedily",
+      "bengali": "নিরক্ষর"
+    },
+    {
+      "term": "Monarchy",
+      "meaning": "Rule by a king or queen",
+      "bengali": "অভিবাসী"
+    },
+    {
+      "term": "Nomad",
+      "meaning": "One who wanders from place to place",
+      "bengali": "অশ্রাব্য"
+    },
+    {
+      "term": "Novice",
+      "meaning": "A person new to an activity",
+      "bengali": "অশোধনীয়"
+    },
+    {
+      "term": "Numismatics",
+      "meaning": "Study of coins",
+      "bengali": "অমোচনীয় / অমলিন"
+    },
+    {
+      "term": "Obsolete",
+      "meaning": "That which is no longer in use",
+      "bengali": "অভ্রান্ত"
+    },
+    {
+      "term": "Oligarchy",
+      "meaning": "Government by a few",
+      "bengali": "শিশুহত্যা"
+    },
+    {
+      "term": "Omnipresent",
+      "meaning": "One who is present everywhere",
+      "bengali": "দেউলিয়া"
+    },
+    {
+      "term": "Omniscient",
+      "meaning": "One who knows everything",
+      "bengali": "অনিদ্রা"
+    },
+    {
+      "term": "Optimist",
+      "meaning": "One who always looks on the bright side",
+      "bengali": "অপরাজয়"
+    },
+    {
+      "term": "Orator",
+      "meaning": "A person skilled in public speaking",
+      "bengali": "অদৃশ্য"
+    },
+    {
+      "term": "Ornithology",
+      "meaning": "Study of birds",
+      "bengali": "অভেদ্য / অক্ষত"
+    },
+    {
+      "term": "Paediatrician",
+      "meaning": "A doctor who treats children",
+      "bengali": "অপরিবর্তনীয়"
+    },
+    {
+      "term": "Panacea",
+      "meaning": "A remedy for all diseases",
+      "bengali": "চুরির মানসিক ব্যাধি"
+    },
+    {
+      "term": "Parasite",
+      "meaning": "One who lives at the expense of others",
+      "bengali": "ভাষাবিদ"
+    },
+    {
+      "term": "Patricide",
+      "meaning": "Murder of one's father",
+      "bengali": "সুস্পষ্ট / প্রাঞ্জল"
+    },
+    {
+      "term": "Patriot",
+      "meaning": "One who loves his country",
+      "bengali": "প্রথম বক্তৃতা"
+    },
+    {
+      "term": "Patron",
+      "meaning": "One who gives financial support to an artist",
+      "bengali": "শহীদ"
+    },
+    {
+      "term": "Pauper",
+      "meaning": "A very poor person",
+      "bengali": "মানববিদ্বেষী"
+    },
+    {
+      "term": "Perennial",
+      "meaning": "Lasting through many years",
+      "bengali": "নারীবিদ্বেষী"
+    },
+    {
+      "term": "Pessimist",
+      "meaning": "One who always expects the worst",
+      "bengali": "রাজতন্ত্র"
+    },
+    {
+      "term": "Philanthropist",
+      "meaning": "One who loves mankind",
+      "bengali": "একবিবাহ প্রথা"
+    },
+    {
+      "term": "Philatelist",
+      "meaning": "Collector of postage stamps",
+      "bengali": "মর্গ / শবগার"
+    },
+    {
+      "term": "Pilgrim",
+      "meaning": "A person who travels to a holy place",
+      "bengali": "শিক্ষানবিস / অনভিজ্ঞ"
+    },
+    {
+      "term": "Plutocracy",
+      "meaning": "Government by the rich",
+      "bengali": "মুদ্রাতত্ত্ববিদ্যা"
+    },
+    {
+      "term": "Polyglot",
+      "meaning": "One who knows many languages",
+      "bengali": "শোকসংবাদ"
+    },
+    {
+      "term": "Prologue",
+      "meaning": "The introductory part of a play",
+      "bengali": "সর্বশক্তিমান"
+    },
+    {
+      "term": "Psychology",
+      "meaning": "Study of the human mind and behaviour",
+      "bengali": "সর্বব্যাপী"
+    },
+    {
+      "term": "Ransom",
+      "meaning": "Money paid for the release of a captive",
+      "bengali": "সর্বজ্ঞ"
+    },
+    {
+      "term": "Regicide",
+      "meaning": "Killing of a king",
+      "bengali": "অস্বচ্ছ"
+    },
+    {
+      "term": "Sacrilege",
+      "meaning": "Violation of something sacred",
+      "bengali": "আশাবাদী ব্যক্তি"
+    },
+    {
+      "term": "Sociology",
+      "meaning": "Study of society",
+      "bengali": "পক্ষীবিদ্যা"
+    },
+    {
+      "term": "Soliloquy",
+      "meaning": "A speech spoken by a character to himself in a play",
+      "bengali": "সর্বরোগহর মহৌষধ"
+    },
+    {
+      "term": "Somnambulist",
+      "meaning": "A person who walks in sleep",
+      "bengali": "হতাশাবাদী ব্যক্তি"
+    },
+    {
+      "term": "Spendthrift",
+      "meaning": "One who spends money recklessly",
+      "bengali": "লোকহিতৈষী / মানবপ্রেমিক"
+    },
+    {
+      "term": "Stenography",
+      "meaning": "Art of shorthand writing",
+      "bengali": "ডাকটিকিট সংগ্রাহক"
+    },
+    {
+      "term": "Stoic",
+      "meaning": "One who is indifferent to pleasure and pain",
+      "bengali": "বহুভাষী"
+    },
+    {
+      "term": "Tangible",
+      "meaning": "That which can be touched or felt",
+      "bengali": "মরণোত্তর"
+    },
+    {
+      "term": "Theocracy",
+      "meaning": "Government by religious leaders",
+      "bengali": "ধর্মতন্ত্র"
+    },
+    {
+      "term": "Widow",
+      "meaning": "A woman whose husband is dead",
+      "bengali": "স্বচ্ছ"
+    },
+    {
+      "term": "Xenophobia",
+      "meaning": "Fear of foreigners",
+      "bengali": "বিদেশিভীতি বা বিদ্বেষ"
+    }
+  ]
+}

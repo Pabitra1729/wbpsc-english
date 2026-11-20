@@ -1,0 +1,812 @@
+[
+  {
+    "id": "v05-001",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the meaning of 'give up'.",
+    "options": [
+      "continue",
+      "surrender or stop",
+      "give a present",
+      "go up"
+    ],
+    "answer": 1,
+    "explanation": "Give up means to stop or surrender in this context.",
+    "rule": "Phrasal verb",
+    "bengaliHint": "ছেড়ে দেওয়া।"
+  },
+  {
+    "id": "v05-002",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Complete: Please look ___ the children.",
+    "options": [
+      "at",
+      "after",
+      "for",
+      "in"
+    ],
+    "answer": 1,
+    "explanation": "Look after means to take care of.",
+    "rule": "Phrasal verb phrase",
+    "bengaliHint": "যত্ন করা।"
+  },
+  {
+    "id": "v05-003",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Complete: The car broke ___ on the road.",
+    "options": [
+      "on",
+      "down",
+      "out",
+      "over"
+    ],
+    "answer": 1,
+    "explanation": "Break down means to stop working or have a mechanical failure.",
+    "rule": "Phrasal verb",
+    "bengaliHint": "কাজ করা বন্ধ হওয়া।"
+  },
+  {
+    "id": "v05-004",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Choose the correct object position.",
+    "options": [
+      "Turn off it.",
+      "Turn it off.",
+      "Turn off it now.",
+      "Turn the off it."
+    ],
+    "answer": 1,
+    "explanation": "Turn off is separable, and a pronoun object normally comes between the parts.",
+    "rule": "Separable phrasal verb",
+    "bengaliHint": "pronoun-এর মাঝখানে রাখুন."
+  },
+  {
+    "id": "v05-005",
+    "chapter": "v05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The scheduled examination was ___ due to unseasonal floods in the district.",
+    "options": [
+      "called off",
+      "called on",
+      "called for",
+      "called out"
+    ],
+    "answer": 0,
+    "explanation": "'Call off' means to cancel an event or scheduled activity.",
+    "rule": "Phrasal verb: call off = cancel",
+    "bengaliHint": "পরীক্ষা বা সভা বাতিল হওয়া বোঝাতে 'call off' বসে।"
+  },
+  {
+    "id": "v05-006",
+    "chapter": "v05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Please ___ the lamp before retiring to bed.",
+    "options": [
+      "put out",
+      "put off",
+      "put up",
+      "put away"
+    ],
+    "answer": 0,
+    "explanation": "'Put out' means to extinguish a flame, fire, or light.",
+    "rule": "Phrasal verb: put out = extinguish",
+    "bengaliHint": "বাতি বা আগুন নেভানো বোঝাতে 'put out' বসে।"
+  },
+  {
+    "id": "v05-007",
+    "chapter": "v05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The district magistrate promised to ___ the public grievances thoroughly.",
+    "options": [
+      "look into",
+      "look after",
+      "look down upon",
+      "look for"
+    ],
+    "answer": 0,
+    "explanation": "'Look into' means to investigate or examine thoroughly.",
+    "rule": "Phrasal verb: look into = investigate",
+    "bengaliHint": "কোনো অভিযোগ তদন্ত করা বোঝাতে 'look into' বসে।"
+  },
+  {
+    "id": "v05-008",
+    "chapter": "v05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Cholera ___ in the flood-affected delta villages.",
+    "options": [
+      "broke out",
+      "broke into",
+      "broke down",
+      "broke up"
+    ],
+    "answer": 0,
+    "explanation": "'Break out' means to suddenly begin or spread rapidly (used for epidemics, wars, or fire).",
+    "rule": "Phrasal verb: break out = begin suddenly (disease/war)",
+    "bengaliHint": "মহামারী বা যুদ্ধ হঠাৎ ছড়িয়ে পড়া বোঝাতে 'break out' বসে।"
+  },
+  {
+    "id": "v05-009",
+    "chapter": "v05",
+    "type": "fill",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The young boy ___ his grandfather in temperament and intellect.",
+    "options": [
+      "takes after",
+      "takes down",
+      "takes off",
+      "takes for"
+    ],
+    "answer": 0,
+    "explanation": "'Take after' means to resemble a parent or older relative in appearance or character.",
+    "rule": "Phrasal verb: take after = resemble",
+    "bengaliHint": "স্বভাব বা চেহারায় পূর্বপুরুষের মতো হওয়া অর্থে 'takes after' বসে।"
+  },
+  {
+    "id": "v05-010",
+    "chapter": "v05",
+    "type": "fill",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He could not ___ the meaning of this archaic passage.",
+    "options": [
+      "make out",
+      "make up",
+      "make over",
+      "make off"
+    ],
+    "answer": 0,
+    "explanation": "'Make out' means to decipher, understand, or perceive the meaning with difficulty.",
+    "rule": "Phrasal verb: make out = understand / decipher",
+    "bengaliHint": "অর্থ অনুধাবন বা বুঝতে পারা অর্থে 'make out' বসে।"
+  },
+  {
+    "id": "v05-011",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-012",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-013",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-014",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-015",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  },
+  {
+    "id": "v05-016",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-017",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-018",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-019",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-020",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  },
+  {
+    "id": "v05-021",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-022",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-023",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-024",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-025",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  },
+  {
+    "id": "v05-026",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-027",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-028",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-029",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-030",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  },
+  {
+    "id": "v05-031",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-032",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-033",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-034",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-035",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  },
+  {
+    "id": "v05-036",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-037",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-038",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-039",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-040",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  },
+  {
+    "id": "v05-041",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "options": [
+      "give up",
+      "give in",
+      "give away",
+      "give off"
+    ],
+    "answer": 0,
+    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
+    "rule": "Phrasal verb: give up = abandon/quit",
+    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+  },
+  {
+    "id": "v05-042",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The enemy finally ___ after a three-month siege.",
+    "options": [
+      "gave in",
+      "gave up",
+      "gave out",
+      "gave off"
+    ],
+    "answer": 0,
+    "explanation": "'Give in' means to surrender or yield to pressure.",
+    "rule": "Phrasal verb: give in = surrender/yield",
+    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+  },
+  {
+    "id": "v05-043",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "options": [
+      "gave away",
+      "gave in",
+      "gave up",
+      "gave on"
+    ],
+    "answer": 0,
+    "explanation": "'Give away' means to distribute prizes or charitable items.",
+    "rule": "Phrasal verb: give away = distribute",
+    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+  },
+  {
+    "id": "v05-044",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The rotting waste ___ an offensive odor.",
+    "options": [
+      "gives off",
+      "gives up",
+      "gives in",
+      "gives out"
+    ],
+    "answer": 0,
+    "explanation": "'Give off' means to emit gas, smell, or heat.",
+    "rule": "Phrasal verb: give off = emit",
+    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+  },
+  {
+    "id": "v05-045",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "options": [
+      "carries out",
+      "carries on",
+      "carries through",
+      "carries away"
+    ],
+    "answer": 0,
+    "explanation": "'Carry out' means to execute or perform an order or duty.",
+    "rule": "Phrasal verb: carry out = execute orders",
+    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+  }
+]

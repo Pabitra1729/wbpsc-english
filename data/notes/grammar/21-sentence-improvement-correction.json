@@ -1,0 +1,91 @@
+{
+  "id": "g21",
+  "title": "Sentence Improvement & Correction",
+  "intro": "Sentence Improvement questions present a sentence with an underlined or highlighted portion and ask the candidate to select the most grammatically accurate, concise, and stylistically superior replacement among given options (or select 'No Improvement'). In WBPSC Clerkship, this tests idiom accuracy, prepositional harmony, concise phrasing, and syntactical balance.",
+  "bengali": "Sentence Improvement (বাক্য সংশোধন): এই বিভাগে একটি বাক্যের নির্দিষ্ট অংশকে আন্ডারলাইন বা হাইলাইট করে দেওয়া হয় এবং অপশনগুলো থেকে সবচেয়ে ব্যাকরণগতভাবে নির্ভুল ও মানানসই বিকল্পটি বেছে নিতে হয়। বাক্যটি যদি ইতিমধ্যে সঠিক থাকে, তবে 'No Improvement' উত্তর হয়।\n\nWBPSC Clerkship পরীক্ষায় Sentence Improvement-এর মূল ক্ষেত্রসমূহ:\n১. Idiomatic & Appropriate Preposition সংশোধন: যেমন 'He is addicted with gambling' থাকলে সংশোধন হবে 'addicted to gambling' (কারণ addicted-এর পরে 'to' বসে)।\n২. Tense ও Time Phrase-এর সামঞ্জস্য: যেমন 'He has died two years ago' থাকলে সংশোধন হবে 'died two years ago' (ago থাকলে V2 হয়)।\n৩. Gerund বনাম Infinitive: 'He insisted to go' থাকলে সংশোধন হবে 'He insisted on going' (insist takes on + V-ing)।\n৪. পরিমিত ও মার্জিত শব্দচয়ন (Conciseness): অযথা বড় বাক্য না রেখে সংক্ষিপ্ত ও সুনির্দিষ্ট শব্দচয়নকে অগ্রাধিকার দেওয়া।\n৫. 'No Improvement'-কে ভয় না পাওয়া: প্রায় ২০% প্রশ্নে মূল বাক্যটি সম্পূর্ণ নির্দোষ থাকে; সেক্ষেত্রে অযথা পরিবর্তন না করে 'No Improvement' বাছতে হবে।",
+  "rules": [
+    {
+      "rule": "VERB PREPOSITION HARMONY in Sentence Improvement:",
+      "examples": [
+        "Incorrect: He insisted to see the magistrate.",
+        "Improvement: He insisted ON SEEING the magistrate (insist takes on + Gerund).",
+        "Incorrect: He prevented me to enter the chamber.",
+        "Improvement: He prevented me FROM ENTERING the chamber (prevent takes from + Gerund)."
+      ],
+      "exceptions": [
+        "Verbs of desire (want, wish, decide) take full infinitives with 'to': 'He decided to enter the chamber'."
+      ]
+    },
+    {
+      "rule": "SUBJUNCTIVE MOOD with expressions of urgent recommendation, demand, or resolution:",
+      "examples": [
+        "Incorrect: The committee recommended that he is suspended.",
+        "Improvement: The committee recommended that he BE suspended (Subjunctive base form).",
+        "Incorrect: It is essential that she comes on time.",
+        "Improvement: It is essential that she COME on time (Subjunctive base form without 's')."
+      ],
+      "exceptions": [
+        "In British and Indian exam English, 'should + V1' is also acceptable: 'recommended that he should be suspended'."
+      ]
+    },
+    {
+      "rule": "COMPARISON LOGIC AND ILLOGICAL COMPARISONS:",
+      "examples": [
+        "Incorrect: The climate of Siliguri is cooler than Kolkata (Comparing climate with a city!).",
+        "Improvement: The climate of Siliguri is cooler than THAT OF Kolkata.",
+        "Incorrect: The streets of Kolkata are wider than Howrah.",
+        "Improvement: The streets of Kolkata are wider than THOSE OF Howrah (Plural uses 'those of')."
+      ],
+      "exceptions": [
+        "Always verify what is being compared: singular attributes require 'that of'; plural attributes require 'those of'."
+      ]
+    },
+    {
+      "rule": "CONDITIONAL CONCORD CORRECTION in conditional sentences:",
+      "examples": [
+        "Incorrect: If he would have informed me, I would have attended.",
+        "Improvement: If he HAD INFORMED me, I would have attended (or: 'Had he informed me').",
+        "Incorrect: If you will study, you will qualify.",
+        "Improvement: If you STUDY, you will qualify."
+      ],
+      "exceptions": [
+        "Never select an option that places 'would have' or 'will' inside the 'if' clause."
+      ]
+    },
+    {
+      "rule": "CHOOSING 'NO IMPROVEMENT': If the underlined segment already conforms to all rules of syntax, concord, and idiom, choose 'No Improvement'.",
+      "examples": [
+        "Original: 'Neither of the boys was capable of completing the task.' -> Options: (a) were capable (b) are capable (c) have capable (d) No Improvement.",
+        "Correct Answer: (d) No Improvement (Neither strictly takes singular 'was')."
+      ],
+      "exceptions": [
+        "Candidates frequently make the mistake of assuming every underlined portion must contain a defect."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Comparing attributes with entities: 'The population of China is greater than India' instead of 'than that of India'.",
+    "Writing 'He insisted to pay the bill' instead of 'insisted on paying'.",
+    "Selecting an unnecessary modification when the original was already correct ('No Improvement').",
+    "Keeping 'would have' in the if-clause during sentence improvement.",
+    "Changing correct singular verbs after 'Neither of' to plural verbs."
+  ],
+  "examTricks": [
+    "The 'That of / Those of' Comparison Check: Comparing climate/population/streets? Always insert 'THAT OF' (singular) or 'THOSE OF' (plural).",
+    "The 'Insist / Prevent' Pattern: Insist ON + V-ing; Prevent FROM + V-ing; Abstain FROM + V-ing.",
+    "The Option Scanning Tactic: Eliminate options with obvious grammatical violations first; usually 2 options disappear immediately.",
+    "The 'No Improvement' Option: Is valid and correct in ~15-20% of questions."
+  ],
+  "memoryTricks": [
+    "Compare CLIMATE to CLIMATE (that of), not climate to a city.",
+    "INSIST ON, PREVENT FROM."
+  ],
+  "revision": [
+    "That of (singular comparison); Those of (plural comparison).",
+    "Insist on + V-ing; Prevent from + V-ing; Refrain from + V-ing.",
+    "If + had + V3 ..., would have + V3 (never would have in if-clause).",
+    "Subjunctive: It is essential that he be present.",
+    "No Improvement is a valid, correct option.",
+    "Check subject-verb agreement and tense alignment first."
+  ]
+}

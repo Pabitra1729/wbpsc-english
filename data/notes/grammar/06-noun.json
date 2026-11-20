@@ -1,0 +1,102 @@
+{
+  "id": "g06",
+  "title": "Noun & Number Mastery",
+  "intro": "A noun names a person, place, thing, concept, or collective group. WBPSC Clerkship questions heavily focus on uncountable nouns that are frequently mispluralized with an 's', nouns that exist exclusively in plural forms, compound noun plurals, collective noun concord, and the precise rules of apostrophe ('s) possessives.",
+  "bengali": "Noun হলো কোনো ব্যক্তি, বস্তু, স্থান, গুণ বা সমষ্টির নাম।\n\nWBPSC Clerkship পরীক্ষায় Noun-সংক্রান্ত যেসব ফাঁদ থেকে বারবার প্রশ্ন আসে:\n১. Uncountable Noun-এর সাথে 's/es' যোগের ভুল: কিছু শব্দ ইংরেজি ব্যাকরণে সর্বদা Uncountable হিসেবে গণ্য হয়—যেমন: furniture, information, advice, luggage, baggage, scenery, poetry, machinery, stationery, bread, hair, work। এদের সাথে কখনো 's' যুক্ত হয় না (e.g., furnitures, advices, informations সম্পূর্ণ ভুল) এবং এদের আগে সরাসরি 'a' বা 'an' বসে না। একটি বা দুটি বোঝাতে 'a piece of advice', 'two pieces of information' লিখতে হয়।\n২. দেখতে Plural কিন্তু আসলে Singular: Mathematics, Physics, Politics, Economics, News, Innings, Measles, Rickets—এগুলির শেষে 's' থাকলেও এরা আসলে Singular এবং এদের পরে Singular Verb বসে।\n৩. দেখতে Singular কিন্তু আসলে Plural: Cattle, clergy, gentry, poultry, police, people—এদের শেষে 's' না থাকলেও এরা বহুবচন (Plural) এবং এদের পরে Plural Verb বসে (e.g., 'Cattle are grazing').\n৪. সর্বদা Plural হিসেবে ব্যবহৃত যন্ত্র ও পোশাক: Scissors, tongs, spectacles, trousers, binoculars, pliers—এদের পরে Plural Verb বসে। তবে এদের আগে 'A pair of...' থাকলে Singular Verb হয়।\n৫. Compound Noun-এর বহুবচন: মূল শব্দটির (Principal word) সাথে 's' যুক্ত হয়। যেমন: Passers-by (NOT: passer-bys), Commanders-in-chief (NOT: commander-in-chiefs), Sons-in-law।",
+  "rules": [
+    {
+      "rule": "High-frequency UNCOUNTABLE NOUNS that NEVER take a plural 's/es' and NEVER take the indefinite articles 'a/an':",
+      "examples": [
+        "Furniture, information, advice, luggage, baggage, scenery, poetry, machinery, stationery, hair, bread, weather, jewellery, evidence.",
+        "Correct: The scenery of Darjeeling is breathtaking (NOT: The sceneries are...).",
+        "Correct: He gave me sound advice (NOT: an advice or advices)."
+      ],
+      "exceptions": [
+        "To express singular or plural quantities, use unit counters: 'A piece of information', 'Two pieces of furniture', 'An item of news', 'A loaf of bread'."
+      ]
+    },
+    {
+      "rule": "Nouns that are plural in appearance (ending in '-s') but strictly SINGULAR in grammatical nature:",
+      "examples": [
+        "Academic subjects: Mathematics, Physics, Economics, Politics, Ethics, Statistics, Linguistics.",
+        "Diseases: Measles, Rickets, Mumps, Shingles.",
+        "Games & terms: Billiards, Darts, Innings, News.",
+        "Correct: India won the match by an innings and twenty runs (Innings is singular/plural same form)."
+      ],
+      "exceptions": [
+        "When words like 'statistics' denote numerical data or 'mathematics' denotes calculations, they take plural verbs: 'His mathematics are poor'."
+      ]
+    },
+    {
+      "rule": "Nouns that appear singular (no '-s') but are strictly PLURAL in nature and take plural verbs:",
+      "examples": [
+        "Cattle, clergy, gentry, poultry, police, people, folk, peasantry, infantry, cavalry.",
+        "Correct: The cattle are grazing in the meadow (NOT: The cattle is grazing; NEVER write 'cattles').",
+        "Correct: The police have arrested the absconding suspect (Police = plural body)."
+      ],
+      "exceptions": [
+        "If referring to an individual officer, say 'a police officer' or 'a policeman'."
+      ]
+    },
+    {
+      "rule": "Articles of dress and tools with paired symmetrical parts are inherently PLURAL and take plural verbs:",
+      "examples": [
+        "Scissors, tongs, pliers, pincers, binoculars, spectacles, glasses, trousers, pants, jeans, pajamas.",
+        "Correct: My spectacles are missing (NOT: My spectacle is missing)."
+      ],
+      "exceptions": [
+        "When preceded by 'A pair of...', the verb becomes SINGULAR: 'A pair of spectacles was found on the desk'."
+      ]
+    },
+    {
+      "rule": "Compound Nouns form their plural by appending '-s' to the ROOT / PRINCIPAL WORD, never to prepositions or secondary words.",
+      "examples": [
+        "Passer-by -> Passers-by (NOT: passer-bys).",
+        "Commander-in-chief -> Commanders-in-chief (NOT: commander-in-chiefs).",
+        "Son-in-law -> Sons-in-law (NOT: son-in-laws).",
+        "Looker-on -> Lookers-on; Brother-in-law -> Brothers-in-law."
+      ],
+      "exceptions": [
+        "Compound words without hyphen where the second noun is principal add '-s' to the end: 'Armchair -> Armchairs', 'Stepdaughter -> Stepdaughters'."
+      ]
+    },
+    {
+      "rule": "Apostrophe ('s) rules for possession:",
+      "examples": [
+        "Living things take apostrophe ('s): The boy's pen, the doctor's clinic.",
+        "Non-living things do NOT take apostrophe ('s)—use 'of': The legs of the table (NOT: The table's leg).",
+        "Plural nouns ending in 's' take only the apostrophe at the end: Girls' school, students' hostel.",
+        "Indefinite pronouns taking 'else' put apostrophe on 'else': Somebody else's book (NOT: Somebody's else book)."
+      ],
+      "exceptions": [
+        "Personified entities and units of time, distance, and weight take apostrophe: 'A day's leave', 'Nature's beauty', 'At an arm's length'."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'The sceneries of Kashmir are beautiful' instead of 'The scenery of Kashmir is beautiful' (scenery is uncountable).",
+    "Writing 'He gave me an advice' instead of 'He gave me a piece of advice' (advice is uncountable).",
+    "Saying 'Cattles are grazing' instead of 'Cattle are grazing' (cattle is already plural, no 's').",
+    "Writing 'Passer-bys helped the injured' instead of 'Passers-by helped the injured' (pluralize root word).",
+    "Writing 'The table's legs were broken' instead of 'The legs of the table were broken' (no apostrophe for non-living objects)."
+  ],
+  "examTricks": [
+    "The Uncountable Blacklist: Furniture, advice, information, scenery, luggage, poetry, machinery, stationery -> NEVER accept '-s' or 'a/an'.",
+    "The 'Pair of' Rule: Scissors/Spectacles alone = PLURAL verb; 'A pair of' scissors/spectacles = SINGULAR verb.",
+    "The Compound Noun Suffix: Add '-s' to the human/noun component (commanders, passers, sons), NOT to 'in-law' or 'by'.",
+    "The 'Else' Apostrophe: Always write 'Somebody else's', never 'Somebody's else'."
+  ],
+  "memoryTricks": [
+    "F-A-I-L-S-P (Furniture, Advice, Information, Luggage, Scenery, Poetry) NEVER take an 'S'.",
+    "PASSERS by, not passer BYS."
+  ],
+  "revision": [
+    "Uncountable: Furniture, scenery, poetry, advice, information, luggage (always singular verb).",
+    "Plural form, singular meaning: Mathematics, Physics, News, Innings, Measles.",
+    "Singular form, plural meaning: Cattle, police, people, clergy, poultry.",
+    "Paired tools: Scissors, spectacles, tongs (Plural; but 'A pair of...' = Singular).",
+    "Passers-by, Commanders-in-chief, Sons-in-law.",
+    "Non-living objects take 'of', not apostrophe: The wheel of the car (not car's wheel).",
+    "Somebody else's (apostrophe on else)."
+  ]
+}

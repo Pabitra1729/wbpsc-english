@@ -1,0 +1,812 @@
+[
+  {
+    "id": "g01-001",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The children play happily', what is 'happily'?",
+    "options": [
+      "noun",
+      "pronoun",
+      "adverb",
+      "conjunction"
+    ],
+    "answer": 2,
+    "explanation": "Happily describes how the children play, so it is an adverb.",
+    "rule": "Adverb modifies a verb",
+    "bengaliHint": "এই শব্দটি play-এর কাজের ধরন বোঝায়।"
+  },
+  {
+    "id": "g01-002",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which word is a noun in 'Honesty is the best policy'?",
+    "options": [
+      "Honesty",
+      "is",
+      "the",
+      "best"
+    ],
+    "answer": 0,
+    "explanation": "Honesty names a quality, so it is a noun.",
+    "rule": "A noun names a person, place, thing or idea",
+    "bengaliHint": "বক্তব্যের শুরুতে কোন শব্দটি quality-এর নাম?"
+  },
+  {
+    "id": "g01-003",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Choose the pronoun in 'Ravi called me yesterday'.",
+    "options": [
+      "Ravi",
+      "called",
+      "me",
+      "yesterday"
+    ],
+    "answer": 2,
+    "explanation": "Me replaces a noun and acts as a pronoun.",
+    "rule": "A pronoun replaces a noun",
+    "bengaliHint": "কোন শব্দটি noun-এর পরিবর্তে এসেছে?"
+  },
+  {
+    "id": "g01-004",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which word is an adjective in 'The old man walked slowly'?",
+    "options": [
+      "old",
+      "man",
+      "walked",
+      "slowly"
+    ],
+    "answer": 0,
+    "explanation": "Old describes the noun man, so it is an adjective.",
+    "rule": "Adjective describes a noun",
+    "bengaliHint": "কোন শব্দটি man-এর বৈশিষ্ট্য?"
+  },
+  {
+    "id": "g01-005",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "What part of speech is 'and' in 'Tea and biscuits are served'?",
+    "options": [
+      "preposition",
+      "conjunction",
+      "adverb",
+      "noun"
+    ],
+    "answer": 1,
+    "explanation": "And joins Tea and biscuits, so it is a conjunction.",
+    "rule": "Conjunction joins words or groups",
+    "bengaliHint": "Tea ও biscuits-কে কোন শব্দটি যুক্ত করেছে?"
+  },
+  {
+    "id": "g01-006",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Identify the preposition: 'The cat slept under the table.'",
+    "options": [
+      "cat",
+      "slept",
+      "under",
+      "table"
+    ],
+    "answer": 2,
+    "explanation": "Under shows the relationship between the cat and the table.",
+    "rule": "Preposition shows relation",
+    "bengaliHint": "cat ও table-এর অবস্থানের সম্পর্ক কোন শব্দ?"
+  },
+  {
+    "id": "g01-007",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Which word is an interjection in 'Alas! we lost the match'?",
+    "options": [
+      "Alas",
+      "we",
+      "lost",
+      "match"
+    ],
+    "answer": 0,
+    "explanation": "Alas expresses a sudden feeling of sorrow.",
+    "rule": "Interjection expresses emotion",
+    "bengaliHint": "দুঃখের আকস্মিক অনুভূতি কোন শব্দটি প্রকাশ করছে?"
+  },
+  {
+    "id": "g01-008",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The girl sings beautifully', what is 'sings'?",
+    "options": [
+      "noun",
+      "adjective",
+      "verb",
+      "preposition"
+    ],
+    "answer": 2,
+    "explanation": "Sings shows an action, so it is a verb.",
+    "rule": "Verb shows action or state",
+    "bengaliHint": "girl কী করছে তা বোঝানো শব্দটি কোন অংশ?"
+  },
+  {
+    "id": "g01-009",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Please speak softly', which word is an adverb?",
+    "options": [
+      "Please",
+      "speak",
+      "softly",
+      "Please and softly"
+    ],
+    "answer": 2,
+    "explanation": "Softly describes how the speaking is done.",
+    "rule": "Adverb may modify a verb",
+    "bengaliHint": "কীভাবে speak করা হচ্ছে?"
+  },
+  {
+    "id": "g01-010",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which word is used as a verb in 'We must book the room'?",
+    "options": [
+      "must",
+      "book",
+      "room",
+      "We"
+    ],
+    "answer": 1,
+    "explanation": "Here book means to reserve, so it is used as a verb.",
+    "rule": "Words are identified by their function",
+    "bengaliHint": "এখানে reserve-এর অর্থে কোন শব্দটি verb?"
+  },
+  {
+    "id": "g01-011",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Identify the adjective: 'It was a difficult but useful question.'",
+    "options": [
+      "It",
+      "difficult",
+      "but",
+      "It was"
+    ],
+    "answer": 1,
+    "explanation": "Difficult describes the noun question.",
+    "rule": "Adjective modifies a noun or pronoun",
+    "bengaliHint": "question-টি কেমন ছিল?"
+  },
+  {
+    "id": "g01-012",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which word is a pronoun in 'This is our house'?",
+    "options": [
+      "This",
+      "our",
+      "house",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "This stands for a person or thing and functions as a pronoun here.",
+    "rule": "Context determines the part of speech",
+    "bengaliHint": "এখানে noun-এর বদলে কোন demonstrative শব্দটি এসেছে?"
+  },
+  {
+    "id": "g01-013",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The answer is not correct', what is 'not'?",
+    "options": [
+      "adverb",
+      "noun",
+      "conjunction",
+      "pronoun"
+    ],
+    "answer": 0,
+    "explanation": "Not modifies the meaning of the verb phrase is correct.",
+    "rule": "Adverb may modify a verb phrase",
+    "bengaliHint": "কোন শব্দটি correct হওয়ার অর্থটি negate করছে?"
+  },
+  {
+    "id": "g01-014",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Which word is a preposition in 'We waited until noon'?",
+    "options": [
+      "we",
+      "waited",
+      "until",
+      "noon"
+    ],
+    "answer": 2,
+    "explanation": "Until links the waiting to the time noon.",
+    "rule": "Preposition shows time relation",
+    "bengaliHint": "wait-এর সময়সীমা কোন শব্দটি দেখায়?"
+  },
+  {
+    "id": "g01-015",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Choose the conjunction: 'He worked hard but failed.'",
+    "options": [
+      "He",
+      "worked",
+      "hard",
+      "but"
+    ],
+    "answer": 3,
+    "explanation": "But joins two contrasting ideas.",
+    "rule": "Conjunction joins clauses",
+    "bengaliHint": "দুটি ভাবের মধ্যে কী ধরনের সংযোগ?"
+  },
+  {
+    "id": "g01-016",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The very young child slept', what is 'very'?",
+    "options": [
+      "noun",
+      "adverb",
+      "preposition",
+      "conjunction"
+    ],
+    "answer": 1,
+    "explanation": "Very modifies the adjective young.",
+    "rule": "Adverb may modify an adjective",
+    "bengaliHint": "young-এর 정도 কোন শব্দটি বলে?"
+  },
+  {
+    "id": "g01-017",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Identify the noun used as an adjective in 'The school bus arrived'.",
+    "options": [
+      "school",
+      "bus",
+      "arrived",
+      "the"
+    ],
+    "answer": 0,
+    "explanation": "School names the kind of bus and modifies bus, so it is used adjectivally.",
+    "rule": "A noun can perform an adjectival function",
+    "bengaliHint": "কোন noun bus-এর ধরন নির্দিষ্ট করছে?"
+  },
+  {
+    "id": "g01-018",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Which word is a verb in 'The doctor gave a short answer'?",
+    "options": [
+      "doctor",
+      "gave",
+      "short",
+      "answer"
+    ],
+    "answer": 1,
+    "explanation": "Gave shows the action performed by the doctor.",
+    "rule": "Verb shows action",
+    "bengaliHint": "doctor কী করল?"
+  },
+  {
+    "id": "g01-019",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'After the rain, we went home', 'After' is a:",
+    "options": [
+      "preposition",
+      "conjunction",
+      "adverb",
+      "noun"
+    ],
+    "answer": 0,
+    "explanation": "After is followed by the noun phrase the rain, so it is a preposition.",
+    "rule": "Preposition takes a noun object",
+    "bengaliHint": "এখানে After-এর পরে noun phrase আছে।"
+  },
+  {
+    "id": "g01-020",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Because he was tired, he slept', 'Because' is a:",
+    "options": [
+      "preposition",
+      "conjunction",
+      "interjection",
+      "adjective"
+    ],
+    "answer": 1,
+    "explanation": "Because joins the reason clause he was tired to he slept.",
+    "rule": "Subordinating conjunction introduces a clause",
+    "bengaliHint": "দুটি clause-এর মধ্যে কারণ সম্পর্ক তৈরি করে কোন শব্দ?"
+  },
+  {
+    "id": "g01-021",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He arrived shortly after the meeting began.', what part of speech is the word 'after'?",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Adverb",
+      "Adjective"
+    ],
+    "answer": 1,
+    "explanation": "'After' connects two clauses ('He arrived shortly' and 'the meeting began'), functioning as a subordinating conjunction.",
+    "rule": "Conjunction connecting clauses",
+    "bengaliHint": "দুটি clause যুক্ত করায় এটি Conjunction।"
+  },
+  {
+    "id": "g01-022",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'She walked down the street.', what part of speech is the word 'down'?",
+    "options": [
+      "Preposition",
+      "Adverb",
+      "Verb",
+      "Noun"
+    ],
+    "answer": 0,
+    "explanation": "'Down' shows the relationship between the verb walked and the noun street, functioning as a preposition.",
+    "rule": "Preposition showing direction",
+    "bengaliHint": "রাস্তার দিকে গতি বোঝাতে Preposition হিসেবে ব্যবহৃত।"
+  },
+  {
+    "id": "g01-023",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The price of gold has gone down.', what part of speech is the word 'down'?",
+    "options": [
+      "Preposition",
+      "Adverb",
+      "Adjective",
+      "Noun"
+    ],
+    "answer": 1,
+    "explanation": "'Down' modifies the phrasal verb 'has gone', acting as an adverb of direction.",
+    "rule": "Adverb modifying verb",
+    "bengaliHint": "ক্রিয়াকে বিশেষিত করায় এটি Adverb।"
+  },
+  {
+    "id": "g01-024",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He is an early riser.', what part of speech is the word 'early'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Pronoun"
+    ],
+    "answer": 1,
+    "explanation": "'Early' modifies the noun 'riser', functioning as an attributive adjective.",
+    "rule": "Adjective modifying noun",
+    "bengaliHint": "'Riser' noun-টিকে qualify করায় এটি Adjective।"
+  },
+  {
+    "id": "g01-025",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'He woke up early.', what part of speech is the word 'early'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Preposition",
+      "Conjunction"
+    ],
+    "answer": 0,
+    "explanation": "'Early' answers when he woke up, functioning as an adverb of time modifying 'woke up'.",
+    "rule": "Adverb of time",
+    "bengaliHint": "কখন উঠেছে বোঝাতে এটি Adverb।"
+  },
+  {
+    "id": "g01-026",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Still waters run deep.', what part of speech is the word 'Still'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "answer": 1,
+    "explanation": "'Still' modifies the plural noun 'waters', meaning calm/motionless.",
+    "rule": "Adjective describing noun",
+    "bengaliHint": "'Waters' noun-টিকে qualify করায় এটি Adjective।"
+  },
+  {
+    "id": "g01-027",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He still lives in that village.', what part of speech is the word 'still'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Preposition",
+      "Verb"
+    ],
+    "answer": 0,
+    "explanation": "'Still' modifies the verb 'lives', meaning continuing up to the present.",
+    "rule": "Adverb of time/continuity",
+    "bengaliHint": "বসবাস অব্যাহত থাকা বোঝাতে Adverb।"
+  },
+  {
+    "id": "g01-028",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'All men are mortal.', what part of speech is the word 'All'?",
+    "options": [
+      "Pronoun",
+      "Adjective",
+      "Adverb",
+      "Noun"
+    ],
+    "answer": 1,
+    "explanation": "'All' modifies the noun 'men', acting as an adjective of quantity/number.",
+    "rule": "Adjective of quantity",
+    "bengaliHint": "'Men' noun-এর সংখ্যা বোঝাতে Adjective।"
+  },
+  {
+    "id": "g01-029",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'All of us were delighted.', what part of speech is the word 'All'?",
+    "options": [
+      "Pronoun",
+      "Adjective",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": 0,
+    "explanation": "'All' functions as the subject pronoun of the prepositional phrase.",
+    "rule": "Indefinite Pronoun",
+    "bengaliHint": "Subject হিসেবে বসায় Pronoun।"
+  },
+  {
+    "id": "g01-030",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He was all alone in the room.', what part of speech is the word 'all'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Pronoun",
+      "Preposition"
+    ],
+    "answer": 0,
+    "explanation": "'All' modifies the adjective 'alone', meaning completely/entirely.",
+    "rule": "Adverb modifying adjective",
+    "bengaliHint": "'Alone' adjective-কে qualify করায় Adverb।"
+  },
+  {
+    "id": "g01-031",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'He ran fast.', what part of speech is the word 'fast'?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Verb",
+      "Noun"
+    ],
+    "answer": 1,
+    "explanation": "'Fast' describes how he ran, acting as an adverb of manner.",
+    "rule": "Adverb of manner",
+    "bengaliHint": "দৌড়ানোর ধরন বোঝাতে Adverb।"
+  },
+  {
+    "id": "g01-032",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'This is a fast train.', what part of speech is the word 'fast'?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "answer": 0,
+    "explanation": "'Fast' modifies the noun 'train', acting as an adjective.",
+    "rule": "Adjective qualifying noun",
+    "bengaliHint": "'Train' noun-টিকে qualify করায় Adjective।"
+  },
+  {
+    "id": "g01-033",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He kept a fast on Monday.', what part of speech is the word 'fast'?",
+    "options": [
+      "Noun",
+      "Verb",
+      "Adjective",
+      "Adverb"
+    ],
+    "answer": 0,
+    "explanation": "'Fast' is preceded by an article ('a fast') and acts as a naming word.",
+    "rule": "Noun as naming word",
+    "bengaliHint": "উপবাস বা রোজা অর্থে Noun।"
+  },
+  {
+    "id": "g01-034",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'They fast twice a week.', what part of speech is the word 'fast'?",
+    "options": [
+      "Verb",
+      "Noun",
+      "Adjective",
+      "Adverb"
+    ],
+    "answer": 0,
+    "explanation": "'Fast' denotes the action of abstaining from food.",
+    "rule": "Action Verb",
+    "bengaliHint": "উপবাস পালন করার কাজ বোঝাতে Verb।"
+  },
+  {
+    "id": "g01-035",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'There is much truth in what he said.', what part of speech is the word 'much'?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Pronoun"
+    ],
+    "answer": 0,
+    "explanation": "'Much' modifies the uncountable abstract noun 'truth'.",
+    "rule": "Adjective of quantity",
+    "bengaliHint": "'Truth' uncountable noun-কে qualify করায় Adjective।"
+  },
+  {
+    "id": "g01-036",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He was much distressed by the news.', what part of speech is the word 'much'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Preposition",
+      "Conjunction"
+    ],
+    "answer": 0,
+    "explanation": "'Much' modifies the participial adjective 'distressed'.",
+    "rule": "Adverb modifying participle",
+    "bengaliHint": "'Distressed' participle-কে qualify করায় Adverb।"
+  },
+  {
+    "id": "g01-037",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'This is the best book on the subject.', what part of speech is the word 'best'?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "answer": 0,
+    "explanation": "'Best' is the superlative degree adjective modifying 'book'.",
+    "rule": "Superlative Adjective",
+    "bengaliHint": "বইয়ের গুণ প্রকাশ করায় Adjective।"
+  },
+  {
+    "id": "g01-038",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'He did his best.', what part of speech is the word 'best'?",
+    "options": [
+      "Noun",
+      "Adjective",
+      "Adverb",
+      "Pronoun"
+    ],
+    "answer": 0,
+    "explanation": "'Best' acts as a noun (direct object of 'did') preceded by possessive 'his'.",
+    "rule": "Noun as direct object",
+    "bengaliHint": "সর্বোচ্চ প্রচেষ্টা অর্থে Noun।"
+  },
+  {
+    "id": "g01-039",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'I like him best.', what part of speech is the word 'best'?",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Verb"
+    ],
+    "answer": 0,
+    "explanation": "'Best' modifies the verb 'like', acting as an adverb of degree.",
+    "rule": "Adverb of degree",
+    "bengaliHint": "পছন্দের মাত্রা বোঝাতে Adverb।"
+  },
+  {
+    "id": "g01-040",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The up train is late.', what part of speech is the word 'up'?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Noun"
+    ],
+    "answer": 0,
+    "explanation": "'Up' modifies the noun 'train', functioning as an adjective.",
+    "rule": "Adjective modifying noun",
+    "bengaliHint": "ট্রেনের দিক নির্দেশ করায় Adjective।"
+  },
+  {
+    "id": "g01-041",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'He looked up at the sky.', what part of speech is the word 'up'?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "answer": 0,
+    "explanation": "'Up' indicates the direction of looking, modifying the verb 'looked'.",
+    "rule": "Adverb of direction",
+    "bengaliHint": "তাকানোর দিক বোঝাতে Adverb।"
+  },
+  {
+    "id": "g01-042",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He climbed up the tree.', what part of speech is the word 'up'?",
+    "options": [
+      "Preposition",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "answer": 0,
+    "explanation": "'Up' connects the verb climbed to the noun object 'the tree'.",
+    "rule": "Preposition governing object",
+    "bengaliHint": "গাছে ওঠার সম্পর্ক বোঝাতে Preposition।"
+  },
+  {
+    "id": "g01-043",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Every 'why' has a 'wherefore'.', what part of speech is the word 'why'?",
+    "options": [
+      "Noun",
+      "Adverb",
+      "Conjunction",
+      "Pronoun"
+    ],
+    "answer": 0,
+    "explanation": "'Why' is enclosed in quotes and preceded by determiner 'Every', functioning as a noun.",
+    "rule": "Noun in specialized context",
+    "bengaliHint": "'কারণ' অর্থে Noun হিসেবে ব্যবহৃত।"
+  },
+  {
+    "id": "g01-044",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'He gave a round table to the library.', what part of speech is the word 'round'?",
+    "options": [
+      "Adjective",
+      "Noun",
+      "Preposition",
+      "Adverb"
+    ],
+    "answer": 0,
+    "explanation": "'Round' describes the shape of the table.",
+    "rule": "Adjective of shape",
+    "bengaliHint": "টেবিলের আকার বোঝাতে Adjective।"
+  },
+  {
+    "id": "g01-045",
+    "chapter": "g01",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The earth moves round the sun.', what part of speech is the word 'round'?",
+    "options": [
+      "Preposition",
+      "Adverb",
+      "Adjective",
+      "Verb"
+    ],
+    "answer": 0,
+    "explanation": "'Round' governs the noun phrase 'the sun', functioning as a preposition.",
+    "rule": "Preposition of movement",
+    "bengaliHint": "চারপাশে ঘোরা বোঝাতে Preposition।"
+  }
+]

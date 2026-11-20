@@ -1,0 +1,112 @@
+{
+  "id": "g07",
+  "title": "Pronouns & Relative Concord",
+  "intro": "A pronoun replaces a noun to avoid repetitive phrasing. In WBPSC examinations, pronoun questions test personal pronoun ordering (231 vs 123), case harmony (nominative vs objective after 'than' and 'as'), relative pronoun selection ('who' vs 'whom' vs 'that'), and the correct syntax of reflexive and distributive pronouns.",
+  "bengali": "Pronoun হলো Noun-এর পরিবর্তে ব্যবহৃত শব্দ।\n\nWBPSC Clerkship পরীক্ষায় যেসব Pronoun-এর নিয়ম সবচেয়ে বেশি আসে:\n১. Pronoun-এর ক্রম (2-3-1 Rule): একই বাক্যে বিভিন্ন Person-এর Pronoun পাশাপাশি বসলে স্বাভাবিক বা শুভ কোনো কাজের ক্ষেত্রে প্রথমে Second Person, তারপর Third Person এবং শেষে First Person বসে (সংক্ষেপে: 2-3-1)। যেমন: 'You, he and I will attend the meeting' (NOT: I, you and he).\n২. দোষ স্বীকারের ক্ষেত্রে (1-2-3 Rule): ভুল, অপরাধ বা অপকর্ম স্বীকারের ক্ষেত্রে ক্রম হবে 1-2-3 (First Person, Second Person, Third Person)। যেমন: 'I, you and he are to blame for this blunder.'\n৩. 'Than' ও 'As'-এর পরে Case: তুলনার ক্ষেত্রে দুই পাশে একই Case বজায় রাখতে হয়। Subject-এর সাথে তুলনা হলে Subjective Case বসবে। যেমন: 'He is taller than I' (NOT: taller than me, কারণ এখানে মূলত বাক্যটি হলো 'He is taller than I am')।\n৪. 'Let', 'Between' এবং Preposition-এর পরে Objective Case: যেমন: 'Between you and me' (NOT: between you and I), 'Let him and me go' (NOT: Let he and I go)।\n৫. 'Each other' বনাম 'One another': দুই জনের মধ্যে পারস্পরিক সম্পর্ক বোঝাতে 'each other' বসে; দুজনের বেশি হলে 'one another' বসে।\n৬. Reflexive Pronoun কখনো বাক্যের Subject হতে পারে না: 'Myself Ramesh' সম্পূর্ণ ভুল, সঠিক হলো 'I am Ramesh' বা 'My name is Ramesh'。",
+  "rules": [
+    {
+      "rule": "Order of Personal Pronouns in normal and positive contexts follows the 2-3-1 rule (Second Person, Third Person, First Person).",
+      "examples": [
+        "You, he and I will complete the administrative task together.",
+        "You and he are selected for the civil service interview (2 and 3).",
+        "He and I have verified the voter register (3 and 1)."
+      ],
+      "exceptions": [
+        "When confessing a mistake, guilt, or in all-plural contexts, follow the 1-2-3 rule: 'I, you and he are responsible for this financial discrepancy'."
+      ]
+    },
+    {
+      "rule": "Case of Pronouns after 'THAN' and 'AS': When comparing subjects, use the NOMINATIVE (Subjective) case.",
+      "examples": [
+        "He is faster than I (NOT: than me; full sentence: 'He is faster than I am').",
+        "She is as competent as he (NOT: as him).",
+        "They worked harder than we (NOT: than us)."
+      ],
+      "exceptions": [
+        "When comparing objects, use the objective case: 'The manager admires him more than me' (meaning more than he admires me)."
+      ]
+    },
+    {
+      "rule": "Prepositions and the verb 'LET' are strictly followed by the OBJECTIVE CASE of pronouns.",
+      "examples": [
+        "Between you and me, the new policy is unfeasible (NOT: between you and I).",
+        "Let him and me handle the legal verification (NOT: let he and I).",
+        "Nobody attended the meeting except him and her (except is a preposition)."
+      ],
+      "exceptions": [
+        "Never write 'between you and I'—this is one of the most frequent examination traps."
+      ]
+    },
+    {
+      "rule": "Relative Pronouns: 'WHO' functions as a SUBJECT (takes a verb); 'WHOM' functions as an OBJECT (takes a subject + verb).",
+      "examples": [
+        "The clerk who verified the records was felicitated (Who + verb 'verified').",
+        "The candidate whom the interview board recommended has joined service (Whom + subject 'the board').",
+        "Who do you think will win the election? (Subject of 'will win')."
+      ],
+      "exceptions": [
+        "The He/Him trick: If the answer could be 'he', use WHO. If the answer could be 'him', use WHOM."
+      ]
+    },
+    {
+      "rule": "'THAT' is mandatory instead of 'who' or 'which' after: All, None, Any, Nothing, Only, Same, and Superlative degrees.",
+      "examples": [
+        "All that glitters is not gold (NOT: All which glitters).",
+        "He is the tallest officer that I have ever seen (superlative takes 'that').",
+        "This is the only pen that writes smoothly in blue ink."
+      ],
+      "exceptions": [
+        "When an antecedent combines a human and an animal/object, use 'that': 'The boy and his pet dog that entered the garden'."
+      ]
+    },
+    {
+      "rule": "Reflexive Pronouns (myself, himself, herself, themselves) CANNOT function as the grammatical subject of a sentence.",
+      "examples": [
+        "Incorrect: Myself Ramesh from Kolkata.",
+        "Correct: I am Ramesh from Kolkata / My name is Ramesh.",
+        "Correct: The officer himself verified the documents (intensifying usage)."
+      ],
+      "exceptions": [
+        "Reflexive pronouns require an expressed subject to reflect back upon: 'He introduced himself'."
+      ]
+    },
+    {
+      "rule": "Distributive Pronouns: 'EACH OTHER' is used for exactly TWO entities; 'ONE ANOTHER' is used for MORE THAN TWO.",
+      "examples": [
+        "The two sisters helped each other during the flood.",
+        "The five committee members congratulated one another on the success.",
+        "All the citizens should cooperate with one another."
+      ],
+      "exceptions": [
+        "Do not use 'each other' when referring to three or more people."
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Saying 'Between you and I' instead of 'Between you and me' (preposition takes objective case).",
+    "Writing 'I, you and he will go to the market' instead of 'You, he and I will go' (normal rule is 2-3-1).",
+    "Saying 'Myself will look into the matter' instead of 'I will look into the matter' (reflexive cannot be subject).",
+    "Writing 'He is senior than me' instead of 'He is senior to me'.",
+    "Writing 'The two brothers quarrelled with one another' instead of 'each other' (two entities take each other)."
+  ],
+  "examTricks": [
+    "The '2-3-1' Formula: Good/Normal = You (2), He (3), and I (1). Bad/Mistake = I (1), You (2), and He (3).",
+    "The 'Between' Trap: Always follow 'Between' with 'you and ME', never 'you and I'.",
+    "The 'Who vs Whom' Hack: Replace with He/Him. If 'He' fits, write WHO. If 'Him' fits, write WHOM.",
+    "The 'That' Trigger Words: All, Same, Only, None, Superlative -> ALWAYS use THAT."
+  ],
+  "memoryTricks": [
+    "Good deeds: You first, he second, I last (2-3-1).",
+    "Two people hug EACH OTHER; three or more help ONE ANOTHER."
+  ],
+  "revision": [
+    "Normal order: You, he and I (2-3-1); Confession: I, you and he (1-2-3).",
+    "He is taller than I (nominative after than).",
+    "Between you and me (objective after prepositions).",
+    "Let him and me proceed.",
+    "Who = Subject (Who wrote this?); Whom = Object (Whom did you invite?).",
+    "All, only, none, nothing, superlative -> THAT.",
+    "Each other (2 persons); One another (3+ persons).",
+    "Myself cannot be subject."
+  ]
+}

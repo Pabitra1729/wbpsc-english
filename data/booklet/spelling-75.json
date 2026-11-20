@@ -1,0 +1,527 @@
+[
+  {
+    "num": 1,
+    "term": "Accommodation",
+    "meaning": "Common Misspellings: Accomodation   •   Acommodation   •   Accomadation",
+    "bengali": "আবাসন / থাকার ব্যবস্থা",
+    "category": "Spelling"
+  },
+  {
+    "num": 2,
+    "term": "Achievement",
+    "meaning": "Common Misspellings: Acheivement   •   Achievment   •   Achivement",
+    "bengali": "কৃতিত্ব / অর্জন",
+    "category": "Spelling"
+  },
+  {
+    "num": 3,
+    "term": "Acquaintance",
+    "meaning": "Common Misspellings: Aquaintance   •   Acquaintence   •   Acqaintance",
+    "bengali": "পরিচিত ব্যক্তি",
+    "category": "Spelling"
+  },
+  {
+    "num": 4,
+    "term": "Apparent",
+    "meaning": "Common Misspellings: Apparant   •   Aparent   •   Apparrent",
+    "bengali": "ঠিকানা",
+    "category": "Spelling"
+  },
+  {
+    "num": 5,
+    "term": "Assassination",
+    "meaning": "Common Misspellings: Asassination   •   Assasination   •   Assassanation",
+    "bengali": "আক্রমণাত্মক",
+    "category": "Spelling"
+  },
+  {
+    "num": 6,
+    "term": "Bureaucracy",
+    "meaning": "Common Misspellings: Beaurocracy   •   Bureaucrasy   •   Buraucracy",
+    "bengali": "বরাদ্দকৃত",
+    "category": "Spelling"
+  },
+  {
+    "num": 7,
+    "term": "Calendar",
+    "meaning": "Common Misspellings: Calender   •   Calandar   •   Calendre",
+    "bengali": "অপেশাদার",
+    "category": "Spelling"
+  },
+  {
+    "num": 8,
+    "term": "Category",
+    "meaning": "Common Misspellings: Catagory   •   Cateogry   •   Categorey",
+    "bengali": "মূল্যায়ন",
+    "category": "Spelling"
+  },
+  {
+    "num": 9,
+    "term": "Cemetery",
+    "meaning": "Common Misspellings: Cemetary   •   Cematery   •   Cemmetery",
+    "bengali": "আমলাতন্ত্র",
+    "category": "Spelling"
+  },
+  {
+    "num": 10,
+    "term": "Changeable",
+    "meaning": "Common Misspellings: Changable   •   Changible   •   Chaingeable",
+    "bengali": "কবরস্থান",
+    "category": "Spelling"
+  },
+  {
+    "num": 11,
+    "term": "Colleague",
+    "meaning": "Common Misspellings: Collegue   •   Colleage   •   Collaegue",
+    "bengali": "সহকর্মীবৃন্দ",
+    "category": "Spelling"
+  },
+  {
+    "num": 12,
+    "term": "Commitment",
+    "meaning": "Common Misspellings: Comittment   •   Commitmant   •   Commitement",
+    "bengali": "কমিটি / সমিতি",
+    "category": "Spelling"
+  },
+  {
+    "num": 13,
+    "term": "Committee",
+    "meaning": "Common Misspellings: Comittee   •   Commitee   •   Comittie",
+    "bengali": "শিল্প সমঝদার",
+    "category": "Spelling"
+  },
+  {
+    "num": 14,
+    "term": "Competition",
+    "meaning": "Common Misspellings: Competion   •   Compitition   •   Competetion",
+    "bengali": "বিবেকবান / ন্যায়নিষ্ঠ",
+    "category": "Spelling"
+  },
+  {
+    "num": 15,
+    "term": "Conscience",
+    "meaning": "Common Misspellings: Consience   •   Conscions   •   Concience",
+    "bengali": "শৃঙ্খলা",
+    "category": "Spelling"
+  },
+  {
+    "num": 16,
+    "term": "Conscientious",
+    "meaning": "Common Misspellings: Consientious   •   Conscentious   •   Conscienscious",
+    "bengali": "বিব্রত করা",
+    "category": "Spelling"
+  },
+  {
+    "num": 17,
+    "term": "Conscious",
+    "meaning": "Common Misspellings: Concious   •   Consious   •   Concsious",
+    "bengali": "অতিরঞ্জিত করা",
+    "category": "Spelling"
+  },
+  {
+    "num": 18,
+    "term": "Criticism",
+    "meaning": "Common Misspellings: Critisism   •   Critcism   •   Criticizm",
+    "bengali": "নিশ্চয়তা / গ্যারান্টি",
+    "category": "Spelling"
+  },
+  {
+    "num": 19,
+    "term": "Curiosity",
+    "meaning": "Common Misspellings: Curiousity   •   Curiocity   •   Curosity",
+    "bengali": "হয়রানি করা",
+    "category": "Spelling"
+  },
+  {
+    "num": 20,
+    "term": "Definitely",
+    "meaning": "Common Misspellings: Definately   •   Definitly   •   Defanitely",
+    "bengali": "পদসোপান / স্তরবিন্যাস",
+    "category": "Spelling"
+  },
+  {
+    "num": 21,
+    "term": "Disappoint",
+    "meaning": "Common Misspellings: Dissappoint   •   Disapoint   •   Disappiont",
+    "bengali": "স্বাস্থ্যবিধি",
+    "category": "Spelling"
+  },
+  {
+    "num": 22,
+    "term": "Discipline",
+    "meaning": "Common Misspellings: Disipline   •   Dicipline   •   Discepline",
+    "bengali": "সামরিক পদমর্যাদা (লেফটেন্যান্ট)",
+    "category": "Spelling"
+  },
+  {
+    "num": 23,
+    "term": "Embarrass",
+    "meaning": "Common Misspellings: Embarass   •   Embarras   •   Embarrase",
+    "bengali": "রক্ষণাবেক্ষণ",
+    "category": "Spelling"
+  },
+  {
+    "num": 24,
+    "term": "Environment",
+    "meaning": "Common Misspellings: Enviroment   •   Environmant   •   Envirenment",
+    "bengali": "সহস্রাব্দ",
+    "category": "Spelling"
+  },
+  {
+    "num": 25,
+    "term": "Exaggerate",
+    "meaning": "Common Misspellings: Exagerate   •   Exagerrate   •   Exaggarate",
+    "bengali": "দুষ্টু / অনিষ্টকারী",
+    "category": "Spelling"
+  },
+  {
+    "num": 26,
+    "term": "Existence",
+    "meaning": "Common Misspellings: Existance   •   Existense   •   Exsistence",
+    "bengali": "প্রয়োজনীয়",
+    "category": "Spelling"
+  },
+  {
+    "num": 27,
+    "term": "Familiar",
+    "meaning": "Common Misspellings: Familar   •   Familier   •   Famillar",
+    "bengali": "ঘটনা",
+    "category": "Spelling"
+  },
+  {
+    "num": 28,
+    "term": "February",
+    "meaning": "Common Misspellings: Febuary   •   Feburary   •   Februery",
+    "bengali": "সমান্তরাল",
+    "category": "Spelling"
+  },
+  {
+    "num": 29,
+    "term": "Foreign",
+    "meaning": "Common Misspellings: Foriegn   •   Forein   •   Forreign",
+    "bengali": "সুযোগ-সুবিধা",
+    "category": "Spelling"
+  },
+  {
+    "num": 30,
+    "term": "Government",
+    "meaning": "Common Misspellings: Goverment   •   Govenment   •   Governmant",
+    "bengali": "প্রশ্নমালা",
+    "category": "Spelling"
+  },
+  {
+    "num": 31,
+    "term": "Grammar",
+    "meaning": "Common Misspellings: Grammer   •   Gramar   •   Grammmar",
+    "bengali": "গ্রহণ করা",
+    "category": "Spelling"
+  },
+  {
+    "num": 32,
+    "term": "Guarantee",
+    "meaning": "Common Misspellings: Gaurantee   •   Garantee   •   Guarentee",
+    "bengali": "সুপারিশ করা",
+    "category": "Spelling"
+  },
+  {
+    "num": 33,
+    "term": "Harass",
+    "meaning": "Common Misspellings: Harrass   •   Haras   •   Harrasse",
+    "bengali": "রেস্তোরাঁ",
+    "category": "Spelling"
+  },
+  {
+    "num": 34,
+    "term": "Height",
+    "meaning": "Common Misspellings: Hieght   •   Heigth   •   Hight",
+    "bengali": "পৃথক / আলাদা",
+    "category": "Spelling"
+  },
+  {
+    "num": 35,
+    "term": "Humorous",
+    "meaning": "Common Misspellings: Humourous   •   Humorus   •   Humerous",
+    "bengali": "আগামীকাল",
+    "category": "Spelling"
+  },
+  {
+    "num": 36,
+    "term": "Hygiene",
+    "meaning": "Common Misspellings: Hygeine   •   Hygine   •   Higiene",
+    "bengali": "স্বৈরাচারী শাসন",
+    "category": "Spelling"
+  },
+  {
+    "num": 37,
+    "term": "Immediately",
+    "meaning": "Common Misspellings: Imediately   •   Immediatly   •   Immidiately",
+    "bengali": "শূন্যস্থান",
+    "category": "Spelling"
+  },
+  {
+    "num": 38,
+    "term": "Independent",
+    "meaning": "Common Misspellings: Independant   •   Independint   •   Indipendent",
+    "bengali": "অদ্ভুত / অস্বাভাবিক",
+    "category": "Spelling"
+  },
+  {
+    "num": 39,
+    "term": "Intelligence",
+    "meaning": "Common Misspellings: Inteligence   •   Intelligance   •   Intellegence",
+    "bengali": "অনুপস্থিতি",
+    "category": "Spelling"
+  },
+  {
+    "num": 40,
+    "term": "Interrupt",
+    "meaning": "Common Misspellings: Interupt   •   Interrept   •   Intterupt",
+    "bengali": "অধিগ্রহণ",
+    "category": "Spelling"
+  },
+  {
+    "num": 41,
+    "term": "Jewellery",
+    "meaning": "Common Misspellings: Jewelery   •   Jwellery   •   Jewelary",
+    "bengali": "উপদেষ্টা",
+    "category": "Spelling"
+  },
+  {
+    "num": 42,
+    "term": "Knowledge",
+    "meaning": "Common Misspellings: Knowlege   •   Knowldge   •   Nowledge",
+    "bengali": "সংযোজন / সংযুক্তি",
+    "category": "Spelling"
+  },
+  {
+    "num": 43,
+    "term": "Library",
+    "meaning": "Common Misspellings: Libary   •   Liberary   •   Librery",
+    "bengali": "অনুকূল / সুবিধাজনক",
+    "category": "Spelling"
+  },
+  {
+    "num": 44,
+    "term": "Lightning",
+    "meaning": "Common Misspellings: Lightnng   •   Lightining   •   Ligtning",
+    "bengali": "অনুসরণ / আনুগত্য",
+    "category": "Spelling"
+  },
+  {
+    "num": 45,
+    "term": "Maintenance",
+    "meaning": "Common Misspellings: Maintainance   •   Maintenence   •   Maintanance",
+    "bengali": "স্বীকারোক্তি",
+    "category": "Spelling"
+  },
+  {
+    "num": 46,
+    "term": "Millennium",
+    "meaning": "Common Misspellings: Millenium   •   Milennium   •   Millenum",
+    "bengali": "উদ্বেগজনক / অপ্রীতিকর",
+    "category": "Spelling"
+  },
+  {
+    "num": 47,
+    "term": "Mischievous",
+    "meaning": "Common Misspellings: Mischievious   •   Mischevous   •   Mischeivous",
+    "bengali": "স্পষ্ট / আপাতদৃষ্ট",
+    "category": "Spelling"
+  },
+  {
+    "num": 48,
+    "term": "Necessary",
+    "meaning": "Common Misspellings: Neccessary   •   Necesary   •   Neccesary",
+    "bengali": "আবেদনময়",
+    "category": "Spelling"
+  },
+  {
+    "num": 49,
+    "term": "Neighbour",
+    "meaning": "Common Misspellings: Nieghbour   •   Neigbour   •   Nighbour",
+    "bengali": "প্রশংসনীয়",
+    "category": "Spelling"
+  },
+  {
+    "num": 50,
+    "term": "Noticeable",
+    "meaning": "Common Misspellings: Noticable   •   Noticible   •   Notiseable",
+    "bengali": "ব্যবস্থা / আয়োজন",
+    "category": "Spelling"
+  },
+  {
+    "num": 51,
+    "term": "Occasion",
+    "meaning": "Common Misspellings: Ocassion   •   Occassion   •   Ocasion",
+    "bengali": "সহায়ক",
+    "category": "Spelling"
+  },
+  {
+    "num": 52,
+    "term": "Occurrence",
+    "meaning": "Common Misspellings: Occurence   •   Ocurrence   •   Occurance",
+    "bengali": "উপস্থিতি",
+    "category": "Spelling"
+  },
+  {
+    "num": 53,
+    "term": "Opportunity",
+    "meaning": "Common Misspellings: Oportunity   •   Opportunty   •   Oppurtunity",
+    "bengali": "কর্তৃপক্ষ",
+    "category": "Spelling"
+  },
+  {
+    "num": 54,
+    "term": "Parallel",
+    "meaning": "Common Misspellings: Paralel   •   Parralel   •   Parellel",
+    "bengali": "সহায়ক / আনুষঙ্গিক",
+    "category": "Spelling"
+  },
+  {
+    "num": 55,
+    "term": "Parliament",
+    "meaning": "Common Misspellings: Parliment   •   Parlament   •   Parliamant",
+    "bengali": "উপলব্ধিযোগ্য",
+    "category": "Spelling"
+  },
+  {
+    "num": 56,
+    "term": "Perseverance",
+    "meaning": "Common Misspellings: Perseverence   •   Persaverance   •   Perserverance",
+    "bengali": "ব্যয়সংকোচন / বাজেট",
+    "category": "Spelling"
+  },
+  {
+    "num": 57,
+    "term": "Possession",
+    "meaning": "Common Misspellings: Posession   •   Possesion   •   Possesssion",
+    "bengali": "পঞ্জিকা / ক্যালেন্ডার",
+    "category": "Spelling"
+  },
+  {
+    "num": 58,
+    "term": "Prejudice",
+    "meaning": "Common Misspellings: Predjudice   •   Prejudise   •   Prejuduce",
+    "bengali": "ক্যাম্পেইন / প্রচারণা",
+    "category": "Spelling"
+  },
+  {
+    "num": 59,
+    "term": "Privilege",
+    "meaning": "Common Misspellings: Priviledge   •   Privelege   •   Privilage",
+    "bengali": "বাতিলকরণ",
+    "category": "Spelling"
+  },
+  {
+    "num": 60,
+    "term": "Pronunciation",
+    "meaning": "Common Misspellings: Pronounciation   •   Pronunciaton   •   Pronuciation",
+    "bengali": "সহনশীলতা / ক্ষমতা",
+    "category": "Spelling"
+  },
+  {
+    "num": 61,
+    "term": "Questionnaire",
+    "meaning": "Common Misspellings: Questionaire   •   Quesstionnaire   •   Questionnare",
+    "bengali": "বিভাগ / শ্রেণী",
+    "category": "Spelling"
+  },
+  {
+    "num": 62,
+    "term": "Receive",
+    "meaning": "Common Misspellings: Recieve   •   Receeve   •   Receve",
+    "bengali": "সঙ্গীতদল",
+    "category": "Spelling"
+  },
+  {
+    "num": 63,
+    "term": "Recommend",
+    "meaning": "Common Misspellings: Reccomend   •   Recomend   •   Recomment",
+    "bengali": "চক্রাকার",
+    "category": "Spelling"
+  },
+  {
+    "num": 64,
+    "term": "Reference",
+    "meaning": "Common Misspellings: Refrence   •   Referance   •   Refference",
+    "bengali": "সহবাস / সহাবস্থান",
+    "category": "Spelling"
+  },
+  {
+    "num": 65,
+    "term": "Rendezvous",
+    "meaning": "Common Misspellings: Rendezvouz   •   Rendevous   •   Rendezvus",
+    "bengali": "সম্মিলিত / সমবেত",
+    "category": "Spelling"
+  },
+  {
+    "num": 66,
+    "term": "Restaurant",
+    "meaning": "Common Misspellings: Resturant   •   Restarant   •   Restraunt",
+    "bengali": "কমিশন / প্রতিনিধি দল",
+    "category": "Spelling"
+  },
+  {
+    "num": 67,
+    "term": "Rhythm",
+    "meaning": "Common Misspellings: Rythm   •   Rhythem   •   Rhytm",
+    "bengali": "উৎসর্গীকৃত / প্রতিশ্রুতিবদ্ধ",
+    "category": "Spelling"
+  },
+  {
+    "num": 68,
+    "term": "Schedule",
+    "meaning": "Common Misspellings: Schedual   •   Shedule   •   Scedule",
+    "bengali": "তুলনাযোগ্য",
+    "category": "Spelling"
+  },
+  {
+    "num": 69,
+    "term": "Secretary",
+    "meaning": "Common Misspellings: Secratary   •   Secretery   •   Sekretary",
+    "bengali": "প্রতিযোগিতামূলক",
+    "category": "Spelling"
+  },
+  {
+    "num": 70,
+    "term": "Separate",
+    "meaning": "Common Misspellings: Seperate   •   Separete   •   Sepparate",
+    "bengali": "অভিযোগকারী",
+    "category": "Spelling"
+  },
+  {
+    "num": 71,
+    "term": "Succeed",
+    "meaning": "Common Misspellings: Succede   •   Suceed   •   Sucseed",
+    "bengali": "গঠনগত / যৌগিক",
+    "category": "Spelling"
+  },
+  {
+    "num": 72,
+    "term": "Supersede",
+    "meaning": "Common Misspellings: Supercede   •   Superceed   •   Supersead",
+    "bengali": "স্বীকারোক্তি",
+    "category": "Spelling"
+  },
+  {
+    "num": 73,
+    "term": "Tomorrow",
+    "meaning": "Common Misspellings: Tommorow   •   Tomorow   •   Tommorrow",
+    "bengali": "অভিনন্দন",
+    "category": "Spelling"
+  },
+  {
+    "num": 74,
+    "term": "Wednesday",
+    "meaning": "Common Misspellings: Wensday   •   Wedensday   •   Wenesday",
+    "bengali": "অনুকূল / উপযোগী",
+    "category": "Spelling"
+  },
+  {
+    "num": 75,
+    "term": "Weird",
+    "meaning": "Common Misspellings: Wierd   •   Weerd   •   Wierde",
+    "bengali": "অদ্ভুত / অলৌকিক",
+    "category": "Spelling"
+  }
+]

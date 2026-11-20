@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <title>WBPSC Clerkship English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/components.css">
+  <script>try{document.documentElement.dataset.theme=JSON.parse(localStorage.getItem("wbpsc-theme")||'"light"')}catch(error){document.documentElement.dataset.theme="light"}</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+  <main id="main" class="page">
+    <section class="hero card">
+      <div style="display:inline-flex; align-items:center; gap:0.5rem; margin-bottom:0.75rem; flex-wrap:wrap;">
+        <span class="badge badge-section">WBPSC CLERKSHIP 2024–2026</span>
+        <span class="badge badge-count">2,075 Practice Questions</span>
+        <span class="badge badge-weightage">Part-I &amp; Part-II Syllabus</span>
+      </div>
+      <h1>Master English for WBPSC Clerkship</h1>
+      <p>Systematic chapter notes with Bengali guidance (বাংলায় বুঝুন), high-yield rules, 2,075 exam-pattern questions, and timed mock tests.</p>
+      <div class="hero-actions">
+        <a class="btn primary" href="grammar.html">📖 Grammar (23 Chapters · 1,035 Qs)</a>
+        <a class="btn secondary" href="vocabulary.html">🔤 Vocabulary (9 Topics · 905 Qs)</a>
+        <a class="btn secondary" href="reading.html">📑 Reading &amp; Cloze (135 Qs)</a>
+        <a class="btn secondary" href="descriptive.html">✍️ Descriptive Part-II</a>
+        <a class="btn secondary" href="pyq.html">🏛️ Official PYQ Archive (2023 &amp; 2019)</a>
+        <a class="btn secondary" href="mock-tests.html">⏱️ Mock Tests</a>
+      </div>
+    </section>
+    <section class="grid dashboard-grid" aria-label="Dashboard overview">
+      <article class="card metric"><span>Practice streak</span><strong id="streak-value">0 days</strong></article>
+      <article class="card metric"><span>Accuracy</span><strong id="accuracy-value">—</strong></article>
+      <article class="card metric"><span>Questions answered</span><strong id="answered-value">0</strong></article>
+    </section>
+    <section class="card">
+      <div class="section-heading"><div><p class="eyebrow">Daily word</p><h2 id="daily-word-title">Acumen</h2></div><button class="icon-btn" data-bookmark="word-acumen" aria-label="Bookmark word">☆</button></div>
+      <p id="daily-word-meaning"><strong>Meaning:</strong> Ability to make good and quick decisions.</p>
+      <p id="daily-word-example"><strong>Example:</strong> Her financial acumen helped the team.</p>
+    </section>
+    <section class="card" id="daily-question-card"><p class="eyebrow">Daily grammar question</p><div id="dashboard-daily-question"></div></section>
+  </main>
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/analytics.js"></script>
+  <script src="js/bookmarks.js"></script>
+  <script>
+    WBPSCAnalytics.renderDashboard();
+    const wordBookmark=document.querySelector(".icon-btn[data-bookmark]");
+    if(wordBookmark){
+      wordBookmark.textContent=WBPSCBookmarks.has(wordBookmark.dataset.bookmark)?"★":"☆";
+      wordBookmark.addEventListener("click",()=>{
+       const saved=WBPSCBookmarks.toggle(wordBookmark.dataset.bookmark);
+       wordBookmark.textContent=saved?"★":"☆";
+      });
+    }
+    Promise.all([fetch("data/vocabulary-builder.json").then(r=>r.json()),fetch("data/daily-question.json").then(r=>r.json())]).then(([words,daily])=>{
+      const day=Math.floor(Date.now()/86400000)%words.length;
+      const word=words[day];
+      document.querySelector("#daily-word-title").textContent=word.word;
+      document.querySelector("#daily-word-meaning").innerHTML="<strong>Meaning:</strong> "+word.meaning + (word.bengali ? "<br><strong style=\"font-family:'Noto Sans Bengali'; color:var(--primary);\">বাংলা অর্থ:</strong> "+word.bengali : "");
+      document.querySelector("#daily-word-example").innerHTML="<strong>Example:</strong> "+word.example;
+      document.querySelector(".icon-btn[data-bookmark]").dataset.bookmark="word-"+word.id;
+      document.querySelector("#dashboard-daily-question").innerHTML=`<h2>${daily.question}</h2><div class="question-options">${daily.options.map((option,i)=>`<button class="btn secondary option" type="button" data-index="${i}">${option}</button>`).join("")}</div><p class="feedback hidden"></p>`;
+      const card=document.querySelector("#dashboard-daily-question");
+      card.querySelectorAll(".option").forEach(button=>button.addEventListener("click",()=>{
+       if(card.dataset.answered)return;card.dataset.answered="true";
+       const chosen=Number(button.dataset.index),correct=chosen===daily.answer;
+       card.querySelectorAll(".option").forEach((b,i)=>{b.disabled=true;if(i===daily.answer)b.classList.add("correct");if(i===chosen&&!correct)b.classList.add("wrong")});
+       const feedback=card.querySelector(".feedback");feedback.className=`feedback ${correct?"correct":"wrong"}`;feedback.innerHTML=`<strong>${correct?"Correct":"Not quite"}</strong><p>${daily.explanation}</p><p><strong>Rule:</strong> ${daily.rule}</p>`;
+      }));
+    }).catch(()=>{});
+  </script>
+</body>
+</html>

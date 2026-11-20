@@ -1,0 +1,1887 @@
+[
+  {
+    "term": "accused of",
+    "meaning": "accused of murder / crime",
+    "bengali": "অভিযুক্ত"
+  },
+  {
+    "term": "acquitted of",
+    "meaning": "acquitted of the charge",
+    "bengali": "অভিযোগ থেকে খালাসপ্রাপ্ত"
+  },
+  {
+    "term": "appeal against / to / for",
+    "meaning": "appeal against the verdict; appeal to the judge; appeal for help",
+    "bengali": "আবেদন করা (রায়ের বিরুদ্ধে / ব্যক্তির কাছে / সাহায্যের জন্য)"
+  },
+  {
+    "term": "arrested for",
+    "meaning": "arrested for theft",
+    "bengali": "গ্রেপ্তার হওয়া"
+  },
+  {
+    "term": "assault on / upon",
+    "meaning": "an assault on the guard",
+    "bengali": "আক্রমণ করা"
+  },
+  {
+    "term": "attack on",
+    "meaning": "an attack on the bank",
+    "bengali": "হামলা বা আক্রমণ"
+  },
+  {
+    "term": "case against",
+    "meaning": "a case against the company",
+    "bengali": "কারও বিরুদ্ধে মামলা"
+  },
+  {
+    "term": "charged with",
+    "meaning": "charged with fraud",
+    "bengali": "অভিযোগে অভিযুক্ত"
+  },
+  {
+    "term": "complaint against",
+    "meaning": "a complaint against the officer",
+    "bengali": "কারও বিরুদ্ধে অভিযোগ"
+  },
+  {
+    "term": "conspiracy against",
+    "meaning": "a conspiracy against the king",
+    "bengali": "ষড়যন্ত্র"
+  },
+  {
+    "term": "convicted of",
+    "meaning": "convicted of robbery",
+    "bengali": "দোষী সাব্যস্ত হওয়া"
+  },
+  {
+    "term": "evidence of / against",
+    "meaning": "evidence against the accused",
+    "bengali": "সাক্ষ্যপ্রমাণ"
+  },
+  {
+    "term": "fined for",
+    "meaning": "fined for speeding",
+    "bengali": "জরিমানা হওয়া"
+  },
+  {
+    "term": "guilty of",
+    "meaning": "guilty of murder",
+    "bengali": "দোষী"
+  },
+  {
+    "term": "imprisoned for",
+    "meaning": "imprisoned for life",
+    "bengali": "কারাদণ্ড প্রাপ্ত"
+  },
+  {
+    "term": "innocent of",
+    "meaning": "innocent of the crime",
+    "bengali": "নির্দোষ"
+  },
+  {
+    "term": "murder of",
+    "meaning": "the murder of the judge",
+    "bengali": "হত্যাকাণ্ড"
+  },
+  {
+    "term": "plead guilty to / for",
+    "meaning": "pleaded guilty to the charge; plead for mercy",
+    "bengali": "দোষ স্বীকার করা / দয়ার আবেদন করা"
+  },
+  {
+    "term": "plot against",
+    "meaning": "a plot against the government",
+    "bengali": "ষড়যন্ত্র করা"
+  },
+  {
+    "term": "prosecuted for",
+    "meaning": "prosecuted for corruption",
+    "bengali": "মামলা দায়ের হওয়া"
+  },
+  {
+    "term": "punishment for",
+    "meaning": "punishment for crime",
+    "bengali": "শাস্তি"
+  },
+  {
+    "term": "robbery of / at",
+    "meaning": "the robbery of the bank",
+    "bengali": "ডাকাতি"
+  },
+  {
+    "term": "sentenced to",
+    "meaning": "sentenced to death / imprisonment",
+    "bengali": "দণ্ডাদেশ দেওয়া (যেমন মৃত্যুদণ্ড)"
+  },
+  {
+    "term": "suspected of",
+    "meaning": "suspected of theft",
+    "bengali": "সন্দেহভাজন"
+  },
+  {
+    "term": "theft of",
+    "meaning": "the theft of a car",
+    "bengali": "চুরি"
+  },
+  {
+    "term": "tried for",
+    "meaning": "tried for murder",
+    "bengali": "বিচার হওয়া"
+  },
+  {
+    "term": "victim of",
+    "meaning": "a victim of fraud",
+    "bengali": "শিকার / ক্ষতিগ্রস্ত ব্যক্তি"
+  },
+  {
+    "term": "witness to",
+    "meaning": "a witness to the crime",
+    "bengali": "সাক্ষী"
+  },
+  {
+    "term": "absorbed in",
+    "meaning": "absorbed in study",
+    "bengali": "মগ্ন"
+  },
+  {
+    "term": "abundant in",
+    "meaning": "abundant in minerals",
+    "bengali": "প্রাচুর্যপূর্ণ"
+  },
+  {
+    "term": "accustomed to",
+    "meaning": "accustomed to hard work",
+    "bengali": "অভ্যস্ত"
+  },
+  {
+    "term": "acquainted with",
+    "meaning": "acquainted with the facts",
+    "bengali": "পরিচিত / অবগত"
+  },
+  {
+    "term": "addicted to",
+    "meaning": "addicted to games / drugs",
+    "bengali": "আসক্ত"
+  },
+  {
+    "term": "afraid of",
+    "meaning": "afraid of dogs",
+    "bengali": "ভীত"
+  },
+  {
+    "term": "angry with / at",
+    "meaning": "angry with him (person); angry at the delay (thing)",
+    "bengali": "রাগান্বিত (ব্যক্তির উপর with, বিষয়ের উপর at)"
+  },
+  {
+    "term": "anxious about / for",
+    "meaning": "anxious about results (worry); anxious for success (desire)",
+    "bengali": "উদ্বিগ্ন / উদগ্রীব"
+  },
+  {
+    "term": "ashamed of",
+    "meaning": "ashamed of his conduct",
+    "bengali": "লজ্জিত"
+  },
+  {
+    "term": "aware of",
+    "meaning": "aware of the danger",
+    "bengali": "সচেতন"
+  },
+  {
+    "term": "bad at",
+    "meaning": "bad at maths",
+    "bengali": "কাঁচা / অদক্ষ"
+  },
+  {
+    "term": "blind to",
+    "meaning": "blind to his faults",
+    "bengali": "দেখেও না দেখার ভান করা / অন্ধ"
+  },
+  {
+    "term": "busy with / in",
+    "meaning": "busy with work; busy in reading",
+    "bengali": "ব্যস্ত"
+  },
+  {
+    "term": "capable of",
+    "meaning": "capable of leading",
+    "bengali": "সক্ষম"
+  },
+  {
+    "term": "careful of / about",
+    "meaning": "careful of his health",
+    "bengali": "যত্নশীল"
+  },
+  {
+    "term": "certain of",
+    "meaning": "certain of success",
+    "bengali": "নিশ্চিত"
+  },
+  {
+    "term": "characteristic of",
+    "meaning": "characteristic of him",
+    "bengali": "চরিত্রসুলভ বৈশিষ্ট্য"
+  },
+  {
+    "term": "clever at",
+    "meaning": "clever at drawing",
+    "bengali": "দক্ষ / চতুর"
+  },
+  {
+    "term": "concerned with / about",
+    "meaning": "concerned about safety",
+    "bengali": "উদ্বিগ্ন / সংশ্লিষ্ট"
+  },
+  {
+    "term": "conscious of",
+    "meaning": "conscious of his guilt",
+    "bengali": "সচেতন"
+  },
+  {
+    "term": "contrary to",
+    "meaning": "contrary to expectation",
+    "bengali": "বিপরীত"
+  },
+  {
+    "term": "convenient to / for",
+    "meaning": "convenient for all",
+    "bengali": "সুবিধাজনক"
+  },
+  {
+    "term": "covetous of",
+    "meaning": "covetous of wealth",
+    "bengali": "লোভী"
+  },
+  {
+    "term": "crowded with",
+    "meaning": "crowded with tourists",
+    "bengali": "জনাকীর্ণ / পরিপূর্ণ"
+  },
+  {
+    "term": "deaf to",
+    "meaning": "deaf to all appeals",
+    "bengali": "কর্ণপাত না করা"
+  },
+  {
+    "term": "dear to",
+    "meaning": "dear to everyone",
+    "bengali": "প্রিয়"
+  },
+  {
+    "term": "deficient in",
+    "meaning": "deficient in vitamins",
+    "bengali": "ঘাটতিযুক্ত"
+  },
+  {
+    "term": "delighted at / with",
+    "meaning": "delighted with the gift",
+    "bengali": "আনন্দিত"
+  },
+  {
+    "term": "dependent on",
+    "meaning": "dependent on parents",
+    "bengali": "নির্ভরশীল"
+  },
+  {
+    "term": "deprived of",
+    "meaning": "deprived of his rights",
+    "bengali": "বঞ্চিত"
+  },
+  {
+    "term": "desirous of",
+    "meaning": "desirous of fame",
+    "bengali": "ইচ্ছুক"
+  },
+  {
+    "term": "destitute of",
+    "meaning": "destitute of hope",
+    "bengali": "নিঃস্ব"
+  },
+  {
+    "term": "devoid of",
+    "meaning": "devoid of feeling",
+    "bengali": "বর্জিত / শূন্য"
+  },
+  {
+    "term": "different from",
+    "meaning": "different from others",
+    "bengali": "ভিন্ন / পৃথক"
+  },
+  {
+    "term": "disappointed with / at",
+    "meaning": "disappointed with the result",
+    "bengali": "হতাশ"
+  },
+  {
+    "term": "disgusted with / at",
+    "meaning": "disgusted with his rudeness",
+    "bengali": "বিরক্ত"
+  },
+  {
+    "term": "dissatisfied with",
+    "meaning": "dissatisfied with the service",
+    "bengali": "অসন্তুষ্ট"
+  },
+  {
+    "term": "distinct from",
+    "meaning": "distinct from the rest",
+    "bengali": "স্বতন্ত্র"
+  },
+  {
+    "term": "doubtful of / about",
+    "meaning": "doubtful of success",
+    "bengali": "সন্দিগ্ধ"
+  },
+  {
+    "term": "eager for",
+    "meaning": "eager for knowledge",
+    "bengali": "আগ্রহী"
+  },
+  {
+    "term": "envious of",
+    "meaning": "envious of his success",
+    "bengali": "ঈর্ষান্বিত"
+  },
+  {
+    "term": "equal to",
+    "meaning": "equal to the task",
+    "bengali": "সমকক্ষ"
+  },
+  {
+    "term": "essential to / for",
+    "meaning": "essential for health",
+    "bengali": "অপরিহার্য"
+  },
+  {
+    "term": "exempt from",
+    "meaning": "exempt from tax",
+    "bengali": "রেহাইপ্রাপ্ত / মুক্ত"
+  },
+  {
+    "term": "expert in / at",
+    "meaning": "expert in chess / drawing",
+    "bengali": "দক্ষ"
+  },
+  {
+    "term": "faithful to",
+    "meaning": "faithful to his master",
+    "bengali": "বিশ্বস্ত"
+  },
+  {
+    "term": "familiar with / to",
+    "meaning": "familiar with the rules (thing); familiar to me (person)",
+    "bengali": "পরিচিত"
+  },
+  {
+    "term": "famous for",
+    "meaning": "famous for its temples",
+    "bengali": "বিখ্যাত"
+  },
+  {
+    "term": "fit for",
+    "meaning": "fit for the job",
+    "bengali": "উপযুক্ত"
+  },
+  {
+    "term": "fond of",
+    "meaning": "fond of music",
+    "bengali": "অনুরাগী / ভক্ত"
+  },
+  {
+    "term": "free from",
+    "meaning": "free from care",
+    "bengali": "মুক্ত"
+  },
+  {
+    "term": "friendly to / with",
+    "meaning": "friendly with everyone",
+    "bengali": "বন্ধুত্বপূর্ণ"
+  },
+  {
+    "term": "full of",
+    "meaning": "full of joy",
+    "bengali": "পরিপূর্ণ"
+  },
+  {
+    "term": "furious with / at",
+    "meaning": "furious with him (person); furious at his delay",
+    "bengali": "ক্ষিপ্ত"
+  },
+  {
+    "term": "good at / for / to",
+    "meaning": "good at sums (skill); good for health; good to others (kind)",
+    "bengali": "দক্ষ / উপকারী / সদয়"
+  },
+  {
+    "term": "grateful to / for",
+    "meaning": "grateful to you (person) for your help (thing)",
+    "bengali": "কৃতজ্ঞ"
+  },
+  {
+    "term": "guilty of",
+    "meaning": "guilty of theft",
+    "bengali": "দোষী"
+  },
+  {
+    "term": "harmful to",
+    "meaning": "harmful to health",
+    "bengali": "ক্ষতিকর"
+  },
+  {
+    "term": "hopeful of",
+    "meaning": "hopeful of success",
+    "bengali": "আশাবাদী"
+  },
+  {
+    "term": "hostile to",
+    "meaning": "hostile to strangers",
+    "bengali": "শত্রুভাবাপন্ন"
+  },
+  {
+    "term": "identical with",
+    "meaning": "identical with mine",
+    "bengali": "অভিন্ন"
+  },
+  {
+    "term": "ignorant of",
+    "meaning": "ignorant of the law",
+    "bengali": "অজ্ঞ"
+  },
+  {
+    "term": "immune to / from",
+    "meaning": "immune to disease",
+    "bengali": "প্রতিরোধক্ষম"
+  },
+  {
+    "term": "impatient of / with",
+    "meaning": "impatient of delay",
+    "bengali": "অধৈর্য"
+  },
+  {
+    "term": "incapable of",
+    "meaning": "incapable of lying",
+    "bengali": "অক্ষম"
+  },
+  {
+    "term": "indebted to",
+    "meaning": "indebted to him",
+    "bengali": "ঋণী"
+  },
+  {
+    "term": "independent of",
+    "meaning": "independent of help",
+    "bengali": "স্বাধীন / নিরপেক্ষ"
+  },
+  {
+    "term": "indifferent to",
+    "meaning": "indifferent to praise",
+    "bengali": "উদাসীন"
+  },
+  {
+    "term": "indignant at / with",
+    "meaning": "indignant at the insult",
+    "bengali": "ক্ষুব্ধ"
+  },
+  {
+    "term": "inferior to",
+    "meaning": "inferior to others",
+    "bengali": "নিকৃষ্টতর"
+  },
+  {
+    "term": "intent on",
+    "meaning": "intent on winning",
+    "bengali": "দৃঢ়সংকল্পবদ্ধ"
+  },
+  {
+    "term": "interested in",
+    "meaning": "interested in music",
+    "bengali": "আগ্রহী"
+  },
+  {
+    "term": "jealous of",
+    "meaning": "jealous of his friend",
+    "bengali": "ঈর্ষান্বিত"
+  },
+  {
+    "term": "keen on / at",
+    "meaning": "keen on sports",
+    "bengali": "উৎসাহী"
+  },
+  {
+    "term": "kind to",
+    "meaning": "kind to animals",
+    "bengali": "দয়ালু"
+  },
+  {
+    "term": "known to / for / as",
+    "meaning": "known to me (person); known for honesty; known as a poet",
+    "bengali": "পরিচিত / খ্যাত"
+  },
+  {
+    "term": "lacking in",
+    "meaning": "lacking in courage",
+    "bengali": "ঘাটতিযুক্ত"
+  },
+  {
+    "term": "liable to / for",
+    "meaning": "liable to error; liable for damages",
+    "bengali": "দায়ী / প্রবণ"
+  },
+  {
+    "term": "loyal to",
+    "meaning": "loyal to the country",
+    "bengali": "আনুগত্যশীল"
+  },
+  {
+    "term": "made of / from",
+    "meaning": "made of wood (material unchanged); made from grapes (processed)",
+    "bengali": "নির্মিত"
+  },
+  {
+    "term": "married to",
+    "meaning": "married to a doctor",
+    "bengali": "বিবাহিত"
+  },
+  {
+    "term": "mindful of",
+    "meaning": "mindful of his duty",
+    "bengali": "সচেতন / মনোযোগী"
+  },
+  {
+    "term": "necessary for",
+    "meaning": "necessary for life",
+    "bengali": "প্রয়োজনীয়"
+  },
+  {
+    "term": "negligent of / in",
+    "meaning": "negligent of his duty",
+    "bengali": "উদাসীন / অবহেলাকারী"
+  },
+  {
+    "term": "noted for",
+    "meaning": "noted for kindness",
+    "bengali": "খ্যাত"
+  },
+  {
+    "term": "obedient to",
+    "meaning": "obedient to his parents",
+    "bengali": "বাধ্য"
+  },
+  {
+    "term": "obliged to",
+    "meaning": "obliged to you",
+    "bengali": "বাধিত / কৃতজ্ঞ"
+  },
+  {
+    "term": "opposed to",
+    "meaning": "opposed to the plan",
+    "bengali": "বিরোধী"
+  },
+  {
+    "term": "partial to",
+    "meaning": "partial to sweets",
+    "bengali": "পক্ষপাতী"
+  },
+  {
+    "term": "peculiar to",
+    "meaning": "peculiar to him",
+    "bengali": "স্বভাবসিদ্ধ / অদ্ভুত"
+  },
+  {
+    "term": "polite to",
+    "meaning": "polite to elders",
+    "bengali": "ভদ্র / বিনয়ী"
+  },
+  {
+    "term": "popular with / among",
+    "meaning": "popular with students",
+    "bengali": "জনপ্রিয়"
+  },
+  {
+    "term": "proficient in",
+    "meaning": "proficient in English",
+    "bengali": "দক্ষ"
+  },
+  {
+    "term": "proud of",
+    "meaning": "proud of his son",
+    "bengali": "গর্বিত"
+  },
+  {
+    "term": "qualified for",
+    "meaning": "qualified for the post",
+    "bengali": "যোগ্য"
+  },
+  {
+    "term": "quick at / in",
+    "meaning": "quick at learning",
+    "bengali": "চটপটে"
+  },
+  {
+    "term": "ready for",
+    "meaning": "ready for the exam",
+    "bengali": "প্রস্তুত"
+  },
+  {
+    "term": "related to",
+    "meaning": "related to the owner",
+    "bengali": "সম্পর্কিত"
+  },
+  {
+    "term": "relevant to",
+    "meaning": "relevant to the topic",
+    "bengali": "প্রাসঙ্গিক"
+  },
+  {
+    "term": "remarkable for",
+    "meaning": "remarkable for courage",
+    "bengali": "উল্লেখযোগ্য"
+  },
+  {
+    "term": "renowned for",
+    "meaning": "renowned for wisdom",
+    "bengali": "সুখ্যাত"
+  },
+  {
+    "term": "responsible for / to",
+    "meaning": "responsible for the loss (thing); responsible to the manager (person)",
+    "bengali": "দায়ী"
+  },
+  {
+    "term": "satisfied with",
+    "meaning": "satisfied with the result",
+    "bengali": "সন্তুষ্ট"
+  },
+  {
+    "term": "scared of",
+    "meaning": "scared of ghosts",
+    "bengali": "ভীত"
+  },
+  {
+    "term": "senior to",
+    "meaning": "senior to me",
+    "bengali": "জ্যেষ্ঠ"
+  },
+  {
+    "term": "short of",
+    "meaning": "short of money",
+    "bengali": "ঘাটতি"
+  },
+  {
+    "term": "sick of",
+    "meaning": "sick of excuses",
+    "bengali": "বিরক্ত"
+  },
+  {
+    "term": "similar to",
+    "meaning": "similar to yours",
+    "bengali": "সদৃশ"
+  },
+  {
+    "term": "skilful in / at",
+    "meaning": "skilful in carpentry",
+    "bengali": "দক্ষ"
+  },
+  {
+    "term": "slow in / at",
+    "meaning": "slow at learning",
+    "bengali": "ধীরগতির"
+  },
+  {
+    "term": "sorry for / about",
+    "meaning": "sorry for his loss",
+    "bengali": "দুঃখিত"
+  },
+  {
+    "term": "subject to",
+    "meaning": "subject to change",
+    "bengali": "অধীন / সাপেক্ষ"
+  },
+  {
+    "term": "successful in",
+    "meaning": "successful in the exam",
+    "bengali": "সফল"
+  },
+  {
+    "term": "suitable for / to",
+    "meaning": "suitable for the job",
+    "bengali": "উপযুক্ত"
+  },
+  {
+    "term": "superior to",
+    "meaning": "superior to others",
+    "bengali": "উৎকৃষ্টতর"
+  },
+  {
+    "term": "sure of",
+    "meaning": "sure of success",
+    "bengali": "নিশ্চিত"
+  },
+  {
+    "term": "surprised at",
+    "meaning": "surprised at the news",
+    "bengali": "বিস্মিত"
+  },
+  {
+    "term": "suspicious of",
+    "meaning": "suspicious of strangers",
+    "bengali": "সন্দিগ্ধ"
+  },
+  {
+    "term": "sympathetic to / towards",
+    "meaning": "sympathetic to the poor",
+    "bengali": "সহানুভূতিশীল"
+  },
+  {
+    "term": "tired of",
+    "meaning": "tired of waiting",
+    "bengali": "ক্লান্ত / বিরক্ত"
+  },
+  {
+    "term": "true to",
+    "meaning": "true to his word",
+    "bengali": "অটল / বিশ্বস্ত"
+  },
+  {
+    "term": "typical of",
+    "meaning": "typical of him",
+    "bengali": "বৈশিষ্ট্যপূর্ণ"
+  },
+  {
+    "term": "unaware of",
+    "meaning": "unaware of the danger",
+    "bengali": "অজ্ঞাত"
+  },
+  {
+    "term": "used to",
+    "meaning": "used to hard work",
+    "bengali": "অভ্যস্ত"
+  },
+  {
+    "term": "useful for / to",
+    "meaning": "useful for students",
+    "bengali": "উপকারী"
+  },
+  {
+    "term": "vain of",
+    "meaning": "vain of his looks",
+    "bengali": "অহংকারী"
+  },
+  {
+    "term": "versed in",
+    "meaning": "well versed in law",
+    "bengali": "পণ্ডিত / অভিজ্ঞ"
+  },
+  {
+    "term": "weak in / at",
+    "meaning": "weak in English",
+    "bengali": "দুর্বল / কাঁচা"
+  },
+  {
+    "term": "worthy of",
+    "meaning": "worthy of praise",
+    "bengali": "যোগ্য"
+  },
+  {
+    "term": "abstain from",
+    "meaning": "abstain from smoking",
+    "bengali": "বিরত থাকা"
+  },
+  {
+    "term": "adhere to",
+    "meaning": "adhere to the rules",
+    "bengali": "মেনে চলা / লেগে থাকা"
+  },
+  {
+    "term": "agree to / with / on",
+    "meaning": "agree to the plan; agree with him; agree on the price",
+    "bengali": "সম্মত হওয়া (প্রস্তাবে to, ব্যক্তির সাথে with, বিষয়ে on)"
+  },
+  {
+    "term": "aim at",
+    "meaning": "aim at the target",
+    "bengali": "লক্ষ্য স্থির করা"
+  },
+  {
+    "term": "allude to",
+    "meaning": "allude to the incident",
+    "bengali": "ইঙ্গিত করা"
+  },
+  {
+    "term": "apologise to / for",
+    "meaning": "apologise to her for the delay",
+    "bengali": "ক্ষমা চাওয়া"
+  },
+  {
+    "term": "apply to / for",
+    "meaning": "apply to the principal for leave",
+    "bengali": "আবেদন করা"
+  },
+  {
+    "term": "approve of",
+    "meaning": "approve of the plan",
+    "bengali": "অনুমোদন করা"
+  },
+  {
+    "term": "argue with / about",
+    "meaning": "argue with him about money",
+    "bengali": "তর্ক করা"
+  },
+  {
+    "term": "arrive at / in",
+    "meaning": "arrive at the station (small); arrive in Delhi (city)",
+    "bengali": "পৌঁছানো"
+  },
+  {
+    "term": "ask for",
+    "meaning": "ask for help",
+    "bengali": "চাওয়া"
+  },
+  {
+    "term": "attend to",
+    "meaning": "attend to the customer / business",
+    "bengali": "মনোযোগ দেওয়া / দেখাশোনা করা"
+  },
+  {
+    "term": "attribute to",
+    "meaning": "attribute success to hard work",
+    "bengali": "গুণ বা কারণ হিসেবে আরোপ করা"
+  },
+  {
+    "term": "beg for",
+    "meaning": "beg for food",
+    "bengali": "ভিক্ষা চাওয়া"
+  },
+  {
+    "term": "believe in",
+    "meaning": "believe in God / hard work",
+    "bengali": "বিশ্বাস রাখা"
+  },
+  {
+    "term": "belong to",
+    "meaning": "belong to the club",
+    "bengali": "অধীনস্থ বা সদস্য হওয়া"
+  },
+  {
+    "term": "benefit from",
+    "meaning": "benefit from the scheme",
+    "bengali": "উপকৃত হওয়া"
+  },
+  {
+    "term": "blame for",
+    "meaning": "blame him for the loss",
+    "bengali": "দোষারোপ করা"
+  },
+  {
+    "term": "boast of / about",
+    "meaning": "boast of his wealth",
+    "bengali": "দম্ভ করা"
+  },
+  {
+    "term": "borrow from",
+    "meaning": "borrow a book from him",
+    "bengali": "ধার নেওয়া"
+  },
+  {
+    "term": "call at / on",
+    "meaning": "call at his house (place); call on the doctor (person)",
+    "bengali": "দেখা করা বা যাওয়া"
+  },
+  {
+    "term": "care for / about",
+    "meaning": "care for tea (like); care about others (concern)",
+    "bengali": "পছন্দ করা / যত্ন নেওয়া"
+  },
+  {
+    "term": "cheat of / out of",
+    "meaning": "cheat him of his money",
+    "bengali": "প্রতারণা করে নেওয়া"
+  },
+  {
+    "term": "comment on",
+    "meaning": "comment on the report",
+    "bengali": "মন্তব্য করা"
+  },
+  {
+    "term": "compare to / with",
+    "meaning": "compare life to a dream (dissimilar); compare Kolkata with Delhi (similar)",
+    "bengali": "তুলনা করা"
+  },
+  {
+    "term": "compensate for",
+    "meaning": "compensate for the loss",
+    "bengali": "ক্ষতিপূরণ দেওয়া"
+  },
+  {
+    "term": "complain of / about / to",
+    "meaning": "complain of pain; complain about noise; complain to the police",
+    "bengali": "অভিযোগ করা"
+  },
+  {
+    "term": "comply with",
+    "meaning": "comply with the rules",
+    "bengali": "মেনে চলা"
+  },
+  {
+    "term": "concentrate on",
+    "meaning": "concentrate on studies",
+    "bengali": "মনোযোগ দেওয়া"
+  },
+  {
+    "term": "confess to",
+    "meaning": "confess to the crime",
+    "bengali": "দোষ স্বীকার করা"
+  },
+  {
+    "term": "confide in",
+    "meaning": "confide in a friend",
+    "bengali": "গোপন কথা বিশ্বাস করে বলা"
+  },
+  {
+    "term": "congratulate on",
+    "meaning": "congratulate him on his success",
+    "bengali": "অভিনন্দন জানানো"
+  },
+  {
+    "term": "consent to",
+    "meaning": "consent to the proposal",
+    "bengali": "সম্মতি দেওয়া"
+  },
+  {
+    "term": "consist of / in",
+    "meaning": "consist of five members (parts); consist in virtue (nature)",
+    "bengali": "গঠিত হওয়া / নিহিত থাকা"
+  },
+  {
+    "term": "contribute to",
+    "meaning": "contribute to charity",
+    "bengali": "দান বা অবদান রাখা"
+  },
+  {
+    "term": "convert to / into",
+    "meaning": "convert into cash",
+    "bengali": "রূপান্তরিত করা"
+  },
+  {
+    "term": "convince of",
+    "meaning": "convince him of the truth",
+    "bengali": "বিশ্বাস করানো"
+  },
+  {
+    "term": "cope with",
+    "meaning": "cope with stress",
+    "bengali": "মানিয়ে চলা (কখনও cope up with নয়)"
+  },
+  {
+    "term": "correspond to / with",
+    "meaning": "correspond with a friend (write); correspond to facts (match)",
+    "bengali": "চিঠি আদান-প্রদান করা / মিলে যাওয়া"
+  },
+  {
+    "term": "count on / upon",
+    "meaning": "count on his help",
+    "bengali": "ভরসা করা"
+  },
+  {
+    "term": "cure of",
+    "meaning": "cure him of the disease",
+    "bengali": "রোগমুক্ত করা"
+  },
+  {
+    "term": "deal in / with",
+    "meaning": "deal in cloth (trade); deal with the problem (manage)",
+    "bengali": "ব্যবসা করা (in) / আচরণ বা সমাধান করা (with)"
+  },
+  {
+    "term": "decide on / upon",
+    "meaning": "decide on a date",
+    "bengali": "সিদ্ধান্ত নেওয়া"
+  },
+  {
+    "term": "depend on / upon",
+    "meaning": "depend on your efforts",
+    "bengali": "নির্ভর করা"
+  },
+  {
+    "term": "derive from",
+    "meaning": "derive pleasure from music",
+    "bengali": "উৎস থেকে লাভ করা"
+  },
+  {
+    "term": "die of / from / for",
+    "meaning": "die of cholera (disease); die from injury; die for the country (noble cause)",
+    "bengali": "মারা যাওয়া (রোগে of, কারণে from, আত্মত্যাগে for)"
+  },
+  {
+    "term": "differ from / with",
+    "meaning": "differ from others (unlike); differ with him (disagree)",
+    "bengali": "ভিন্ন হওয়া / মতপার্থক্য হওয়া"
+  },
+  {
+    "term": "discourage from",
+    "meaning": "discourage him from going",
+    "bengali": "নিরুৎসাহিত করা"
+  },
+  {
+    "term": "dispose of",
+    "meaning": "dispose of the waste",
+    "bengali": "ফেলে দেওয়া / নিষ্পত্তি করা (single 'f')"
+  },
+  {
+    "term": "dissuade from",
+    "meaning": "dissuade him from leaving",
+    "bengali": "পরামর্শ দিয়ে বিরত রাখা"
+  },
+  {
+    "term": "distinguish between / from",
+    "meaning": "distinguish right from wrong",
+    "bengali": "পার্থক্য করা"
+  },
+  {
+    "term": "divide between / among / into",
+    "meaning": "divide between two; divide among three or more",
+    "bengali": "ভাগ করা"
+  },
+  {
+    "term": "dwell on / in",
+    "meaning": "dwell on the past (think); dwell in a hut (live)",
+    "bengali": "ভেবে সময় নষ্ট করা / বাস করা"
+  },
+  {
+    "term": "engage in",
+    "meaning": "engage in trade",
+    "bengali": "লিপ্ত থাকা"
+  },
+  {
+    "term": "escape from",
+    "meaning": "escape from prison",
+    "bengali": "পালিয়ে যাওয়া"
+  },
+  {
+    "term": "excel in / at",
+    "meaning": "excel in sports",
+    "bengali": "অসাধারণ দক্ষতা দেখানো"
+  },
+  {
+    "term": "exchange for / with",
+    "meaning": "exchange it for a new one",
+    "bengali": "বিনিময় করা"
+  },
+  {
+    "term": "explain to",
+    "meaning": "explain the rule to him",
+    "bengali": "ব্যাখ্যা করা"
+  },
+  {
+    "term": "fail in / to",
+    "meaning": "fail in maths; fail to understand",
+    "bengali": "ব্যর্থ হওয়া"
+  },
+  {
+    "term": "feed on / with",
+    "meaning": "cows feed on grass",
+    "bengali": "খেয়ে বেঁচে থাকা"
+  },
+  {
+    "term": "fight with / against / for",
+    "meaning": "fight for freedom; fight against injustice",
+    "bengali": "লড়াই করা"
+  },
+  {
+    "term": "forgive for",
+    "meaning": "forgive him for his mistake",
+    "bengali": "ক্ষমা করা"
+  },
+  {
+    "term": "guard against",
+    "meaning": "guard against danger",
+    "bengali": "সতর্ক থাকা"
+  },
+  {
+    "term": "hear of / from",
+    "meaning": "hear of his death (news); hear from him (letter)",
+    "bengali": "খবর পাওয়া"
+  },
+  {
+    "term": "hint at",
+    "meaning": "hint at a problem",
+    "bengali": "ইঙ্গিত করা"
+  },
+  {
+    "term": "hope for",
+    "meaning": "hope for the best",
+    "bengali": "আশা করা"
+  },
+  {
+    "term": "hunt for",
+    "meaning": "hunt for a job",
+    "bengali": "অনুসন্ধান করা"
+  },
+  {
+    "term": "impose on / upon",
+    "meaning": "impose a fine on him",
+    "bengali": "ধার্য করা"
+  },
+  {
+    "term": "indulge in",
+    "meaning": "indulge in gossip",
+    "bengali": "প্রশ্রয় দেওয়া / লিপ্ত হওয়া"
+  },
+  {
+    "term": "inform of / about",
+    "meaning": "inform him of the result",
+    "bengali": "জানানো"
+  },
+  {
+    "term": "insist on / upon",
+    "meaning": "insist on payment",
+    "bengali": "জেদ করা"
+  },
+  {
+    "term": "insure against",
+    "meaning": "insure against fire",
+    "bengali": "বীমা করা"
+  },
+  {
+    "term": "interfere in / with",
+    "meaning": "interfere in his affairs",
+    "bengali": "হস্তক্ষেপ করা"
+  },
+  {
+    "term": "intrude on / upon",
+    "meaning": "intrude on his privacy",
+    "bengali": "অনধিকার প্রবেশ করা"
+  },
+  {
+    "term": "invest in",
+    "meaning": "invest in shares",
+    "bengali": "বিনিয়োগ করা"
+  },
+  {
+    "term": "invite to",
+    "meaning": "invite him to dinner",
+    "bengali": "আমন্ত্রণ জানানো"
+  },
+  {
+    "term": "involve in",
+    "meaning": "involved in a scandal",
+    "bengali": "জড়িত থাকা"
+  },
+  {
+    "term": "jeer at",
+    "meaning": "jeer at the beggar",
+    "bengali": "উপহাস করা"
+  },
+  {
+    "term": "knock at / on",
+    "meaning": "knock at the door",
+    "bengali": "টোকা দেওয়া"
+  },
+  {
+    "term": "laugh at",
+    "meaning": "laugh at his mistakes",
+    "bengali": "উপহাস করা"
+  },
+  {
+    "term": "lean on / against",
+    "meaning": "lean on the wall",
+    "bengali": "হেলান দেওয়া"
+  },
+  {
+    "term": "listen to",
+    "meaning": "listen to the teacher",
+    "bengali": "মনোযোগ দিয়ে শোনা"
+  },
+  {
+    "term": "live on / in / at",
+    "meaning": "live on rice (food); live in Kolkata (city)",
+    "bengali": "খেয়ে বেঁচে থাকা / বাস করা"
+  },
+  {
+    "term": "long for",
+    "meaning": "long for freedom",
+    "bengali": "তীব্র আকাঙ্ক্ষা করা"
+  },
+  {
+    "term": "look at / for / after / into",
+    "meaning": "look at (see); look for (search); look after (care); look into (investigate)",
+    "bengali": "তাকানো / খোঁজা / যত্ন নেওয়া / তদন্ত করা"
+  },
+  {
+    "term": "meddle in / with",
+    "meaning": "meddle in his affairs",
+    "bengali": "নাক গলানো"
+  },
+  {
+    "term": "mix with",
+    "meaning": "mix water with milk",
+    "bengali": "মিশ্রিত করা"
+  },
+  {
+    "term": "mourn for / over",
+    "meaning": "mourn for the dead",
+    "bengali": "শোক করা"
+  },
+  {
+    "term": "object to",
+    "meaning": "object to the proposal",
+    "bengali": "আপত্তি করা"
+  },
+  {
+    "term": "occur to",
+    "meaning": "an idea occurred to me",
+    "bengali": "মনে উদয় হওয়া"
+  },
+  {
+    "term": "operate on",
+    "meaning": "operate on the patient",
+    "bengali": "অস্ত্রোপচার করা"
+  },
+  {
+    "term": "participate in",
+    "meaning": "participate in the debate",
+    "bengali": "অংশগ্রহণ করা"
+  },
+  {
+    "term": "pay for / to",
+    "meaning": "pay for the goods",
+    "bengali": "মূল্য পরিশোধ করা"
+  },
+  {
+    "term": "persist in",
+    "meaning": "persist in his efforts",
+    "bengali": "অধ্যবসায়ের সাথে চালিয়ে যাওয়া"
+  },
+  {
+    "term": "plead with / for",
+    "meaning": "plead for mercy",
+    "bengali": "অনুনয় করা"
+  },
+  {
+    "term": "pray to / for",
+    "meaning": "pray to God for help",
+    "bengali": "প্রার্থনা করা"
+  },
+  {
+    "term": "prefer X to Y",
+    "meaning": "prefer tea to coffee",
+    "bengali": "অধিকতর পছন্দ করা (than নয়)"
+  },
+  {
+    "term": "prevent from",
+    "meaning": "prevent him from going",
+    "bengali": "বাধা দেওয়া / বিরত রাখা"
+  },
+  {
+    "term": "prohibit from",
+    "meaning": "prohibit him from entering",
+    "bengali": "নিষিদ্ধ করা"
+  },
+  {
+    "term": "protect from / against",
+    "meaning": "protect from the sun",
+    "bengali": "রক্ষা করা"
+  },
+  {
+    "term": "provide with / for",
+    "meaning": "provide him with food",
+    "bengali": "সরবরাহ করা"
+  },
+  {
+    "term": "punish for",
+    "meaning": "punish him for lying",
+    "bengali": "শাস্তি দেওয়া"
+  },
+  {
+    "term": "quarrel with / over / about",
+    "meaning": "quarrel with him over money",
+    "bengali": "ঝগড়া করা"
+  },
+  {
+    "term": "recover from",
+    "meaning": "recover from illness",
+    "bengali": "সুস্থ হয়ে ওঠা"
+  },
+  {
+    "term": "refer to",
+    "meaning": "refer to the dictionary",
+    "bengali": "উল্লেখ বা পরামর্শ করা"
+  },
+  {
+    "term": "refrain from",
+    "meaning": "refrain from smoking",
+    "bengali": "বিরত থাকা"
+  },
+  {
+    "term": "rejoice at / in",
+    "meaning": "rejoice at the news",
+    "bengali": "আনন্দ প্রকাশ করা"
+  },
+  {
+    "term": "rely on / upon",
+    "meaning": "rely on your friends",
+    "bengali": "ভরসা করা"
+  },
+  {
+    "term": "remind of / about",
+    "meaning": "remind him of his promise",
+    "bengali": "স্মরণ করিয়ে দেওয়া"
+  },
+  {
+    "term": "reply to",
+    "meaning": "reply to a letter",
+    "bengali": "উত্তর দেওয়া"
+  },
+  {
+    "term": "resort to",
+    "meaning": "resort to force",
+    "bengali": "আশ্রয় নেওয়া"
+  },
+  {
+    "term": "respond to",
+    "meaning": "respond to the call",
+    "bengali": "সাড়া দেওয়া"
+  },
+  {
+    "term": "result in / from",
+    "meaning": "result in failure (cause); result from carelessness (origin)",
+    "bengali": "পরিণতি হওয়া"
+  },
+  {
+    "term": "retire from",
+    "meaning": "retire from service",
+    "bengali": "অবসর নেওয়া"
+  },
+  {
+    "term": "rid of",
+    "meaning": "rid the house of rats",
+    "bengali": "মুক্ত হওয়া"
+  },
+  {
+    "term": "rob of",
+    "meaning": "rob him of his purse",
+    "bengali": "ছিনতাই বা ডাকাতি করা"
+  },
+  {
+    "term": "search for",
+    "meaning": "search for the key",
+    "bengali": "খোঁজা"
+  },
+  {
+    "term": "see to",
+    "meaning": "see to the arrangements",
+    "bengali": "ব্যবস্থা করা"
+  },
+  {
+    "term": "send for",
+    "meaning": "send for the doctor",
+    "bengali": "ডেকে পাঠানো"
+  },
+  {
+    "term": "shout at / to",
+    "meaning": "shout at the boy (angrily); shout to him (call from distance)",
+    "bengali": "চিৎকার করা"
+  },
+  {
+    "term": "smile at",
+    "meaning": "smile at her",
+    "bengali": "মুচকি হাসা"
+  },
+  {
+    "term": "speak to / with / of",
+    "meaning": "speak to the manager",
+    "bengali": "কথা বলা"
+  },
+  {
+    "term": "stare at",
+    "meaning": "stare at the stranger",
+    "bengali": "একদৃষ্টে তাকিয়ে থাকা"
+  },
+  {
+    "term": "stick to",
+    "meaning": "stick to the plan",
+    "bengali": "লেগে থাকা"
+  },
+  {
+    "term": "subscribe to",
+    "meaning": "subscribe to a magazine",
+    "bengali": "গ্রাহক হওয়া"
+  },
+  {
+    "term": "succeed in / to",
+    "meaning": "succeed in the exam (achieve); succeed to the throne (inherit)",
+    "bengali": "সফল হওয়া / সিংহাসনে বসা"
+  },
+  {
+    "term": "suffer from",
+    "meaning": "suffer from fever",
+    "bengali": "ভোগা"
+  },
+  {
+    "term": "suspect of",
+    "meaning": "suspect him of theft",
+    "bengali": "সন্দেহ করা"
+  },
+  {
+    "term": "sympathise with",
+    "meaning": "sympathise with the poor",
+    "bengali": "সহানুভূতি দেখানো"
+  },
+  {
+    "term": "take after / care of",
+    "meaning": "take after his father (resemble); take care of health",
+    "bengali": "সদৃশ হওয়া / যত্ন নেওয়া"
+  },
+  {
+    "term": "talk to / with / about",
+    "meaning": "talk to the teacher",
+    "bengali": "কথা বলা"
+  },
+  {
+    "term": "think of / about",
+    "meaning": "think of a plan",
+    "bengali": "ভাবা / চিন্তা করা"
+  },
+  {
+    "term": "threaten with",
+    "meaning": "threaten him with dismissal",
+    "bengali": "হুমকি দেওয়া"
+  },
+  {
+    "term": "throw at / to",
+    "meaning": "throw a stone at the dog (to hurt); throw the ball to him (to catch)",
+    "bengali": "নিক্ষেপ করা"
+  },
+  {
+    "term": "translate into / from",
+    "meaning": "translate into Bengali",
+    "bengali": "অনুবাদ করা"
+  },
+  {
+    "term": "trust in / to",
+    "meaning": "trust in God",
+    "bengali": "বিশ্বাস বা ভরসা রাখা"
+  },
+  {
+    "term": "turn to / into / down",
+    "meaning": "turn down the offer (reject)",
+    "bengali": "প্রত্যাখ্যান করা / ঘুরে দাঁড়ানো"
+  },
+  {
+    "term": "wait for / on",
+    "meaning": "wait for the bus; wait on a customer (serve)",
+    "bengali": "অপেক্ষা করা / সেবা দেওয়া"
+  },
+  {
+    "term": "warn of / against",
+    "meaning": "warn him against danger",
+    "bengali": "সতর্ক করা"
+  },
+  {
+    "term": "wish for",
+    "meaning": "wish for peace",
+    "bengali": "প্রার্থনা বা আকাঙ্ক্ষা করা"
+  },
+  {
+    "term": "wonder at",
+    "meaning": "wonder at his courage",
+    "bengali": "বিস্মিত হওয়া"
+  },
+  {
+    "term": "worry about",
+    "meaning": "worry about the result",
+    "bengali": "চিন্তিত হওয়া"
+  },
+  {
+    "term": "yearn for",
+    "meaning": "yearn for home",
+    "bengali": "ব্যাকুল আকাঙ্ক্ষা করা"
+  },
+  {
+    "term": "admiration for",
+    "meaning": "admiration for her courage",
+    "bengali": "শ্রদ্ধা বা প্রশংসা"
+  },
+  {
+    "term": "advantage of / over",
+    "meaning": "advantage over rivals",
+    "bengali": "সুবিধা"
+  },
+  {
+    "term": "affection for / towards",
+    "meaning": "affection for children",
+    "bengali": "স্নেহ বা মায়া"
+  },
+  {
+    "term": "anxiety about / for",
+    "meaning": "anxiety about the result",
+    "bengali": "উদ্বেগ"
+  },
+  {
+    "term": "apology for / to",
+    "meaning": "an apology for the delay",
+    "bengali": "ক্ষমা প্রার্থনা"
+  },
+  {
+    "term": "application for / to",
+    "meaning": "application for leave; application to the principal",
+    "bengali": "আবেদন"
+  },
+  {
+    "term": "approval of",
+    "meaning": "approval of the plan",
+    "bengali": "অনুমোদন"
+  },
+  {
+    "term": "aversion to",
+    "meaning": "an aversion to noise",
+    "bengali": "বিতৃষ্ণা"
+  },
+  {
+    "term": "belief in",
+    "meaning": "belief in God",
+    "bengali": "বিশ্বাস"
+  },
+  {
+    "term": "cause of",
+    "meaning": "the cause of the fire",
+    "bengali": "কারণ"
+  },
+  {
+    "term": "choice between / of",
+    "meaning": "a choice between two",
+    "bengali": "পছন্দ"
+  },
+  {
+    "term": "confidence in",
+    "meaning": "confidence in him",
+    "bengali": "আত্মবিশ্বাস বা আস্থা"
+  },
+  {
+    "term": "contempt for",
+    "meaning": "contempt for cowards",
+    "bengali": "ঘৃণা বা তাচ্ছিল্য"
+  },
+  {
+    "term": "contribution to",
+    "meaning": "a contribution to science",
+    "bengali": "অবদান"
+  },
+  {
+    "term": "control over",
+    "meaning": "control over the class",
+    "bengali": "নিয়ন্ত্রণ"
+  },
+  {
+    "term": "cruelty to",
+    "meaning": "cruelty to animals",
+    "bengali": "নিষ্ঠুরতা"
+  },
+  {
+    "term": "cure for",
+    "meaning": "a cure for cancer",
+    "bengali": "উপশম বা আরোগ্য"
+  },
+  {
+    "term": "danger of / to",
+    "meaning": "danger of fire (risk); danger to life (harm)",
+    "bengali": "বিপদ"
+  },
+  {
+    "term": "demand for",
+    "meaning": "demand for jobs",
+    "bengali": "চাহিদা"
+  },
+  {
+    "term": "desire for",
+    "meaning": "desire for fame",
+    "bengali": "আকাঙ্ক্ষা"
+  },
+  {
+    "term": "difference between / in",
+    "meaning": "difference between the two",
+    "bengali": "পার্থক্য"
+  },
+  {
+    "term": "faith in",
+    "meaning": "faith in God",
+    "bengali": "বিশ্বাস"
+  },
+  {
+    "term": "fear of",
+    "meaning": "fear of failure",
+    "bengali": "ভয়"
+  },
+  {
+    "term": "habit of",
+    "meaning": "the habit of reading",
+    "bengali": "অভ্যাস"
+  },
+  {
+    "term": "hope of / for",
+    "meaning": "hope of success",
+    "bengali": "আশা"
+  },
+  {
+    "term": "increase in",
+    "meaning": "an increase in prices",
+    "bengali": "বৃদ্ধি"
+  },
+  {
+    "term": "insistence on",
+    "meaning": "insistence on payment",
+    "bengali": "জেদ"
+  },
+  {
+    "term": "invitation to",
+    "meaning": "an invitation to dinner",
+    "bengali": "আমন্ত্রণ"
+  },
+  {
+    "term": "knowledge of",
+    "meaning": "knowledge of law",
+    "bengali": "জ্ঞান"
+  },
+  {
+    "term": "lack of",
+    "meaning": "lack of money",
+    "bengali": "ঘাটতি বা অভাব"
+  },
+  {
+    "term": "need for / of",
+    "meaning": "need for rest",
+    "bengali": "প্রয়োজন"
+  },
+  {
+    "term": "objection to",
+    "meaning": "objection to the plan",
+    "bengali": "আপত্তি"
+  },
+  {
+    "term": "obstacle to",
+    "meaning": "an obstacle to progress",
+    "bengali": "বাধা"
+  },
+  {
+    "term": "pity for / on",
+    "meaning": "pity for the poor",
+    "bengali": "করুণা"
+  },
+  {
+    "term": "pride in",
+    "meaning": "pride in his work",
+    "bengali": "গর্ব (take pride in)"
+  },
+  {
+    "term": "reason for",
+    "meaning": "the reason for the delay",
+    "bengali": "কারণ"
+  },
+  {
+    "term": "remedy for / against",
+    "meaning": "a remedy for fever",
+    "bengali": "প্রতিকার"
+  },
+  {
+    "term": "respect for",
+    "meaning": "respect for teachers",
+    "bengali": "শ্রদ্ধা"
+  },
+  {
+    "term": "thirst for",
+    "meaning": "thirst for knowledge",
+    "bengali": "পিপাসা বা তীব্র আকাঙ্ক্ষা"
+  },
+  {
+    "term": "trust in",
+    "meaning": "trust in friends",
+    "bengali": "বিশ্বাস"
+  },
+  {
+    "term": "victory over",
+    "meaning": "victory over the enemy",
+    "bengali": "বিজয়"
+  },
+  {
+    "term": "approach [NO prep]",
+    "meaning": "approach the teacher (NOT approach to)",
+    "bengali": "কাছে যাওয়া (কোনো Preposition বসে না)"
+  },
+  {
+    "term": "attend [NO prep]",
+    "meaning": "attend a meeting (NOT attend to a meeting)",
+    "bengali": "উপস্থিত থাকা (কোনো Preposition বসে না)"
+  },
+  {
+    "term": "contact [NO prep]",
+    "meaning": "contact the manager (NOT contact with)",
+    "bengali": "যোগাযোগ করা (কোনো Preposition বসে না)"
+  },
+  {
+    "term": "describe [NO prep]",
+    "meaning": "describe the scene (NOT describe about)",
+    "bengali": "বর্ণনা করা (কোনো Preposition বসে না)"
+  },
+  {
+    "term": "discuss [NO prep]",
+    "meaning": "discuss the matter (NOT discuss about)",
+    "bengali": "আলোচনা করা (discuss-এর পর about বসে না)"
+  },
+  {
+    "term": "enter [NO prep]",
+    "meaning": "enter the room (NOT enter into the room)",
+    "bengali": "প্রবেশ করা (স্থানে প্রবেশে enter-এর পর into বসে না)"
+  },
+  {
+    "term": "marry [NO prep]",
+    "meaning": "marry her (NOT marry with)",
+    "bengali": "বিবাহ করা (Active-এ marry-র পর Preposition বসে না)"
+  },
+  {
+    "term": "mention [NO prep]",
+    "meaning": "mention the fact (NOT mention about)",
+    "bengali": "উল্লেখ করা (mention-এর পর about বসে না)"
+  },
+  {
+    "term": "reach [NO prep]",
+    "meaning": "reach Kolkata (NOT reach to)",
+    "bengali": "পৌঁছানো (reach-এর পর to বসে না)"
+  },
+  {
+    "term": "resemble [NO prep]",
+    "meaning": "resemble his father (NOT resemble to/with)",
+    "bengali": "সদৃশ হওয়া (resemble-এর পর to বা with বসে না)"
+  },
+  {
+    "term": "agree to / with / on",
+    "meaning": "to a plan (accept); with a person; on a matter (settle)",
+    "bengali": "প্রস্তাবে agree to; ব্যক্তির সাথে agree with; বিষয়ে agree on"
+  },
+  {
+    "term": "angry with / at",
+    "meaning": "with a person; at a thing or event",
+    "bengali": "ব্যক্তির উপর angry with; আচরণের উপর angry at"
+  },
+  {
+    "term": "anxious about / for",
+    "meaning": "anxious about (worried); anxious for (eager to get)",
+    "bengali": "দুশ্চিন্তায় anxious about; কামনায় anxious for"
+  },
+  {
+    "term": "appeal to / for / against",
+    "meaning": "to a person; for help; against a decision",
+    "bengali": "ব্যক্তির কাছে appeal to; সাহায্যের appeal for; রায়ের বিরুদ্ধে appeal against"
+  },
+  {
+    "term": "compare to / with",
+    "meaning": "to (point out likeness in dissimilar things); with (compare similar things)",
+    "bengali": "অসম বস্তুর সাথে compare to; সমজাতীয় জিনিসে compare with"
+  },
+  {
+    "term": "die of / from / for",
+    "meaning": "of a disease; from a wound/overwork; for a noble cause",
+    "bengali": "রোগে die of; আঘাতে die from; দেশের জন্য die for"
+  },
+  {
+    "term": "differ from / with",
+    "meaning": "from (be unlike in appearance); with (disagree in opinion)",
+    "bengali": "গঠনে differ from; মতপার্থক্যে differ with"
+  },
+  {
+    "term": "good at / for / to",
+    "meaning": "good at a skill; good for health; good to others (kind)",
+    "bengali": "দক্ষতায় good at; স্বাস্থ্যে good for; ব্যবহারে good to"
+  },
+  {
+    "term": "part with / from",
+    "meaning": "part with a thing (give up); part from a person (leave)",
+    "bengali": "জিনিস ত্যাগ করতে part with; ব্যক্তির সাথে বিচ্ছেদে part from"
+  },
+  {
+    "term": "throw at / to",
+    "meaning": "throw at (to hit/hurt); throw to (so that it can be caught)",
+    "bengali": "আঘাত করতে throw at; ক্যাচ ধরার জন্য throw to"
+  },
+  {
+    "term": "wait for / on",
+    "meaning": "wait for a person or bus; wait on a customer (serve)",
+    "bengali": "অপেক্ষায় wait for; সেবায় wait on / upon"
+  },
+  {
+    "term": "at / on / in (time)",
+    "meaning": "at for exact times (at 5 p.m.); on for days/dates (on Monday, on 15 August); in for months/years/seasons (in May, in 2026)",
+    "bengali": "নির্দিষ্ট সময়ে at; বার ও তারিখে on; মাস, বছর ও ঋতুতে in"
+  },
+  {
+    "term": "at / on / in (place)",
+    "meaning": "at for a point (at the door); on for a surface (on the table); in for an enclosed space/city (in the room, in India)",
+    "bengali": "বিন্দুতে at; তলে on; বড় স্থান বা ঘেরা জায়গায় in"
+  },
+  {
+    "term": "between / among",
+    "meaning": "between for two persons/things; among for three or more (a group)",
+    "bengali": "দুজনের মধ্যে between; অনেকের মধ্যে among"
+  },
+  {
+    "term": "since / for",
+    "meaning": "since with a starting point (since 2020, since Monday); for with a duration (for six years, for two hours)",
+    "bengali": "নির্দিষ্ট সূচনায় since (Point of time); সময়কালে for (Period of time)"
+  },
+  {
+    "term": "by / with",
+    "meaning": "by for the doer/means (written by him, go by bus); with for the instrument (cut with a knife)",
+    "bengali": "কর্তা বা মাধ্যমে by; যন্ত্র বা হাতিয়ারে with"
+  },
+  {
+    "term": "beside / besides",
+    "meaning": "beside means next to; besides means in addition to",
+    "bengali": "পাশে বোঝাতে beside; ছাড়াও/অতিরিক্ত বোঝাতে besides"
+  },
+  {
+    "term": "in / into",
+    "meaning": "in shows position inside (in the room); into shows movement towards inside (walk into the room)",
+    "bengali": "ভেতরে স্থিতিতে in; ভেতরে গতিশীলতায় into"
+  },
+  {
+    "term": "on / onto",
+    "meaning": "on shows position on a surface; onto shows movement to a surface (jump onto the floor)",
+    "bengali": "তলে স্থিতিতে on; তলের উপর গতিশীলতায় onto"
+  },
+  {
+    "term": "to / till (until)",
+    "meaning": "to for destination (go to school); till/until for time (wait till five)",
+    "bengali": "গন্তব্যে to; সময়ে till / until"
+  },
+  {
+    "term": "by / until (deadline)",
+    "meaning": "by means not later than (finish by Friday); until means continuing up to that time (stay until Friday)",
+    "bengali": "সর্বশেষ সময়সীমায় by; সেই সময় পর্যন্ত চলতে থাকা বোঝাতে until"
+  },
+  {
+    "term": "during / for",
+    "meaning": "during names a period (during the war); for gives its duration (for three years)",
+    "bengali": "কোনো ঘটনা চলাকালীন during; মোট স্থিতিকালে for"
+  },
+  {
+    "term": "over / above",
+    "meaning": "above is higher without touching; over can also mean covering or crossing (a bridge over the river)",
+    "bengali": "স্পর্শ ছাড়া উপরে above; আচ্ছাদন বা পারাপারে over"
+  },
+  {
+    "term": "under / below",
+    "meaning": "under is directly beneath or covered by; below is lower than, not necessarily directly under",
+    "bengali": "সরাসরি নিচে বা ঢাকা অবস্থায় under; তুলনায় নিচু স্তরে below"
+  },
+  {
+    "term": "in front of / opposite",
+    "meaning": "in front of is before something in the same line; opposite is facing it across a space",
+    "bengali": "একই লাইনে সামনে in front of; সামনাসামনি মুখোমুখি opposite"
+  },
+  {
+    "term": "travel prepositions",
+    "meaning": "by bus, by train, by air (general); on foot; in a car or taxi; on a bus or train (when inside moving)",
+    "bengali": "যাতায়াত বাহনে by bus/train; পায়ে হেঁটে on foot; গাড়ি/ট্যাক্সিতে in a car; বাস/ট্রেনের ভেতরে on a bus"
+  }
+]
