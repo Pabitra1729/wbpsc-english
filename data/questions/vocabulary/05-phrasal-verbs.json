@@ -272,541 +272,2431 @@
   {
     "id": "v05-016",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "question": "The young apprentice was advised to ___ the counsel of the veteran engineer.",
     "options": [
-      "give up",
-      "give in",
-      "give away",
-      "give off"
+      "act upon",
+      "act for",
+      "act out",
+      "act up"
     ],
     "answer": 0,
-    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
-    "rule": "Phrasal verb: give up = abandon/quit",
-    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+    "explanation": "'Act upon' means to take action in accordance with advice or information received.",
+    "rule": "Phrasal verbs with 'act'",
+    "bengaliHint": "উপদেশ বা নির্দেশ অনুসারে কাজ করা।"
   },
   {
     "id": "v05-017",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The enemy finally ___ after a three-month siege.",
+    "question": "The forensic evidence will certainly ___ the testimony of the eyewitness.",
     "options": [
-      "gave in",
-      "gave up",
-      "gave out",
-      "gave off"
+      "bear away",
+      "bear out",
+      "bear up",
+      "bear down"
     ],
-    "answer": 0,
-    "explanation": "'Give in' means to surrender or yield to pressure.",
-    "rule": "Phrasal verb: give in = surrender/yield",
-    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+    "answer": 1,
+    "explanation": "'Bear out' means to support, confirm, or substantiate a claim or evidence.",
+    "rule": "Phrasal verbs with 'bear'",
+    "bengaliHint": "সমর্থন বা প্রমাণ করা।"
   },
   {
     "id": "v05-018",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "question": "Please ___ with me while I verify the official records in the archives.",
     "options": [
-      "gave away",
-      "gave in",
-      "gave up",
-      "gave on"
+      "bear down",
+      "bear off",
+      "bear with",
+      "bear away"
     ],
-    "answer": 0,
-    "explanation": "'Give away' means to distribute prizes or charitable items.",
-    "rule": "Phrasal verb: give away = distribute",
-    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+    "answer": 2,
+    "explanation": "'Bear with' means to tolerate or be patient with someone.",
+    "rule": "Phrasal verbs with 'bear'",
+    "bengaliHint": "ধৈর্য ধরা বা সহ্য করা।"
   },
   {
     "id": "v05-019",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The rotting waste ___ an offensive odor.",
+    "question": "A sudden gust of wind ___ the candle on the study table.",
     "options": [
-      "gives off",
-      "gives up",
-      "gives in",
-      "gives out"
+      "blew up",
+      "blew away",
+      "blew off",
+      "blew out"
     ],
-    "answer": 0,
-    "explanation": "'Give off' means to emit gas, smell, or heat.",
-    "rule": "Phrasal verb: give off = emit",
-    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+    "answer": 3,
+    "explanation": "'Blow out' means to extinguish a flame by air or breath.",
+    "rule": "Phrasal verbs with 'blow'",
+    "bengaliHint": "বাতাসে নিভিয়ে দেওয়া।"
   },
   {
     "id": "v05-020",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "question": "Burglars ___ the jeweler's shop during the stormy night.",
     "options": [
-      "carries out",
-      "carries on",
-      "carries through",
-      "carries away"
+      "broke into",
+      "broke down",
+      "broke through",
+      "broke up"
     ],
     "answer": 0,
-    "explanation": "'Carry out' means to execute or perform an order or duty.",
-    "rule": "Phrasal verb: carry out = execute orders",
-    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+    "explanation": "'Break into' means to enter a building or house illegally by force.",
+    "rule": "Phrasal verbs with 'break'",
+    "bengaliHint": "জোরপূর্বক বা সিঁধ কেটে প্রবেশ করা।"
   },
   {
     "id": "v05-021",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "question": "Dengue ___ in the municipality following the waterlogging.",
     "options": [
-      "give up",
-      "give in",
-      "give away",
-      "give off"
+      "broke off",
+      "broke out",
+      "broke up",
+      "broke down"
     ],
-    "answer": 0,
-    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
-    "rule": "Phrasal verb: give up = abandon/quit",
-    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+    "answer": 1,
+    "explanation": "'Break out' means to start suddenly (used for disease epidemics, wars, or fire).",
+    "rule": "Phrasal verbs with 'break'",
+    "bengaliHint": "আচমকা প্রাদুর্ভাব ঘটা বা ছড়িয়ে পড়া।"
   },
   {
     "id": "v05-022",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The enemy finally ___ after a three-month siege.",
+    "question": "The industrial revolution ___ massive social and economic transformations.",
     "options": [
-      "gave in",
-      "gave up",
-      "gave out",
-      "gave off"
+      "brought up",
+      "brought off",
+      "brought about",
+      "brought round"
     ],
-    "answer": 0,
-    "explanation": "'Give in' means to surrender or yield to pressure.",
-    "rule": "Phrasal verb: give in = surrender/yield",
-    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+    "answer": 2,
+    "explanation": "'Bring about' means to cause something to happen.",
+    "rule": "Phrasal verbs with 'bring'",
+    "bengaliHint": "ঘটন ঘটানো বা রূপায়ণ করা।"
   },
   {
     "id": "v05-023",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "question": "The doctor managed to ___ the unconscious patient with smelling salts.",
     "options": [
-      "gave away",
-      "gave in",
-      "gave up",
-      "gave on"
+      "bring up",
+      "bring down",
+      "bring forward",
+      "bring round"
     ],
-    "answer": 0,
-    "explanation": "'Give away' means to distribute prizes or charitable items.",
-    "rule": "Phrasal verb: give away = distribute",
-    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+    "answer": 3,
+    "explanation": "'Bring round' means to revive someone from unconsciousness or persuade them.",
+    "rule": "Phrasal verbs with 'bring'",
+    "bengaliHint": "জ্ঞান ফিরিয়ে আনা।"
   },
   {
     "id": "v05-024",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The rotting waste ___ an offensive odor.",
+    "question": "She was ___ by her maternal aunt after the untimely demise of her parents.",
     "options": [
-      "gives off",
-      "gives up",
-      "gives in",
-      "gives out"
+      "brought up",
+      "brought out",
+      "brought in",
+      "brought on"
     ],
     "answer": 0,
-    "explanation": "'Give off' means to emit gas, smell, or heat.",
-    "rule": "Phrasal verb: give off = emit",
-    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+    "explanation": "'Bring up' means to raise and educate a child.",
+    "rule": "Phrasal verbs with 'bring'",
+    "bengaliHint": "লালন-পালন ও বড় করা।"
   },
   {
     "id": "v05-025",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "question": "The postman will ___ the local post office to collect the parcels.",
     "options": [
-      "carries out",
-      "carries on",
-      "carries through",
-      "carries away"
+      "call on",
+      "call at",
+      "call up",
+      "call off"
     ],
-    "answer": 0,
-    "explanation": "'Carry out' means to execute or perform an order or duty.",
-    "rule": "Phrasal verb: carry out = execute orders",
-    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+    "answer": 1,
+    "explanation": "'Call at' means to visit a place briefly (compare: 'call on' a person).",
+    "rule": "Phrasal verbs with 'call'",
+    "bengaliHint": "কোনো স্থানে সংক্ষিপ্ত পরিদর্শন করা।"
   },
   {
     "id": "v05-026",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "question": "Such gross insubordination in the office ___ immediate disciplinary action.",
     "options": [
-      "give up",
-      "give in",
-      "give away",
-      "give off"
+      "calls on",
+      "calls in",
+      "calls for",
+      "calls out"
     ],
-    "answer": 0,
-    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
-    "rule": "Phrasal verb: give up = abandon/quit",
-    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+    "answer": 2,
+    "explanation": "'Call for' means to require, demand, or make necessary.",
+    "rule": "Phrasal verbs with 'call'",
+    "bengaliHint": "দাবি করা বা প্রয়োজন হওয়া।"
   },
   {
     "id": "v05-027",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The enemy finally ___ after a three-month siege.",
+    "question": "The trade union leaders decided to ___ the indefinite strike after negotiations.",
     "options": [
-      "gave in",
-      "gave up",
-      "gave out",
-      "gave off"
+      "call in",
+      "call up",
+      "call out",
+      "call off"
     ],
-    "answer": 0,
-    "explanation": "'Give in' means to surrender or yield to pressure.",
-    "rule": "Phrasal verb: give in = surrender/yield",
-    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+    "answer": 3,
+    "explanation": "'Call off' means to cancel an event, meeting, or strike.",
+    "rule": "Phrasal verbs with 'call'",
+    "bengaliHint": "প্রত্যাহার বা বাতিল করা।"
   },
   {
     "id": "v05-028",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "question": "We intend to ___ our retired headmaster this Sunday afternoon.",
     "options": [
-      "gave away",
-      "gave in",
-      "gave up",
-      "gave on"
+      "call on",
+      "call at",
+      "call out",
+      "call away"
     ],
     "answer": 0,
-    "explanation": "'Give away' means to distribute prizes or charitable items.",
-    "rule": "Phrasal verb: give away = distribute",
-    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+    "explanation": "'Call on' means to pay a visit to a person.",
+    "rule": "Phrasal verbs with 'call'",
+    "bengaliHint": "কোনো ব্যক্তির সাথে দেখা করতে যাওয়া।"
   },
   {
     "id": "v05-029",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The rotting waste ___ an offensive odor.",
+    "question": "The audience was ___ by the singer's mesmerizing classical melody.",
     "options": [
-      "gives off",
-      "gives up",
-      "gives in",
-      "gives out"
+      "carried out",
+      "carried away",
+      "carried off",
+      "carried forward"
     ],
-    "answer": 0,
-    "explanation": "'Give off' means to emit gas, smell, or heat.",
-    "rule": "Phrasal verb: give off = emit",
-    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+    "answer": 1,
+    "explanation": "'Carried away' means overcome by deep emotion, enthusiasm, or excitement.",
+    "rule": "Phrasal verbs with 'carry'",
+    "bengaliHint": "আবেগে আত্মহারা বা মুগ্ধ হওয়া।"
   },
   {
     "id": "v05-030",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "question": "If you work hard and consistently, you will soon ___ your peers.",
     "options": [
-      "carries out",
-      "carries on",
-      "carries through",
-      "carries away"
+      "catch on",
+      "catch out",
+      "catch up with",
+      "catch at"
     ],
-    "answer": 0,
-    "explanation": "'Carry out' means to execute or perform an order or duty.",
-    "rule": "Phrasal verb: carry out = execute orders",
-    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+    "answer": 2,
+    "explanation": "'Catch up with' means to reach equality with someone who was previously ahead.",
+    "rule": "Phrasal verbs with 'catch'",
+    "bengaliHint": "ধরা বা সমকক্ষ হওয়া।"
   },
   {
     "id": "v05-031",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "question": "While browsing the second-hand bookstore, I ___ an ancient manuscript.",
     "options": [
-      "give up",
-      "give in",
-      "give away",
-      "give off"
+      "came by",
+      "came upon",
+      "came round",
+      "came across"
     ],
-    "answer": 0,
-    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
-    "rule": "Phrasal verb: give up = abandon/quit",
-    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+    "answer": 3,
+    "explanation": "'Come across' means to meet or discover something unexpectedly by chance.",
+    "rule": "Phrasal verbs with 'come'",
+    "bengaliHint": "হঠাৎ অপ্রত্যাশিতভাবে দেখতে পাওয়া।"
   },
   {
     "id": "v05-032",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The enemy finally ___ after a three-month siege.",
+    "question": "How did you ___ such a rare gold coin from the Gupta dynasty?",
     "options": [
-      "gave in",
-      "gave up",
-      "gave out",
-      "gave off"
+      "come by",
+      "come at",
+      "come to",
+      "come through"
     ],
     "answer": 0,
-    "explanation": "'Give in' means to surrender or yield to pressure.",
-    "rule": "Phrasal verb: give in = surrender/yield",
-    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+    "explanation": "'Come by' means to manage to obtain or acquire something rare.",
+    "rule": "Phrasal verbs with 'come'",
+    "bengaliHint": "পাওয়া বা অর্জন করা।"
   },
   {
     "id": "v05-033",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "question": "The young scholar ___ a distinguished family of academicians.",
     "options": [
-      "gave away",
-      "gave in",
-      "gave up",
-      "gave on"
+      "comes off",
+      "comes of",
+      "comes in",
+      "comes down"
     ],
-    "answer": 0,
-    "explanation": "'Give away' means to distribute prizes or charitable items.",
-    "rule": "Phrasal verb: give away = distribute",
-    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+    "answer": 1,
+    "explanation": "'Come of' means to be descended from a family or lineage.",
+    "rule": "Phrasal verbs with 'come'",
+    "bengaliHint": "কোনো বংশ বা পরিবারে জন্মগ্রহণ করা।"
   },
   {
     "id": "v05-034",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The rotting waste ___ an offensive odor.",
+    "question": "After sprinkling cold water on her forehead, she slowly ___.",
     "options": [
-      "gives off",
-      "gives up",
-      "gives in",
-      "gives out"
+      "came to",
+      "came through",
+      "came round",
+      "came over"
     ],
-    "answer": 0,
-    "explanation": "'Give off' means to emit gas, smell, or heat.",
-    "rule": "Phrasal verb: give off = emit",
-    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+    "answer": 2,
+    "explanation": "'Come round' means to regain consciousness.",
+    "rule": "Phrasal verbs with 'come'",
+    "bengaliHint": "জ্ঞান ফিরে পাওয়া।"
   },
   {
     "id": "v05-035",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "question": "The new clerk found it difficult to ___ the heavy administrative workload.",
     "options": [
-      "carries out",
-      "carries on",
-      "carries through",
-      "carries away"
+      "cope up with",
+      "cope about",
+      "cope for",
+      "cope with"
     ],
-    "answer": 0,
-    "explanation": "'Carry out' means to execute or perform an order or duty.",
-    "rule": "Phrasal verb: carry out = execute orders",
-    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+    "answer": 3,
+    "explanation": "The standard English idiom is 'cope with' (never 'cope up with'), meaning to manage successfully.",
+    "rule": "Phrasal verbs with 'cope'",
+    "bengaliHint": "পরিস্থিতি সামলে ওঠা বা মানিয়ে নেওয়া।"
   },
   {
     "id": "v05-036",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "question": "The finance minister advised departments to ___ non-essential expenditure.",
     "options": [
-      "give up",
-      "give in",
-      "give away",
-      "give off"
+      "cut down",
+      "cut off",
+      "cut out",
+      "cut across"
     ],
     "answer": 0,
-    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
-    "rule": "Phrasal verb: give up = abandon/quit",
-    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+    "explanation": "'Cut down' means to reduce the quantity, amount, or expenditure.",
+    "rule": "Phrasal verbs with 'cut'",
+    "bengaliHint": "হ্রাস বা ছাঁটাই করা।"
   },
   {
     "id": "v05-037",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The enemy finally ___ after a three-month siege.",
+    "question": "The merchant ___ wholesale textile fabrics across Eastern India.",
     "options": [
-      "gave in",
-      "gave up",
-      "gave out",
-      "gave off"
+      "deals with",
+      "deals in",
+      "deals out",
+      "deals for"
     ],
-    "answer": 0,
-    "explanation": "'Give in' means to surrender or yield to pressure.",
-    "rule": "Phrasal verb: give in = surrender/yield",
-    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+    "answer": 1,
+    "explanation": "'Deal in' means to trade or buy and sell a specific commodity.",
+    "rule": "Phrasal verbs with 'deal'",
+    "bengaliHint": "কোনো পণ্যের ব্যবসা করা।"
   },
   {
     "id": "v05-038",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "question": "The customer relations officer knows how to ___ irate clients politely.",
     "options": [
-      "gave away",
-      "gave in",
-      "gave up",
-      "gave on"
+      "deal in",
+      "deal out",
+      "deal with",
+      "deal through"
     ],
-    "answer": 0,
-    "explanation": "'Give away' means to distribute prizes or charitable items.",
-    "rule": "Phrasal verb: give away = distribute",
-    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+    "answer": 2,
+    "explanation": "'Deal with' means to handle, treat, or interact with a person or situation.",
+    "rule": "Phrasal verbs with 'deal'",
+    "bengaliHint": "মানুষ বা পরিস্থিতি পরিচালনা করা।"
   },
   {
     "id": "v05-039",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The rotting waste ___ an offensive odor.",
+    "question": "Modern society must ___ obsolete and discriminatory customs.",
     "options": [
-      "gives off",
-      "gives up",
-      "gives in",
-      "gives out"
+      "do for",
+      "do up",
+      "do with",
+      "do away with"
     ],
-    "answer": 0,
-    "explanation": "'Give off' means to emit gas, smell, or heat.",
-    "rule": "Phrasal verb: give off = emit",
-    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+    "answer": 3,
+    "explanation": "'Do away with' means to abolish, eliminate, or eradicate.",
+    "rule": "Phrasal verbs with 'do'",
+    "bengaliHint": "বিলোপ বা উচ্ছেদ করা।"
   },
   {
     "id": "v05-040",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "question": "My college roommate promised to ___ at my residence during the weekend.",
     "options": [
-      "carries out",
-      "carries on",
-      "carries through",
-      "carries away"
+      "drop in",
+      "drop out",
+      "drop off",
+      "drop down"
     ],
     "answer": 0,
-    "explanation": "'Carry out' means to execute or perform an order or duty.",
-    "rule": "Phrasal verb: carry out = execute orders",
-    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+    "explanation": "'Drop in' means to pay a brief, informal, and unannounced visit.",
+    "rule": "Phrasal verbs with 'drop'",
+    "bengaliHint": "হঠাৎ সংক্ষিপ্ত সময়ের জন্য দেখা করতে আসা।"
   },
   {
     "id": "v05-041",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "He decided to ___ smoking for the sake of his lungs.",
+    "question": "During the sudden economic downturn, the family had no emergency savings to ___.",
     "options": [
-      "give up",
-      "give in",
-      "give away",
-      "give off"
+      "fall out with",
+      "fall back on",
+      "fall behind",
+      "fall in with"
     ],
-    "answer": 0,
-    "explanation": "'Give up' means to quit, stop, or abandon a habit.",
-    "rule": "Phrasal verb: give up = abandon/quit",
-    "bengaliHint": "কোনো অভ্যাস ত্যাগ করা অর্থে 'give up' বসে।"
+    "answer": 1,
+    "explanation": "'Fall back on' means to turn to something for help when other options fail.",
+    "rule": "Phrasal verbs with 'fall'",
+    "bengaliHint": "বিপদের সময় সহায় হিসেবে ব্যবহার করা।"
   },
   {
     "id": "v05-042",
     "chapter": "v05",
-    "type": "mcq",
+    "type": "phrasal-verb",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The enemy finally ___ after a three-month siege.",
+    "question": "The two brothers ___ over the division of ancestral property.",
     "options": [
-      "gave in",
-      "gave up",
-      "gave out",
-      "gave off"
+      "fell through",
+      "fell upon",
+      "fell out",
+      "fell away"
     ],
-    "answer": 0,
-    "explanation": "'Give in' means to surrender or yield to pressure.",
-    "rule": "Phrasal verb: give in = surrender/yield",
-    "bengaliHint": "আত্মসমর্পণ করা অর্থে 'gave in' বসে।"
+    "answer": 2,
+    "explanation": "'Fall out' means to quarrel or disagree and cease being friendly.",
+    "rule": "Phrasal verbs with 'fall'",
+    "bengaliHint": "বিবাদে জড়ানো বা সম্পর্কের অবনতি হওয়া।"
   },
   {
     "id": "v05-043",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The chief guest ___ the academic prizes at the annual function.",
+    "question": "With rigorous daily practice, she easily ___ the WBPSC preliminary screening.",
     "options": [
-      "gave away",
-      "gave in",
-      "gave up",
-      "gave on"
+      "got on",
+      "got off",
+      "got over",
+      "got through"
     ],
-    "answer": 0,
-    "explanation": "'Give away' means to distribute prizes or charitable items.",
-    "rule": "Phrasal verb: give away = distribute",
-    "bengaliHint": "পুরস্কার বিতরণ করা বোঝাতে 'gave away' বসে।"
+    "answer": 3,
+    "explanation": "'Get through' means to pass a competitive test or successfully finish a task.",
+    "rule": "Phrasal verbs with 'get'",
+    "bengaliHint": "পরীক্ষায় উত্তীর্ণ হওয়া।"
   },
   {
     "id": "v05-044",
     "chapter": "v05",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The rotting waste ___ an offensive odor.",
+    "question": "The governor will ___ the trophies to the academic rank holders.",
     "options": [
-      "gives off",
-      "gives up",
-      "gives in",
-      "gives out"
+      "give away",
+      "give off",
+      "give over",
+      "give in"
     ],
     "answer": 0,
-    "explanation": "'Give off' means to emit gas, smell, or heat.",
-    "rule": "Phrasal verb: give off = emit",
-    "bengaliHint": "গন্ধ বা গ্যাস নির্গত করা অর্থে 'gives off' বসে।"
+    "explanation": "'Give away' means to distribute prizes or gifts officially.",
+    "rule": "Phrasal verbs with 'give'",
+    "bengaliHint": "পুরস্কার বিতরণ করা।"
   },
   {
     "id": "v05-045",
     "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The stubborn rebels finally ___ to the military authorities.",
+    "options": [
+      "gave out",
+      "gave in",
+      "gave up",
+      "gave off"
+    ],
+    "answer": 1,
+    "explanation": "'Give in' means to surrender, yield, or submit.",
+    "rule": "Phrasal verbs with 'give'",
+    "bengaliHint": "আত্মসমর্পণ করা বা নতি স্বীকার করা।"
+  },
+  {
+    "id": "v05-046",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The legal auditor will ___ all financial audit registers tonight.",
+    "options": [
+      "go over",
+      "go by",
+      "go through",
+      "go into"
+    ],
+    "answer": 2,
+    "explanation": "'Go through' means to examine, inspect, or read thoroughly.",
+    "rule": "Phrasal verbs with 'go'",
+    "bengaliHint": "পুঙ্খানুপুঙ্খভাবে পরীক্ষা করা বা পড়া।"
+  },
+  {
+    "id": "v05-047",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The witness tried to ___ vital details regarding the burglary.",
+    "options": [
+      "hold up",
+      "hold out",
+      "hold on",
+      "hold back"
+    ],
+    "answer": 3,
+    "explanation": "'Hold back' means to conceal, suppress, or refrain from revealing.",
+    "rule": "Phrasal verbs with 'hold'",
+    "bengaliHint": "গোপন রাখা বা চেপে যাওয়া।"
+  },
+  {
+    "id": "v05-048",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The elderly grandfather was well ___ by his affectionate daughter-in-law.",
+    "options": [
+      "looked after",
+      "looked down upon",
+      "looked into",
+      "looked on"
+    ],
+    "answer": 0,
+    "explanation": "'Look after' means to care for and attend to someone's needs.",
+    "rule": "Phrasal verbs with 'look'",
+    "bengaliHint": "দেখাশোনা বা যত্ন নেওয়া।"
+  },
+  {
+    "id": "v05-049",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "An arrogant aristocrat should not ___ poor laborers.",
+    "options": [
+      "look up to",
+      "look down upon",
+      "look into",
+      "look forward to"
+    ],
+    "answer": 1,
+    "explanation": "'Look down upon' means to regard someone with contempt, scorn, or superiority.",
+    "rule": "Phrasal verbs with 'look'",
+    "bengaliHint": "কাউকে হীন চোখে দেখা বা অবজ্ঞা করা।"
+  },
+  {
+    "id": "v05-050",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The detective is currently ___ the missing files from the secretariat.",
+    "options": [
+      "looking out",
+      "looking up",
+      "looking for",
+      "looking through"
+    ],
+    "answer": 2,
+    "explanation": "'Look for' means to search or try to find something missing.",
+    "rule": "Phrasal verbs with 'look'",
+    "bengaliHint": "খোঁজ করা বা অন্বেষণ করা।"
+  },
+  {
+    "id": "v05-051",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "We are eagerly ___ meeting our school friends at the annual reunion.",
+    "options": [
+      "looking about",
+      "looking on to",
+      "looking after",
+      "looking forward to"
+    ],
+    "answer": 3,
+    "explanation": "'Look forward to' means to anticipate an event with eagerness and joy.",
+    "rule": "Phrasal verbs with 'look'",
+    "bengaliHint": "সাগ্রহে প্রতীক্ষা করা।"
+  },
+  {
+    "id": "v05-052",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The magistrate appointed an inquiry committee to ___ the corruption charges.",
+    "options": [
+      "look into",
+      "look after",
+      "look out",
+      "look up"
+    ],
+    "answer": 0,
+    "explanation": "'Look into' means to investigate or thoroughly examine a case.",
+    "rule": "Phrasal verbs with 'look'",
+    "bengaliHint": "তদন্ত করা।"
+  },
+  {
+    "id": "v05-053",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "I cannot ___ the illegible handwriting on this ancient papyrus document.",
+    "options": [
+      "make off",
+      "make out",
+      "make up",
+      "make over"
+    ],
+    "answer": 1,
+    "explanation": "'Make out' means to decipher, discern, or comprehend the meaning of something.",
+    "rule": "Phrasal verbs with 'make'",
+    "bengaliHint": "অর্থ বুঝতে পারা বা পাঠোদ্ধার করা।"
+  },
+  {
+    "id": "v05-054",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The insurance company will ___ the financial loss incurred during the warehouse fire.",
+    "options": [
+      "make out",
+      "make for",
+      "make up for",
+      "make off with"
+    ],
+    "answer": 2,
+    "explanation": "'Make up for' means to compensate for a loss, injury, or deficiency.",
+    "rule": "Phrasal verbs with 'make'",
+    "bengaliHint": "ক্ষতিপূরণ করা।"
+  },
+  {
+    "id": "v05-055",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The revered freedom fighter peacefully ___ in his sleep at the ripe age of ninety.",
+    "options": [
+      "passed by",
+      "passed out",
+      "passed on",
+      "passed away"
+    ],
+    "answer": 3,
+    "explanation": "'Pass away' is the polite phrasal verb meaning to die.",
+    "rule": "Phrasal verbs with 'pass'",
+    "bengaliHint": "পরলোকগমন করা বা মারা যাওয়া।"
+  },
+  {
+    "id": "v05-056",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Wise people always ___ a portion of their monthly earnings for retirement.",
+    "options": [
+      "put by",
+      "put on",
+      "put up",
+      "put off"
+    ],
+    "answer": 0,
+    "explanation": "'Put by' means to save or lay aside money for future use.",
+    "rule": "Phrasal verbs with 'put'",
+    "bengaliHint": "ভবিষ্যতের জন্য সঞ্চয় করে রাখা।"
+  },
+  {
+    "id": "v05-057",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Never ___ till tomorrow what you can accomplish today.",
+    "options": [
+      "put out",
+      "put off",
+      "put by",
+      "put down"
+    ],
+    "answer": 1,
+    "explanation": "'Put off' means to postpone or delay an action.",
+    "rule": "Phrasal verbs with 'put'",
+    "bengaliHint": "স্থগিত বা পিছিয়ে দেওয়া।"
+  },
+  {
+    "id": "v05-058",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The fire brigade arrived promptly and ___ the blazing fire in the godown.",
+    "options": [
+      "put off",
+      "put in",
+      "put out",
+      "put away"
+    ],
+    "answer": 2,
+    "explanation": "'Put out' means to extinguish a fire or lamp.",
+    "rule": "Phrasal verbs with 'put'",
+    "bengaliHint": "আগুন নিভিয়ে ফেলা।"
+  },
+  {
+    "id": "v05-059",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "No self-respecting officer will ___ such rude and abusive language.",
+    "options": [
+      "put on with",
+      "put out with",
+      "put down with",
+      "put up with"
+    ],
+    "answer": 3,
+    "explanation": "'Put up with' means to tolerate or endure someone's unpleasant behavior.",
+    "rule": "Phrasal verbs with 'put'",
+    "bengaliHint": "সহ্য করা বা মেনে নেওয়া।"
+  },
+  {
+    "id": "v05-060",
+    "chapter": "v05",
+    "type": "phrasal-verb",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The candidate ___ after his father in both his musical talent and humble nature.",
+    "options": [
+      "takes after",
+      "takes to",
+      "takes up",
+      "takes off"
+    ],
+    "answer": 0,
+    "explanation": "'Take after' means to resemble an older family member in appearance or character.",
+    "rule": "Phrasal verbs with 'take'",
+    "bengaliHint": "বংশের বা পিতামাতার সদৃশ হওয়া।"
+  },
+  {
+    "id": "v05-061",
+    "chapter": "v05",
     "type": "mcq",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The dedicated clerk always ___ the orders of his superiors.",
+    "question": "Every citizen must ___ the constitutional laws of the country.",
     "options": [
-      "carries out",
-      "carries on",
-      "carries through",
-      "carries away"
+      "abide by",
+      "abide with",
+      "abide for",
+      "abide on"
     ],
     "answer": 0,
-    "explanation": "'Carry out' means to execute or perform an order or duty.",
-    "rule": "Phrasal verb: carry out = execute orders",
-    "bengaliHint": "আদেশ পালন করা অর্থে 'carries out' বসে।"
+    "explanation": "'Abide by' means to accept and obey a law, rule, or decision.",
+    "rule": "Verb + Preposition",
+    "bengaliHint": "নিয়ম বা আইন মেনে চলা।"
+  },
+  {
+    "id": "v05-062",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The cashier was unable to ___ the missing cash in the bank register.",
+    "options": [
+      "account on",
+      "account for",
+      "account with",
+      "account to"
+    ],
+    "answer": 1,
+    "explanation": "'Account for' means to explain the cause or reason for something, or be responsible for an amount.",
+    "rule": "Phrasal verb with account",
+    "bengaliHint": "হিসাব দেওয়া বা কারণ ব্যাখ্যা করা।"
+  },
+  {
+    "id": "v05-063",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The police officers immediately ___ the anonymous tip received on the helpline.",
+    "options": [
+      "acted on",
+      "acted upon",
+      "acted with",
+      "acted over"
+    ],
+    "answer": 1,
+    "explanation": "'Act upon' (or act on) means to take action according to information, advice, or evidence received.",
+    "rule": "Phrasal verb with act",
+    "bengaliHint": "উপদেশ বা তথ্য অনুসারে কাজ করা।"
+  },
+  {
+    "id": "v05-064",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "After signing the contract, you cannot simply ___ of the agreement.",
+    "options": [
+      "back in",
+      "back out",
+      "back away",
+      "back up"
+    ],
+    "answer": 1,
+    "explanation": "'Back out' means to withdraw from an agreement, promise, or undertaking before completion.",
+    "rule": "Phrasal verb with back",
+    "bengaliHint": "প্রতিশ্রুতি বা চুক্তি থেকে পিছিয়ে আসা।"
+  },
+  {
+    "id": "v05-065",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The statistical survey will certainly ___ the initial hypothesis of the economist.",
+    "options": [
+      "bear down",
+      "bear out",
+      "bear up",
+      "bear through"
+    ],
+    "answer": 1,
+    "explanation": "'Bear out' means to corroborate, support, or confirm the truth of something.",
+    "rule": "Phrasal verb with bear",
+    "bengaliHint": "সত্যতা প্রমাণ বা সমর্থন করা।"
+  },
+  {
+    "id": "v05-066",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Please ___ me for a few minutes while I retrieve your archival file.",
+    "options": [
+      "bear at",
+      "bear with",
+      "bear to",
+      "bear for"
+    ],
+    "answer": 1,
+    "explanation": "'Bear with' means to be patient with someone or endure a temporary delay.",
+    "rule": "Phrasal verb with bear",
+    "bengaliHint": "ধৈর্য ধরা বা সহ্য করা।"
+  },
+  {
+    "id": "v05-067",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A sudden blast of cold wind ___ the candle on the study desk.",
+    "options": [
+      "blew up",
+      "blew out",
+      "blew off",
+      "blew away"
+    ],
+    "answer": 1,
+    "explanation": "'Blow out' means to extinguish a flame or fire by a current of air.",
+    "rule": "Phrasal verb with blow",
+    "bengaliHint": "বাতাসের তোড়ে নিভিয়ে দেওয়া।"
+  },
+  {
+    "id": "v05-068",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The saboteurs attempted to ___ the railway bridge during the dead of night.",
+    "options": [
+      "blow out",
+      "blow off",
+      "blow up",
+      "blow through"
+    ],
+    "answer": 2,
+    "explanation": "'Blow up' means to destroy or explode by dynamite or explosives.",
+    "rule": "Phrasal verb with blow",
+    "bengaliHint": "বিস্ফোরণে উড়িয়ে দেওয়া।"
+  },
+  {
+    "id": "v05-069",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "It takes months of gentle handling to ___ a young thoroughbred horse.",
+    "options": [
+      "break in",
+      "break out",
+      "break through",
+      "break down"
+    ],
+    "answer": 0,
+    "explanation": "'Break in' means to train, tame, or accustom a horse or person to a new routine.",
+    "rule": "Phrasal verb with break",
+    "bengaliHint": "শিক্ষা দিয়ে পোষ মানানো বা অভ্যস্ত করা।"
+  },
+  {
+    "id": "v05-070",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Armed burglars tried to ___ the national museum during the midnight power failure.",
+    "options": [
+      "break through",
+      "break into",
+      "break with",
+      "break off"
+    ],
+    "answer": 1,
+    "explanation": "'Break into' means to enter a building or vehicle illegally by force.",
+    "rule": "Phrasal verb with break",
+    "bengaliHint": "জোর করে বা সিঁদ কেটে প্রবেশ করা।"
+  },
+  {
+    "id": "v05-071",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "After decades of lab trials, geneticists finally ___ the medical mystery.",
+    "options": [
+      "broke out",
+      "broke through",
+      "broke down",
+      "broke away"
+    ],
+    "answer": 1,
+    "explanation": "'Break through' means to make a major discovery or overcome an obstruction.",
+    "rule": "Phrasal verb with break",
+    "bengaliHint": "বাধা অতিক্রম করে নতুন সাফল্য অর্জন করা।"
+  },
+  {
+    "id": "v05-072",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The university classes will ___ for the Durga Puja holidays next Wednesday.",
+    "options": [
+      "break off",
+      "break up",
+      "break down",
+      "break out"
+    ],
+    "answer": 1,
+    "explanation": "'Break up' means to disperse or end a school/college term for vacation.",
+    "rule": "Phrasal verb with break",
+    "bengaliHint": "ছুটির জন্য বন্ধ হওয়া বা ভেঙে যাওয়া।"
+  },
+  {
+    "id": "v05-073",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The central bank introduced fiscal policies to ___ soaring retail prices.",
+    "options": [
+      "bring round",
+      "bring down",
+      "bring up",
+      "bring on"
+    ],
+    "answer": 1,
+    "explanation": "'Bring down' means to lower, reduce, or cause to fall (e.g. prices or government).",
+    "rule": "Phrasal verb with bring",
+    "bengaliHint": "কমানো বা হ্রাস করা।"
+  },
+  {
+    "id": "v05-074",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The fertile alluvial delta ___ bountiful crops of golden paddy every season.",
+    "options": [
+      "brings forth",
+      "brings up",
+      "brings out",
+      "brings off"
+    ],
+    "answer": 0,
+    "explanation": "'Bring forth' means to produce, bear fruit, or give birth to.",
+    "rule": "Phrasal verb with bring",
+    "bengaliHint": "উৎপাদন করা বা জন্ম দেওয়া।"
+  },
+  {
+    "id": "v05-075",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The Asiatic Society will ___ a revised critical edition of the ancient Sanskrit text.",
+    "options": [
+      "bring about",
+      "bring out",
+      "bring up",
+      "bring round"
+    ],
+    "answer": 1,
+    "explanation": "'Bring out' means to publish a book or reveal a particular quality.",
+    "rule": "Phrasal verb with bring",
+    "bengaliHint": "প্রকাশ করা।"
+  },
+  {
+    "id": "v05-076",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The medical team used smelling salts to ___ the fainting marathon runner.",
+    "options": [
+      "bring up",
+      "bring round",
+      "bring on",
+      "bring along"
+    ],
+    "answer": 1,
+    "explanation": "'Bring round' means to restore someone to consciousness or persuade them to agree.",
+    "rule": "Phrasal verb with bring",
+    "bengaliHint": "জ্ঞান ফিরিয়ে আনা।"
+  },
+  {
+    "id": "v05-077",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Following the sudden tragedy, the orphan child was ___ with maternal affection.",
+    "options": [
+      "brought down",
+      "brought round",
+      "brought up",
+      "brought out"
+    ],
+    "answer": 2,
+    "explanation": "'Bring up' means to raise, nurture, or educate a child.",
+    "rule": "Phrasal verb with bring",
+    "bengaliHint": "লালন-পালন করা।"
+  },
+  {
+    "id": "v05-078",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Such an unprecedented breach of protocol ___ an official explanation from the secretary.",
+    "options": [
+      "calls on",
+      "calls up",
+      "calls for",
+      "calls out"
+    ],
+    "answer": 2,
+    "explanation": "'Call for' means to require, demand, or make necessary.",
+    "rule": "Phrasal verb with call",
+    "bengaliHint": "দাবি করা বা প্রয়োজন হওয়া।"
+  },
+  {
+    "id": "v05-079",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "When the patient's condition worsened, the resident doctor decided to ___ a cardiac surgeon.",
+    "options": [
+      "call out",
+      "call in",
+      "call off",
+      "call up"
+    ],
+    "answer": 1,
+    "explanation": "'Call in' means to summon a specialist or professional for consultation.",
+    "rule": "Phrasal verb with call",
+    "bengaliHint": "ডেকে আনা (বিশেষজ্ঞকে)।"
+  },
+  {
+    "id": "v05-080",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The union committee unanimously decided to ___ the indefinite transit strike.",
+    "options": [
+      "call on",
+      "call out",
+      "call off",
+      "call down"
+    ],
+    "answer": 2,
+    "explanation": "'Call off' means to cancel, abandon, or terminate an event or strike.",
+    "rule": "Phrasal verb with call",
+    "bengaliHint": "প্রত্যাহার বা বাতিল করা।"
+  },
+  {
+    "id": "v05-081",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The visiting dignitaries will ___ the Chief Minister at Nabanna this afternoon.",
+    "options": [
+      "call at",
+      "call on",
+      "call in",
+      "call for"
+    ],
+    "answer": 1,
+    "explanation": "'Call on' means to pay a formal or brief personal visit to someone.",
+    "rule": "Phrasal verb with call",
+    "bengaliHint": "কারও সাথে সাক্ষাৎ করতে যাওয়া।"
+  },
+  {
+    "id": "v05-082",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The civil administration had to ___ the army to conduct flood rescue operations.",
+    "options": [
+      "call on",
+      "call out",
+      "call for",
+      "call in"
+    ],
+    "answer": 1,
+    "explanation": "'Call out' means to summon into action, particularly troops or emergency services.",
+    "rule": "Phrasal verb with call",
+    "bengaliHint": "জরুরি সেবায় তলব করা।"
+  },
+  {
+    "id": "v05-083",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Looking at the faded sepia photograph, the grandfather could distinctly ___ his school days.",
+    "options": [
+      "call upon",
+      "call down",
+      "call up",
+      "call out"
+    ],
+    "answer": 2,
+    "explanation": "'Call up' means to recollect, recall, or bring to mind past memories.",
+    "rule": "Phrasal verb with call",
+    "bengaliHint": "স্মরণ করা বা মনে করা।"
+  },
+  {
+    "id": "v05-084",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Do not get ___ by empty political promises during election campaigns.",
+    "options": [
+      "carried off",
+      "carried away",
+      "carried out",
+      "carried on"
+    ],
+    "answer": 1,
+    "explanation": "'Carry away' means to lose self-control due to strong emotion or excitement.",
+    "rule": "Phrasal verb with carry",
+    "bengaliHint": "আবেগে ভেসে যাওয়া / বিভ্রান্ত হওয়া।"
+  },
+  {
+    "id": "v05-085",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The brilliant debater ___ all the top honors at the national championship.",
+    "options": [
+      "carried away",
+      "carried off",
+      "carried on",
+      "carried up"
+    ],
+    "answer": 1,
+    "explanation": "'Carry off' means to win or secure a prize, award, or victory successfully.",
+    "rule": "Phrasal verb with carry",
+    "bengaliHint": "পুরস্কার বা জয় ছিনিয়ে নেওয়া।"
+  },
+  {
+    "id": "v05-086",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Despite all financial hardships, the scholar resolved to ___ with his doctoral research.",
+    "options": [
+      "carry on",
+      "carry off",
+      "carry away",
+      "carry by"
+    ],
+    "answer": 0,
+    "explanation": "'Carry on' means to continue doing something without stopping.",
+    "rule": "Phrasal verb with carry",
+    "bengaliHint": "চালিয়ে যাওয়া।"
+  },
+  {
+    "id": "v05-087",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The obedient clerk promised to ___ all judicial directives without delay.",
+    "options": [
+      "carry off",
+      "carry out",
+      "carry forward",
+      "carry through"
+    ],
+    "answer": 1,
+    "explanation": "'Carry out' means to execute, perform, or fulfill orders, plans, or duties.",
+    "rule": "Phrasal verb with carry",
+    "bengaliHint": "পালন করা বা সম্পাদন করা।"
+  },
+  {
+    "id": "v05-088",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The enlightened reformer urged the youth to ___ obsolete superstitious dogmas.",
+    "options": [
+      "cast away",
+      "cast off",
+      "cast aside",
+      "cast down"
+    ],
+    "answer": 2,
+    "explanation": "'Cast aside' means to reject, discard, or dismiss something no longer wanted.",
+    "rule": "Phrasal verb with cast",
+    "bengaliHint": "বর্জন করা বা ছুঁড়ে ফেলে দেওয়া।"
+  },
+  {
+    "id": "v05-089",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "If you study consistently every evening, you will soon ___ your batchmates.",
+    "options": [
+      "catch at",
+      "catch up with",
+      "catch out",
+      "catch on"
+    ],
+    "answer": 1,
+    "explanation": "'Catch up with' means to reach the same level, standard, or pace as others ahead.",
+    "rule": "Phrasal verb with catch",
+    "bengaliHint": "ধরে ফেলা / সমকক্ষ হওয়া।"
+  },
+  {
+    "id": "v05-090",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The landlord asked the vacating tenants to ___ their belongings from the storeroom.",
+    "options": [
+      "clear off",
+      "clear out",
+      "clear up",
+      "clear away"
+    ],
+    "answer": 1,
+    "explanation": "'Clear out' means to remove things from an area to make it empty, or to leave quickly.",
+    "rule": "Phrasal verb with clear",
+    "bengaliHint": "জিনিসপত্র সরিয়ে পরিষ্কার বা খালি করা।"
+  },
+  {
+    "id": "v05-091",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "By late afternoon, the overcast sky ___ and bright sunshine appeared.",
+    "options": [
+      "cleared off",
+      "cleared up",
+      "cleared out",
+      "cleared away"
+    ],
+    "answer": 1,
+    "explanation": "'Clear up' means to become bright and fair (of weather), or to resolve a misunderstanding.",
+    "rule": "Phrasal verb with clear",
+    "bengaliHint": "আকাশ পরিষ্কার হওয়া / মেঘ কেটে যাওয়া।"
+  },
+  {
+    "id": "v05-092",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "While cleaning the attic cupboard, I ___ an ancient manuscript written on palm leaves.",
+    "options": [
+      "came by",
+      "came across",
+      "came upon",
+      "came into"
+    ],
+    "answer": 1,
+    "explanation": "'Come across' means to find or meet someone or something by pure chance.",
+    "rule": "Phrasal verb with come",
+    "bengaliHint": "হঠাৎ দেখা বা খুঁজে পাওয়া।"
+  },
+  {
+    "id": "v05-093",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "How did the impoverished collector ___ such a priceless Mughal miniature painting?",
+    "options": [
+      "come at",
+      "come by",
+      "come of",
+      "come through"
+    ],
+    "answer": 1,
+    "explanation": "'Come by' means to manage to acquire or obtain something, often with difficulty.",
+    "rule": "Phrasal verb with come",
+    "bengaliHint": "যোগাড় করা বা হস্তগত হওয়া।"
+  },
+  {
+    "id": "v05-094",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The revolutionary leader ___ an illustrious family of Bengal patriots.",
+    "options": [
+      "came off",
+      "came of",
+      "came out",
+      "came from"
+    ],
+    "answer": 1,
+    "explanation": "'Come of' means to descend from or be the offspring of a particular family lineage.",
+    "rule": "Phrasal verb with come",
+    "bengaliHint": "কোনো বংশ বা পরিবারে জন্ম গ্রহণ করা।"
+  },
+  {
+    "id": "v05-095",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The annual book exhibition ___ with remarkable success and record visitors.",
+    "options": [
+      "came of",
+      "came off",
+      "came round",
+      "came up"
+    ],
+    "answer": 1,
+    "explanation": "'Come off' means to take place successfully as planned.",
+    "rule": "Phrasal verb with come",
+    "bengaliHint": "সফলভাবে অনুষ্ঠিত হওয়া।"
+  },
+  {
+    "id": "v05-096",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "After long persuasion and scientific evidence, he finally ___ to our point of view.",
+    "options": [
+      "came about",
+      "came round",
+      "came up",
+      "came across"
+    ],
+    "answer": 1,
+    "explanation": "'Come round' means to alter one's opinion to agree with someone, or recover consciousness.",
+    "rule": "Phrasal verb with come",
+    "bengaliHint": "মত পরিবর্তন করে একমত হওয়া।"
+  },
+  {
+    "id": "v05-097",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The doctor strictly advised the diabetic patient to ___ on refined sugar and fatty meals.",
+    "options": [
+      "cut off",
+      "cut out",
+      "cut down",
+      "cut away"
+    ],
+    "answer": 2,
+    "explanation": "'Cut down on' means to reduce the quantity or consumption of something.",
+    "rule": "Phrasal verb with cut",
+    "bengaliHint": "পরিমাণ বা খরচ কমানো।"
+  },
+  {
+    "id": "v05-098",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The merchant family has ___ hand-woven Murshidabad silk for over half a century.",
+    "options": [
+      "dealt with",
+      "dealt in",
+      "dealt for",
+      "dealt on"
+    ],
+    "answer": 1,
+    "explanation": "'Deal in' means to buy and sell commercially; to trade in specific goods.",
+    "rule": "Phrasal verb with deal",
+    "bengaliHint": "ব্যবসায়িক পণ্য কেনাবেচা করা।"
+  },
+  {
+    "id": "v05-099",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The grievance redressal officer knows how to ___ difficult public complaints patiently.",
+    "options": [
+      "deal in",
+      "deal with",
+      "deal for",
+      "deal upon"
+    ],
+    "answer": 1,
+    "explanation": "'Deal with' means to manage, handle, or take appropriate action regarding a situation or person.",
+    "rule": "Phrasal verb with deal",
+    "bengaliHint": "সামলানো বা নিষ্পত্তি করা।"
+  },
+  {
+    "id": "v05-100",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Modern progressive societies must ___ feudal caste discrimination once and for all.",
+    "options": [
+      "do away with",
+      "do with",
+      "do over",
+      "do out"
+    ],
+    "answer": 0,
+    "explanation": "'Do away with' means to abolish, eradicate, or put an end to something.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "বিলোপ সাধন করা বা নির্মূল করা।"
+  },
+  {
+    "id": "v05-101",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Seeing the fierce blaze in the warehouse, the firemen had to ___ temporarily.",
+    "options": [
+      "draw on",
+      "draw back",
+      "draw out",
+      "draw up"
+    ],
+    "answer": 1,
+    "explanation": "'Draw back' means to retreat, move backwards from danger, or withdraw.",
+    "rule": "Phrasal verb with draw",
+    "bengaliHint": "পিছিয়ে আসা বা পিছু হটা।"
+  },
+  {
+    "id": "v05-102",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The senior government advocate will ___ the legal draft for the municipal bill.",
+    "options": [
+      "draw on",
+      "draw out",
+      "draw up",
+      "draw back"
+    ],
+    "answer": 2,
+    "explanation": "'Draw up' means to compose, formulate, or write out a legal document or plan.",
+    "rule": "Phrasal verb with draw",
+    "bengaliHint": "দলিল বা খসড়া প্রস্তুত করা।"
+  },
+  {
+    "id": "v05-103",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Whenever you visit Kolkata, please ___ at my residence in Salt Lake.",
+    "options": [
+      "drop off",
+      "drop out",
+      "drop in",
+      "drop by"
+    ],
+    "answer": 2,
+    "explanation": "'Drop in' means to pay a casual, informal visit without prior formal notice.",
+    "rule": "Phrasal verb with drop",
+    "bengaliHint": "অপ্রত্যাশিত বা অনানুষ্ঠানিকভাবে বেড়াতে আসা।"
+  },
+  {
+    "id": "v05-104",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Poverty and family illness forced the promising young girl to ___ of high school.",
+    "options": [
+      "drop in",
+      "drop off",
+      "drop out",
+      "drop away"
+    ],
+    "answer": 2,
+    "explanation": "'Drop out' means to abandon or withdraw from school, college, or an event before completion.",
+    "rule": "Phrasal verb with drop",
+    "bengaliHint": "পড়ালেখা বা প্রতিযোগিতা মাঝপথে ত্যাগ করা।"
+  },
+  {
+    "id": "v05-105",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In times of sudden economic hardship, the family had no emergency savings to ___.",
+    "options": [
+      "fall into",
+      "fall back on",
+      "fall out of",
+      "fall through"
+    ],
+    "answer": 1,
+    "explanation": "'Fall back on' means to rely on something or someone as a reserve when other options fail.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "বিপদের সময় সহায় হিসেবে ব্যবহার করা।"
+  },
+  {
+    "id": "v05-106",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The committee members readily ___ the auditor's suggestions for financial reform.",
+    "options": [
+      "fell out with",
+      "fell in with",
+      "fell off from",
+      "fell through"
+    ],
+    "answer": 1,
+    "explanation": "'Fall in with' means to agree with or accept someone's ideas or plans.",
+    "rule": "Phrasal verb with fall",
+    "bengaliHint": "কারও মতের সাথে একমত হওয়া বা সম্মত হওয়া।"
+  },
+  {
+    "id": "v05-107",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The two business partners ___ over the allocation of annual dividend profits.",
+    "options": [
+      "fell down",
+      "fell off",
+      "fell out",
+      "fell through"
+    ],
+    "answer": 2,
+    "explanation": "'Fall out' means to quarrel, dispute, or end friendly relations with someone.",
+    "rule": "Phrasal verb with fall",
+    "bengaliHint": "ঝগড়া বা বিবাদে জড়িয়ে পড়া।"
+  },
+  {
+    "id": "v05-108",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Due to lack of administrative clearance, the bridge expansion project ___.",
+    "options": [
+      "fell out",
+      "fell off",
+      "fell through",
+      "fell down"
+    ],
+    "answer": 2,
+    "explanation": "'Fall through' means to fail to happen, collapse, or come to nothing.",
+    "rule": "Phrasal verb with fall",
+    "bengaliHint": "পরিকল্পনা ব্যর্থ বা ভেস্তে যাওয়া।"
+  },
+  {
+    "id": "v05-109",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The research team took weeks to ___ the intricate cryptographic cipher.",
+    "options": [
+      "figure in",
+      "figure out",
+      "figure on",
+      "figure up"
+    ],
+    "answer": 1,
+    "explanation": "'Figure out' means to solve, understand, or find the answer through thought.",
+    "rule": "Phrasal verb with figure",
+    "bengaliHint": "বুঝে ওঠা বা সমাধান করা।"
+  },
+  {
+    "id": "v05-110",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The newly appointed office assistant ___ well with all senior members of the department.",
+    "options": [
+      "gets on",
+      "gets along",
+      "gets at",
+      "gets over"
+    ],
+    "answer": 1,
+    "explanation": "'Get along' (or get on) means to maintain a harmonious, friendly relationship with others.",
+    "rule": "Phrasal verb with get",
+    "bengaliHint": "মিলেমিশে চলা বা সুসম্পর্ক রাখা।"
+  },
+  {
+    "id": "v05-111",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "I cannot clearly understand the philosophical truth the author is trying to ___.",
+    "options": [
+      "get on",
+      "get at",
+      "get over",
+      "get off"
+    ],
+    "answer": 1,
+    "explanation": "'Get at' means to imply, mean, or suggest something indirectly.",
+    "rule": "Phrasal verb with get",
+    "bengaliHint": "ইঙ্গিত করা বা বোঝাতে চাওয়া।"
+  },
+  {
+    "id": "v05-112",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A corrupt public servant should never be allowed to ___ embezzlement of state funds.",
+    "options": [
+      "get away with",
+      "get on with",
+      "get off from",
+      "get over to"
+    ],
+    "answer": 0,
+    "explanation": "'Get away with' means to escape blame, detection, or punishment for an offense.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "শাস্তি না পেয়ে পার পেয়ে যাওয়া।"
+  },
+  {
+    "id": "v05-113",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "It took the veteran teacher several weeks to ___ the debilitating viral fever.",
+    "options": [
+      "get on",
+      "get through",
+      "get over",
+      "get up"
+    ],
+    "answer": 2,
+    "explanation": "'Get over' means to recover from an illness, shock, or sorrow.",
+    "rule": "Phrasal verb with get",
+    "bengaliHint": "রোগ বা শোক কাটিয়ে ওঠা।"
+  },
+  {
+    "id": "v05-114",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The municipality launched an urgent drive to ___ hazardous single-use plastics.",
+    "options": [
+      "get rid of",
+      "get out of",
+      "get off with",
+      "get away from"
+    ],
+    "answer": 0,
+    "explanation": "'Get rid of' means to discard, dispose of, or free oneself from an unwanted burden.",
+    "rule": "Idiomatic phrasal verb",
+    "bengaliHint": "মুক্তি পাওয়া বা বর্জন করা।"
+  },
+  {
+    "id": "v05-115",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "With persistent labor and regular practice, the candidate ___ the preliminary exam.",
+    "options": [
+      "got on",
+      "got over",
+      "got through",
+      "got by"
+    ],
+    "answer": 2,
+    "explanation": "'Get through' means to pass a difficult examination or test successfully.",
+    "rule": "Phrasal verb with get",
+    "bengaliHint": "পরীক্ষায় উত্তীর্ণ বা সফল হওয়া।"
+  },
+  {
+    "id": "v05-116",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The governor will ___ the prestigious state awards at the civic ceremony.",
+    "options": [
+      "give in",
+      "give away",
+      "give out",
+      "give up"
+    ],
+    "answer": 1,
+    "explanation": "'Give away' means to distribute prizes or gifts ceremonially, or reveal a secret.",
+    "rule": "Phrasal verb with give",
+    "bengaliHint": "পুরস্কার বা উপহার বিতরণ করা।"
+  },
+  {
+    "id": "v05-117",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Despite intimidation, the determined freedom fighters refused to ___ to the colonial authorities.",
+    "options": [
+      "give up",
+      "give out",
+      "give in",
+      "give off"
+    ],
+    "answer": 2,
+    "explanation": "'Give in' means to surrender, capitulate, or yield to pressure.",
+    "rule": "Phrasal verb with give",
+    "bengaliHint": "নতি স্বীকার করা বা বশ্যতা স্বীকার করা।"
+  },
+  {
+    "id": "v05-118",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The exhausted engine began to ___ thick clouds of pungent black smoke.",
+    "options": [
+      "give in",
+      "give away",
+      "give out",
+      "give up"
+    ],
+    "answer": 2,
+    "explanation": "'Give out' means to emit, discharge, or send forth smoke, sound, or heat.",
+    "rule": "Phrasal verb with give",
+    "bengaliHint": "নির্গমন করা বা নির্গত হওয়া।"
+  },
+  {
+    "id": "v05-119",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "To improve his health and stamina, the athlete resolved to ___ smoking permanently.",
+    "options": [
+      "give in",
+      "give up",
+      "give away",
+      "give off"
+    ],
+    "answer": 1,
+    "explanation": "'Give up' means to abandon, quit, or discontinue a habitual practice.",
+    "rule": "Phrasal verb with give",
+    "bengaliHint": "ছেড়ে দেওয়া বা ত্যাগ করা।"
+  },
+  {
+    "id": "v05-120",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In financial audits, accounts officers must strictly ___ established service rules.",
+    "options": [
+      "go on",
+      "go by",
+      "go through",
+      "go with"
+    ],
+    "answer": 1,
+    "explanation": "'Go by' means to follow, obey, or be guided by rules, directions, or standards.",
+    "rule": "Phrasal verb with go",
+    "bengaliHint": "নিয়ম মেনে চলা।"
+  },
+  {
+    "id": "v05-121",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A high-powered judicial tribunal will ___ the circumstances of the industrial collapse.",
+    "options": [
+      "go into",
+      "go over",
+      "go through",
+      "go around"
+    ],
+    "answer": 0,
+    "explanation": "'Go into' means to investigate, inquire into, or examine in detail.",
+    "rule": "Phrasal verb with go",
+    "bengaliHint": "পুঙ্খানুপুঙ্খ তদন্ত বা বিশ্লেষণ করা।"
+  },
+  {
+    "id": "v05-122",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The ceremonial gun was fired and ___ with a loud resounding boom.",
+    "options": [
+      "went on",
+      "went out",
+      "went off",
+      "went away"
+    ],
+    "answer": 2,
+    "explanation": "'Go off' means to explode, detonate, or be discharged (such as a gun or alarm).",
+    "rule": "Phrasal verb with go",
+    "bengaliHint": "বিস্ফোরিত হওয়া বা শব্দ করে ফোটা।"
+  },
+  {
+    "id": "v05-123",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Please ___ the legal terms and conditions thoroughly before affixing your signature.",
+    "options": [
+      "go over",
+      "go through",
+      "go into",
+      "go by"
+    ],
+    "answer": 1,
+    "explanation": "'Go through' means to read carefully, examine, or experience hardship.",
+    "rule": "Phrasal verb with go",
+    "bengaliHint": "মনোযোগ দিয়ে পড়ে দেখা।"
+  },
+  {
+    "id": "v05-124",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "These classical dance techniques were ___ from guru to disciple through centuries.",
+    "options": [
+      "handed over",
+      "handed down",
+      "handed in",
+      "handed out"
+    ],
+    "answer": 1,
+    "explanation": "'Hand down' means to pass on by tradition or inheritance from generation to generation.",
+    "rule": "Phrasal verb with hand",
+    "bengaliHint": "পরম্পরাগতভাবে পরবর্তী প্রজন্মে পৌঁছে দেওয়া।"
+  },
+  {
+    "id": "v05-125",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The retiring headmaster will formally ___ charge of the institution to the vice-principal.",
+    "options": [
+      "hand down",
+      "hand over",
+      "hand out",
+      "hand in"
+    ],
+    "answer": 1,
+    "explanation": "'Hand over' means to surrender, transfer control, or deliver responsibility to another.",
+    "rule": "Phrasal verb with hand",
+    "bengaliHint": "দায়িত্ব অর্পণ বা হস্তান্তর করা।"
+  },
+  {
+    "id": "v05-126",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The honest witness refused to ___ any material facts during the magistrate's deposition.",
+    "options": [
+      "hold on",
+      "hold back",
+      "hold out",
+      "hold up"
+    ],
+    "answer": 1,
+    "explanation": "'Hold back' means to conceal, suppress, or prevent information from being revealed.",
+    "rule": "Phrasal verb with hold",
+    "bengaliHint": "গোপন রাখা বা চেপে রাখা।"
+  },
+  {
+    "id": "v05-127",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Please ___ for a few seconds while the operator transfers your telephonic call.",
+    "options": [
+      "hold up",
+      "hold out",
+      "hold on",
+      "hold off"
+    ],
+    "answer": 2,
+    "explanation": "'Hold on' means to wait briefly, especially on the telephone.",
+    "rule": "Phrasal verb with hold",
+    "bengaliHint": "অপেক্ষা করা (টেলিফোনে)।"
+  },
+  {
+    "id": "v05-128",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The courageous defenders ___ against the heavy artillery siege for four weeks.",
+    "options": [
+      "held on",
+      "held up",
+      "held out",
+      "held in"
+    ],
+    "answer": 2,
+    "explanation": "'Hold out' means to endure, survive, or resist attack without surrendering.",
+    "rule": "Phrasal verb with hold",
+    "bengaliHint": "অবিচলভাবে প্রতিরোধ জারি রাখা।"
+  },
+  {
+    "id": "v05-129",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Due to heavy flooding on the railway tracks, the express train was ___ for three hours.",
+    "options": [
+      "held out",
+      "held up",
+      "held off",
+      "held on"
+    ],
+    "answer": 1,
+    "explanation": "'Hold up' means to delay the progress of something, or rob at gunpoint.",
+    "rule": "Phrasal verb with hold",
+    "bengaliHint": "বিলম্বিত বা আটকে রাখা।"
+  },
+  {
+    "id": "v05-130",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A loyal patient should never ___ vital medical history from his attending physician.",
+    "options": [
+      "keep on",
+      "keep back",
+      "keep out",
+      "keep off"
+    ],
+    "answer": 1,
+    "explanation": "'Keep back' means to hide, conceal, or withhold truth or information.",
+    "rule": "Phrasal verb with keep",
+    "bengaliHint": "সত্য বা তথ্য লুকিয়ে রাখা।"
+  },
+  {
+    "id": "v05-131",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Warning boards in the botanical garden strictly instruct visitors to ___ the manicured lawn.",
+    "options": [
+      "keep on",
+      "keep off",
+      "keep away",
+      "keep up"
+    ],
+    "answer": 1,
+    "explanation": "'Keep off' means to stay away from or avoid walking on something.",
+    "rule": "Phrasal verb with keep",
+    "bengaliHint": "দূরে থাকা বা না মাড়ানো।"
+  },
+  {
+    "id": "v05-132",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Despite fatigue and severe weather, the rescue team ___ working throughout the night.",
+    "options": [
+      "kept off",
+      "kept out",
+      "kept on",
+      "kept up"
+    ],
+    "answer": 2,
+    "explanation": "'Keep on' means to continue doing something without interruption.",
+    "rule": "Phrasal verb with keep",
+    "bengaliHint": "অবিরাম কাজ চালিয়ে যাওয়া।"
+  },
+  {
+    "id": "v05-133",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In this era of rapid digitization, staff must upgrade their skills to ___ modern trends.",
+    "options": [
+      "keep on with",
+      "keep up with",
+      "keep off from",
+      "keep out of"
+    ],
+    "answer": 1,
+    "explanation": "'Keep up with' means to stay informed, pace oneself, or maintain the same speed as others.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "তাল মিলিয়ে চলা।"
+  },
+  {
+    "id": "v05-134",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Countless patriotic martyrs ___ their lives for the freedom of India.",
+    "options": [
+      "laid out",
+      "laid off",
+      "laid down",
+      "laid up"
+    ],
+    "answer": 2,
+    "explanation": "'Lay down' means to sacrifice one's life, or establish rules and regulations.",
+    "rule": "Phrasal verb with lay",
+    "bengaliHint": "জীবন বলিদান দেওয়া বা নিয়ম নির্ধারণ করা।"
+  },
+  {
+    "id": "v05-135",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Due to the prolonged global slump, the software firm had to ___ fifty junior coders.",
+    "options": [
+      "lay down",
+      "lay off",
+      "lay out",
+      "lay aside"
+    ],
+    "answer": 1,
+    "explanation": "'Lay off' means to dismiss or terminate employees, often due to lack of business.",
+    "rule": "Phrasal verb with lay",
+    "bengaliHint": "কাজ থেকে সাময়িক বা স্থায়ীভাবে ছাঁটাই করা।"
+  },
+  {
+    "id": "v05-136",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The devoted elder sister promised to ___ her younger siblings with loving care.",
+    "options": [
+      "look for",
+      "look after",
+      "look into",
+      "look down"
+    ],
+    "answer": 1,
+    "explanation": "'Look after' means to take care of or tend to someone or something.",
+    "rule": "Phrasal verb with look",
+    "bengaliHint": "দেখাশোনা বা যত্ন নেওয়া।"
+  },
+  {
+    "id": "v05-137",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A civilized and compassionate person will never ___ the impoverished or weak.",
+    "options": [
+      "look up to",
+      "look down upon",
+      "look out for",
+      "look forward to"
+    ],
+    "answer": 1,
+    "explanation": "'Look down upon' means to regard with contempt, disdain, or feeling superior.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "অবজ্ঞার চোখে দেখা বা ছোট মনে করা।"
+  },
+  {
+    "id": "v05-138",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The police inspector is currently ___ the missing register in the secretariat records.",
+    "options": [
+      "looking into",
+      "looking after",
+      "looking for",
+      "looking at"
+    ],
+    "answer": 2,
+    "explanation": "'Look for' means to search for or seek something lost or needed.",
+    "rule": "Phrasal verb with look",
+    "bengaliHint": "খোঁজ করা বা সন্ধান করা।"
+  },
+  {
+    "id": "v05-139",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The batchmates are eagerly ___ attending their annual silver jubilee reunion.",
+    "options": [
+      "looking out to",
+      "looking forward to",
+      "looking up to",
+      "looking down on"
+    ],
+    "answer": 1,
+    "explanation": "'Look forward to' means to anticipate an event with pleasure and excitement.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "আগ্রহের সাথে প্রতীক্ষা করা।"
+  },
+  {
+    "id": "v05-140",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The district magistrate assured the delegation that he would ___ the matter impartially.",
+    "options": [
+      "look after",
+      "look for",
+      "look into",
+      "look through"
+    ],
+    "answer": 2,
+    "explanation": "'Look into' means to investigate, examine, or inspect the facts of a situation.",
+    "rule": "Phrasal verb with look",
+    "bengaliHint": "তদন্ত বা খতিয়ে দেখা।"
+  },
+  {
+    "id": "v05-141",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Whenever you encounter an unfamiliar idiom, you should ___ its meaning in the dictionary.",
+    "options": [
+      "look down",
+      "look up",
+      "look into",
+      "look after"
+    ],
+    "answer": 1,
+    "explanation": "'Look up' means to search for information in a reference book, dictionary, or online database.",
+    "rule": "Phrasal verb with look",
+    "bengaliHint": "অভিধান বা তথ্যের উৎসে খুঁজে দেখা।"
+  },
+  {
+    "id": "v05-142",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The antique parchment was so faded that the historian could barely ___ the royal signature.",
+    "options": [
+      "make up",
+      "make out",
+      "make off",
+      "make for"
+    ],
+    "answer": 1,
+    "explanation": "'Make out' means to decipher, distinguish, or read with difficulty.",
+    "rule": "Phrasal verb with make",
+    "bengaliHint": "কষ্টেসৃষ্টে বুঝতে বা পড়তে পারা।"
+  },
+  {
+    "id": "v05-143",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The employee promised to work overtime on Saturday to ___ for the missed hours.",
+    "options": [
+      "make out",
+      "make for",
+      "make up",
+      "make over"
+    ],
+    "answer": 2,
+    "explanation": "'Make up for' means to compensate for a loss, deficiency, or absence.",
+    "rule": "Phrasal verb with make",
+    "bengaliHint": "ক্ষতিপূরণ করা বা ঘাটতি মেটানো।"
+  },
+  {
+    "id": "v05-144",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The venerable classical singer peacefully ___ at his Kolkata residence at age ninety.",
+    "options": [
+      "passed by",
+      "passed on",
+      "passed away",
+      "passed through"
+    ],
+    "answer": 2,
+    "explanation": "'Pass away' is a respectful euphemism meaning to die.",
+    "rule": "Phrasal verb with pass",
+    "bengaliHint": "মারা যাওয়া বা পরলোকগমন করা।"
+  },
+  {
+    "id": "v05-145",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Her rigorous daily practice in English grammar finally ___ when she topped the merit list.",
+    "options": [
+      "paid out",
+      "paid down",
+      "paid off",
+      "paid up"
+    ],
+    "answer": 2,
+    "explanation": "'Pay off' means to yield good results, prove successful, or settle a debt.",
+    "rule": "Phrasal verb with pay",
+    "bengaliHint": "ভালো ফল দেওয়া বা সফল হওয়া।"
+  },
+  {
+    "id": "v05-146",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The eloquent orator managed to ___ his complex environmental message with absolute clarity.",
+    "options": [
+      "put down",
+      "put across",
+      "put through",
+      "put over"
+    ],
+    "answer": 1,
+    "explanation": "'Put across' means to communicate thoughts, ideas, or arguments effectively to an audience.",
+    "rule": "Phrasal verb with put",
+    "bengaliHint": "সহজে ও স্পষ্ট করে বোঝানো।"
+  },
+  {
+    "id": "v05-147",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The colonial administration used armed constabulary to ___ the peaceful uprising.",
+    "options": [
+      "put out",
+      "put down",
+      "put off",
+      "put away"
+    ],
+    "answer": 1,
+    "explanation": "'Put down' means to suppress, crush, or quell a rebellion or riot.",
+    "rule": "Phrasal verb with put",
+    "bengaliHint": "বিদ্রোহ দমন করা বা লিখে রাখা।"
+  },
+  {
+    "id": "v05-148",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Never ___ until tomorrow the important duties you can accomplish today.",
+    "options": [
+      "put out",
+      "put off",
+      "put on",
+      "put away"
+    ],
+    "answer": 1,
+    "explanation": "'Put off' means to postpone or delay doing something to a future date.",
+    "rule": "Phrasal verb with put",
+    "bengaliHint": "স্থগিত রাখা বা পিছিয়ে দেওয়া।"
+  },
+  {
+    "id": "v05-149",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The fire brigade arrived promptly and ___ the blazing inferno in the commercial warehouse.",
+    "options": [
+      "put off",
+      "put down",
+      "put out",
+      "put in"
+    ],
+    "answer": 2,
+    "explanation": "'Put out' means to extinguish a fire, flame, or light.",
+    "rule": "Phrasal verb with put",
+    "bengaliHint": "আগুন বা আলো নিভিয়ে দেওয়া।"
+  },
+  {
+    "id": "v05-150",
+    "chapter": "v05",
+    "type": "mcq",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "No self-respecting officer should ever ___ corrupt practices or abusive behavior.",
+    "options": [
+      "put on with",
+      "put up with",
+      "put out of",
+      "put down to"
+    ],
+    "answer": 1,
+    "explanation": "'Put up with' means to tolerate, endure, or bear with someone or something unpleasant.",
+    "rule": "Three-part phrasal verb",
+    "bengaliHint": "সহ্য করা।"
   }
 ]

@@ -4,8 +4,9 @@
   const countParam=Number(params.get("count"));
   const chapterParam=params.get("chapter");
   let config={defaultQuestionCount:30,defaultDurationMinutes:30,negativeMarking:0.25,correctMarks:1,dailyQuestionCount:10,weeklyQuestionCount:30};
-  let questions=[],current=0,timerId=null;
+  let timerId=null;
   const stateKey="wbpsc-active-test";
+  let currentTestState=null;
 
   const esc=value=>{const el=document.createElement("div");el.textContent=value??"";return el.innerHTML};
   function shuffle(items){const copy=[...items];for(let i=copy.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[copy[i],copy[j]]=[copy[j],copy[i]]}return copy}
@@ -115,6 +116,7 @@
 
   function renderPalette(state){
     const palette=document.querySelector("#palette");
+    if(!palette || !state) return;
     palette.innerHTML=state.questions.map((q,index)=>{
       let status="";
       if(state.answers[index]!=null)status+=" answered";
@@ -122,14 +124,24 @@
       if(index===state.current)status+=" current";
       return `<button class="palette-item${status}" type="button" data-index="${index}" aria-label="Question ${index+1}${status}">${index+1}</button>`;
     }).join("");
-    palette.querySelectorAll("button").forEach(button=>button.addEventListener("click",()=>{state.current=Number(button.dataset.index);save();render();}));
+    palette.querySelectorAll("button").forEach(button=>button.addEventListener("click",()=>{
+      const target=Number(button.dataset.index);
+      if(!isNaN(target) && target>=0 && target<currentTestState.questions.length){
+        currentTestState.current=target;
+        save();
+        render();
+      }
+    }));
   }
 
   function render(){
-    const state=WBPSCStorage.get(stateKey);
-    if(!state||state.questions.length===0){
+    const state=currentTestState;
+    if(!state||!Array.isArray(state.questions)||state.questions.length===0){
       document.querySelector("#question-area").innerHTML='<p class="notice">No questions are available for this test category yet. Complete a few practice tests or choose another category.</p>';
       return;
+    }
+    if(typeof state.current !== "number" || state.current < 0 || state.current >= state.questions.length){
+      state.current = 0;
     }
     if (state.category.startsWith("pyq")) {
       if (state.category.includes("2023-s1-full")) {
@@ -159,23 +171,44 @@
     const area=document.querySelector("#question-area");
     area.innerHTML=`<div class="question-heading"><div class="meta-row"><span class="badge">${esc(q.chapterTitle)}</span><span class="badge">${esc(q.difficulty)}</span></div><span>Question ${state.current+1} of ${state.questions.length}</span></div><h2>${esc(q.question)}</h2><div class="test-options">${q.randomOptions.map((option,index)=>`<button class="btn secondary test-option${state.answers[state.current]===index?" selected":""}" type="button" data-index="${index}">${String.fromCharCode(65+index)}. ${esc(option)}</button>`).join("")}</div><div class="test-actions"><button id="mark-review" class="btn secondary" type="button" aria-pressed="${state.marked[state.current]}">${state.marked[state.current]?"Marked for review":"Mark for review"}</button><div><button id="previous-question" class="btn secondary" type="button"${state.current===0?" disabled":""}>Previous</button><button id="next-question" class="btn primary" type="button"${state.current===state.questions.length-1?" disabled":""}>Next</button></div></div>`;
     area.querySelectorAll(".test-option").forEach(button=>button.addEventListener("click",()=>{
-      state.answers[state.current]=Number(button.dataset.index);save();render();
+      currentTestState.answers[currentTestState.current]=Number(button.dataset.index);
+      save();
+      render();
     }));
     area.querySelector("#mark-review").addEventListener("click",event=>{
-      state.marked[state.current]=!state.marked[state.current];event.currentTarget.setAttribute("aria-pressed",String(state.marked[state.current]));save();renderPalette(state);
+      currentTestState.marked[currentTestState.current]=!currentTestState.marked[currentTestState.current];
+      save();
+      render();
     });
-    area.querySelector("#previous-question").addEventListener("click",()=>{if(state.current>0){state.current--;save();render()}});
-    area.querySelector("#next-question").addEventListener("click",()=>{if(state.current<state.questions.length-1){state.current++;save();render()}});
-    renderPalette(state);
+    area.querySelector("#previous-question").addEventListener("click",()=>{
+      if(currentTestState.current>0){
+        currentTestState.current--;
+        save();
+        render();
+        const areaEl=document.querySelector("#question-area");
+        if(areaEl) areaEl.scrollIntoView({ behavior:"smooth", block:"nearest" });
+      }
+    });
+    area.querySelector("#next-question").addEventListener("click",()=>{
+      if(currentTestState.current<currentTestState.questions.length-1){
+        currentTestState.current++;
+        save();
+        render();
+        const areaEl=document.querySelector("#question-area");
+        if(areaEl) areaEl.scrollIntoView({ behavior:"smooth", block:"nearest" });
+      }
+    });
+    renderPalette(currentTestState);
   }
 
   function save(){
-    const state=WBPSCStorage.get(stateKey);
-    if(state)WBPSCStorage.set(stateKey,state);
+    if(currentTestState){
+      WBPSCStorage.set(stateKey, currentTestState);
+    }
   }
 
   function updateTimer(){
-    const state=WBPSCStorage.get(stateKey);
+    const state=currentTestState;
     if(!state)return;
     const elapsed=Math.floor((Date.now()-state.startedAt)/1000);
     const remaining=Math.max(0,state.remainingSeconds-elapsed);
@@ -186,7 +219,7 @@
 
   function submitTest(auto=false){
     if(timerId){clearInterval(timerId);timerId=null}
-    const state=WBPSCStorage.get(stateKey);
+    const state=currentTestState;
     if(!state)return;
     let correct=0,wrong=0,skipped=0,score=0;
     const topic={};
@@ -215,8 +248,8 @@
   (async()=>{
     try{
       config={...config,...await loadJson("data/test-config.json")};
-      let state=WBPSCStorage.get(stateKey);
-      if(!state){
+      currentTestState=WBPSCStorage.get(stateKey);
+      if(!currentTestState){
         let count=countParam||config.defaultQuestionCount;
         if(type==="daily")count=config.dailyQuestionCount;
         if(type==="weekly")count=config.weeklyQuestionCount;
@@ -227,8 +260,8 @@
           count=10;
         }
         const pool=await loadQuestions();
-        state=buildTest(pool,count);
-        WBPSCStorage.set(stateKey,state);
+        currentTestState=buildTest(pool,count);
+        save();
       }
       render();
       updateTimer();

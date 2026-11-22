@@ -272,541 +272,631 @@
   {
     "id": "v07-016",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "I bought pens and envelopes from the local ___ shop.",
+    "question": "The students were asked to ___ the new rules quietly, with no one exempt ___ the monitor.",
     "options": [
-      "stationery",
-      "stationary",
-      "stationer",
-      "station"
+      "accept, except",
+      "except, accept",
+      "expect, accept",
+      "accept, aspect"
     ],
     "answer": 0,
-    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
-    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
-    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+    "explanation": "'Accept' means to receive or agree to; 'except' means excluding.",
+    "rule": "Confusing pairs: accept vs except",
+    "bengaliHint": "গ্রহণ করা (accept) vs ব্যতীত (except)।"
   },
   {
     "id": "v07-017",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The bus remained ___ at the traffic signal.",
+    "question": "Only senior researchers have ___ to the secret archives; drinking in ___ is prohibited.",
     "options": [
-      "stationary",
-      "stationery",
-      "stationing",
-      "station"
+      "excess, access",
+      "access, excess",
+      "access, assess",
+      "excess, assess"
     ],
-    "answer": 0,
-    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
-    "rule": "Stationary means motionless",
-    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+    "answer": 1,
+    "explanation": "'Access' means entry or right to approach; 'excess' means an overabundance.",
+    "rule": "Confusing pairs: access vs excess",
+    "bengaliHint": "প্রবেশাধিকার (access) vs অতিরিক্ত (excess)।"
   },
   {
     "id": "v07-018",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "question": "A sensible person must ___ to new surroundings; she is highly ___ at painting.",
     "options": [
-      "complement",
-      "compliment",
-      "complimentary",
-      "complience"
+      "adopt, adept",
+      "adept, adapt",
+      "adapt, adept",
+      "adapt, adopt"
     ],
-    "answer": 0,
-    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
-    "rule": "Complement (enhances/completes) vs Compliment (praise)",
-    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+    "answer": 2,
+    "explanation": "'Adapt' means to adjust or modify; 'adept' means highly skilled.",
+    "rule": "Confusing pairs: adapt vs adept",
+    "bengaliHint": "মানিয়ে নেওয়া (adapt) vs দক্ষ বা পারদর্শী (adept)।"
   },
   {
     "id": "v07-019",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "He paid her a gracious ___ on her elegant attire.",
+    "question": "The lawyer gave his client prudent ___; he will ___ him on courtroom decorum tomorrow.",
     "options": [
-      "compliment",
-      "complement",
-      "complimentary",
-      "comply"
+      "advise, advice",
+      "advises, advises",
+      "advise, advise",
+      "advice, advise"
     ],
-    "answer": 0,
-    "explanation": "'Compliment' means an expression of praise or admiration.",
-    "rule": "Compliment means praise",
-    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+    "answer": 3,
+    "explanation": "'Advice' is the noun (counsel); 'advise' is the verb (to counsel).",
+    "rule": "Confusing pairs: advice (noun) vs advise (verb)",
+    "bengaliHint": "উপদেশ (advice - noun) vs উপদেশ দেওয়া (advise - verb)।"
   },
   {
     "id": "v07-020",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The headmaster will not ___ of such indiscipline.",
+    "question": "The sudden rainfall will ___ the cotton harvest; the medication had no side ___.",
     "options": [
-      "hear",
-      "here",
-      "hare",
-      "heir"
+      "affect, effect",
+      "effect, affect",
+      "affect, affect",
+      "effect, effect"
     ],
     "answer": 0,
-    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
-    "rule": "Hear vs Here",
-    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+    "explanation": "'Affect' is typically a verb meaning to influence; 'effect' is typically a noun meaning result.",
+    "rule": "Confusing pairs: affect vs effect",
+    "bengaliHint": "প্রভাবিত করা (affect - verb) vs ফলাফল বা প্রভাব (effect - noun)।"
   },
   {
     "id": "v07-021",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "I bought pens and envelopes from the local ___ shop.",
+    "question": "The poem contained an ___ to Greek mythology, but the mirage in the desert was a mere optical ___.",
     "options": [
-      "stationery",
-      "stationary",
-      "stationer",
-      "station"
+      "illusion, allusion",
+      "allusion, illusion",
+      "elusion, illusion",
+      "allusion, delusion"
     ],
-    "answer": 0,
-    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
-    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
-    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+    "answer": 1,
+    "explanation": "'Allusion' is an indirect reference; 'illusion' is a deceptive appearance.",
+    "rule": "Confusing pairs: allusion vs illusion",
+    "bengaliHint": "পরোক্ষ উল্লেখ (allusion) vs ভ্রম বা অলীক কল্পনা (illusion)।"
   },
   {
     "id": "v07-022",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The bus remained ___ at the traffic signal.",
+    "question": "The patient visits the clinic on ___ days; the doctor offered an ___ treatment plan.",
     "options": [
-      "stationary",
-      "stationery",
-      "stationing",
-      "station"
+      "alternative, alternate",
+      "alternating, alternated",
+      "alternate, alternative",
+      "alternative, alternatively"
     ],
-    "answer": 0,
-    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
-    "rule": "Stationary means motionless",
-    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+    "answer": 2,
+    "explanation": "'Alternate' means every second or other; 'alternative' means available as another possibility.",
+    "rule": "Confusing pairs: alternate vs alternative",
+    "bengaliHint": "একদিন অন্তর (alternate) vs বিকল্প (alternative)।"
   },
   {
     "id": "v07-023",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "question": "The steep mountain ___ exhausted the climbers; the governor gave his ___ to the legislation.",
     "options": [
-      "complement",
-      "compliment",
-      "complimentary",
-      "complience"
+      "assent, ascent",
+      "ascent, ascend",
+      "assented, ascent",
+      "ascent, assent"
     ],
-    "answer": 0,
-    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
-    "rule": "Complement (enhances/completes) vs Compliment (praise)",
-    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+    "answer": 3,
+    "explanation": "'Ascent' is the climb or upward path; 'assent' is official agreement or sanction.",
+    "rule": "Confusing pairs: ascent vs assent",
+    "bengaliHint": "আরোহণ (ascent) vs সম্মতি (assent)।"
   },
   {
     "id": "v07-024",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "He paid her a gracious ___ on her elegant attire.",
+    "question": "She sat ___ her sick mother all evening; ___ English, he is proficient in Bengali.",
     "options": [
-      "compliment",
-      "complement",
-      "complimentary",
-      "comply"
+      "beside, besides",
+      "besides, beside",
+      "beside, beside",
+      "besides, besides"
     ],
     "answer": 0,
-    "explanation": "'Compliment' means an expression of praise or admiration.",
-    "rule": "Compliment means praise",
-    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+    "explanation": "'Beside' means by the side of; 'besides' means in addition to.",
+    "rule": "Confusing pairs: beside vs besides",
+    "bengaliHint": "পাশে (beside) vs অধিকন্তু বা ছাড়া (besides)।"
   },
   {
     "id": "v07-025",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The headmaster will not ___ of such indiscipline.",
+    "question": "The artist stretched the oil ___ over the wooden frame before politicians began to ___ for votes.",
     "options": [
-      "hear",
-      "here",
-      "hare",
-      "heir"
+      "canvass, canvas",
+      "canvas, canvass",
+      "canvas, canvas",
+      "canvass, canvass"
     ],
-    "answer": 0,
-    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
-    "rule": "Hear vs Here",
-    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+    "answer": 1,
+    "explanation": "'Canvas' is heavy rough cloth for painting or tents; 'canvass' means to solicit votes or opinions.",
+    "rule": "Confusing pairs: canvas vs canvass",
+    "bengaliHint": "চিত্রপটের কাপড় (canvas) vs ভোট চাওয়া বা প্রচার করা (canvass)।"
   },
   {
     "id": "v07-026",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "I bought pens and envelopes from the local ___ shop.",
+    "question": "The film board decided to ___ the violent scene; the parliament passed a vote of ___ against the minister.",
     "options": [
-      "stationery",
-      "stationary",
-      "stationer",
-      "station"
+      "censure, censor",
+      "censor, sensor",
+      "censor, censure",
+      "censure, sensor"
     ],
-    "answer": 0,
-    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
-    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
-    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+    "answer": 2,
+    "explanation": "'Censor' means to suppress unacceptable parts; 'censure' means severe formal reprimand.",
+    "rule": "Confusing pairs: censor vs censure",
+    "bengaliHint": "কাটছাঁট বা সেন্সর করা (censor) vs তীব্র তিরস্কার বা নিন্দা (censure)।"
   },
   {
     "id": "v07-027",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The bus remained ___ at the traffic signal.",
+    "question": "The bomb squad worked desperately to ___ the explosive; the fragrance began to ___ across the garden.",
     "options": [
-      "stationary",
-      "stationery",
-      "stationing",
-      "station"
+      "diffuse, defuse",
+      "defuse, defused",
+      "diffused, defuse",
+      "defuse, diffuse"
     ],
-    "answer": 0,
-    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
-    "rule": "Stationary means motionless",
-    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+    "answer": 3,
+    "explanation": "'Defuse' means to remove the fuse from a bomb or calm tension; 'diffuse' means spread over a wide area.",
+    "rule": "Confusing pairs: defuse vs diffuse",
+    "bengaliHint": "নিষ্ক্রিয় করা (defuse) vs ছড়িয়ে পড়া (diffuse)।"
   },
   {
     "id": "v07-028",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "question": "The nomadic caravan traveled across the arid ___; after dinner, we enjoyed delicious mango ___.",
     "options": [
-      "complement",
-      "compliment",
-      "complimentary",
-      "complience"
+      "desert, dessert",
+      "dessert, desert",
+      "desert, desert",
+      "dessert, dessert"
     ],
     "answer": 0,
-    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
-    "rule": "Complement (enhances/completes) vs Compliment (praise)",
-    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+    "explanation": "'Desert' is an arid barren region; 'dessert' is sweet course eaten at the end of a meal.",
+    "rule": "Confusing pairs: desert vs dessert",
+    "bengaliHint": "মরুভূমি (desert) vs মিষ্টি খাবার (dessert)।"
   },
   {
     "id": "v07-029",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "He paid her a gracious ___ on her elegant attire.",
+    "question": "The diplomat was very ___ with sensitive state secrets; the syllabus was divided into three ___ modules.",
     "options": [
-      "compliment",
-      "complement",
-      "complimentary",
-      "comply"
+      "discrete, discreet",
+      "discreet, discrete",
+      "discreet, discreet",
+      "discrete, discrete"
     ],
-    "answer": 0,
-    "explanation": "'Compliment' means an expression of praise or admiration.",
-    "rule": "Compliment means praise",
-    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+    "answer": 1,
+    "explanation": "'Discreet' means careful, prudent, and keeping secrets; 'discrete' means individually separate and distinct.",
+    "rule": "Confusing pairs: discreet vs discrete",
+    "bengaliHint": "সতর্ক ও বিচক্ষণ (discreet) vs পৃথক বা স্বতন্ত্র (discrete)।"
   },
   {
     "id": "v07-030",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The headmaster will not ___ of such indiscipline.",
+    "question": "An arbitrator must be completely ___; she was totally ___ in attending the match.",
     "options": [
-      "hear",
-      "here",
-      "hare",
-      "heir"
+      "uninterested, disinterested",
+      "disinterested, disinterest",
+      "disinterested, uninterested",
+      "uninterested, uninterest"
     ],
-    "answer": 0,
-    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
-    "rule": "Hear vs Here",
-    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+    "answer": 2,
+    "explanation": "'Disinterested' means impartial and unbiased; 'uninterested' means having no interest or bored.",
+    "rule": "Confusing pairs: disinterested vs uninterested",
+    "bengaliHint": "নিরপেক্ষ (disinterested) vs অনাগ্রহী বা উদাসীন (uninterested)।"
   },
   {
     "id": "v07-031",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "I bought pens and envelopes from the local ___ shop.",
+    "question": "The government announced major ___ reforms; she is very ___ and avoids wasteful shopping.",
     "options": [
-      "stationery",
-      "stationary",
-      "stationer",
-      "station"
+      "economical, economic",
+      "economized, economic",
+      "economic, economy",
+      "economic, economical"
     ],
-    "answer": 0,
-    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
-    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
-    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+    "answer": 3,
+    "explanation": "'Economic' relates to the economy or finance; 'economical' means avoiding waste and thrifty.",
+    "rule": "Confusing pairs: economic vs economical",
+    "bengaliHint": "অর্থনৈতিক (economic) vs মিতব্যয়ী (economical)।"
   },
   {
     "id": "v07-032",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The bus remained ___ at the traffic signal.",
+    "question": "Graduates above twenty-one are ___ for the clerkship; his handwriting on the script was completely ___.",
     "options": [
-      "stationary",
-      "stationery",
-      "stationing",
-      "station"
+      "eligible, illegible",
+      "illegible, eligible",
+      "eligible, eligible",
+      "illegible, illegible"
     ],
     "answer": 0,
-    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
-    "rule": "Stationary means motionless",
-    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+    "explanation": "'Eligible' means qualified or entitled; 'illegible' means impossible or difficult to read.",
+    "rule": "Confusing pairs: eligible vs illegible",
+    "bengaliHint": "যোগ্য বা উপযুক্ত (eligible) vs পাঠের অযোগ্য বা অস্পষ্ট (illegible)।"
   },
   {
     "id": "v07-033",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "question": "Dr. Sen is an ___ scientist in nuclear physics; the dark storm clouds indicate ___ rain.",
     "options": [
-      "complement",
-      "compliment",
-      "complimentary",
-      "complience"
+      "imminent, eminent",
+      "eminent, imminent",
+      "eminent, eminence",
+      "imminent, immanent"
     ],
-    "answer": 0,
-    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
-    "rule": "Complement (enhances/completes) vs Compliment (praise)",
-    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+    "answer": 1,
+    "explanation": "'Eminent' means distinguished and prominent; 'imminent' means about to happen very soon.",
+    "rule": "Confusing pairs: eminent vs imminent",
+    "bengaliHint": "বিশিষ্ট বা প্রখ্যাত (eminent) vs আসন্ন বা সমাগত (imminent)।"
   },
   {
     "id": "v07-034",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "He paid her a gracious ___ on her elegant attire.",
+    "question": "Many citizens chose to ___ from wartime Europe; they wanted to ___ into Canada.",
     "options": [
-      "compliment",
-      "complement",
-      "complimentary",
-      "comply"
+      "immigrate, emigrate",
+      "emigrated, immigrant",
+      "emigrate, immigrate",
+      "immigrate, emigration"
     ],
-    "answer": 0,
-    "explanation": "'Compliment' means an expression of praise or admiration.",
-    "rule": "Compliment means praise",
-    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+    "answer": 2,
+    "explanation": "'Emigrate' means to leave one's own country; 'immigrate' means to enter and settle in another country.",
+    "rule": "Confusing pairs: emigrate vs immigrate",
+    "bengaliHint": "দেশ ত্যাগ করা (emigrate) vs পরদেশে অভিবাসন করা (immigrate)।"
   },
   {
     "id": "v07-035",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "The headmaster will not ___ of such indiscipline.",
+    "question": "The treaty was ___ ratified by parliament; he was ___ an officer in the Indian Navy.",
     "options": [
-      "hear",
-      "here",
-      "hare",
-      "heir"
+      "formerly, formally",
+      "formal, former",
+      "formed, former",
+      "formally, formerly"
     ],
-    "answer": 0,
-    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
-    "rule": "Hear vs Here",
-    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+    "answer": 3,
+    "explanation": "'Formally' means in an official, dignified manner; 'formerly' means previously or in past times.",
+    "rule": "Confusing pairs: formally vs formerly",
+    "bengaliHint": "আনুষ্ঠানিকভাবে (formally) vs পূর্বে বা অতীতে (formerly)।"
   },
   {
     "id": "v07-036",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "I bought pens and envelopes from the local ___ shop.",
+    "question": "The 1947 independence speech was a ___ moment; she conducted ___ research into Mughal monuments.",
     "options": [
-      "stationery",
-      "stationary",
-      "stationer",
-      "station"
+      "historic, historical",
+      "historical, historic",
+      "historic, history",
+      "historical, historian"
     ],
     "answer": 0,
-    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
-    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
-    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+    "explanation": "'Historic' means famous or important in history; 'historical' means concerning history or past events.",
+    "rule": "Confusing pairs: historic vs historical",
+    "bengaliHint": "ঐতিহাসিক গুরুত্বসম্পন্ন (historic) vs ইতিহাস-বিষয়ক (historical)।"
   },
   {
     "id": "v07-037",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The bus remained ___ at the traffic signal.",
+    "question": "To err is ___, to forgive divine; the shelter provided ___ care to abandoned animals.",
     "options": [
-      "stationary",
-      "stationery",
-      "stationing",
-      "station"
+      "humane, human",
+      "human, humane",
+      "human, human",
+      "humane, humane"
     ],
-    "answer": 0,
-    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
-    "rule": "Stationary means motionless",
-    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+    "answer": 1,
+    "explanation": "'Human' relates to human beings; 'humane' means showing compassion, benevolence, and kindness.",
+    "rule": "Confusing pairs: human vs humane",
+    "bengaliHint": "মানুষ বা মানবীয় (human) vs দয়ালু বা মানবিক (humane)।"
   },
   {
     "id": "v07-038",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "question": "The supreme court bench ordered a ___ inquiry; a ___ investment saved him from bankruptcy.",
     "options": [
-      "complement",
-      "compliment",
-      "complimentary",
-      "complience"
+      "judicious, judicial",
+      "judiciary, judicious",
+      "judicial, judicious",
+      "judicial, judicial"
     ],
-    "answer": 0,
-    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
-    "rule": "Complement (enhances/completes) vs Compliment (praise)",
-    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+    "answer": 2,
+    "explanation": "'Judicial' relates to courts of law and judges; 'judicious' means wise, prudent, and sensible.",
+    "rule": "Confusing pairs: judicial vs judicious",
+    "bengaliHint": "বিচারবিভাগীয় (judicial) vs বিচক্ষণ বা দূরদর্শী (judicious)।"
   },
   {
     "id": "v07-039",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "He paid her a gracious ___ on her elegant attire.",
+    "question": "The screw on the desk chair has become ___; do not ___ your examination admit card.",
     "options": [
-      "compliment",
-      "complement",
-      "complimentary",
-      "comply"
+      "lose, loose",
+      "loss, lost",
+      "losing, lose",
+      "loose, lose"
     ],
-    "answer": 0,
-    "explanation": "'Compliment' means an expression of praise or admiration.",
-    "rule": "Compliment means praise",
-    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+    "answer": 3,
+    "explanation": "'Loose' means not tight or free from restraint; 'lose' means to misplace or be deprived of.",
+    "rule": "Confusing pairs: loose vs lose",
+    "bengaliHint": "আলগা বা ঢিলেঢালা (loose) vs হারানো বা অপচয় করা (lose)।"
   },
   {
     "id": "v07-040",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "easy",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The headmaster will not ___ of such indiscipline.",
+    "question": "They stayed in a ___ five-star suite; the dense forest was covered in ___ vegetation.",
     "options": [
-      "hear",
-      "here",
-      "hare",
-      "heir"
+      "luxurious, luxuriant",
+      "luxuriant, luxurious",
+      "luxury, luxuriant",
+      "luxurious, luxury"
     ],
     "answer": 0,
-    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
-    "rule": "Hear vs Here",
-    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+    "explanation": "'Luxurious' means characterized by comfort and luxury; 'luxuriant' means rich and profuse in growth.",
+    "rule": "Confusing pairs: luxurious vs luxuriant",
+    "bengaliHint": "বিলাসবহুল (luxurious) vs ঘন ও সতেজ বৃদ্ধিশীল (luxuriant)।"
   },
   {
     "id": "v07-041",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "medium",
     "isPYQ": false,
-    "question": "I bought pens and envelopes from the local ___ shop.",
+    "question": "He made an ___ statement to reporters; the ___ clerk annoyed visitors with petty rules.",
     "options": [
-      "stationery",
-      "stationary",
-      "stationer",
-      "station"
+      "officious, official",
+      "official, officious",
+      "office, officious",
+      "official, officer"
     ],
-    "answer": 0,
-    "explanation": "'Stationery' (with 'e') refers to writing materials like pens and paper. 'Stationary' (with 'a') means not moving.",
-    "rule": "Stationery (paper/pens) vs Stationary (motionless)",
-    "bengaliHint": "লেখার সামগ্রী হলো 'stationery' (e দিয়ে)।"
+    "answer": 1,
+    "explanation": "'Official' means authorized or formal; 'officious' means meddlesome and assertive of petty authority.",
+    "rule": "Confusing pairs: official vs officious",
+    "bengaliHint": "দাপ্তরিক বা সরকারি (official) vs গায়ে-পড়া বা অনধিকারচর্চাকারী (officious)।"
   },
   {
     "id": "v07-042",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "The bus remained ___ at the traffic signal.",
+    "question": "Do not disclose your ___ diary to strangers; the company recruited specialized technical ___.",
     "options": [
-      "stationary",
-      "stationery",
-      "stationing",
-      "station"
+      "personnel, personal",
+      "personal, person",
+      "personal, personnel",
+      "personnel, persons"
     ],
-    "answer": 0,
-    "explanation": "'Stationary' (with 'a') means standing still, not moving.",
-    "rule": "Stationary means motionless",
-    "bengaliHint": "স্থির বা গতিহীন বোঝাতে 'stationary' বসে।"
+    "answer": 2,
+    "explanation": "'Personal' relates to an individual's private life; 'personnel' means staff or employees.",
+    "rule": "Confusing pairs: personal vs personnel",
+    "bengaliHint": "ব্যক্তিগত (personal) vs কর্মীদল বা কর্মচারী (personnel)।"
   },
   {
     "id": "v07-043",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "medium",
+    "type": "confusing-words",
+    "difficulty": "hard",
     "isPYQ": false,
-    "question": "The delicious dessert was a wonderful ___ to the meal.",
+    "question": "The high school ___ addressed the morning assembly; he is a man of uncompromising moral ___.",
     "options": [
-      "complement",
-      "compliment",
-      "complimentary",
-      "complience"
+      "principle, principal",
+      "principles, principals",
+      "principal, principals",
+      "principal, principle"
     ],
-    "answer": 0,
-    "explanation": "'Complement' means something that completes or enhances. 'Compliment' means praise.",
-    "rule": "Complement (enhances/completes) vs Compliment (praise)",
-    "bengaliHint": "পরিপূরক অর্থে 'complement' বসে।"
+    "answer": 3,
+    "explanation": "'Principal' means the head of an institution or chief; 'principle' means a fundamental moral rule or truth.",
+    "rule": "Confusing pairs: principal vs principle",
+    "bengaliHint": "অধ্যক্ষ বা প্রধান (principal) vs নীতি বা আদর্শ (principle)।"
   },
   {
     "id": "v07-044",
     "chapter": "v07",
-    "type": "mcq",
-    "difficulty": "hard",
+    "type": "confusing-words",
+    "difficulty": "easy",
     "isPYQ": false,
-    "question": "He paid her a gracious ___ on her elegant attire.",
+    "question": "The train remained ___ at the platform; I bought fountain pens from the ___ shop.",
     "options": [
-      "compliment",
-      "complement",
-      "complimentary",
-      "comply"
+      "stationary, stationery",
+      "stationery, stationary",
+      "stationary, stationer",
+      "stationery, stationing"
     ],
     "answer": 0,
-    "explanation": "'Compliment' means an expression of praise or admiration.",
-    "rule": "Compliment means praise",
-    "bengaliHint": "প্রশংসা করা অর্থে 'compliment' বসে।"
+    "explanation": "'Stationary' (with 'a') means not moving; 'stationery' (with 'e') means writing materials.",
+    "rule": "Confusing pairs: stationary vs stationery",
+    "bengaliHint": "স্থির বা গতিহীন (stationary) vs লেখার সরঞ্জাম (stationery)।"
   },
   {
     "id": "v07-045",
     "chapter": "v07",
-    "type": "mcq",
+    "type": "confusing-words",
     "difficulty": "medium",
     "isPYQ": false,
-    "question": "The headmaster will not ___ of such indiscipline.",
+    "question": "The peacock strutted in ___ display; the nurse felt the pulse in the patient's radial ___.",
     "options": [
-      "hear",
-      "here",
-      "hare",
-      "heir"
+      "vein, vain",
+      "vain, vein",
+      "vane, vain",
+      "vain, vane"
+    ],
+    "answer": 1,
+    "explanation": "'Vain' means excessively conceited or useless; 'vein' is a blood vessel carrying blood to the heart.",
+    "rule": "Confusing pairs: vain vs vein",
+    "bengaliHint": "অহংকারী বা ব্যর্থ (vain) vs রক্তনালী বা শিরা (vein)।"
+  },
+  {
+    "id": "v07-046",
+    "chapter": "v07",
+    "type": "confusing-words",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The magistrate doubted the ___ of the forged statement; the beast devoured the prey with savage ___.",
+    "options": [
+      "voracity, veracity",
+      "voracious, veracity",
+      "veracity, voracity",
+      "veracity, voracious"
+    ],
+    "answer": 2,
+    "explanation": "'Veracity' means truthfulness or accuracy; 'voracity' means extreme greediness or ravenous appetite.",
+    "rule": "Confusing pairs: veracity vs voracity",
+    "bengaliHint": "সত্যবাদিতা বা সত্যতা (veracity) vs পেটুকপনা বা প্রচণ্ড ক্ষুধা (voracity)।"
+  },
+  {
+    "id": "v07-047",
+    "chapter": "v07",
+    "type": "confusing-words",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "We wondered ___ the stormy ___ would clear before the boat race.",
+    "options": [
+      "weather, whether",
+      "weathering, whether",
+      "whether, withering",
+      "whether, weather"
+    ],
+    "answer": 3,
+    "explanation": "'Whether' expresses a doubt or choice; 'weather' refers to atmospheric conditions.",
+    "rule": "Confusing pairs: whether vs weather",
+    "bengaliHint": "কিনা (whether) vs আবহাওয়া (weather)।"
+  },
+  {
+    "id": "v07-048",
+    "chapter": "v07",
+    "type": "confusing-words",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The court granted him ___ on a personal bond; workers unloaded a ___ of raw cotton.",
+    "options": [
+      "bail, bale",
+      "bale, bail",
+      "bail, bailing",
+      "bale, baled"
     ],
     "answer": 0,
-    "explanation": "'Hear' means to perceive with the ear or tolerate/listen to.",
-    "rule": "Hear vs Here",
-    "bengaliHint": "শোনা বা সহ্য করা অর্থে 'hear' বসে।"
+    "explanation": "'Bail' means temporary legal release on security; 'bale' is a large bundled pack of goods.",
+    "rule": "Confusing pairs: bail vs bale",
+    "bengaliHint": "জামিন (bail) vs কাপাস বা পণ্যের গাঁট (bale)।"
+  },
+  {
+    "id": "v07-049",
+    "chapter": "v07",
+    "type": "confusing-words",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The monk stood respectfully before the temple ___; you must not ___ your daily schedule.",
+    "options": [
+      "alter, altar",
+      "altar, alter",
+      "altered, altar",
+      "altar, alternate"
+    ],
+    "answer": 1,
+    "explanation": "'Altar' is a raised sacred platform for worship; 'alter' means to change or modify.",
+    "rule": "Confusing pairs: altar vs alter",
+    "bengaliHint": "বেদী (altar) vs পরিবর্তন করা (alter)।"
+  },
+  {
+    "id": "v07-050",
+    "chapter": "v07",
+    "type": "confusing-words",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The driver applied the emergency ___ to avoid a crash, lest the glass window ___ into pieces.",
+    "options": [
+      "break, brake",
+      "braking, broke",
+      "brake, break",
+      "brakes, breaking"
+    ],
+    "answer": 2,
+    "explanation": "'Brake' is a device for slowing a vehicle; 'break' means to smash or shatter.",
+    "rule": "Confusing pairs: brake vs break",
+    "bengaliHint": "গাড়ির ব্রেক (brake) vs ভাঙা (break)।"
   }
 ]

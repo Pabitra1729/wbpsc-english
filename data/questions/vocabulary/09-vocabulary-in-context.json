@@ -273,546 +273,6 @@
     "id": "v09-016",
     "chapter": "v09",
     "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
-    "options": [
-      "Economical and careful with expenditure",
-      "Extravagant",
-      "Generous",
-      "Careless"
-    ],
-    "answer": 0,
-    "explanation": "'Frugal' in context means living economically and avoiding waste.",
-    "rule": "Context: Frugal = economical",
-    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
-  },
-  {
-    "id": "v09-017",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
-    "options": [
-      "Official judicial notice / knowledge",
-      "Careless dismissal",
-      "Severe punishment",
-      "Postponement"
-    ],
-    "answer": 0,
-    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
-    "rule": "Context: Cognizance = judicial notice",
-    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
-  },
-  {
-    "id": "v09-018",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
-    "options": [
-      "No longer valid or applicable",
-      "Extremely urgent",
-      "Legally binding",
-      "Violent"
-    ],
-    "answer": 0,
-    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
-    "rule": "Context: Obsolete = outdated / superseded",
-    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
-  },
-  {
-    "id": "v09-019",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
-    "options": [
-      "Practical and realistic",
-      "Emotional and biased",
-      "Idealistic and naive",
-      "Hesitant"
-    ],
-    "answer": 0,
-    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
-    "rule": "Context: Pragmatic = practical",
-    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
-  },
-  {
-    "id": "v09-020",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
-    "options": [
-      "Capable of swift recovery from damage",
-      "Permanently destroyed",
-      "Submerged",
-      "Unchanged"
-    ],
-    "answer": 0,
-    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
-    "rule": "Context: Resilient = recovering quickly",
-    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
-  },
-  {
-    "id": "v09-021",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
-    "options": [
-      "Economical and careful with expenditure",
-      "Extravagant",
-      "Generous",
-      "Careless"
-    ],
-    "answer": 0,
-    "explanation": "'Frugal' in context means living economically and avoiding waste.",
-    "rule": "Context: Frugal = economical",
-    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
-  },
-  {
-    "id": "v09-022",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
-    "options": [
-      "Official judicial notice / knowledge",
-      "Careless dismissal",
-      "Severe punishment",
-      "Postponement"
-    ],
-    "answer": 0,
-    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
-    "rule": "Context: Cognizance = judicial notice",
-    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
-  },
-  {
-    "id": "v09-023",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
-    "options": [
-      "No longer valid or applicable",
-      "Extremely urgent",
-      "Legally binding",
-      "Violent"
-    ],
-    "answer": 0,
-    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
-    "rule": "Context: Obsolete = outdated / superseded",
-    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
-  },
-  {
-    "id": "v09-024",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
-    "options": [
-      "Practical and realistic",
-      "Emotional and biased",
-      "Idealistic and naive",
-      "Hesitant"
-    ],
-    "answer": 0,
-    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
-    "rule": "Context: Pragmatic = practical",
-    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
-  },
-  {
-    "id": "v09-025",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
-    "options": [
-      "Capable of swift recovery from damage",
-      "Permanently destroyed",
-      "Submerged",
-      "Unchanged"
-    ],
-    "answer": 0,
-    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
-    "rule": "Context: Resilient = recovering quickly",
-    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
-  },
-  {
-    "id": "v09-026",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
-    "options": [
-      "Economical and careful with expenditure",
-      "Extravagant",
-      "Generous",
-      "Careless"
-    ],
-    "answer": 0,
-    "explanation": "'Frugal' in context means living economically and avoiding waste.",
-    "rule": "Context: Frugal = economical",
-    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
-  },
-  {
-    "id": "v09-027",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
-    "options": [
-      "Official judicial notice / knowledge",
-      "Careless dismissal",
-      "Severe punishment",
-      "Postponement"
-    ],
-    "answer": 0,
-    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
-    "rule": "Context: Cognizance = judicial notice",
-    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
-  },
-  {
-    "id": "v09-028",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
-    "options": [
-      "No longer valid or applicable",
-      "Extremely urgent",
-      "Legally binding",
-      "Violent"
-    ],
-    "answer": 0,
-    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
-    "rule": "Context: Obsolete = outdated / superseded",
-    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
-  },
-  {
-    "id": "v09-029",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
-    "options": [
-      "Practical and realistic",
-      "Emotional and biased",
-      "Idealistic and naive",
-      "Hesitant"
-    ],
-    "answer": 0,
-    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
-    "rule": "Context: Pragmatic = practical",
-    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
-  },
-  {
-    "id": "v09-030",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
-    "options": [
-      "Capable of swift recovery from damage",
-      "Permanently destroyed",
-      "Submerged",
-      "Unchanged"
-    ],
-    "answer": 0,
-    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
-    "rule": "Context: Resilient = recovering quickly",
-    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
-  },
-  {
-    "id": "v09-031",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
-    "options": [
-      "Economical and careful with expenditure",
-      "Extravagant",
-      "Generous",
-      "Careless"
-    ],
-    "answer": 0,
-    "explanation": "'Frugal' in context means living economically and avoiding waste.",
-    "rule": "Context: Frugal = economical",
-    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
-  },
-  {
-    "id": "v09-032",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
-    "options": [
-      "Official judicial notice / knowledge",
-      "Careless dismissal",
-      "Severe punishment",
-      "Postponement"
-    ],
-    "answer": 0,
-    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
-    "rule": "Context: Cognizance = judicial notice",
-    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
-  },
-  {
-    "id": "v09-033",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
-    "options": [
-      "No longer valid or applicable",
-      "Extremely urgent",
-      "Legally binding",
-      "Violent"
-    ],
-    "answer": 0,
-    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
-    "rule": "Context: Obsolete = outdated / superseded",
-    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
-  },
-  {
-    "id": "v09-034",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
-    "options": [
-      "Practical and realistic",
-      "Emotional and biased",
-      "Idealistic and naive",
-      "Hesitant"
-    ],
-    "answer": 0,
-    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
-    "rule": "Context: Pragmatic = practical",
-    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
-  },
-  {
-    "id": "v09-035",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
-    "options": [
-      "Capable of swift recovery from damage",
-      "Permanently destroyed",
-      "Submerged",
-      "Unchanged"
-    ],
-    "answer": 0,
-    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
-    "rule": "Context: Resilient = recovering quickly",
-    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
-  },
-  {
-    "id": "v09-036",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
-    "options": [
-      "Economical and careful with expenditure",
-      "Extravagant",
-      "Generous",
-      "Careless"
-    ],
-    "answer": 0,
-    "explanation": "'Frugal' in context means living economically and avoiding waste.",
-    "rule": "Context: Frugal = economical",
-    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
-  },
-  {
-    "id": "v09-037",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
-    "options": [
-      "Official judicial notice / knowledge",
-      "Careless dismissal",
-      "Severe punishment",
-      "Postponement"
-    ],
-    "answer": 0,
-    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
-    "rule": "Context: Cognizance = judicial notice",
-    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
-  },
-  {
-    "id": "v09-038",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
-    "options": [
-      "No longer valid or applicable",
-      "Extremely urgent",
-      "Legally binding",
-      "Violent"
-    ],
-    "answer": 0,
-    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
-    "rule": "Context: Obsolete = outdated / superseded",
-    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
-  },
-  {
-    "id": "v09-039",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
-    "options": [
-      "Practical and realistic",
-      "Emotional and biased",
-      "Idealistic and naive",
-      "Hesitant"
-    ],
-    "answer": 0,
-    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
-    "rule": "Context: Pragmatic = practical",
-    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
-  },
-  {
-    "id": "v09-040",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
-    "options": [
-      "Capable of swift recovery from damage",
-      "Permanently destroyed",
-      "Submerged",
-      "Unchanged"
-    ],
-    "answer": 0,
-    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
-    "rule": "Context: Resilient = recovering quickly",
-    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
-  },
-  {
-    "id": "v09-041",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'His frugal lifestyle allowed him to save funds for his daughter's education', 'frugal' means:",
-    "options": [
-      "Economical and careful with expenditure",
-      "Extravagant",
-      "Generous",
-      "Careless"
-    ],
-    "answer": 0,
-    "explanation": "'Frugal' in context means living economically and avoiding waste.",
-    "rule": "Context: Frugal = economical",
-    "bengaliHint": "মিতব্যয়ী জীবনযাপন বোঝাতে 'frugal' বসে।"
-  },
-  {
-    "id": "v09-042",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "In 'The magistrate took cognizance of the official complaint', 'cognizance' means:",
-    "options": [
-      "Official judicial notice / knowledge",
-      "Careless dismissal",
-      "Severe punishment",
-      "Postponement"
-    ],
-    "answer": 0,
-    "explanation": "'Take cognizance of' is a formal legal idiom meaning to take judicial notice of an offense.",
-    "rule": "Context: Cognizance = judicial notice",
-    "bengaliHint": "বিচারিক আমলে নেওয়া অর্থে 'cognizance' বসে।"
-  },
-  {
-    "id": "v09-043",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'The treaty rendered earlier territorial disputes obsolete', 'obsolete' means:",
-    "options": [
-      "No longer valid or applicable",
-      "Extremely urgent",
-      "Legally binding",
-      "Violent"
-    ],
-    "answer": 0,
-    "explanation": "'Obsolete' in this treaty context means defunct, outmoded, or no longer relevant.",
-    "rule": "Context: Obsolete = outdated / superseded",
-    "bengaliHint": "অকেজো বা বাতিল হয়ে যাওয়া অর্থে 'obsolete' বসে।"
-  },
-  {
-    "id": "v09-044",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "In 'Her pragmatic approach resolved the workplace deadlock', 'pragmatic' means:",
-    "options": [
-      "Practical and realistic",
-      "Emotional and biased",
-      "Idealistic and naive",
-      "Hesitant"
-    ],
-    "answer": 0,
-    "explanation": "'Pragmatic' denotes an approach focused on practical application rather than theory.",
-    "rule": "Context: Pragmatic = practical",
-    "bengaliHint": "বাস্তবসম্মত পদক্ষেপকে 'pragmatic' বলে।"
-  },
-  {
-    "id": "v09-045",
-    "chapter": "v09",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "In 'The mangrove delta showed resilient recovery after the cyclone', 'resilient' means:",
-    "options": [
-      "Capable of swift recovery from damage",
-      "Permanently destroyed",
-      "Submerged",
-      "Unchanged"
-    ],
-    "answer": 0,
-    "explanation": "'Resilient' denotes the capacity to withstand and bounce back from destruction.",
-    "rule": "Context: Resilient = recovering quickly",
-    "bengaliHint": "ক্ষয়ক্ষতি কাটিয়ে ওঠার ক্ষমতাকে 'resilient' বলে।"
-  },
-  {
-    "id": "v09-046",
-    "chapter": "v09",
-    "type": "mcq",
     "difficulty": "medium",
     "isPYQ": false,
     "question": "Despite the heavy rain, the crowd remained ___ and refused to leave.",
@@ -828,7 +288,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'steadfast'।"
   },
   {
-    "id": "v09-047",
+    "id": "v09-017",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -846,7 +306,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'incoherent'।"
   },
   {
-    "id": "v09-048",
+    "id": "v09-018",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -864,7 +324,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'affable'।"
   },
   {
-    "id": "v09-049",
+    "id": "v09-019",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -882,7 +342,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'negligence'।"
   },
   {
-    "id": "v09-050",
+    "id": "v09-020",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -900,7 +360,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'scarce'।"
   },
   {
-    "id": "v09-051",
+    "id": "v09-021",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -918,7 +378,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'corroborated'।"
   },
   {
-    "id": "v09-052",
+    "id": "v09-022",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -936,7 +396,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'evasive'।"
   },
   {
-    "id": "v09-053",
+    "id": "v09-023",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -954,7 +414,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'refractory'।"
   },
   {
-    "id": "v09-054",
+    "id": "v09-024",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -972,7 +432,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'revoked'।"
   },
   {
-    "id": "v09-055",
+    "id": "v09-025",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -990,7 +450,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'caustic'।"
   },
   {
-    "id": "v09-056",
+    "id": "v09-026",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1008,7 +468,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'feasibility'।"
   },
   {
-    "id": "v09-057",
+    "id": "v09-027",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1026,7 +486,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'magnanimous'।"
   },
   {
-    "id": "v09-058",
+    "id": "v09-028",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1044,7 +504,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'jargon'।"
   },
   {
-    "id": "v09-059",
+    "id": "v09-029",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1062,7 +522,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'frugality'।"
   },
   {
-    "id": "v09-060",
+    "id": "v09-030",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1080,7 +540,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'stentorian'।"
   },
   {
-    "id": "v09-061",
+    "id": "v09-031",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1098,7 +558,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'stunned'।"
   },
   {
-    "id": "v09-062",
+    "id": "v09-032",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1116,7 +576,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'impeccable'।"
   },
   {
-    "id": "v09-063",
+    "id": "v09-033",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1134,7 +594,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'alleviate'।"
   },
   {
-    "id": "v09-064",
+    "id": "v09-034",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1152,7 +612,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'meticulous'।"
   },
   {
-    "id": "v09-065",
+    "id": "v09-035",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1170,7 +630,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'estranged'।"
   },
   {
-    "id": "v09-066",
+    "id": "v09-036",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1188,7 +648,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'unanimously'।"
   },
   {
-    "id": "v09-067",
+    "id": "v09-037",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1206,7 +666,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'inclement'।"
   },
   {
-    "id": "v09-068",
+    "id": "v09-038",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1224,7 +684,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'proud'।"
   },
   {
-    "id": "v09-069",
+    "id": "v09-039",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1242,7 +702,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'crisis'।"
   },
   {
-    "id": "v09-070",
+    "id": "v09-040",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1260,7 +720,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'clemency'।"
   },
   {
-    "id": "v09-071",
+    "id": "v09-041",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1278,7 +738,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'reassuring'।"
   },
   {
-    "id": "v09-072",
+    "id": "v09-042",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1296,7 +756,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'dilapidated'।"
   },
   {
-    "id": "v09-073",
+    "id": "v09-043",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1314,7 +774,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'refuted'।"
   },
   {
-    "id": "v09-074",
+    "id": "v09-044",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1332,7 +792,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'exhorted'।"
   },
   {
-    "id": "v09-075",
+    "id": "v09-045",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1350,7 +810,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'expertise'।"
   },
   {
-    "id": "v09-076",
+    "id": "v09-046",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1368,7 +828,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'eluded'।"
   },
   {
-    "id": "v09-077",
+    "id": "v09-047",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1386,7 +846,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'penury'।"
   },
   {
-    "id": "v09-078",
+    "id": "v09-048",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1404,7 +864,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'headstrong'।"
   },
   {
-    "id": "v09-079",
+    "id": "v09-049",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1422,7 +882,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'curt'।"
   },
   {
-    "id": "v09-080",
+    "id": "v09-050",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1440,7 +900,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'immense'।"
   },
   {
-    "id": "v09-081",
+    "id": "v09-051",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1458,7 +918,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'hollow'।"
   },
   {
-    "id": "v09-082",
+    "id": "v09-052",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1476,7 +936,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'chaos'।"
   },
   {
-    "id": "v09-083",
+    "id": "v09-053",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1494,7 +954,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'resorted'।"
   },
   {
-    "id": "v09-084",
+    "id": "v09-054",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1512,7 +972,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'virulence'।"
   },
   {
-    "id": "v09-085",
+    "id": "v09-055",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1530,7 +990,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'circumspectly'।"
   },
   {
-    "id": "v09-086",
+    "id": "v09-056",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1548,7 +1008,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'respite'।"
   },
   {
-    "id": "v09-087",
+    "id": "v09-057",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1566,7 +1026,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'protested'।"
   },
   {
-    "id": "v09-088",
+    "id": "v09-058",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1584,7 +1044,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'cavalier'।"
   },
   {
-    "id": "v09-089",
+    "id": "v09-059",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1602,7 +1062,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'merge'।"
   },
   {
-    "id": "v09-090",
+    "id": "v09-060",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1620,7 +1080,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'poignant'।"
   },
   {
-    "id": "v09-091",
+    "id": "v09-061",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1638,7 +1098,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'enforced'।"
   },
   {
-    "id": "v09-092",
+    "id": "v09-062",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1656,7 +1116,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'ingenuity'।"
   },
   {
-    "id": "v09-093",
+    "id": "v09-063",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1674,7 +1134,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'flimsy'।"
   },
   {
-    "id": "v09-094",
+    "id": "v09-064",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1692,7 +1152,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'rewarded'।"
   },
   {
-    "id": "v09-095",
+    "id": "v09-065",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1710,7 +1170,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'agility'।"
   },
   {
-    "id": "v09-096",
+    "id": "v09-066",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1728,7 +1188,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'adamant'।"
   },
   {
-    "id": "v09-097",
+    "id": "v09-067",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1746,7 +1206,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'overwhelmed'।"
   },
   {
-    "id": "v09-098",
+    "id": "v09-068",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1764,7 +1224,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'discreet'।"
   },
   {
-    "id": "v09-099",
+    "id": "v09-069",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1782,7 +1242,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'scorching'।"
   },
   {
-    "id": "v09-100",
+    "id": "v09-070",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1800,7 +1260,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'ill at ease'।"
   },
   {
-    "id": "v09-101",
+    "id": "v09-071",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1818,7 +1278,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'replace'।"
   },
   {
-    "id": "v09-102",
+    "id": "v09-072",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1836,7 +1296,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'inaugurated'।"
   },
   {
-    "id": "v09-103",
+    "id": "v09-073",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1854,7 +1314,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'independence'।"
   },
   {
-    "id": "v09-104",
+    "id": "v09-074",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1872,7 +1332,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'exhausted'।"
   },
   {
-    "id": "v09-105",
+    "id": "v09-075",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1890,7 +1350,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'hazardous'।"
   },
   {
-    "id": "v09-106",
+    "id": "v09-076",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1908,7 +1368,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'cogent'।"
   },
   {
-    "id": "v09-107",
+    "id": "v09-077",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1926,7 +1386,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'tarnished'।"
   },
   {
-    "id": "v09-108",
+    "id": "v09-078",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -1944,7 +1404,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'tenderness'।"
   },
   {
-    "id": "v09-109",
+    "id": "v09-079",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -1962,7 +1422,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'subdued'।"
   },
   {
-    "id": "v09-110",
+    "id": "v09-080",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1980,7 +1440,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'futile'।"
   },
   {
-    "id": "v09-111",
+    "id": "v09-081",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -1998,7 +1458,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'secretive'।"
   },
   {
-    "id": "v09-112",
+    "id": "v09-082",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "hard",
@@ -2016,7 +1476,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'brilliant'।"
   },
   {
-    "id": "v09-113",
+    "id": "v09-083",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "easy",
@@ -2034,7 +1494,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'denounced'।"
   },
   {
-    "id": "v09-114",
+    "id": "v09-084",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -2052,7 +1512,7 @@
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'blessing'।"
   },
   {
-    "id": "v09-115",
+    "id": "v09-085",
     "chapter": "v09",
     "type": "mcq",
     "difficulty": "medium",
@@ -2068,5 +1528,545 @@
     "explanation": "'dumbfounded' is the most appropriate word fitting the tone and context of the sentence.",
     "rule": "Vocabulary in Context: dumbfounded",
     "bengaliHint": "বাক্যের প্রেক্ষাপট অনুযায়ী সবচেয়ে যথোপযুক্ত শব্দ হলো 'dumbfounded'।"
+  },
+  {
+    "id": "v09-086",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Despite numerous public appeals, the minister remained adamant on the proposed tax reform', the word 'adamant' means:",
+    "options": [
+      "Unshakeable and refusing to be persuaded",
+      "Highly flexible and lenient",
+      "Hesitant and indecisive",
+      "Deeply apologetic"
+    ],
+    "answer": 0,
+    "explanation": "Adamant means refusing to be persuaded or to change one's mind; resolute.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "অনমনীয় বা দৃঢ়প্রতিজ্ঞ।"
+  },
+  {
+    "id": "v09-087",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'His belligerent tone during the negotiation alarmed the foreign delegates', the word 'belligerent' denotes:",
+    "options": [
+      "Diplomatic and polite",
+      "Hostile, aggressive, and combative",
+      "Cheerful and humorous",
+      "Soft-spoken and gentle"
+    ],
+    "answer": 1,
+    "explanation": "Belligerent means aggressive and ready to fight.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "যুদ্ধংদেহী বা আক্রমণাত্মক।"
+  },
+  {
+    "id": "v09-088",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The forensic ballistics report served to corroborate the suspect's alibi', the word 'corroborate' means:",
+    "options": [
+      "Contradict completely",
+      "Discard as irrelevant",
+      "Confirm or give support to a statement",
+      "Exaggerate significantly"
+    ],
+    "answer": 2,
+    "explanation": "Corroborate means to confirm or support with evidence.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "সমর্থন বা প্রমাণ দ্বারা নিশ্চিত করা।"
+  },
+  {
+    "id": "v09-089",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Excessive consumption of processed sugar is known to have detrimental effects on metabolism', 'detrimental' means:",
+    "options": [
+      "Extremely beneficial",
+      "Insignificant and minor",
+      "Quickly digested",
+      "Tending to cause harm or damage"
+    ],
+    "answer": 3,
+    "explanation": "Detrimental means causing harm, injury, or damage.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "ক্ষতিকর বা অনিষ্টকর।"
+  },
+  {
+    "id": "v09-090",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Fame in modern social media is ephemeral, lasting barely a few days', the word 'ephemeral' indicates:",
+    "options": [
+      "Transitory and lasting a very short time",
+      "Permanent and enduring",
+      "Lucrative and profitable",
+      "Widely respected"
+    ],
+    "answer": 0,
+    "explanation": "Ephemeral means lasting for a very brief time; fleeting.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "ক্ষণস্থায়ী।"
+  },
+  {
+    "id": "v09-091",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The DNA evidence finally exonerated the prisoner after ten years of false imprisonment', 'exonerated' means:",
+    "options": [
+      "Sentenced to hard labor",
+      "Absolved from blame or guilt",
+      "Transferred to another jail",
+      "Fined heavily by court"
+    ],
+    "answer": 1,
+    "explanation": "Exonerate means to officially absolve someone from blame or fault.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "নির্দোষ প্রমাণ করে মুক্তি দেওয়া।"
+  },
+  {
+    "id": "v09-092",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The flood victims faced unprecedented adversity with admirable fortitude', the word 'fortitude' signifies:",
+    "options": [
+      "Cowardice and surrender",
+      "Anger and hostility",
+      "Courage and strength in bearing pain or adversity",
+      "Complete indifference"
+    ],
+    "answer": 2,
+    "explanation": "Fortitude means mental and emotional strength in facing difficulty, adversity, or danger.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "ধৈর্য, মানসিক সাহস বা সংকল্প।"
+  },
+  {
+    "id": "v09-093",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The veteran politician seemed impervious to media criticism', the word 'impervious' means:",
+    "options": [
+      "Deeply wounded and hurt",
+      "Constantly responding",
+      "Highly sensitive",
+      "Unable to be affected or influenced by"
+    ],
+    "answer": 3,
+    "explanation": "Impervious means not allowing fluid to pass through, or unable to be affected by criticism.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "অভেদ্য বা কোনো কিছুর দ্বারা প্রভাবিত না হওয়া।"
+  },
+  {
+    "id": "v09-094",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The auditor examined every invoice with meticulous care', 'meticulous' means:",
+    "options": [
+      "Showing extreme care, accuracy, and attention to detail",
+      "Careless and hurried",
+      "Reluctant and bored",
+      "Superficial"
+    ],
+    "answer": 0,
+    "explanation": "Meticulous means taking or showing extreme care about minute details; precise.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "পুঙ্খানুপুঙ্খ বা অত্যন্ত সতর্ক।"
+  },
+  {
+    "id": "v09-095",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The billionaire's ostentatious lifestyle attracted both envy and criticism', 'ostentatious' denotes:",
+    "options": [
+      "Austere and humble",
+      "Characterized by pretentious, vulgar showiness",
+      "Private and reclusive",
+      "Frugal and economical"
+    ],
+    "answer": 1,
+    "explanation": "Ostentatious means pretentious or showy in an attempt to impress.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "আড়ম্বরপূর্ণ বা জাঁকজমকপূর্ণ।"
+  },
+  {
+    "id": "v09-096",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'His explanation for missing the deadline was plausible enough to satisfy the committee', 'plausible' means:",
+    "options": [
+      "Absurd and impossible",
+      "Proven to be a complete lie",
+      "Seeming reasonable, probable, or believable",
+      "Unintelligible"
+    ],
+    "answer": 2,
+    "explanation": "Plausible means skilled at producing seemingly believable explanations; credible.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "বিশ্বাসযোগ্য বা আপাতদৃষ্টিতে সত্য মনে হয় এমন।"
+  },
+  {
+    "id": "v09-097",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The hill climbers found themselves in a precarious position on the crumbling ledge', 'precarious' means:",
+    "options": [
+      "Comfortable and relaxed",
+      "Well-guarded and protected",
+      "Scenic and beautiful",
+      "Dangerously unstable and insecure"
+    ],
+    "answer": 3,
+    "explanation": "Precarious means dependent on chance; uncertain, insecure, or dangerous.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "অনিশ্চিত বা বিপজ্জনকভাবে ভারসাম্যহীন।"
+  },
+  {
+    "id": "v09-098",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'Sundarbans mangrove ecosystems are remarkably resilient against cyclonic storms', 'resilient' signifies:",
+    "options": [
+      "Able to recover quickly from difficult conditions or damage",
+      "Fragile and easily destroyed",
+      "Dry and barren",
+      "Permanent and static"
+    ],
+    "answer": 0,
+    "explanation": "Resilient means able to withstand or recover quickly from difficult conditions.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "সহনশীল বা প্রতিকূল অবস্থা থেকে দ্রুত সেরে ওঠার ক্ষমতাসম্পন্ন।"
+  },
+  {
+    "id": "v09-099",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The research scholar was scrupulous in citing every reference source', 'scrupulous' means:",
+    "options": [
+      "Negligent and hasty",
+      "Diligent, thorough, and attentive to ethical accuracy",
+      "Dishonest and deceptive",
+      "Reluctant"
+    ],
+    "answer": 1,
+    "explanation": "Scrupulous means diligent, thorough, and extremely attentive to details and ethics.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "নীতিবান বা অত্যন্ত খুঁতখুঁতে ও সতর্ক।"
+  },
+  {
+    "id": "v09-100",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The tenacious detective pursued the cold murder case for two decades', 'tenacious' means:",
+    "options": [
+      "Hesitant and uncertain",
+      "Careless and lazy",
+      "Holding fast, persistent, and unyielding",
+      "Easily discouraged"
+    ],
+    "answer": 2,
+    "explanation": "Tenacious means not readily relinquishing a position or course of action; determined.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "নাছোড়বান্দা বা দৃঢ়প্রতিজ্ঞ।"
+  },
+  {
+    "id": "v09-101",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'He is a versatile actor who excels equally in tragedy and comedy', 'versatile' means:",
+    "options": [
+      "Specialized in one narrow genre",
+      "Inexperienced and untrained",
+      "Overrated and dull",
+      "Able to adapt to many different functions or roles"
+    ],
+    "answer": 3,
+    "explanation": "Versatile means able to adapt or be adapted to many different functions or activities.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "বহুমুখী প্রতিভাধর।"
+  },
+  {
+    "id": "v09-102",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The discovery of the missing invoice served to vindicate the honest cashier', 'vindicate' means:",
+    "options": [
+      "Clear of blame, suspicion, or doubt",
+      "Indict and prosecute",
+      "Demote to a junior rank",
+      "Fine heavily"
+    ],
+    "answer": 0,
+    "explanation": "Vindicate means to clear someone of blame or suspicion.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "দোষমুক্ত প্রমাণ করা।"
+  },
+  {
+    "id": "v09-103",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'Crude oil prices remained highly volatile throughout the geopolitical crisis', 'volatile' denotes:",
+    "options": [
+      "Constant and unvarying",
+      "Liable to change rapidly and unpredictably",
+      "Extremely low and stable",
+      "Completely predictable"
+    ],
+    "answer": 1,
+    "explanation": "Volatile means liable to change rapidly and unpredictably, especially for the worse.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "উদ্বায়ী বা দ্রুত পরিবর্তনশীল।"
+  },
+  {
+    "id": "v09-104",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The instructions given by the supervisor were ambiguous and caused confusion', 'ambiguous' means:",
+    "options": [
+      "Simple and concise",
+      "Precise and direct",
+      "Open to more than one interpretation; unclear",
+      "Firm and strict"
+    ],
+    "answer": 2,
+    "explanation": "Ambiguous means open to more than one interpretation; not having one obvious meaning.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "দ্ব্যর্থবোধক বা অস্পষ্ট।"
+  },
+  {
+    "id": "v09-105",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The tyrant displayed a callous disregard for the suffering of flood victims', 'callous' means:",
+    "options": [
+      "Deeply sympathetic",
+      "Gentle and compassionate",
+      "Generous and charitable",
+      "Showing an insensitive and cruel disregard for others"
+    ],
+    "answer": 3,
+    "explanation": "Callous means showing or having an insensitive and cruel disregard for others.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "নিষ্ঠুর বা হৃদয়হীন।"
+  },
+  {
+    "id": "v09-106",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The diligent student spent hours analyzing previous years question papers', 'diligent' means:",
+    "options": [
+      "Showing persistent, conscientious hard work",
+      "Careless and indolent",
+      "Easily distracted",
+      "Overconfident"
+    ],
+    "answer": 0,
+    "explanation": "Diligent means having or showing care and conscientiousness in one's work.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "পরিশ্রমী বা অধ্যবসায়ী।"
+  },
+  {
+    "id": "v09-107",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'By following a frugal lifestyle, the clerk managed to educate his children well', 'frugal' signifies:",
+    "options": [
+      "Extravagant and spendthrift",
+      "Economical, sparing, and thrifty with money",
+      "Greedy and miserly",
+      "Impoverished"
+    ],
+    "answer": 1,
+    "explanation": "Frugal means sparing or economical with regard to money or food.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "মিতব্যয়ী।"
+  },
+  {
+    "id": "v09-108",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'Being naturally gregarious, he quickly made dozens of friends in the new town', 'gregarious' indicates:",
+    "options": [
+      "Reclusive and shy",
+      "Aggressive and combative",
+      "Fond of company; sociable and outgoing",
+      "Suspicious of strangers"
+    ],
+    "answer": 2,
+    "explanation": "Gregarious means fond of company; sociable.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "মিশুক বা দলপ্রিয়।"
+  },
+  {
+    "id": "v09-109",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The court condemned the terrorist attack as a heinous crime against humanity', 'heinous' means:",
+    "options": [
+      "Pardonable and minor",
+      "Unintentional",
+      "Political",
+      "Utterly odious, wicked, and abominable"
+    ],
+    "answer": 3,
+    "explanation": "Heinous means utterly odious or wicked.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "জঘন্য বা নৃশংস।"
+  },
+  {
+    "id": "v09-110",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The operating theater in the hospital was kept in an immaculate condition', 'immaculate' means:",
+    "options": [
+      "Perfectly clean, neat, and spotless",
+      "Moderately tidy",
+      "Crowded with equipment",
+      "Contaminated with dust"
+    ],
+    "answer": 0,
+    "explanation": "Immaculate means perfectly clean, neat, or tidy; free from flaws or mistakes.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "নিখুঁত বা সম্পূর্ণ নিষ্কলুষ।"
+  },
+  {
+    "id": "v09-111",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The district collector made a judicious allocation of drought-relief funds', 'judicious' means:",
+    "options": [
+      "Reckless and wasteful",
+      "Wise, sensible, and exhibiting good judgment",
+      "Partisan and biased",
+      "Hesitant"
+    ],
+    "answer": 1,
+    "explanation": "Judicious means having or showing good judgment or sense.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "বিচক্ষণ ও ন্যায়সঙ্গত।"
+  },
+  {
+    "id": "v09-112",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'The physics professor gave a lucid explanation of electromagnetic radiation', 'lucid' signifies:",
+    "options": [
+      "Confusing and technical",
+      "Dull and uninspiring",
+      "Clear, easy to understand, and luminous",
+      "Lengthy and boring"
+    ],
+    "answer": 2,
+    "explanation": "Lucid means expressed clearly; easy to understand.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "সহজবোধ্য বা প্রাঞ্জল।"
+  },
+  {
+    "id": "v09-113",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "In 'The philanthropist made a munificent donation to build a cancer hospital', 'munificent' means:",
+    "options": [
+      "Miserly and small",
+      "Reluctant and forced",
+      "Legal and tax-deductible",
+      "Extremely generous and bountiful"
+    ],
+    "answer": 3,
+    "explanation": "Munificent means larger or more generous than is usual or necessary.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "মুক্তহস্ত বা অত্যন্ত দানশীল।"
+  },
+  {
+    "id": "v09-114",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "In 'He maintained a nonchalant demeanor despite receiving severe warnings from his boss', 'nonchalant' means:",
+    "options": [
+      "Casually calm, relaxed, and displaying unconcern",
+      "Trembling with panic",
+      "Deeply remorseful",
+      "Violently angry"
+    ],
+    "answer": 0,
+    "explanation": "Nonchalant means feeling or appearing casually calm and relaxed; not displaying anxiety.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "উদাসীন বা ভাবলেশহীন।"
+  },
+  {
+    "id": "v09-115",
+    "chapter": "v09",
+    "type": "contextual-meaning",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "In 'The sudden cancellation of the train left passengers in a precarious predicament', 'predicament' means:",
+    "options": [
+      "A joyful celebration",
+      "A difficult, unpleasant, or embarrassing situation",
+      "A comfortable lounge",
+      "A formal conference"
+    ],
+    "answer": 1,
+    "explanation": "A predicament is a difficult, unpleasant, or embarrassing situation.",
+    "rule": "Contextual vocabulary",
+    "bengaliHint": "বিব্রতকর বা সংকটজনক পরিস্থিতি।"
   }
 ]

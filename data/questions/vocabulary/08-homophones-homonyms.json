@@ -275,546 +275,6 @@
     "type": "mcq",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "Can you ___ an authoritative reference from the constitution?",
-    "options": [
-      "cite",
-      "site",
-      "sight",
-      "slight"
-    ],
-    "answer": 0,
-    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
-    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
-    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
-  },
-  {
-    "id": "v08-017",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The proposed building ___ was inspected by the civil engineer.",
-    "options": [
-      "site",
-      "cite",
-      "sight",
-      "side"
-    ],
-    "answer": 0,
-    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
-    "rule": "Site means construction location",
-    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
-  },
-  {
-    "id": "v08-018",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The sunset over the river was a glorious ___.",
-    "options": [
-      "sight",
-      "site",
-      "cite",
-      "cite's"
-    ],
-    "answer": 0,
-    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
-    "rule": "Sight means spectacle/view",
-    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
-  },
-  {
-    "id": "v08-019",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The lawyer gave his client prudent legal ___.",
-    "options": [
-      "counsel",
-      "council",
-      "councillor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
-    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
-    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
-  },
-  {
-    "id": "v08-020",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The municipal ___ held a debate on urban sanitation.",
-    "options": [
-      "council",
-      "counsel",
-      "counsellor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Council' is an elected administrative or legislative body.",
-    "rule": "Council means administrative body",
-    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
-  },
-  {
-    "id": "v08-021",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "Can you ___ an authoritative reference from the constitution?",
-    "options": [
-      "cite",
-      "site",
-      "sight",
-      "slight"
-    ],
-    "answer": 0,
-    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
-    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
-    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
-  },
-  {
-    "id": "v08-022",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The proposed building ___ was inspected by the civil engineer.",
-    "options": [
-      "site",
-      "cite",
-      "sight",
-      "side"
-    ],
-    "answer": 0,
-    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
-    "rule": "Site means construction location",
-    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
-  },
-  {
-    "id": "v08-023",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The sunset over the river was a glorious ___.",
-    "options": [
-      "sight",
-      "site",
-      "cite",
-      "cite's"
-    ],
-    "answer": 0,
-    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
-    "rule": "Sight means spectacle/view",
-    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
-  },
-  {
-    "id": "v08-024",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The lawyer gave his client prudent legal ___.",
-    "options": [
-      "counsel",
-      "council",
-      "councillor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
-    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
-    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
-  },
-  {
-    "id": "v08-025",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The municipal ___ held a debate on urban sanitation.",
-    "options": [
-      "council",
-      "counsel",
-      "counsellor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Council' is an elected administrative or legislative body.",
-    "rule": "Council means administrative body",
-    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
-  },
-  {
-    "id": "v08-026",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "Can you ___ an authoritative reference from the constitution?",
-    "options": [
-      "cite",
-      "site",
-      "sight",
-      "slight"
-    ],
-    "answer": 0,
-    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
-    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
-    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
-  },
-  {
-    "id": "v08-027",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The proposed building ___ was inspected by the civil engineer.",
-    "options": [
-      "site",
-      "cite",
-      "sight",
-      "side"
-    ],
-    "answer": 0,
-    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
-    "rule": "Site means construction location",
-    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
-  },
-  {
-    "id": "v08-028",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The sunset over the river was a glorious ___.",
-    "options": [
-      "sight",
-      "site",
-      "cite",
-      "cite's"
-    ],
-    "answer": 0,
-    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
-    "rule": "Sight means spectacle/view",
-    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
-  },
-  {
-    "id": "v08-029",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The lawyer gave his client prudent legal ___.",
-    "options": [
-      "counsel",
-      "council",
-      "councillor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
-    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
-    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
-  },
-  {
-    "id": "v08-030",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The municipal ___ held a debate on urban sanitation.",
-    "options": [
-      "council",
-      "counsel",
-      "counsellor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Council' is an elected administrative or legislative body.",
-    "rule": "Council means administrative body",
-    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
-  },
-  {
-    "id": "v08-031",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "Can you ___ an authoritative reference from the constitution?",
-    "options": [
-      "cite",
-      "site",
-      "sight",
-      "slight"
-    ],
-    "answer": 0,
-    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
-    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
-    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
-  },
-  {
-    "id": "v08-032",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The proposed building ___ was inspected by the civil engineer.",
-    "options": [
-      "site",
-      "cite",
-      "sight",
-      "side"
-    ],
-    "answer": 0,
-    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
-    "rule": "Site means construction location",
-    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
-  },
-  {
-    "id": "v08-033",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The sunset over the river was a glorious ___.",
-    "options": [
-      "sight",
-      "site",
-      "cite",
-      "cite's"
-    ],
-    "answer": 0,
-    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
-    "rule": "Sight means spectacle/view",
-    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
-  },
-  {
-    "id": "v08-034",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The lawyer gave his client prudent legal ___.",
-    "options": [
-      "counsel",
-      "council",
-      "councillor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
-    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
-    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
-  },
-  {
-    "id": "v08-035",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The municipal ___ held a debate on urban sanitation.",
-    "options": [
-      "council",
-      "counsel",
-      "counsellor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Council' is an elected administrative or legislative body.",
-    "rule": "Council means administrative body",
-    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
-  },
-  {
-    "id": "v08-036",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "Can you ___ an authoritative reference from the constitution?",
-    "options": [
-      "cite",
-      "site",
-      "sight",
-      "slight"
-    ],
-    "answer": 0,
-    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
-    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
-    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
-  },
-  {
-    "id": "v08-037",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The proposed building ___ was inspected by the civil engineer.",
-    "options": [
-      "site",
-      "cite",
-      "sight",
-      "side"
-    ],
-    "answer": 0,
-    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
-    "rule": "Site means construction location",
-    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
-  },
-  {
-    "id": "v08-038",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The sunset over the river was a glorious ___.",
-    "options": [
-      "sight",
-      "site",
-      "cite",
-      "cite's"
-    ],
-    "answer": 0,
-    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
-    "rule": "Sight means spectacle/view",
-    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
-  },
-  {
-    "id": "v08-039",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The lawyer gave his client prudent legal ___.",
-    "options": [
-      "counsel",
-      "council",
-      "councillor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
-    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
-    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
-  },
-  {
-    "id": "v08-040",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The municipal ___ held a debate on urban sanitation.",
-    "options": [
-      "council",
-      "counsel",
-      "counsellor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Council' is an elected administrative or legislative body.",
-    "rule": "Council means administrative body",
-    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
-  },
-  {
-    "id": "v08-041",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "Can you ___ an authoritative reference from the constitution?",
-    "options": [
-      "cite",
-      "site",
-      "sight",
-      "slight"
-    ],
-    "answer": 0,
-    "explanation": "'Cite' is a verb meaning to quote or refer to as evidence. ('Site' is location; 'sight' is vision).",
-    "rule": "Cite (quote) vs Site (location) vs Sight (vision)",
-    "bengaliHint": "উদ্ধৃতি দেওয়া বা রেফারেন্স উল্লেখ করা অর্থে 'cite' বসে।"
-  },
-  {
-    "id": "v08-042",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "The proposed building ___ was inspected by the civil engineer.",
-    "options": [
-      "site",
-      "cite",
-      "sight",
-      "side"
-    ],
-    "answer": 0,
-    "explanation": "'Site' refers to an area of ground on which a construction takes place.",
-    "rule": "Site means construction location",
-    "bengaliHint": "নির্মাণের স্থান বোঝাতে 'site' বসে।"
-  },
-  {
-    "id": "v08-043",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The sunset over the river was a glorious ___.",
-    "options": [
-      "sight",
-      "site",
-      "cite",
-      "cite's"
-    ],
-    "answer": 0,
-    "explanation": "'Sight' refers to a thing that is seen; a spectacle or vision.",
-    "rule": "Sight means spectacle/view",
-    "bengaliHint": "দর্শনীয় দৃশ্য বোঝাতে 'sight' বসে।"
-  },
-  {
-    "id": "v08-044",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "The lawyer gave his client prudent legal ___.",
-    "options": [
-      "counsel",
-      "council",
-      "councillor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Counsel' means advice or a legal advocate. 'Council' is an administrative advisory body.",
-    "rule": "Counsel (advice/lawyer) vs Council (assembly)",
-    "bengaliHint": "আইনি পরামর্শ বা উপদেষ্টা বোঝাতে 'counsel' বসে।"
-  },
-  {
-    "id": "v08-045",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "The municipal ___ held a debate on urban sanitation.",
-    "options": [
-      "council",
-      "counsel",
-      "counsellor",
-      "consul"
-    ],
-    "answer": 0,
-    "explanation": "'Council' is an elected administrative or legislative body.",
-    "rule": "Council means administrative body",
-    "bengaliHint": "পৌরসভা বা প্রশাসনিক পরিষদ বোঝাতে 'council' বসে।"
-  },
-  {
-    "id": "v08-046",
-    "chapter": "v08",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
     "question": "He paid her a ___ on her dress.",
     "options": [
       "complement",
@@ -828,7 +288,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'compliment'।"
   },
   {
-    "id": "v08-047",
+    "id": "v08-017",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -846,7 +306,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'principal'।"
   },
   {
-    "id": "v08-048",
+    "id": "v08-018",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -864,7 +324,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'stationery'।"
   },
   {
-    "id": "v08-049",
+    "id": "v08-019",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -882,7 +342,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'effect'।"
   },
   {
-    "id": "v08-050",
+    "id": "v08-020",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -900,7 +360,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'council'।"
   },
   {
-    "id": "v08-051",
+    "id": "v08-021",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -918,7 +378,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'counsel'।"
   },
   {
-    "id": "v08-052",
+    "id": "v08-022",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -936,7 +396,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'dissent'।"
   },
   {
-    "id": "v08-053",
+    "id": "v08-023",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -954,7 +414,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'illicit'।"
   },
   {
-    "id": "v08-054",
+    "id": "v08-024",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -972,7 +432,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'sight'।"
   },
   {
-    "id": "v08-055",
+    "id": "v08-025",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -990,7 +450,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'bear'।"
   },
   {
-    "id": "v08-056",
+    "id": "v08-026",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1008,7 +468,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'flour'।"
   },
   {
-    "id": "v08-057",
+    "id": "v08-027",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1026,7 +486,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'bored'।"
   },
   {
-    "id": "v08-058",
+    "id": "v08-028",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1044,7 +504,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'piece'।"
   },
   {
-    "id": "v08-059",
+    "id": "v08-029",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1062,7 +522,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'whether'।"
   },
   {
-    "id": "v08-060",
+    "id": "v08-030",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1080,7 +540,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'whole'।"
   },
   {
-    "id": "v08-061",
+    "id": "v08-031",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1098,7 +558,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
   },
   {
-    "id": "v08-062",
+    "id": "v08-032",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1116,7 +576,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homophones'।"
   },
   {
-    "id": "v08-063",
+    "id": "v08-033",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1134,7 +594,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Right – Write'।"
   },
   {
-    "id": "v08-064",
+    "id": "v08-034",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1152,7 +612,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Night'।"
   },
   {
-    "id": "v08-065",
+    "id": "v08-035",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1170,7 +630,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Cereal'।"
   },
   {
-    "id": "v08-066",
+    "id": "v08-036",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1188,7 +648,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'route'।"
   },
   {
-    "id": "v08-067",
+    "id": "v08-037",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1206,7 +666,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'reign'।"
   },
   {
-    "id": "v08-068",
+    "id": "v08-038",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1224,7 +684,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'rain'।"
   },
   {
-    "id": "v08-069",
+    "id": "v08-039",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1242,7 +702,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'rein'।"
   },
   {
-    "id": "v08-070",
+    "id": "v08-040",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1260,7 +720,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'sun'।"
   },
   {
-    "id": "v08-071",
+    "id": "v08-041",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1278,7 +738,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'son'।"
   },
   {
-    "id": "v08-072",
+    "id": "v08-042",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1296,7 +756,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'heard'।"
   },
   {
-    "id": "v08-073",
+    "id": "v08-043",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1314,7 +774,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'herd'।"
   },
   {
-    "id": "v08-074",
+    "id": "v08-044",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1332,7 +792,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'wring'।"
   },
   {
-    "id": "v08-075",
+    "id": "v08-045",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1350,7 +810,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'assent'।"
   },
   {
-    "id": "v08-076",
+    "id": "v08-046",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1368,7 +828,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'ascent'।"
   },
   {
-    "id": "v08-077",
+    "id": "v08-047",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1386,7 +846,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'heir'।"
   },
   {
-    "id": "v08-078",
+    "id": "v08-048",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1404,7 +864,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'hair'।"
   },
   {
-    "id": "v08-079",
+    "id": "v08-049",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1422,7 +882,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'blew'।"
   },
   {
-    "id": "v08-080",
+    "id": "v08-050",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1440,7 +900,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'knew'।"
   },
   {
-    "id": "v08-081",
+    "id": "v08-051",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1458,7 +918,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'mail'।"
   },
   {
-    "id": "v08-082",
+    "id": "v08-052",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1476,7 +936,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Meet'।"
   },
   {
-    "id": "v08-083",
+    "id": "v08-053",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1494,7 +954,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Tail'।"
   },
   {
-    "id": "v08-084",
+    "id": "v08-054",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1512,7 +972,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Sale'।"
   },
   {
-    "id": "v08-085",
+    "id": "v08-055",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1530,7 +990,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Steel'।"
   },
   {
-    "id": "v08-086",
+    "id": "v08-056",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1548,7 +1008,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Weight'।"
   },
   {
-    "id": "v08-087",
+    "id": "v08-057",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1566,7 +1026,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Week'।"
   },
   {
-    "id": "v08-088",
+    "id": "v08-058",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1584,7 +1044,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Deer'।"
   },
   {
-    "id": "v08-089",
+    "id": "v08-059",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1602,7 +1062,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Hire'।"
   },
   {
-    "id": "v08-090",
+    "id": "v08-060",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1620,7 +1080,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Pear'।"
   },
   {
-    "id": "v08-091",
+    "id": "v08-061",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1638,7 +1098,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Suite'।"
   },
   {
-    "id": "v08-092",
+    "id": "v08-062",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1656,7 +1116,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Brake'।"
   },
   {
-    "id": "v08-093",
+    "id": "v08-063",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1674,7 +1134,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Would'।"
   },
   {
-    "id": "v08-094",
+    "id": "v08-064",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1692,7 +1152,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'By'।"
   },
   {
-    "id": "v08-095",
+    "id": "v08-065",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1710,7 +1170,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Plane'।"
   },
   {
-    "id": "v08-096",
+    "id": "v08-066",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1728,7 +1188,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Sell'।"
   },
   {
-    "id": "v08-097",
+    "id": "v08-067",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1746,7 +1206,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Eight'।"
   },
   {
-    "id": "v08-098",
+    "id": "v08-068",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1764,7 +1224,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Soul'।"
   },
   {
-    "id": "v08-099",
+    "id": "v08-069",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1782,7 +1242,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Great'।"
   },
   {
-    "id": "v08-100",
+    "id": "v08-070",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1800,7 +1260,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Idol'।"
   },
   {
-    "id": "v08-101",
+    "id": "v08-071",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1818,7 +1278,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Lesson'।"
   },
   {
-    "id": "v08-102",
+    "id": "v08-072",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1836,7 +1296,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Pray'।"
   },
   {
-    "id": "v08-103",
+    "id": "v08-073",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1854,7 +1314,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Tied'।"
   },
   {
-    "id": "v08-104",
+    "id": "v08-074",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1872,7 +1332,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Waive'।"
   },
   {
-    "id": "v08-105",
+    "id": "v08-075",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1890,7 +1350,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Vein'।"
   },
   {
-    "id": "v08-106",
+    "id": "v08-076",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1908,7 +1368,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Aloud'।"
   },
   {
-    "id": "v08-107",
+    "id": "v08-077",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1926,7 +1386,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Cheque'।"
   },
   {
-    "id": "v08-108",
+    "id": "v08-078",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1944,7 +1404,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Edge of a river'।"
   },
   {
-    "id": "v08-109",
+    "id": "v08-079",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -1962,7 +1422,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
   },
   {
-    "id": "v08-110",
+    "id": "v08-080",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -1980,7 +1440,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
   },
   {
-    "id": "v08-111",
+    "id": "v08-081",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -1998,7 +1458,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
   },
   {
-    "id": "v08-112",
+    "id": "v08-082",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -2016,7 +1476,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homonyms'।"
   },
   {
-    "id": "v08-113",
+    "id": "v08-083",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "hard",
@@ -2034,7 +1494,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Sun – Son'।"
   },
   {
-    "id": "v08-114",
+    "id": "v08-084",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "easy",
@@ -2052,7 +1512,7 @@
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'Homographs'।"
   },
   {
-    "id": "v08-115",
+    "id": "v08-085",
     "chapter": "v08",
     "type": "mcq",
     "difficulty": "medium",
@@ -2068,5 +1528,545 @@
     "explanation": "'tail' is the correct choice here according to the sentence meaning and usage.",
     "rule": "Homophones & Homonyms: tail",
     "bengaliHint": "বাক্যে অর্থপূর্ণভাবে সঠিক শব্দটি হলো 'tail'।"
+  },
+  {
+    "id": "v08-086",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The priest placed offerings on the sacred ___; we must not ___ our original itinerary.",
+    "options": [
+      "alter, altar",
+      "altar, alter",
+      "altered, altar",
+      "alter, alternate"
+    ],
+    "answer": 1,
+    "explanation": "Altar is a sacred structure; alter means to change.",
+    "rule": "Homophones: altar / alter",
+    "bengaliHint": "বেদী (altar) vs পরিবর্তন করা (alter)।"
+  },
+  {
+    "id": "v08-087",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The accused was released on ___; farmers loaded a heavy ___ of cotton onto the cart.",
+    "options": [
+      "bail, bale",
+      "bale, bail",
+      "bail, bailing",
+      "bale, baled"
+    ],
+    "answer": 0,
+    "explanation": "Bail is temporary release on bond; bale is a bundle of goods.",
+    "rule": "Homophones: bail / bale",
+    "bengaliHint": "জামিন (bail) vs কাপাস বা তন্তুর গাঁট (bale)।"
+  },
+  {
+    "id": "v08-088",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Step on the car's foot ___ carefully; do not ___ the fragile glass vase.",
+    "options": [
+      "break, brake",
+      "brake, break",
+      "brakes, broke",
+      "breaking, brake"
+    ],
+    "answer": 1,
+    "explanation": "Brake is a slowing device; break means to shatter or damage.",
+    "rule": "Homophones: brake / break",
+    "bengaliHint": "ব্রেক (brake) vs ভাঙা (break)।"
+  },
+  {
+    "id": "v08-089",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "He wore a garment made of ___ jute cloth; she enrolled in a computer diploma ___.",
+    "options": [
+      "course, coarse",
+      "coarsely, course",
+      "coarse, course",
+      "course, courses"
+    ],
+    "answer": 2,
+    "explanation": "Coarse means rough or crude; course is a direction or educational program.",
+    "rule": "Homophones: coarse / course",
+    "bengaliHint": "মোটা বা অমসৃণ (coarse) vs পাঠ্যক্রম বা পথ (course)।"
+  },
+  {
+    "id": "v08-090",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A herd of spotted ___ grazed in the meadow; she wrote a warm letter to her ___ friend.",
+    "options": [
+      "deer, dear",
+      "dear, deer",
+      "deer, dears",
+      "dear, dears"
+    ],
+    "answer": 0,
+    "explanation": "Deer is the forest animal; dear means beloved or cherished.",
+    "rule": "Homophones: deer / dear",
+    "bengaliHint": "হরিণ (deer) vs প্রিয় (dear)।"
+  },
+  {
+    "id": "v08-091",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "She felt dizzy and was about to ___; the swordsman made a deceptive ___ to trick his opponent.",
+    "options": [
+      "feint, faint",
+      "faint, feint",
+      "faint, fainting",
+      "feint, feinted"
+    ],
+    "answer": 1,
+    "explanation": "Faint means to lose consciousness; feint is a deceptive or mock attack.",
+    "rule": "Homophones: faint / feint",
+    "bengaliHint": "অজ্ঞান হওয়া (faint) vs ছদ্ম আক্রমণ বা ধোঁকা (feint)।"
+  },
+  {
+    "id": "v08-092",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The athlete walked with a vigorous, brisk ___; please close the heavy iron ___ at night.",
+    "options": [
+      "gate, gait",
+      "gait, gate",
+      "gait, gaits",
+      "gate, gates"
+    ],
+    "answer": 1,
+    "explanation": "Gait means a person's manner of walking; gate is an outdoor barrier.",
+    "rule": "Homophones: gait / gate",
+    "bengaliHint": "হাঁটার ভঙ্গি (gait) vs সদর দরজা বা ফটক (gate)।"
+  },
+  {
+    "id": "v08-093",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The deep surgical wound will soon ___; the pebble injured the boy's left ___.",
+    "options": [
+      "heal, heel",
+      "heel, heal",
+      "healing, heel",
+      "heel, heeled"
+    ],
+    "answer": 0,
+    "explanation": "Heal means to become sound or healthy; heel is the back part of the foot.",
+    "rule": "Homophones: heal / heel",
+    "bengaliHint": "আরোগ্য হওয়া (heal) vs গোড়ালি (heel)।"
+  },
+  {
+    "id": "v08-094",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Corrupt traders often ___ grain in warehouses; a ___ of tourists visited the monument.",
+    "options": [
+      "horde, hoard",
+      "hoard, horde",
+      "hoarding, horde",
+      "horde, horded"
+    ],
+    "answer": 1,
+    "explanation": "Hoard means to store up secretly; horde means a large crowd or troop.",
+    "rule": "Homophones: hoard / horde",
+    "bengaliHint": "মজুত করা (hoard) vs বিশাল দল বা জনতা (horde)।"
+  },
+  {
+    "id": "v08-095",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Do not sit ___ when work is pending; the devotees bowed before the stone ___ in the temple.",
+    "options": [
+      "idol, idle",
+      "idly, idol",
+      "idle, idol",
+      "idol, idling"
+    ],
+    "answer": 2,
+    "explanation": "Idle means inactive or unemployed; idol is a statue worshipped as a deity.",
+    "rule": "Homophones: idle / idol",
+    "bengaliHint": "অলস বা বেকার (idle) vs প্রতিমা বা মূর্তি (idol)।"
+  },
+  {
+    "id": "v08-096",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The medieval ___ rode bravely into battle; owls hunt prey silently during the ___.",
+    "options": [
+      "knight, night",
+      "night, knight",
+      "knight, nights",
+      "knighted, night"
+    ],
+    "answer": 0,
+    "explanation": "Knight is a medieval warrior with armor; night is the period of darkness.",
+    "rule": "Homophones: knight / night",
+    "bengaliHint": "বীর যোদ্ধা বা নাইট (knight) vs রাত্রি (night)।"
+  },
+  {
+    "id": "v08-097",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Diplomats worked to establish international ___; he sliced a ___ of bread for breakfast.",
+    "options": [
+      "piece, peace",
+      "peace, piece",
+      "peace, pieces",
+      "piece, peaceful"
+    ],
+    "answer": 1,
+    "explanation": "Peace is absence of war or tranquility; piece is a portion or fragment.",
+    "rule": "Homophones: peace / piece",
+    "bengaliHint": "শান্তি (peace) vs টুকরো (piece)।"
+  },
+  {
+    "id": "v08-098",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Devout elders gather to ___ at dawn; the leopard stalked its unsuspecting ___.",
+    "options": [
+      "prey, pray",
+      "praying, prey",
+      "pray, prey",
+      "prey, praying"
+    ],
+    "answer": 2,
+    "explanation": "Pray means to address prayers to God; prey is an animal hunted for food.",
+    "rule": "Homophones: pray / prey",
+    "bengaliHint": "প্রার্থনা করা (pray) vs শিকার (prey)।"
+  },
+  {
+    "id": "v08-099",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Heavy monsoon ___ flooded the plains; during the ___ of Akbar; tighten the horse's ___.",
+    "options": [
+      "rain, reign, rein",
+      "reign, rain, rein",
+      "rein, reign, rain",
+      "rain, rein, reign"
+    ],
+    "answer": 0,
+    "explanation": "Rain is precipitation; reign is royal rule; rein is strap for controlling a horse.",
+    "rule": "Homophones: rain / reign / rein",
+    "bengaliHint": "বৃষ্টি (rain), রাজত্ব (reign), লাগাম (rein)।"
+  },
+  {
+    "id": "v08-100",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "You chose the ___ answer; a sacred religious ___; please ___ your roll number on the sheet.",
+    "options": [
+      "rite, right, write",
+      "right, rite, write",
+      "write, rite, right",
+      "right, write, rite"
+    ],
+    "answer": 1,
+    "explanation": "Right means correct; rite is a ceremonial act; write means to put pen to paper.",
+    "rule": "Homophones: right / rite / write",
+    "bengaliHint": "সঠিক (right), ধর্মীয় আচার (rite), লেখা (write)।"
+  },
+  {
+    "id": "v08-101",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Music brings solace to the human ___; he was the ___ survivor of the shipwreck.",
+    "options": [
+      "sole, soul",
+      "souls, sole",
+      "soul, sole",
+      "sole, solely"
+    ],
+    "answer": 2,
+    "explanation": "Soul is the spiritual part of a person; sole means one and only or underside of foot.",
+    "rule": "Homophones: soul / sole",
+    "bengaliHint": "আত্মা (soul) vs একমাত্র (sole)।"
+  },
+  {
+    "id": "v08-102",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "She climbed the wooden ___ to the attic; do not ___ rudely at strangers.",
+    "options": [
+      "stare, stair",
+      "stair, stare",
+      "stairs, staring",
+      "stare, stairs"
+    ],
+    "answer": 1,
+    "explanation": "Stair is a step in a flight of steps; stare means to look fixedly.",
+    "rule": "Homophones: stair / stare",
+    "bengaliHint": "সিঁড়ির ধাপ (stair) vs একদৃষ্টে তাকানো (stare)।"
+  },
+  {
+    "id": "v08-103",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "He fastened a leather belt around his ___; do not ___ electricity or potable water.",
+    "options": [
+      "waste, waist",
+      "waist, waste",
+      "waist, wasting",
+      "waste, wasted"
+    ],
+    "answer": 1,
+    "explanation": "Waist is the part of the human body above the hips; waste means careless misuse.",
+    "rule": "Homophones: waist / waste",
+    "bengaliHint": "কোমর (waist) vs অপচয় করা (waste)।"
+  },
+  {
+    "id": "v08-104",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Tagore was ___ in Calcutta in 1861; the immense expense was ___ by the state government.",
+    "options": [
+      "borne, born",
+      "born, borne",
+      "born, born",
+      "borne, borne"
+    ],
+    "answer": 1,
+    "explanation": "Born means brought into life by birth; borne is the past participle of bear (endured or carried).",
+    "rule": "Homophones: born / borne",
+    "bengaliHint": "জন্মগ্রহণ করা (born) vs বহন করা বা সহ্য করা (borne)।"
+  },
+  {
+    "id": "v08-105",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Tents are fabricated from waterproof ___; volunteers ___ each ward before elections.",
+    "options": [
+      "canvass, canvas",
+      "canvas, canvass",
+      "canvassing, canvas",
+      "canvas, canvas"
+    ],
+    "answer": 1,
+    "explanation": "Canvas is heavy cloth; canvass means to solicit votes or support.",
+    "rule": "Homophones: canvas / canvass",
+    "bengaliHint": "ক্যানভাস কাপড় (canvas) vs ভোট চাওয়া (canvass)।"
+  },
+  {
+    "id": "v08-106",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Oatmeal and cornflakes are popular breakfast ___; the detective wrote a thrilling ___ story.",
+    "options": [
+      "serial, cereal",
+      "cereal, serial",
+      "cereals, serial",
+      "cereal, series"
+    ],
+    "answer": 1,
+    "explanation": "Cereal is grain food; serial means appearing in parts at regular intervals.",
+    "rule": "Homophones: cereal / serial",
+    "bengaliHint": "দানাশস্য খাদ্য (cereal) vs ধারাবাহিক (serial)।"
+  },
+  {
+    "id": "v08-107",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The two warriors fought a lethal sword ___; the modern phone features a ___ SIM slot.",
+    "options": [
+      "dual, duel",
+      "duel, dual",
+      "dueling, dual",
+      "dual, duels"
+    ],
+    "answer": 1,
+    "explanation": "Duel is a prearranged combat between two people; dual means double or twofold.",
+    "rule": "Homophones: duel / dual",
+    "bengaliHint": "দ্বন্দ্বযুদ্ধ (duel) vs দ্বৈত বা দুটো (dual)।"
+  },
+  {
+    "id": "v08-108",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A distress ___ was fired from the sinking lifeboat; she has a natural ___ for languages.",
+    "options": [
+      "flair, flare",
+      "flare, flair",
+      "flaring, flair",
+      "flare, flares"
+    ],
+    "answer": 1,
+    "explanation": "Flare is a sudden burst of flame or light; flair means a natural aptitude or talent.",
+    "rule": "Homophones: flare / flair",
+    "bengaliHint": "দীপ্তি বা অগ্নিকাণ্ড (flare) vs স্বাভাবিক প্রতিভা বা দক্ষতা (flair)।"
+  },
+  {
+    "id": "v08-109",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The referee penalized the defender for a ___ tackle; chickens and turkeys are domestic ___.",
+    "options": [
+      "fowl, foul",
+      "foul, fowl",
+      "fouling, fowl",
+      "foul, fowls"
+    ],
+    "answer": 1,
+    "explanation": "Foul means unfair, offensive, or dirty; fowl refers to domesticated birds kept for meat or eggs.",
+    "rule": "Homophones: foul / fowl",
+    "bengaliHint": "অনিয়ম বা নোংরা (foul) vs গৃহপালিত পাখি (fowl)।"
+  },
+  {
+    "id": "v08-110",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Proper medication will ___ the severe pain; the teacher taught a memorable history ___.",
+    "options": [
+      "lesson, lessen",
+      "lessen, lesson",
+      "lessening, lesson",
+      "less, lesson"
+    ],
+    "answer": 1,
+    "explanation": "Lessen means to diminish or reduce; lesson is a period of teaching or moral.",
+    "rule": "Homophones: lessen / lesson",
+    "bengaliHint": "কমানো বা প্রশমিত করা (lessen) vs পাঠ বা শিক্ষা (lesson)।"
+  },
+  {
+    "id": "v08-111",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The champion athlete was awarded a gold ___; you should not ___ in other people's private matters.",
+    "options": [
+      "meddle, medal",
+      "medal, meddle",
+      "medaling, meddle",
+      "medal, meddling"
+    ],
+    "answer": 1,
+    "explanation": "Medal is a commemorative metal disc awarded for achievement; meddle means to interfere.",
+    "rule": "Homophones: medal / meddle",
+    "bengaliHint": "পদক (medal) vs অনধিকার হস্তক্ষেপ করা (meddle)।"
+  },
+  {
+    "id": "v08-112",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The milkman carried a tin ___ of fresh milk; his face turned ___ with terror.",
+    "options": [
+      "pale, pail",
+      "pail, pale",
+      "pailing, pale",
+      "pail, pales"
+    ],
+    "answer": 1,
+    "explanation": "Pail is a bucket; pale means light in color or deficient in complexion.",
+    "rule": "Homophones: pail / pale",
+    "bengaliHint": "বালতি (pail) vs ফ্যাকাশে (pale)।"
+  },
+  {
+    "id": "v08-113",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "Biologists examined the leaf's stomatal ___; please ___ hot tea into the porcelain cups.",
+    "options": [
+      "pour, pore",
+      "pore, pour",
+      "poring, pour",
+      "pores, pouring"
+    ],
+    "answer": 1,
+    "explanation": "Pore is a minute opening in skin or leaf (or to study closely); pour means to cause liquid to flow.",
+    "rule": "Homophones: pore / pour",
+    "bengaliHint": "রন্ধ্র বা রোমকূপ (pore) vs ঢালা (pour)।"
+  },
+  {
+    "id": "v08-114",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The massive banyan tree spread its deep ___; we chose the scenic mountain ___ to Darjeeling.",
+    "options": [
+      "route, root",
+      "root, route",
+      "roots, routing",
+      "route, roots"
+    ],
+    "answer": 1,
+    "explanation": "Root is the underground plant organ; route is a way or course taken in getting from starting point to destination.",
+    "rule": "Homophones: root / route",
+    "bengaliHint": "শিকড় (root) vs পথ বা রাস্তা (route)।"
+  },
+  {
+    "id": "v08-115",
+    "chapter": "v08",
+    "type": "homophone",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Surgical scalpels are made of stainless ___; it is a grave legal crime to ___ public property.",
+    "options": [
+      "steal, steel",
+      "steel, steal",
+      "steeling, steal",
+      "steel, steals"
+    ],
+    "answer": 1,
+    "explanation": "Steel is the hard iron-carbon alloy; steal means to take unlawfully without permission.",
+    "rule": "Homophones: steel / steal",
+    "bengaliHint": "ইস্পাত (steel) vs চুরি করা (steal)।"
   }
 ]

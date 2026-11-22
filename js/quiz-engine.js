@@ -320,16 +320,26 @@
   const root = document.querySelector("#quiz-root");
   root.classList.remove("hidden");
   let index = 0;
+  let showPalette = true;
+  // Track answers during this practice session: index -> { chosen: number, correct: boolean }
+  const sessionAnswers = {};
 
   function showHint(q){
     const el = root.querySelector(".hint");
+    if (!el) return;
     el.innerHTML = q.bengaliHint ? `<strong>বাংলায় ইঙ্গিত:</strong> ${esc(q.bengaliHint)}` : "<strong>Hint:</strong> Look for the specific grammar rule in the question sentence.";
     el.classList.remove("hidden");
   }
 
   function draw(){
+   if (!questions || !questions.length) return;
+   if (index < 0) index = 0;
+   if (index >= questions.length) index = questions.length - 1;
+
    const q = questions[index];
    const isBookmarked = WBPSCBookmarks.has("q-" + q.id);
+   const existingAns = sessionAnswers[index];
+   const answeredCount = Object.keys(sessionAnswers).length;
 
    root.innerHTML = `
      <div class="quiz-card card">
@@ -337,39 +347,108 @@
          <div class="quiz-progress-bar" style="width: ${((index + 1) / questions.length) * 100}%;"></div>
        </div>
        <div class="quiz-progress">
-         <span class="quiz-step-count">Question ${index + 1} of ${questions.length}</span>
+         <div>
+           <span class="quiz-step-count">Question ${index + 1} of ${questions.length}</span>
+           <span style="font-size:0.82rem; color:var(--muted); margin-left:0.5rem;">(${answeredCount}/${questions.length} answered)</span>
+         </div>
          <span class="meta-row">
-           <span class="badge badge-type">${esc(q.type)}</span>
-           <span class="badge badge-${q.difficulty}">${esc(q.difficulty)}</span>
+           <span class="badge badge-type">${esc(q.type || "MCQ")}</span>
+           <span class="badge badge-${q.difficulty || "medium"}">${esc(q.difficulty || "medium")}</span>
+           <button class="btn secondary" id="toggle-quiz-pal" type="button" style="padding:0.25rem 0.65rem; font-size:0.8rem;" title="Toggle question palette">
+             🔢 Jump to Q ▾
+           </button>
            <button class="icon-btn ${isBookmarked ? 'bookmarked' : ''}" id="bookmark-q" type="button" aria-label="Bookmark question" title="Bookmark question">
              ${isBookmarked ? "★" : "☆"}
            </button>
          </span>
        </div>
 
+       <!-- Question Palette Jump Bar -->
+       <div id="quiz-palette-box" class="quiz-palette-wrap ${showPalette ? "" : "hidden"}">
+         <div class="quiz-palette-header">
+           <span>Question Quick Switcher (Click any number to jump):</span>
+           <span>${answeredCount} answered</span>
+         </div>
+         <div class="quiz-palette-grid">
+           ${questions.map((_, i) => {
+             const ans = sessionAnswers[i];
+             let cls = "quiz-pal-btn";
+             if (i === index) cls += " current";
+             if (ans) cls += ans.correct ? " correct" : " wrong";
+             return `<button class="${cls}" type="button" data-idx="${i}" aria-label="Jump to question ${i+1}">${i+1}</button>`;
+           }).join("")}
+         </div>
+       </div>
+
        <h2 class="quiz-question-title">${esc(q.question)}</h2>
 
        <div class="question-options">
-         ${q.options.map((o, i) => `
-           <button class="btn secondary option" type="button" data-index="${i}">
-             <span class="option-prefix">${String.fromCharCode(65 + i)}</span>
-             <span class="option-text">${esc(o)}</span>
-           </button>
-         `).join("")}
+         ${q.options.map((o, i) => {
+           let optClass = "btn secondary option";
+           let optDisabled = "";
+           if (existingAns) {
+             optDisabled = "disabled";
+             if (i === q.answer) optClass += " correct";
+             if (i === existingAns.chosen && !existingAns.correct) optClass += " wrong";
+             if (i === existingAns.chosen) optClass += " selected";
+           }
+           return `
+             <button class="${optClass}" type="button" data-index="${i}" ${optDisabled}>
+               <span class="option-prefix">${String.fromCharCode(65 + i)}</span>
+               <span class="option-text">${esc(o)}</span>
+             </button>
+           `;
+         }).join("")}
        </div>
 
        <p class="hint hidden"></p>
-       <div class="feedback hidden"></div>
+       <div class="feedback ${existingAns ? (existingAns.correct ? "correct" : "wrong") : "hidden"}">
+         ${existingAns ? `
+           <div class="feedback-title">
+             ${existingAns.correct ? "✓ Correct Answer!" : "✗ Not Quite Right"}
+           </div>
+           <p class="feedback-exp">${esc(q.explanation)}</p>
+           ${q.rule ? `<p class="feedback-rule"><strong>Rule Applied:</strong> ${esc(q.rule)}</p>` : ""}
+           ${q.bengaliHint ? `<p class="feedback-hint"><strong>বাংলায়:</strong> ${esc(q.bengaliHint)}</p>` : ""}
+         ` : ""}
+       </div>
 
        <div class="question-actions">
-         <button class="btn secondary" id="hint" type="button">💡 Show hint</button>
-         <button class="btn primary" id="next" type="button" disabled>
-           ${index === questions.length - 1 ? "Finish Practice" : "Next Question →"}
+         <button class="btn secondary" id="prev" type="button" ${index === 0 ? "disabled" : ""}>
+           ← Previous Question
          </button>
+         <div style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+           <button class="btn secondary" id="hint" type="button">💡 Show hint</button>
+           <button class="btn primary" id="next" type="button">
+             ${index === questions.length - 1 ? "Finish Practice" : "Next Question →"}
+           </button>
+         </div>
        </div>
      </div>
    `;
 
+   // Toggle Palette
+   const palToggle = root.querySelector("#toggle-quiz-pal");
+   if (palToggle) {
+     palToggle.addEventListener("click", () => {
+       showPalette = !showPalette;
+       const box = root.querySelector("#quiz-palette-box");
+       if (box) box.classList.toggle("hidden", !showPalette);
+     });
+   }
+
+   // Palette jump buttons
+   root.querySelectorAll(".quiz-pal-btn").forEach(btn => {
+     btn.addEventListener("click", () => {
+       const target = Number(btn.dataset.idx);
+       if (!isNaN(target) && target >= 0 && target < questions.length) {
+         index = target;
+         draw();
+       }
+     });
+   });
+
+   // Bookmark
    const bookmarkBtn = root.querySelector("#bookmark-q");
    if (bookmarkBtn) {
      bookmarkBtn.addEventListener("click", () => {
@@ -379,68 +458,132 @@
      });
    }
 
-   root.querySelector("#hint").addEventListener("click", () => showHint(q));
+   // Hint
+   const hintBtn = root.querySelector("#hint");
+   if (hintBtn) {
+     hintBtn.addEventListener("click", () => showHint(q));
+   }
 
-   root.querySelectorAll(".option").forEach(button => button.addEventListener("click", () => {
-     if (root.dataset.answered === "true") return;
-     root.dataset.answered = "true";
+   // Options selection
+   if (!existingAns) {
+     root.querySelectorAll(".option").forEach(button => button.addEventListener("click", () => {
+       if (sessionAnswers[index]) return;
+       const chosen = Number(button.dataset.index);
+       const correct = chosen === q.answer;
+       sessionAnswers[index] = { chosen, correct };
 
-     const chosen = Number(button.dataset.index);
-     const correct = chosen === q.answer;
+       root.querySelectorAll(".option").forEach((b, i) => {
+         b.disabled = true;
+         if (i === q.answer) b.classList.add("correct");
+         if (i === chosen && !correct) b.classList.add("wrong");
+       });
 
-     root.querySelectorAll(".option").forEach((b, i) => {
-       b.disabled = true;
-       if (i === q.answer) b.classList.add("correct");
-       if (i === chosen && !correct) b.classList.add("wrong");
-     });
-
-     const feedback = root.querySelector(".feedback");
-     feedback.className = `feedback ${correct ? "correct" : "wrong"}`;
-     feedback.innerHTML = `
-       <div class="feedback-title">
-         ${correct ? "✓ Correct Answer!" : "✗ Not Quite Right"}
-       </div>
-       <p class="feedback-exp">${esc(q.explanation)}</p>
-       ${q.rule ? `<p class="feedback-rule"><strong>Rule Applied:</strong> ${esc(q.rule)}</p>` : ""}
-       ${q.bengaliHint ? `<p class="feedback-hint"><strong>বাংলায়:</strong> ${esc(q.bengaliHint)}</p>` : ""}
-     `;
-
-     root.querySelector("#next").disabled = false;
-
-     const attempts = WBPSCStorage.get("wbpsc-attempts", []) || [];
-     attempts.push({ id: q.id, chapter: chapter.id, correct, date: new Date().toISOString() });
-     WBPSCStorage.set("wbpsc-attempts", attempts);
-
-     if (!correct) {
-       const wrong = WBPSCStorage.get("wbpsc-wrong", []) || [];
-       if (!wrong.includes(q.id)) {
-         wrong.push(q.id);
-         WBPSCStorage.set("wbpsc-wrong", wrong);
-       }
-     }
-   }));
-
-   root.dataset.answered = "false";
-   root.querySelector("#next").addEventListener("click", () => {
-     if (index < questions.length - 1) {
-       index++;
-       draw();
-     } else {
-       root.innerHTML = `
-         <div class="quiz-card card quiz-complete-card">
-           <div class="complete-icon">🎉</div>
-           <h2>Practice Complete!</h2>
-           <p>You have finished all ${questions.length} practice questions for ${esc(chapter.title)}.</p>
-           <div class="complete-actions">
-             <button class="btn primary" id="restart" type="button">Practise Again</button>
-             <a class="btn secondary" href="test.html?type=chapter&chapter=${encodeURIComponent(chapter.id)}">Take Chapter Timed Test</a>
-             <a class="btn secondary" href="question-bank.html?chapter=${encodeURIComponent(chapter.id)}">View in Question Bank</a>
-           </div>
+       const feedback = root.querySelector(".feedback");
+       feedback.className = `feedback ${correct ? "correct" : "wrong"}`;
+       feedback.innerHTML = `
+         <div class="feedback-title">
+           ${correct ? "✓ Correct Answer!" : "✗ Not Quite Right"}
          </div>
+         <p class="feedback-exp">${esc(q.explanation)}</p>
+         ${q.rule ? `<p class="feedback-rule"><strong>Rule Applied:</strong> ${esc(q.rule)}</p>` : ""}
+         ${q.bengaliHint ? `<p class="feedback-hint"><strong>বাংলায়:</strong> ${esc(q.bengaliHint)}</p>` : ""}
        `;
-       root.querySelector("#restart").addEventListener("click", () => { index = 0; draw(); });
-     }
-   });
+       feedback.classList.remove("hidden");
+
+       // Update palette button visually
+       const palBtn = root.querySelector(`.quiz-pal-btn[data-idx="${index}"]`);
+       if (palBtn) {
+         palBtn.classList.add(correct ? "correct" : "wrong");
+       }
+
+       const attempts = WBPSCStorage.get("wbpsc-attempts", []) || [];
+       attempts.push({ id: q.id, chapter: chapter.id, correct, date: new Date().toISOString() });
+       WBPSCStorage.set("wbpsc-attempts", attempts);
+
+       if (!correct) {
+         const wrong = WBPSCStorage.get("wbpsc-wrong", []) || [];
+         if (!wrong.includes(q.id)) {
+           wrong.push(q.id);
+           WBPSCStorage.set("wbpsc-wrong", wrong);
+         }
+       }
+     }));
+   }
+
+   // Previous Question
+   const prevBtn = root.querySelector("#prev");
+   if (prevBtn) {
+     prevBtn.addEventListener("click", () => {
+       if (index > 0) {
+         index--;
+         draw();
+       }
+     });
+   }
+
+   // Next Question / Finish
+   const nextBtn = root.querySelector("#next");
+   if (nextBtn) {
+     nextBtn.addEventListener("click", () => {
+       if (index < questions.length - 1) {
+         index++;
+         draw();
+       } else {
+         // Render Completion screen
+         const total = questions.length;
+         const answered = Object.keys(sessionAnswers).length;
+         const correctCount = Object.values(sessionAnswers).filter(a => a.correct).length;
+         const wrongCount = answered - correctCount;
+         const skipped = total - answered;
+         const accuracy = answered > 0 ? Math.round((correctCount / answered) * 100) : 0;
+
+         root.innerHTML = `
+           <div class="quiz-card card quiz-complete-card">
+             <div class="complete-icon">🎉</div>
+             <h2>Practice Complete!</h2>
+             <p>You have finished the practice session for <strong>${esc(chapter.title)}</strong>.</p>
+             
+             <div style="display:flex; justify-content:center; gap:1.25rem; flex-wrap:wrap; margin:1.5rem 0;">
+               <div class="card" style="padding:1rem 1.5rem; text-align:center; min-width:110px;">
+                 <div style="font-size:1.6rem; font-weight:800; color:var(--primary);">${answered}/${total}</div>
+                 <div style="font-size:0.85rem; color:var(--muted);">Attempted</div>
+               </div>
+               <div class="card" style="padding:1rem 1.5rem; text-align:center; min-width:110px;">
+                 <div style="font-size:1.6rem; font-weight:800; color:var(--success);">${correctCount}</div>
+                 <div style="font-size:0.85rem; color:var(--muted);">Correct</div>
+               </div>
+               <div class="card" style="padding:1rem 1.5rem; text-align:center; min-width:110px;">
+                 <div style="font-size:1.6rem; font-weight:800; color:var(--danger);">${wrongCount}</div>
+                 <div style="font-size:0.85rem; color:var(--muted);">Incorrect</div>
+               </div>
+               <div class="card" style="padding:1rem 1.5rem; text-align:center; min-width:110px;">
+                 <div style="font-size:1.6rem; font-weight:800; color:var(--warning);">${accuracy}%</div>
+                 <div style="font-size:0.85rem; color:var(--muted);">Accuracy</div>
+               </div>
+             </div>
+
+             <div class="complete-actions">
+               <button class="btn primary" id="restart" type="button">🔄 Practise Again</button>
+               <a class="btn secondary" href="test.html?type=chapter&chapter=${encodeURIComponent(chapter.id)}">⏱️ Take Timed Test</a>
+               <a class="btn secondary" href="question-bank.html?chapter=${encodeURIComponent(chapter.id)}">📚 Question Bank</a>
+               <a class="btn secondary" href="#chapter-content" id="back-notes-btn">📖 Review Notes</a>
+             </div>
+           </div>
+         `;
+         root.querySelector("#restart").addEventListener("click", () => {
+           index = 0;
+           for (let k in sessionAnswers) delete sessionAnswers[k];
+           draw();
+         });
+         const backNotes = root.querySelector("#back-notes-btn");
+         if (backNotes) {
+           backNotes.addEventListener("click", () => {
+             window.scrollTo({ top: 0, behavior: "smooth" });
+           });
+         }
+       }
+     });
+   }
 
    root.scrollIntoView({ behavior: "smooth", block: "start" });
   }

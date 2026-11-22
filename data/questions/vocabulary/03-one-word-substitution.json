@@ -275,546 +275,6 @@
     "type": "mcq",
     "difficulty": "easy",
     "isPYQ": false,
-    "question": "A person who is all-knowing and possesses infinite knowledge:",
-    "options": [
-      "Omniscient",
-      "Omnipotent",
-      "Omnipresent",
-      "Polymath"
-    ],
-    "answer": 0,
-    "explanation": "'Omniscient' (omni = all, scient = knowing) means knowing everything.",
-    "rule": "One-word substitution: Omniscient",
-    "bengaliHint": "সর্বজ্ঞানীকে 'Omniscient' বলে।"
-  },
-  {
-    "id": "v03-017",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A person who is all-powerful:",
-    "options": [
-      "Omnipotent",
-      "Omniscient",
-      "Omnipresent",
-      "Autocrat"
-    ],
-    "answer": 0,
-    "explanation": "'Omnipotent' (omni = all, potent = power) means having unlimited power.",
-    "rule": "One-word substitution: Omnipotent",
-    "bengaliHint": "সর্বশক্তিমানকে 'Omnipotent' বলে।"
-  },
-  {
-    "id": "v03-018",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A soldier or person who fights primarily for money in a foreign army:",
-    "options": [
-      "Mercenary",
-      "Patriot",
-      "Volunteer",
-      "Guerrilla"
-    ],
-    "answer": 0,
-    "explanation": "A 'mercenary' is a professional soldier hired to serve in a foreign army for pay.",
-    "rule": "One-word substitution: Mercenary",
-    "bengaliHint": "ভাড়াটে সৈনিককে 'Mercenary' বলে।"
-  },
-  {
-    "id": "v03-019",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "One who destroys religious images or attacks cherished beliefs:",
-    "options": [
-      "Iconoclast",
-      "Atheist",
-      "Agnostic",
-      "Fanatic"
-    ],
-    "answer": 0,
-    "explanation": "An 'iconoclast' is a person who attacks traditional or sacred beliefs and institutions.",
-    "rule": "One-word substitution: Iconoclast",
-    "bengaliHint": "সংস্কারভঙ্গকারী বা প্রচলিত বিশ্বাস ভঙ্গকারীকে 'Iconoclast' বলে।"
-  },
-  {
-    "id": "v03-020",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A child born after the death of its father, or a book published after the author's death:",
-    "options": [
-      "Posthumous",
-      "Contemporary",
-      "Primitive",
-      "Postdated"
-    ],
-    "answer": 0,
-    "explanation": "'Posthumous' describes an award, birth, or book occurring after the person's death.",
-    "rule": "One-word substitution: Posthumous",
-    "bengaliHint": "মরণোত্তর কোনো ঘটনা বা প্রকাশনাকে 'Posthumous' বলে।"
-  },
-  {
-    "id": "v03-021",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A person who is all-knowing and possesses infinite knowledge:",
-    "options": [
-      "Omniscient",
-      "Omnipotent",
-      "Omnipresent",
-      "Polymath"
-    ],
-    "answer": 0,
-    "explanation": "'Omniscient' (omni = all, scient = knowing) means knowing everything.",
-    "rule": "One-word substitution: Omniscient",
-    "bengaliHint": "সর্বজ্ঞানীকে 'Omniscient' বলে।"
-  },
-  {
-    "id": "v03-022",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A person who is all-powerful:",
-    "options": [
-      "Omnipotent",
-      "Omniscient",
-      "Omnipresent",
-      "Autocrat"
-    ],
-    "answer": 0,
-    "explanation": "'Omnipotent' (omni = all, potent = power) means having unlimited power.",
-    "rule": "One-word substitution: Omnipotent",
-    "bengaliHint": "সর্বশক্তিমানকে 'Omnipotent' বলে।"
-  },
-  {
-    "id": "v03-023",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A soldier or person who fights primarily for money in a foreign army:",
-    "options": [
-      "Mercenary",
-      "Patriot",
-      "Volunteer",
-      "Guerrilla"
-    ],
-    "answer": 0,
-    "explanation": "A 'mercenary' is a professional soldier hired to serve in a foreign army for pay.",
-    "rule": "One-word substitution: Mercenary",
-    "bengaliHint": "ভাড়াটে সৈনিককে 'Mercenary' বলে।"
-  },
-  {
-    "id": "v03-024",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "One who destroys religious images or attacks cherished beliefs:",
-    "options": [
-      "Iconoclast",
-      "Atheist",
-      "Agnostic",
-      "Fanatic"
-    ],
-    "answer": 0,
-    "explanation": "An 'iconoclast' is a person who attacks traditional or sacred beliefs and institutions.",
-    "rule": "One-word substitution: Iconoclast",
-    "bengaliHint": "সংস্কারভঙ্গকারী বা প্রচলিত বিশ্বাস ভঙ্গকারীকে 'Iconoclast' বলে।"
-  },
-  {
-    "id": "v03-025",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A child born after the death of its father, or a book published after the author's death:",
-    "options": [
-      "Posthumous",
-      "Contemporary",
-      "Primitive",
-      "Postdated"
-    ],
-    "answer": 0,
-    "explanation": "'Posthumous' describes an award, birth, or book occurring after the person's death.",
-    "rule": "One-word substitution: Posthumous",
-    "bengaliHint": "মরণোত্তর কোনো ঘটনা বা প্রকাশনাকে 'Posthumous' বলে।"
-  },
-  {
-    "id": "v03-026",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A person who is all-knowing and possesses infinite knowledge:",
-    "options": [
-      "Omniscient",
-      "Omnipotent",
-      "Omnipresent",
-      "Polymath"
-    ],
-    "answer": 0,
-    "explanation": "'Omniscient' (omni = all, scient = knowing) means knowing everything.",
-    "rule": "One-word substitution: Omniscient",
-    "bengaliHint": "সর্বজ্ঞানীকে 'Omniscient' বলে।"
-  },
-  {
-    "id": "v03-027",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A person who is all-powerful:",
-    "options": [
-      "Omnipotent",
-      "Omniscient",
-      "Omnipresent",
-      "Autocrat"
-    ],
-    "answer": 0,
-    "explanation": "'Omnipotent' (omni = all, potent = power) means having unlimited power.",
-    "rule": "One-word substitution: Omnipotent",
-    "bengaliHint": "সর্বশক্তিমানকে 'Omnipotent' বলে।"
-  },
-  {
-    "id": "v03-028",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A soldier or person who fights primarily for money in a foreign army:",
-    "options": [
-      "Mercenary",
-      "Patriot",
-      "Volunteer",
-      "Guerrilla"
-    ],
-    "answer": 0,
-    "explanation": "A 'mercenary' is a professional soldier hired to serve in a foreign army for pay.",
-    "rule": "One-word substitution: Mercenary",
-    "bengaliHint": "ভাড়াটে সৈনিককে 'Mercenary' বলে।"
-  },
-  {
-    "id": "v03-029",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "One who destroys religious images or attacks cherished beliefs:",
-    "options": [
-      "Iconoclast",
-      "Atheist",
-      "Agnostic",
-      "Fanatic"
-    ],
-    "answer": 0,
-    "explanation": "An 'iconoclast' is a person who attacks traditional or sacred beliefs and institutions.",
-    "rule": "One-word substitution: Iconoclast",
-    "bengaliHint": "সংস্কারভঙ্গকারী বা প্রচলিত বিশ্বাস ভঙ্গকারীকে 'Iconoclast' বলে।"
-  },
-  {
-    "id": "v03-030",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A child born after the death of its father, or a book published after the author's death:",
-    "options": [
-      "Posthumous",
-      "Contemporary",
-      "Primitive",
-      "Postdated"
-    ],
-    "answer": 0,
-    "explanation": "'Posthumous' describes an award, birth, or book occurring after the person's death.",
-    "rule": "One-word substitution: Posthumous",
-    "bengaliHint": "মরণোত্তর কোনো ঘটনা বা প্রকাশনাকে 'Posthumous' বলে।"
-  },
-  {
-    "id": "v03-031",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A person who is all-knowing and possesses infinite knowledge:",
-    "options": [
-      "Omniscient",
-      "Omnipotent",
-      "Omnipresent",
-      "Polymath"
-    ],
-    "answer": 0,
-    "explanation": "'Omniscient' (omni = all, scient = knowing) means knowing everything.",
-    "rule": "One-word substitution: Omniscient",
-    "bengaliHint": "সর্বজ্ঞানীকে 'Omniscient' বলে।"
-  },
-  {
-    "id": "v03-032",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A person who is all-powerful:",
-    "options": [
-      "Omnipotent",
-      "Omniscient",
-      "Omnipresent",
-      "Autocrat"
-    ],
-    "answer": 0,
-    "explanation": "'Omnipotent' (omni = all, potent = power) means having unlimited power.",
-    "rule": "One-word substitution: Omnipotent",
-    "bengaliHint": "সর্বশক্তিমানকে 'Omnipotent' বলে।"
-  },
-  {
-    "id": "v03-033",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A soldier or person who fights primarily for money in a foreign army:",
-    "options": [
-      "Mercenary",
-      "Patriot",
-      "Volunteer",
-      "Guerrilla"
-    ],
-    "answer": 0,
-    "explanation": "A 'mercenary' is a professional soldier hired to serve in a foreign army for pay.",
-    "rule": "One-word substitution: Mercenary",
-    "bengaliHint": "ভাড়াটে সৈনিককে 'Mercenary' বলে।"
-  },
-  {
-    "id": "v03-034",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "One who destroys religious images or attacks cherished beliefs:",
-    "options": [
-      "Iconoclast",
-      "Atheist",
-      "Agnostic",
-      "Fanatic"
-    ],
-    "answer": 0,
-    "explanation": "An 'iconoclast' is a person who attacks traditional or sacred beliefs and institutions.",
-    "rule": "One-word substitution: Iconoclast",
-    "bengaliHint": "সংস্কারভঙ্গকারী বা প্রচলিত বিশ্বাস ভঙ্গকারীকে 'Iconoclast' বলে।"
-  },
-  {
-    "id": "v03-035",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A child born after the death of its father, or a book published after the author's death:",
-    "options": [
-      "Posthumous",
-      "Contemporary",
-      "Primitive",
-      "Postdated"
-    ],
-    "answer": 0,
-    "explanation": "'Posthumous' describes an award, birth, or book occurring after the person's death.",
-    "rule": "One-word substitution: Posthumous",
-    "bengaliHint": "মরণোত্তর কোনো ঘটনা বা প্রকাশনাকে 'Posthumous' বলে।"
-  },
-  {
-    "id": "v03-036",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A person who is all-knowing and possesses infinite knowledge:",
-    "options": [
-      "Omniscient",
-      "Omnipotent",
-      "Omnipresent",
-      "Polymath"
-    ],
-    "answer": 0,
-    "explanation": "'Omniscient' (omni = all, scient = knowing) means knowing everything.",
-    "rule": "One-word substitution: Omniscient",
-    "bengaliHint": "সর্বজ্ঞানীকে 'Omniscient' বলে।"
-  },
-  {
-    "id": "v03-037",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A person who is all-powerful:",
-    "options": [
-      "Omnipotent",
-      "Omniscient",
-      "Omnipresent",
-      "Autocrat"
-    ],
-    "answer": 0,
-    "explanation": "'Omnipotent' (omni = all, potent = power) means having unlimited power.",
-    "rule": "One-word substitution: Omnipotent",
-    "bengaliHint": "সর্বশক্তিমানকে 'Omnipotent' বলে।"
-  },
-  {
-    "id": "v03-038",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A soldier or person who fights primarily for money in a foreign army:",
-    "options": [
-      "Mercenary",
-      "Patriot",
-      "Volunteer",
-      "Guerrilla"
-    ],
-    "answer": 0,
-    "explanation": "A 'mercenary' is a professional soldier hired to serve in a foreign army for pay.",
-    "rule": "One-word substitution: Mercenary",
-    "bengaliHint": "ভাড়াটে সৈনিককে 'Mercenary' বলে।"
-  },
-  {
-    "id": "v03-039",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "One who destroys religious images or attacks cherished beliefs:",
-    "options": [
-      "Iconoclast",
-      "Atheist",
-      "Agnostic",
-      "Fanatic"
-    ],
-    "answer": 0,
-    "explanation": "An 'iconoclast' is a person who attacks traditional or sacred beliefs and institutions.",
-    "rule": "One-word substitution: Iconoclast",
-    "bengaliHint": "সংস্কারভঙ্গকারী বা প্রচলিত বিশ্বাস ভঙ্গকারীকে 'Iconoclast' বলে।"
-  },
-  {
-    "id": "v03-040",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A child born after the death of its father, or a book published after the author's death:",
-    "options": [
-      "Posthumous",
-      "Contemporary",
-      "Primitive",
-      "Postdated"
-    ],
-    "answer": 0,
-    "explanation": "'Posthumous' describes an award, birth, or book occurring after the person's death.",
-    "rule": "One-word substitution: Posthumous",
-    "bengaliHint": "মরণোত্তর কোনো ঘটনা বা প্রকাশনাকে 'Posthumous' বলে।"
-  },
-  {
-    "id": "v03-041",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "A person who is all-knowing and possesses infinite knowledge:",
-    "options": [
-      "Omniscient",
-      "Omnipotent",
-      "Omnipresent",
-      "Polymath"
-    ],
-    "answer": 0,
-    "explanation": "'Omniscient' (omni = all, scient = knowing) means knowing everything.",
-    "rule": "One-word substitution: Omniscient",
-    "bengaliHint": "সর্বজ্ঞানীকে 'Omniscient' বলে।"
-  },
-  {
-    "id": "v03-042",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
-    "question": "A person who is all-powerful:",
-    "options": [
-      "Omnipotent",
-      "Omniscient",
-      "Omnipresent",
-      "Autocrat"
-    ],
-    "answer": 0,
-    "explanation": "'Omnipotent' (omni = all, potent = power) means having unlimited power.",
-    "rule": "One-word substitution: Omnipotent",
-    "bengaliHint": "সর্বশক্তিমানকে 'Omnipotent' বলে।"
-  },
-  {
-    "id": "v03-043",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A soldier or person who fights primarily for money in a foreign army:",
-    "options": [
-      "Mercenary",
-      "Patriot",
-      "Volunteer",
-      "Guerrilla"
-    ],
-    "answer": 0,
-    "explanation": "A 'mercenary' is a professional soldier hired to serve in a foreign army for pay.",
-    "rule": "One-word substitution: Mercenary",
-    "bengaliHint": "ভাড়াটে সৈনিককে 'Mercenary' বলে।"
-  },
-  {
-    "id": "v03-044",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "hard",
-    "isPYQ": false,
-    "question": "One who destroys religious images or attacks cherished beliefs:",
-    "options": [
-      "Iconoclast",
-      "Atheist",
-      "Agnostic",
-      "Fanatic"
-    ],
-    "answer": 0,
-    "explanation": "An 'iconoclast' is a person who attacks traditional or sacred beliefs and institutions.",
-    "rule": "One-word substitution: Iconoclast",
-    "bengaliHint": "সংস্কারভঙ্গকারী বা প্রচলিত বিশ্বাস ভঙ্গকারীকে 'Iconoclast' বলে।"
-  },
-  {
-    "id": "v03-045",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "medium",
-    "isPYQ": false,
-    "question": "A child born after the death of its father, or a book published after the author's death:",
-    "options": [
-      "Posthumous",
-      "Contemporary",
-      "Primitive",
-      "Postdated"
-    ],
-    "answer": 0,
-    "explanation": "'Posthumous' describes an award, birth, or book occurring after the person's death.",
-    "rule": "One-word substitution: Posthumous",
-    "bengaliHint": "মরণোত্তর কোনো ঘটনা বা প্রকাশনাকে 'Posthumous' বলে।"
-  },
-  {
-    "id": "v03-046",
-    "chapter": "v03",
-    "type": "mcq",
-    "difficulty": "easy",
-    "isPYQ": false,
     "question": "A person who can speak two languages",
     "options": [
       "Polyglot",
@@ -828,7 +288,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Bilingual।"
   },
   {
-    "id": "v03-047",
+    "id": "v03-017",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -846,7 +306,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Democracy।"
   },
   {
-    "id": "v03-048",
+    "id": "v03-018",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -864,7 +324,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Ornithology।"
   },
   {
-    "id": "v03-049",
+    "id": "v03-019",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -882,7 +342,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Misanthrope।"
   },
   {
-    "id": "v03-050",
+    "id": "v03-020",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -900,7 +360,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Agoraphobia।"
   },
   {
-    "id": "v03-051",
+    "id": "v03-021",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -918,7 +378,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Extempore।"
   },
   {
-    "id": "v03-052",
+    "id": "v03-022",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -936,7 +396,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Omnipresent।"
   },
   {
-    "id": "v03-053",
+    "id": "v03-023",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -954,7 +414,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Regicide।"
   },
   {
-    "id": "v03-054",
+    "id": "v03-024",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -972,7 +432,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Fratricide।"
   },
   {
-    "id": "v03-055",
+    "id": "v03-025",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -990,7 +450,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Patricide।"
   },
   {
-    "id": "v03-056",
+    "id": "v03-026",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1008,7 +468,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Aviary।"
   },
   {
-    "id": "v03-057",
+    "id": "v03-027",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1026,7 +486,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Bibliophile।"
   },
   {
-    "id": "v03-058",
+    "id": "v03-028",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1044,7 +504,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Incorrigible।"
   },
   {
-    "id": "v03-059",
+    "id": "v03-029",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1062,7 +522,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Inaudible।"
   },
   {
-    "id": "v03-060",
+    "id": "v03-030",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1080,7 +540,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Illegible।"
   },
   {
-    "id": "v03-061",
+    "id": "v03-031",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1098,7 +558,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Inevitable।"
   },
   {
-    "id": "v03-062",
+    "id": "v03-032",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1116,7 +576,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Obsolete।"
   },
   {
-    "id": "v03-063",
+    "id": "v03-033",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1134,7 +594,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Somnambulist।"
   },
   {
-    "id": "v03-064",
+    "id": "v03-034",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1152,7 +612,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Panacea।"
   },
   {
-    "id": "v03-065",
+    "id": "v03-035",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1170,7 +630,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Archaeology।"
   },
   {
-    "id": "v03-066",
+    "id": "v03-036",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1188,7 +648,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Sacrilege।"
   },
   {
-    "id": "v03-067",
+    "id": "v03-037",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1206,7 +666,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Novice।"
   },
   {
-    "id": "v03-068",
+    "id": "v03-038",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1224,7 +684,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Stoic।"
   },
   {
-    "id": "v03-069",
+    "id": "v03-039",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1242,7 +702,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Autobiography।"
   },
   {
-    "id": "v03-070",
+    "id": "v03-040",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1260,7 +720,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Oligarchy।"
   },
   {
-    "id": "v03-071",
+    "id": "v03-041",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1278,7 +738,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Autocracy।"
   },
   {
-    "id": "v03-072",
+    "id": "v03-042",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1296,7 +756,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Ransom।"
   },
   {
-    "id": "v03-073",
+    "id": "v03-043",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1314,7 +774,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Archives।"
   },
   {
-    "id": "v03-074",
+    "id": "v03-044",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1332,7 +792,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Insolvent।"
   },
   {
-    "id": "v03-075",
+    "id": "v03-045",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1350,7 +810,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Patriot।"
   },
   {
-    "id": "v03-076",
+    "id": "v03-046",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1368,7 +828,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Emigrant।"
   },
   {
-    "id": "v03-077",
+    "id": "v03-047",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1386,7 +846,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Immigrant।"
   },
   {
-    "id": "v03-078",
+    "id": "v03-048",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1404,7 +864,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Omniscient।"
   },
   {
-    "id": "v03-079",
+    "id": "v03-049",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1422,7 +882,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Xenophobia।"
   },
   {
-    "id": "v03-080",
+    "id": "v03-050",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1440,7 +900,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Paediatrician।"
   },
   {
-    "id": "v03-081",
+    "id": "v03-051",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1458,7 +918,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Etymology।"
   },
   {
-    "id": "v03-082",
+    "id": "v03-052",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1476,7 +936,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Philanthropist।"
   },
   {
-    "id": "v03-083",
+    "id": "v03-053",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1494,7 +954,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Atheist।"
   },
   {
-    "id": "v03-084",
+    "id": "v03-054",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1512,7 +972,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Claustrophobia।"
   },
   {
-    "id": "v03-085",
+    "id": "v03-055",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1530,7 +990,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Edible।"
   },
   {
-    "id": "v03-086",
+    "id": "v03-056",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1548,7 +1008,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Insatiable।"
   },
   {
-    "id": "v03-087",
+    "id": "v03-057",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1566,7 +1026,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Fragile।"
   },
   {
-    "id": "v03-088",
+    "id": "v03-058",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1584,7 +1044,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Soliloquy।"
   },
   {
-    "id": "v03-089",
+    "id": "v03-059",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1602,7 +1062,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Inimitable।"
   },
   {
-    "id": "v03-090",
+    "id": "v03-060",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1620,7 +1080,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Ambidextrous।"
   },
   {
-    "id": "v03-091",
+    "id": "v03-061",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1638,7 +1098,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Theocracy।"
   },
   {
-    "id": "v03-092",
+    "id": "v03-062",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1656,7 +1116,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Plutocracy।"
   },
   {
-    "id": "v03-093",
+    "id": "v03-063",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1674,7 +1134,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Tangible।"
   },
   {
-    "id": "v03-094",
+    "id": "v03-064",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1692,7 +1152,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Widow।"
   },
   {
-    "id": "v03-095",
+    "id": "v03-065",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1710,7 +1170,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Gourmet।"
   },
   {
-    "id": "v03-096",
+    "id": "v03-066",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1728,7 +1188,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Acrophobia।"
   },
   {
-    "id": "v03-097",
+    "id": "v03-067",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1746,7 +1206,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Hydrophobia।"
   },
   {
-    "id": "v03-098",
+    "id": "v03-068",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1764,7 +1224,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Matricide।"
   },
   {
-    "id": "v03-099",
+    "id": "v03-069",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1782,7 +1242,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Infanticide।"
   },
   {
-    "id": "v03-100",
+    "id": "v03-070",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1800,7 +1260,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Genocide।"
   },
   {
-    "id": "v03-101",
+    "id": "v03-071",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1818,7 +1278,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Entomology।"
   },
   {
-    "id": "v03-102",
+    "id": "v03-072",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1836,7 +1296,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Psychology।"
   },
   {
-    "id": "v03-103",
+    "id": "v03-073",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1854,7 +1314,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Sociology।"
   },
   {
-    "id": "v03-104",
+    "id": "v03-074",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1872,7 +1332,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Anthropology।"
   },
   {
-    "id": "v03-105",
+    "id": "v03-075",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1890,7 +1350,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Astronomy।"
   },
   {
-    "id": "v03-106",
+    "id": "v03-076",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1908,7 +1368,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Numismatics।"
   },
   {
-    "id": "v03-107",
+    "id": "v03-077",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1926,7 +1386,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Philatelist।"
   },
   {
-    "id": "v03-108",
+    "id": "v03-078",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1944,7 +1404,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Calligraphy।"
   },
   {
-    "id": "v03-109",
+    "id": "v03-079",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -1962,7 +1422,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Stenography।"
   },
   {
-    "id": "v03-110",
+    "id": "v03-080",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -1980,7 +1440,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Cartography।"
   },
   {
-    "id": "v03-111",
+    "id": "v03-081",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -1998,7 +1458,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Optimist।"
   },
   {
-    "id": "v03-112",
+    "id": "v03-082",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2016,7 +1476,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Pessimist।"
   },
   {
-    "id": "v03-113",
+    "id": "v03-083",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2034,7 +1494,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Altruist।"
   },
   {
-    "id": "v03-114",
+    "id": "v03-084",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2052,7 +1512,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Egoist।"
   },
   {
-    "id": "v03-115",
+    "id": "v03-085",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2070,7 +1530,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Connoisseur।"
   },
   {
-    "id": "v03-116",
+    "id": "v03-086",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2088,7 +1548,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Amateur।"
   },
   {
-    "id": "v03-117",
+    "id": "v03-087",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2106,7 +1566,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Hermit।"
   },
   {
-    "id": "v03-118",
+    "id": "v03-088",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2124,7 +1584,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Nomad।"
   },
   {
-    "id": "v03-119",
+    "id": "v03-089",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2142,7 +1602,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Miser।"
   },
   {
-    "id": "v03-120",
+    "id": "v03-090",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2160,7 +1620,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Spendthrift।"
   },
   {
-    "id": "v03-121",
+    "id": "v03-091",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2178,7 +1638,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Parasite।"
   },
   {
-    "id": "v03-122",
+    "id": "v03-092",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2196,7 +1656,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Pauper।"
   },
   {
-    "id": "v03-123",
+    "id": "v03-093",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2214,7 +1674,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Patron।"
   },
   {
-    "id": "v03-124",
+    "id": "v03-094",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2232,7 +1692,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Auditor।"
   },
   {
-    "id": "v03-125",
+    "id": "v03-095",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2250,7 +1710,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Polyglot।"
   },
   {
-    "id": "v03-126",
+    "id": "v03-096",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2268,7 +1728,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Orator।"
   },
   {
-    "id": "v03-127",
+    "id": "v03-097",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2286,7 +1746,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Choir।"
   },
   {
-    "id": "v03-128",
+    "id": "v03-098",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2304,7 +1764,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Fleet।"
   },
   {
-    "id": "v03-129",
+    "id": "v03-099",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2322,7 +1782,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Bureaucracy।"
   },
   {
-    "id": "v03-130",
+    "id": "v03-100",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2340,7 +1800,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Anarchy।"
   },
   {
-    "id": "v03-131",
+    "id": "v03-101",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2358,7 +1818,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Monarchy।"
   },
   {
-    "id": "v03-132",
+    "id": "v03-102",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2376,7 +1836,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Antidote।"
   },
   {
-    "id": "v03-133",
+    "id": "v03-103",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2394,7 +1854,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Epilogue।"
   },
   {
-    "id": "v03-134",
+    "id": "v03-104",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2412,7 +1872,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Prologue।"
   },
   {
-    "id": "v03-135",
+    "id": "v03-105",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2430,7 +1890,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Epitaph।"
   },
   {
-    "id": "v03-136",
+    "id": "v03-106",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2448,7 +1908,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Epigram।"
   },
   {
-    "id": "v03-137",
+    "id": "v03-107",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2466,7 +1926,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Elegy।"
   },
   {
-    "id": "v03-138",
+    "id": "v03-108",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2484,7 +1944,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Epic।"
   },
   {
-    "id": "v03-139",
+    "id": "v03-109",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2502,7 +1962,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Biennial।"
   },
   {
-    "id": "v03-140",
+    "id": "v03-110",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2520,7 +1980,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Perennial।"
   },
   {
-    "id": "v03-141",
+    "id": "v03-111",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2538,7 +1998,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Ephemeral।"
   },
   {
-    "id": "v03-142",
+    "id": "v03-112",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2556,7 +2016,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Immortal।"
   },
   {
-    "id": "v03-143",
+    "id": "v03-113",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "medium",
@@ -2574,7 +2034,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Invisible।"
   },
   {
-    "id": "v03-144",
+    "id": "v03-114",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "hard",
@@ -2592,7 +2052,7 @@
     "bengaliHint": "এক কথায় প্রকাশ: Invincible।"
   },
   {
-    "id": "v03-145",
+    "id": "v03-115",
     "chapter": "v03",
     "type": "mcq",
     "difficulty": "easy",
@@ -2608,5 +2068,545 @@
     "explanation": "'Pilgrim' is the exact one-word term for 'A person who travels to a holy place'.",
     "rule": "One-Word Substitution",
     "bengaliHint": "এক কথায় প্রকাশ: Pilgrim।"
+  },
+  {
+    "id": "v03-116",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A person who helps others in need selflessly:",
+    "options": [
+      "Altruist",
+      "Egoist",
+      "Miser",
+      "Anarchist"
+    ],
+    "answer": 0,
+    "explanation": "An altruist is a person unselfishly concerned for or devoted to the welfare of others.",
+    "rule": "One-word substitution",
+    "bengaliHint": "পরোপকারী ব্যক্তি।"
+  },
+  {
+    "id": "v03-117",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "Total or partial loss of memory:",
+    "options": [
+      "Insomnia",
+      "Amnesia",
+      "Anemia",
+      "Asphyxia"
+    ],
+    "answer": 1,
+    "explanation": "Amnesia is a deficit in memory caused by brain damage, disease, or psychological trauma.",
+    "rule": "One-word substitution",
+    "bengaliHint": "স্মৃতিভ্রংশ।"
+  },
+  {
+    "id": "v03-118",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A person who believes in or tries to bring about an absence of government:",
+    "options": [
+      "Monarchist",
+      "Autocrat",
+      "Anarchist",
+      "Diplomat"
+    ],
+    "answer": 2,
+    "explanation": "An anarchist believes in a society without governmental rule or authority.",
+    "rule": "One-word substitution",
+    "bengaliHint": "নৈরাজ্যবাদী।"
+  },
+  {
+    "id": "v03-119",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "An independent person chosen to settle a dispute between conflicting parties:",
+    "options": [
+      "Advocate",
+      "Witness",
+      "Auditor",
+      "Arbitrator"
+    ],
+    "answer": 3,
+    "explanation": "An arbitrator is an independent person officially appointed to settle a dispute.",
+    "rule": "One-word substitution",
+    "bengaliHint": "সালিশী বা মধ্যস্থতাকারী।"
+  },
+  {
+    "id": "v03-120",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A person who loves, collects, or reads books passionately:",
+    "options": [
+      "Bibliophile",
+      "Philatelist",
+      "Numismatist",
+      "Calligrapher"
+    ],
+    "answer": 0,
+    "explanation": "A bibliophile is an enthusiastic collector or lover of books.",
+    "rule": "One-word substitution",
+    "bengaliHint": "বইপ্রেমী ব্যক্তি।"
+  },
+  {
+    "id": "v03-121",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "The art of beautiful and artistic handwriting:",
+    "options": [
+      "Cartography",
+      "Calligraphy",
+      "Orthography",
+      "Cryptography"
+    ],
+    "answer": 1,
+    "explanation": "Calligraphy is the visual art of decorative handwriting or lettering.",
+    "rule": "One-word substitution",
+    "bengaliHint": "সুন্দর হস্তলিপিশিল্প।"
+  },
+  {
+    "id": "v03-122",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The arrangement of historical events in their chronological order:",
+    "options": [
+      "Geography",
+      "Geology",
+      "Chronology",
+      "Archaeology"
+    ],
+    "answer": 2,
+    "explanation": "Chronology is the science of arranging events in their order of occurrence in time.",
+    "rule": "One-word substitution",
+    "bengaliHint": "ঘটনাক্রম বা কালানুক্রম।"
+  },
+  {
+    "id": "v03-123",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A connoisseur or expert judge of fine food and drink:",
+    "options": [
+      "Glutton",
+      "Cannibal",
+      "Omnivore",
+      "Gourmet"
+    ],
+    "answer": 3,
+    "explanation": "A gourmet is a cultured person with refined discernment in food and wine.",
+    "rule": "One-word substitution",
+    "bengaliHint": "সুস্বাদু খাদ্যের সমঝদার।"
+  },
+  {
+    "id": "v03-124",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "Something that is beyond reform or impossible to correct:",
+    "options": [
+      "Incorrigible",
+      "Infallible",
+      "Incurable",
+      "Invincible"
+    ],
+    "answer": 0,
+    "explanation": "Incorrigible means not able to be corrected, reformed, or improved.",
+    "rule": "One-word substitution",
+    "bengaliHint": "অসংশোধনীয়।"
+  },
+  {
+    "id": "v03-125",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "One who makes no mistakes and is incapable of failing:",
+    "options": [
+      "Insolvent",
+      "Infallible",
+      "Immortal",
+      "Invulnerable"
+    ],
+    "answer": 1,
+    "explanation": "Infallible means incapable of making mistakes or being wrong.",
+    "rule": "One-word substitution",
+    "bengaliHint": "অভ্রান্ত বা অভুল।"
+  },
+  {
+    "id": "v03-126",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A person who speaks, writes, or knows many languages:",
+    "options": [
+      "Monolingual",
+      "Orator",
+      "Polyglot",
+      "Biologist"
+    ],
+    "answer": 2,
+    "explanation": "A polyglot is a person who knows and uses several languages.",
+    "rule": "One-word substitution",
+    "bengaliHint": "বহুভাষাবিদ।"
+  },
+  {
+    "id": "v03-127",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A medicine or drug that produces or induces deep sleep:",
+    "options": [
+      "Antidote",
+      "Antibiotic",
+      "Analgesic",
+      "Soporific"
+    ],
+    "answer": 3,
+    "explanation": "A soporific is a drug or agent that induces sleep.",
+    "rule": "One-word substitution",
+    "bengaliHint": "নিদ্রাজনক ঔষধ।"
+  },
+  {
+    "id": "v03-128",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A husband who is foolishly submissive or overly devoted to his wife:",
+    "options": [
+      "Uxorious",
+      "Celibate",
+      "Bachelor",
+      "Henpeck"
+    ],
+    "answer": 0,
+    "explanation": "Uxorious means having or showing an excessive or submissive fondness for one's wife.",
+    "rule": "One-word substitution",
+    "bengaliHint": "স্ত্রীভক্ত বা স্ত্রৈণ।"
+  },
+  {
+    "id": "v03-129",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A person who is skilled in or adaptable to many different activities:",
+    "options": [
+      "Specialist",
+      "Versatile",
+      "Novice",
+      "Amateur"
+    ],
+    "answer": 1,
+    "explanation": "Versatile means able to adapt or be adapted to many different functions or activities.",
+    "rule": "One-word substitution",
+    "bengaliHint": "বহুমুখী প্রতিভাধর।"
+  },
+  {
+    "id": "v03-130",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A person who renounces or deserts their religious or political faith:",
+    "options": [
+      "Loyalist",
+      "Convert",
+      "Apostate",
+      "Zealot"
+    ],
+    "answer": 2,
+    "explanation": "An apostate is a person who renounces a religious or political belief or principle.",
+    "rule": "One-word substitution",
+    "bengaliHint": "স্বধর্মত্যাগী।"
+  },
+  {
+    "id": "v03-131",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A ruler who has absolute, unrestricted power and authority:",
+    "options": [
+      "Democrat",
+      "Diplomat",
+      "Senator",
+      "Autocrat"
+    ],
+    "answer": 3,
+    "explanation": "An autocrat is a ruler who has absolute power.",
+    "rule": "One-word substitution",
+    "bengaliHint": "একনায়ক বা স্বৈরাচারী শাসক।"
+  },
+  {
+    "id": "v03-132",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "An extreme or irrational fear of high places:",
+    "options": [
+      "Acrophobia",
+      "Claustrophobia",
+      "Hydrophobia",
+      "Agoraphobia"
+    ],
+    "answer": 0,
+    "explanation": "Acrophobia is an extreme or irrational fear of heights.",
+    "rule": "One-word substitution",
+    "bengaliHint": "উচ্চতাভীতি।"
+  },
+  {
+    "id": "v03-133",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A collection of selected literary works, poems, or stories:",
+    "options": [
+      "Lexicon",
+      "Anthology",
+      "Index",
+      "Biography"
+    ],
+    "answer": 1,
+    "explanation": "An anthology is a published collection of poems, stories, or other writings.",
+    "rule": "One-word substitution",
+    "bengaliHint": "সংকলন গ্রন্থ।"
+  },
+  {
+    "id": "v03-134",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "An instrument used to measure atmospheric pressure:",
+    "options": [
+      "Thermometer",
+      "Hygrometer",
+      "Barometer",
+      "Speedometer"
+    ],
+    "answer": 2,
+    "explanation": "A barometer is an instrument measuring atmospheric pressure.",
+    "rule": "One-word substitution",
+    "bengaliHint": "বায়ুচাপমান যন্ত্র।"
+  },
+  {
+    "id": "v03-135",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "An act of speaking sacrilegiously about God or sacred things:",
+    "options": [
+      "Heresy",
+      "Sacrilege",
+      "Praise",
+      "Blasphemy"
+    ],
+    "answer": 3,
+    "explanation": "Blasphemy is the act or offense of speaking sacrilegiously about God or sacred things.",
+    "rule": "One-word substitution",
+    "bengaliHint": "ঈশ্বরনিন্দা।"
+  },
+  {
+    "id": "v03-136",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "An organism or human that eats the flesh of its own species:",
+    "options": [
+      "Cannibal",
+      "Herbivore",
+      "Carnivore",
+      "Parasite"
+    ],
+    "answer": 0,
+    "explanation": "A cannibal is a person or animal who eats the flesh of its own species.",
+    "rule": "One-word substitution",
+    "bengaliHint": "নরখাদক।"
+  },
+  {
+    "id": "v03-137",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A medical specialist who treats disorders of the heart:",
+    "options": [
+      "Neurologist",
+      "Cardiologist",
+      "Orthopedist",
+      "Dermatologist"
+    ],
+    "answer": 1,
+    "explanation": "A cardiologist is a doctor who specializes in the study and treatment of heart diseases.",
+    "rule": "One-word substitution",
+    "bengaliHint": "হৃদরোগ বিশেষজ্ঞ।"
+  },
+  {
+    "id": "v03-138",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "A person who views the entire world as their country, free from local prejudices:",
+    "options": [
+      "Nationalist",
+      "Chauvinist",
+      "Cosmopolitan",
+      "Provincial"
+    ],
+    "answer": 2,
+    "explanation": "A cosmopolitan is familiar with and at ease in many different countries and cultures.",
+    "rule": "One-word substitution",
+    "bengaliHint": "বিশ্বজনীন বা বিশ্বনাগরিক।"
+  },
+  {
+    "id": "v03-139",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A political leader who seeks support by appealing to popular passions and prejudices:",
+    "options": [
+      "Statesman",
+      "Aristocrat",
+      "Monarch",
+      "Demagogue"
+    ],
+    "answer": 3,
+    "explanation": "A demagogue is a political leader who seeks support by appealing to the desires and prejudices of ordinary people.",
+    "rule": "One-word substitution",
+    "bengaliHint": "উত্তেজক বক্তা বা জননেতা।"
+  },
+  {
+    "id": "v03-140",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "A mournful poem or song written to lament the death of someone:",
+    "options": [
+      "Elegy",
+      "Ode",
+      "Sonnet",
+      "Ballad"
+    ],
+    "answer": 0,
+    "explanation": "An elegy is a poem of serious reflection, typically a lament for the dead.",
+    "rule": "One-word substitution",
+    "bengaliHint": "শোকগাথা।"
+  },
+  {
+    "id": "v03-141",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "An inscription carved on a tombstone or monument in memory of the deceased:",
+    "options": [
+      "Epilogue",
+      "Epitaph",
+      "Prologue",
+      "Manuscript"
+    ],
+    "answer": 1,
+    "explanation": "An epitaph is a phrase or statement written in memory of a person who has died, especially as an inscription on a tombstone.",
+    "rule": "One-word substitution",
+    "bengaliHint": "সমাধিলিপি।"
+  },
+  {
+    "id": "v03-142",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "The murder or killing of one's own brother:",
+    "options": [
+      "Patricide",
+      "Regicide",
+      "Fratricide",
+      "Homicide"
+    ],
+    "answer": 2,
+    "explanation": "Fratricide is the crime of killing one's brother.",
+    "rule": "One-word substitution",
+    "bengaliHint": "ভ্রাতৃহত্যা।"
+  },
+  {
+    "id": "v03-143",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "hard",
+    "isPYQ": false,
+    "question": "The deliberate mass killing of a large group of people from a particular nation or race:",
+    "options": [
+      "Suicide",
+      "Infanticide",
+      "Parricide",
+      "Genocide"
+    ],
+    "answer": 3,
+    "explanation": "Genocide is the deliberate killing of a large number of people from a particular nation or ethnic group.",
+    "rule": "One-word substitution",
+    "bengaliHint": "গণহত্যা।"
+  },
+  {
+    "id": "v03-144",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "easy",
+    "isPYQ": false,
+    "question": "One who is unable to pay off his debts; bankrupt:",
+    "options": [
+      "Insolvent",
+      "Affluent",
+      "Opulent",
+      "Creditor"
+    ],
+    "answer": 0,
+    "explanation": "An insolvent (or bankrupt) person is unable to satisfy financial obligations.",
+    "rule": "One-word substitution",
+    "bengaliHint": "দেউলিয়া।"
+  },
+  {
+    "id": "v03-145",
+    "chapter": "v03",
+    "type": "one-word-substitution",
+    "difficulty": "medium",
+    "isPYQ": false,
+    "question": "A government official or diplomat residing in a foreign capital to represent their country:",
+    "options": [
+      "Consul",
+      "Ambassador",
+      "Governor",
+      "Bureaucrat"
+    ],
+    "answer": 1,
+    "explanation": "An ambassador is an accredited diplomat sent by a country as its official representative to a foreign country.",
+    "rule": "One-word substitution",
+    "bengaliHint": "রাষ্ট্রদূত।"
   }
 ]
